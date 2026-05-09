@@ -1,0 +1,554 @@
+{
+  "aa": {
+    "name": "aa"
+  },
+  "ab": {
+    "name": "U dhashay Abkhazia"
+  },
+  "ae": {
+    "name": "ae"
+  },
+  "af": {
+    "name": "Afrikaanka"
+  },
+  "ak": {
+    "name": "Akan"
+  },
+  "am": {
+    "name": "Axmaar"
+  },
+  "an": {
+    "name": "U dhashay Aragon"
+  },
+  "ar": {
+    "name": "Carabi"
+  },
+  "as": {
+    "name": "Asaamiis"
+  },
+  "av": {
+    "name": "U dhashay Avar"
+  },
+  "ay": {
+    "name": "U dhashay Aymar"
+  },
+  "az": {
+    "name": "Asarbayjan"
+  },
+  "ba": {
+    "name": "Bashkir"
+  },
+  "be": {
+    "name": "Beleruusiyaan"
+  },
+  "bg": {
+    "name": "Bulgeeriyaan"
+  },
+  "bi": {
+    "name": "U dhashay Bislam"
+  },
+  "bm": {
+    "name": "Bambaara"
+  },
+  "bn": {
+    "name": "Bangladesh"
+  },
+  "bo": {
+    "name": "Tibeetaan"
+  },
+  "br": {
+    "name": "Biriton"
+  },
+  "bs": {
+    "name": "Bosniyaan"
+  },
+  "ca": {
+    "name": "Katalaan"
+  },
+  "ce": {
+    "name": "Jejen"
+  },
+  "ch": {
+    "name": "Chamorro"
+  },
+  "co": {
+    "name": "Korsikan"
+  },
+  "cr": {
+    "name": "cr"
+  },
+  "cs": {
+    "name": "Jeeg"
+  },
+  "cu": {
+    "name": "Kaniisadda Islaafik"
+  },
+  "cv": {
+    "name": "Chuvash"
+  },
+  "cy": {
+    "name": "Welsh"
+  },
+  "da": {
+    "name": "Dhaanish"
+  },
+  "de": {
+    "name": "Jarmal"
+  },
+  "dv": {
+    "name": "Divehi"
+  },
+  "dz": {
+    "name": "D’zongqa"
+  },
+  "ee": {
+    "name": "Eewe"
+  },
+  "el": {
+    "name": "Giriik"
+  },
+  "en": {
+    "name": "Ingiriisi"
+  },
+  "eo": {
+    "name": "Isberaanto"
+  },
+  "es": {
+    "name": "Isbaanish"
+  },
+  "et": {
+    "name": "Istooniyaan"
+  },
+  "eu": {
+    "name": "Basquu"
+  },
+  "fa": {
+    "name": "Faarisi"
+  },
+  "ff": {
+    "name": "Fuulah"
+  },
+  "fi": {
+    "name": "Finishka"
+  },
+  "fj": {
+    "name": "Fijian"
+  },
+  "fo": {
+    "name": "Farowsi"
+  },
+  "fr": {
+    "name": "Faransiis"
+  },
+  "fy": {
+    "name": "Firiisiyan Galbeed"
+  },
+  "ga": {
+    "name": "Ayrish"
+  },
+  "gd": {
+    "name": "Iskot Giilik"
+  },
+  "gl": {
+    "name": "Galiisiyaan"
+  },
+  "gn": {
+    "name": "Guarani"
+  },
+  "gu": {
+    "name": "Gujaraati"
+  },
+  "gv": {
+    "name": "Mankis"
+  },
+  "ha": {
+    "name": "Hawsa"
+  },
+  "he": {
+    "name": "Cibraani"
+  },
+  "hi": {
+    "name": "Hindi"
+  },
+  "ho": {
+    "name": "ho"
+  },
+  "hr": {
+    "name": "Koro’eeshiyaan"
+  },
+  "ht": {
+    "name": "Heeytiyaan Karawle"
+  },
+  "hu": {
+    "name": "Hangariyaan"
+  },
+  "hy": {
+    "name": "Armeeniyaan"
+  },
+  "hz": {
+    "name": "Herero"
+  },
+  "ia": {
+    "name": "Interlinguwa"
+  },
+  "id": {
+    "name": "Indunusiyaan"
+  },
+  "ie": {
+    "name": "Interlingue"
+  },
+  "ig": {
+    "name": "Igbo"
+  },
+  "ii": {
+    "name": "Sijuwan Yi"
+  },
+  "ik": {
+    "name": "ik"
+  },
+  "io": {
+    "name": "Ido"
+  },
+  "is": {
+    "name": "Ayslandays"
+  },
+  "it": {
+    "name": "Talyaani"
+  },
+  "iu": {
+    "name": "Inuktitut"
+  },
+  "ja": {
+    "name": "Jabaaniis"
+  },
+  "jv": {
+    "name": "Jafaaniis"
+  },
+  "ka": {
+    "name": "Joorijiyaan"
+  },
+  "kg": {
+    "name": "kg"
+  },
+  "ki": {
+    "name": "Kikuuyu"
+  },
+  "kj": {
+    "name": "Kuanyama"
+  },
+  "kk": {
+    "name": "Kasaaq"
+  },
+  "kl": {
+    "name": "Kalaallisuut"
+  },
+  "km": {
+    "name": "Kamboodhian"
+  },
+  "kn": {
+    "name": "Kannadays"
+  },
+  "ko": {
+    "name": "Kuuriyaan"
+  },
+  "kr": {
+    "name": "Kanuri"
+  },
+  "ks": {
+    "name": "Kaashmiir"
+  },
+  "ku": {
+    "name": "Kurdishka"
+  },
+  "kv": {
+    "name": "Komi"
+  },
+  "kw": {
+    "name": "Kornish"
+  },
+  "ky": {
+    "name": "Kirgiis"
+  },
+  "la": {
+    "name": "Laatiin"
+  },
+  "lb": {
+    "name": "Luksaamboorgish"
+  },
+  "lg": {
+    "name": "Gandha"
+  },
+  "li": {
+    "name": "Limburgish"
+  },
+  "ln": {
+    "name": "Lingala"
+  },
+  "lo": {
+    "name": "Lao"
+  },
+  "lt": {
+    "name": "Lituwaanays"
+  },
+  "lu": {
+    "name": "Luuba-kataanga"
+  },
+  "lv": {
+    "name": "Laatfiyaan"
+  },
+  "mg": {
+    "name": "Malagaasi"
+  },
+  "mh": {
+    "name": "Marshallese"
+  },
+  "mi": {
+    "name": "Maaoori"
+  },
+  "mk": {
+    "name": "Masadooniyaan"
+  },
+  "ml": {
+    "name": "Malayalam"
+  },
+  "mn": {
+    "name": "Mangooli"
+  },
+  "mr": {
+    "name": "Maarati"
+  },
+  "ms": {
+    "name": "Malaay"
+  },
+  "mt": {
+    "name": "Maltiis"
+  },
+  "my": {
+    "name": "Burmese"
+  },
+  "na": {
+    "name": "Nauru"
+  },
+  "nb": {
+    "name": "Nawrijii Bokmål"
+  },
+  "nd": {
+    "name": "Indhebeele Waqooyi"
+  },
+  "ne": {
+    "name": "Nebaali"
+  },
+  "ng": {
+    "name": "Ndonga"
+  },
+  "nl": {
+    "name": "Holandays"
+  },
+  "nn": {
+    "name": "Nawriijiga Nynorsk"
+  },
+  "no": {
+    "name": "Nawriiji"
+  },
+  "nr": {
+    "name": "South Ndebele"
+  },
+  "nv": {
+    "name": "Navajo"
+  },
+  "ny": {
+    "name": "Inyaanja"
+  },
+  "oc": {
+    "name": "Occitan"
+  },
+  "oj": {
+    "name": "oj"
+  },
+  "om": {
+    "name": "Oromo"
+  },
+  "or": {
+    "name": "Oodhiya"
+  },
+  "os": {
+    "name": "Oseetic"
+  },
+  "pa": {
+    "name": "Bunjaabi"
+  },
+  "pi": {
+    "name": "pi"
+  },
+  "pl": {
+    "name": "Boolish"
+  },
+  "ps": {
+    "name": "Bashtuu"
+  },
+  "pt": {
+    "name": "Boortaqiis"
+  },
+  "qu": {
+    "name": "Quechua"
+  },
+  "rm": {
+    "name": "Romaanis"
+  },
+  "rn": {
+    "name": "Rundhi"
+  },
+  "ro": {
+    "name": "Romanka"
+  },
+  "ru": {
+    "name": "Ruush"
+  },
+  "rw": {
+    "name": "Ruwaandha"
+  },
+  "sa": {
+    "name": "Sanskrit"
+  },
+  "sc": {
+    "name": "Sardinian"
+  },
+  "sd": {
+    "name": "Siindhi"
+  },
+  "se": {
+    "name": "Sami Waqooyi"
+  },
+  "sg": {
+    "name": "Sango"
+  },
+  "sh": {
+    "name": "Seerbiyaan (Laatiin)"
+  },
+  "si": {
+    "name": "Sinhala"
+  },
+  "sk": {
+    "name": "Isloofaak"
+  },
+  "sl": {
+    "name": "Islofeeniyaan"
+  },
+  "sm": {
+    "name": "Samowan"
+  },
+  "sn": {
+    "name": "Shoona"
+  },
+  "so": {
+    "name": "Soomaali"
+  },
+  "sq": {
+    "name": "Albeeniyaan"
+  },
+  "sr": {
+    "name": "Seerbiyaan"
+  },
+  "ss": {
+    "name": "Swati"
+  },
+  "st": {
+    "name": "Sesooto"
+  },
+  "su": {
+    "name": "Suudaaniis"
+  },
+  "sv": {
+    "name": "Iswiidhish"
+  },
+  "sw": {
+    "name": "Sawaaxili"
+  },
+  "ta": {
+    "name": "Tamiil"
+  },
+  "te": {
+    "name": "Teluugu"
+  },
+  "tg": {
+    "name": "Taajik"
+  },
+  "th": {
+    "name": "Taaylandays"
+  },
+  "ti": {
+    "name": "Tigrinya"
+  },
+  "tk": {
+    "name": "Turkumaanish"
+  },
+  "tl": {
+    "name": "Filibiino"
+  },
+  "tn": {
+    "name": "Tswana"
+  },
+  "to": {
+    "name": "Toongan"
+  },
+  "tr": {
+    "name": "Turkish"
+  },
+  "ts": {
+    "name": "Tsonga"
+  },
+  "tt": {
+    "name": "Taatar"
+  },
+  "tw": {
+    "name": "Akan"
+  },
+  "ty": {
+    "name": "Tahitian"
+  },
+  "ug": {
+    "name": "Uighur"
+  },
+  "uk": {
+    "name": "Yukreeniyaan"
+  },
+  "ur": {
+    "name": "Urduu"
+  },
+  "uz": {
+    "name": "Usbakis"
+  },
+  "ve": {
+    "name": "Venda"
+  },
+  "vi": {
+    "name": "Fiitnaamays"
+  },
+  "vo": {
+    "name": "Folabuuk"
+  },
+  "wa": {
+    "name": "Walloon"
+  },
+  "wo": {
+    "name": "Woolof"
+  },
+  "xh": {
+    "name": "Xhosa"
+  },
+  "yi": {
+    "name": "Yadhish"
+  },
+  "yo": {
+    "name": "Yoruuba"
+  },
+  "za": {
+    "name": "Zhuang"
+  },
+  "zh": {
+    "name": "Shinees"
+  },
+  "zu": {
+    "name": "Zuulu"
+  }
+}

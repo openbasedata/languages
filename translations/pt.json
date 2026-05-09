@@ -1,0 +1,554 @@
+{
+  "aa": {
+    "name": "afar"
+  },
+  "ab": {
+    "name": "abcázio"
+  },
+  "ae": {
+    "name": "avéstico"
+  },
+  "af": {
+    "name": "africâner"
+  },
+  "ak": {
+    "name": "akan"
+  },
+  "am": {
+    "name": "amárico"
+  },
+  "an": {
+    "name": "aragonês"
+  },
+  "ar": {
+    "name": "árabe"
+  },
+  "as": {
+    "name": "assamês"
+  },
+  "av": {
+    "name": "avárico"
+  },
+  "ay": {
+    "name": "aimará"
+  },
+  "az": {
+    "name": "azerbaijano"
+  },
+  "ba": {
+    "name": "bashkir"
+  },
+  "be": {
+    "name": "bielorrusso"
+  },
+  "bg": {
+    "name": "búlgaro"
+  },
+  "bi": {
+    "name": "bislamá"
+  },
+  "bm": {
+    "name": "bambara"
+  },
+  "bn": {
+    "name": "bengali"
+  },
+  "bo": {
+    "name": "tibetano"
+  },
+  "br": {
+    "name": "bretão"
+  },
+  "bs": {
+    "name": "bósnio"
+  },
+  "ca": {
+    "name": "catalão"
+  },
+  "ce": {
+    "name": "checheno"
+  },
+  "ch": {
+    "name": "chamorro"
+  },
+  "co": {
+    "name": "corso"
+  },
+  "cr": {
+    "name": "cree"
+  },
+  "cs": {
+    "name": "tcheco"
+  },
+  "cu": {
+    "name": "eslavo eclesiástico"
+  },
+  "cv": {
+    "name": "tchuvache"
+  },
+  "cy": {
+    "name": "galês"
+  },
+  "da": {
+    "name": "dinamarquês"
+  },
+  "de": {
+    "name": "alemão"
+  },
+  "dv": {
+    "name": "divehi"
+  },
+  "dz": {
+    "name": "dzonga"
+  },
+  "ee": {
+    "name": "ewe"
+  },
+  "el": {
+    "name": "grego"
+  },
+  "en": {
+    "name": "inglês"
+  },
+  "eo": {
+    "name": "esperanto"
+  },
+  "es": {
+    "name": "espanhol"
+  },
+  "et": {
+    "name": "estoniano"
+  },
+  "eu": {
+    "name": "basco"
+  },
+  "fa": {
+    "name": "persa"
+  },
+  "ff": {
+    "name": "fula"
+  },
+  "fi": {
+    "name": "finlandês"
+  },
+  "fj": {
+    "name": "fijiano"
+  },
+  "fo": {
+    "name": "feroês"
+  },
+  "fr": {
+    "name": "francês"
+  },
+  "fy": {
+    "name": "frísio ocidental"
+  },
+  "ga": {
+    "name": "irlandês"
+  },
+  "gd": {
+    "name": "gaélico escocês"
+  },
+  "gl": {
+    "name": "galego"
+  },
+  "gn": {
+    "name": "guarani"
+  },
+  "gu": {
+    "name": "guzerate"
+  },
+  "gv": {
+    "name": "manx"
+  },
+  "ha": {
+    "name": "hauçá"
+  },
+  "he": {
+    "name": "hebraico"
+  },
+  "hi": {
+    "name": "hindi"
+  },
+  "ho": {
+    "name": "hiri motu"
+  },
+  "hr": {
+    "name": "croata"
+  },
+  "ht": {
+    "name": "haitiano"
+  },
+  "hu": {
+    "name": "húngaro"
+  },
+  "hy": {
+    "name": "armênio"
+  },
+  "hz": {
+    "name": "herero"
+  },
+  "ia": {
+    "name": "interlíngua"
+  },
+  "id": {
+    "name": "indonésio"
+  },
+  "ie": {
+    "name": "interlingue"
+  },
+  "ig": {
+    "name": "igbo"
+  },
+  "ii": {
+    "name": "sichuan yi"
+  },
+  "ik": {
+    "name": "inupiaque"
+  },
+  "io": {
+    "name": "ido"
+  },
+  "is": {
+    "name": "islandês"
+  },
+  "it": {
+    "name": "italiano"
+  },
+  "iu": {
+    "name": "inuktitut"
+  },
+  "ja": {
+    "name": "japonês"
+  },
+  "jv": {
+    "name": "javanês"
+  },
+  "ka": {
+    "name": "georgiano"
+  },
+  "kg": {
+    "name": "congolês"
+  },
+  "ki": {
+    "name": "quicuio"
+  },
+  "kj": {
+    "name": "cuanhama"
+  },
+  "kk": {
+    "name": "cazaque"
+  },
+  "kl": {
+    "name": "groenlandês"
+  },
+  "km": {
+    "name": "khmer"
+  },
+  "kn": {
+    "name": "canarim"
+  },
+  "ko": {
+    "name": "coreano"
+  },
+  "kr": {
+    "name": "canúri"
+  },
+  "ks": {
+    "name": "caxemira"
+  },
+  "ku": {
+    "name": "curdo"
+  },
+  "kv": {
+    "name": "komi"
+  },
+  "kw": {
+    "name": "córnico"
+  },
+  "ky": {
+    "name": "quirguiz"
+  },
+  "la": {
+    "name": "latim"
+  },
+  "lb": {
+    "name": "luxemburguês"
+  },
+  "lg": {
+    "name": "luganda"
+  },
+  "li": {
+    "name": "limburguês"
+  },
+  "ln": {
+    "name": "lingala"
+  },
+  "lo": {
+    "name": "laosiano"
+  },
+  "lt": {
+    "name": "lituano"
+  },
+  "lu": {
+    "name": "luba-catanga"
+  },
+  "lv": {
+    "name": "letão"
+  },
+  "mg": {
+    "name": "malgaxe"
+  },
+  "mh": {
+    "name": "marshalês"
+  },
+  "mi": {
+    "name": "maori"
+  },
+  "mk": {
+    "name": "macedônio"
+  },
+  "ml": {
+    "name": "malaiala"
+  },
+  "mn": {
+    "name": "mongol"
+  },
+  "mr": {
+    "name": "marati"
+  },
+  "ms": {
+    "name": "malaio"
+  },
+  "mt": {
+    "name": "maltês"
+  },
+  "my": {
+    "name": "birmanês"
+  },
+  "na": {
+    "name": "nauruano"
+  },
+  "nb": {
+    "name": "bokmål norueguês"
+  },
+  "nd": {
+    "name": "ndebele do norte"
+  },
+  "ne": {
+    "name": "nepalês"
+  },
+  "ng": {
+    "name": "dongo"
+  },
+  "nl": {
+    "name": "holandês"
+  },
+  "nn": {
+    "name": "nynorsk norueguês"
+  },
+  "no": {
+    "name": "norueguês"
+  },
+  "nr": {
+    "name": "ndebele do sul"
+  },
+  "nv": {
+    "name": "navajo"
+  },
+  "ny": {
+    "name": "nianja"
+  },
+  "oc": {
+    "name": "occitânico"
+  },
+  "oj": {
+    "name": "ojibwa"
+  },
+  "om": {
+    "name": "oromo"
+  },
+  "or": {
+    "name": "oriá"
+  },
+  "os": {
+    "name": "osseto"
+  },
+  "pa": {
+    "name": "panjabi"
+  },
+  "pi": {
+    "name": "páli"
+  },
+  "pl": {
+    "name": "polonês"
+  },
+  "ps": {
+    "name": "pashto"
+  },
+  "pt": {
+    "name": "português"
+  },
+  "qu": {
+    "name": "quíchua"
+  },
+  "rm": {
+    "name": "romanche"
+  },
+  "rn": {
+    "name": "rundi"
+  },
+  "ro": {
+    "name": "romeno"
+  },
+  "ru": {
+    "name": "russo"
+  },
+  "rw": {
+    "name": "quiniaruanda"
+  },
+  "sa": {
+    "name": "sânscrito"
+  },
+  "sc": {
+    "name": "sardo"
+  },
+  "sd": {
+    "name": "sindi"
+  },
+  "se": {
+    "name": "sami setentrional"
+  },
+  "sg": {
+    "name": "sango"
+  },
+  "sh": {
+    "name": "sérvio (latim)"
+  },
+  "si": {
+    "name": "cingalês"
+  },
+  "sk": {
+    "name": "eslovaco"
+  },
+  "sl": {
+    "name": "esloveno"
+  },
+  "sm": {
+    "name": "samoano"
+  },
+  "sn": {
+    "name": "xona"
+  },
+  "so": {
+    "name": "somali"
+  },
+  "sq": {
+    "name": "albanês"
+  },
+  "sr": {
+    "name": "sérvio"
+  },
+  "ss": {
+    "name": "suázi"
+  },
+  "st": {
+    "name": "soto do sul"
+  },
+  "su": {
+    "name": "sundanês"
+  },
+  "sv": {
+    "name": "sueco"
+  },
+  "sw": {
+    "name": "suaíli"
+  },
+  "ta": {
+    "name": "tâmil"
+  },
+  "te": {
+    "name": "télugo"
+  },
+  "tg": {
+    "name": "tadjique"
+  },
+  "th": {
+    "name": "tailandês"
+  },
+  "ti": {
+    "name": "tigrínia"
+  },
+  "tk": {
+    "name": "turcomeno"
+  },
+  "tl": {
+    "name": "filipino"
+  },
+  "tn": {
+    "name": "tswana"
+  },
+  "to": {
+    "name": "tonganês"
+  },
+  "tr": {
+    "name": "turco"
+  },
+  "ts": {
+    "name": "tsonga"
+  },
+  "tt": {
+    "name": "tártaro"
+  },
+  "tw": {
+    "name": "akan"
+  },
+  "ty": {
+    "name": "taitiano"
+  },
+  "ug": {
+    "name": "uigur"
+  },
+  "uk": {
+    "name": "ucraniano"
+  },
+  "ur": {
+    "name": "urdu"
+  },
+  "uz": {
+    "name": "uzbeque"
+  },
+  "ve": {
+    "name": "venda"
+  },
+  "vi": {
+    "name": "vietnamita"
+  },
+  "vo": {
+    "name": "volapuque"
+  },
+  "wa": {
+    "name": "valão"
+  },
+  "wo": {
+    "name": "uolofe"
+  },
+  "xh": {
+    "name": "xhosa"
+  },
+  "yi": {
+    "name": "iídiche"
+  },
+  "yo": {
+    "name": "iorubá"
+  },
+  "za": {
+    "name": "zhuang"
+  },
+  "zh": {
+    "name": "chinês"
+  },
+  "zu": {
+    "name": "zulu"
+  }
+}

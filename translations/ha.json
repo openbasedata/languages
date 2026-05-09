@@ -1,0 +1,554 @@
+{
+  "aa": {
+    "name": "aa"
+  },
+  "ab": {
+    "name": "Abkhazian"
+  },
+  "ae": {
+    "name": "ae"
+  },
+  "af": {
+    "name": "Afrikaans"
+  },
+  "ak": {
+    "name": "Akan"
+  },
+  "am": {
+    "name": "Amharik"
+  },
+  "an": {
+    "name": "Aragonesanci"
+  },
+  "ar": {
+    "name": "Larabci"
+  },
+  "as": {
+    "name": "Asamisanci"
+  },
+  "av": {
+    "name": "Avaric"
+  },
+  "ay": {
+    "name": "Aymaranci"
+  },
+  "az": {
+    "name": "Azerbaijanci"
+  },
+  "ba": {
+    "name": "Bashkir"
+  },
+  "be": {
+    "name": "Belarusanci"
+  },
+  "bg": {
+    "name": "Bulgariyanci"
+  },
+  "bi": {
+    "name": "Bislama"
+  },
+  "bm": {
+    "name": "Bambara"
+  },
+  "bn": {
+    "name": "Bengali"
+  },
+  "bo": {
+    "name": "Tibetan"
+  },
+  "br": {
+    "name": "Buretananci"
+  },
+  "bs": {
+    "name": "Bosniyanci"
+  },
+  "ca": {
+    "name": "Kataloniyanci"
+  },
+  "ce": {
+    "name": "Chechen"
+  },
+  "ch": {
+    "name": "Chamorro"
+  },
+  "co": {
+    "name": "Corsican"
+  },
+  "cr": {
+    "name": "cr"
+  },
+  "cs": {
+    "name": "Cek"
+  },
+  "cu": {
+    "name": "Church Slavic"
+  },
+  "cv": {
+    "name": "Chuvash"
+  },
+  "cy": {
+    "name": "Welsh"
+  },
+  "da": {
+    "name": "Danish"
+  },
+  "de": {
+    "name": "Jamusanci"
+  },
+  "dv": {
+    "name": "Divehi"
+  },
+  "dz": {
+    "name": "Dzongkha"
+  },
+  "ee": {
+    "name": "Ewe"
+  },
+  "el": {
+    "name": "Girkanci"
+  },
+  "en": {
+    "name": "Turanci"
+  },
+  "eo": {
+    "name": "Esperanto"
+  },
+  "es": {
+    "name": "Sifaniyanci"
+  },
+  "et": {
+    "name": "Istoniyanci"
+  },
+  "eu": {
+    "name": "Basque"
+  },
+  "fa": {
+    "name": "Farisanci"
+  },
+  "ff": {
+    "name": "Fula"
+  },
+  "fi": {
+    "name": "Yaren mutanen Finland"
+  },
+  "fj": {
+    "name": "Fijiyanci"
+  },
+  "fo": {
+    "name": "Faroese"
+  },
+  "fr": {
+    "name": "Faransanci"
+  },
+  "fy": {
+    "name": "Frisian ta Yamma"
+  },
+  "ga": {
+    "name": "Dan Irish"
+  },
+  "gd": {
+    "name": "Kʼabilan Scots Gaelic"
+  },
+  "gl": {
+    "name": "Bagalike"
+  },
+  "gn": {
+    "name": "Guwaraniyanci"
+  },
+  "gu": {
+    "name": "Gujarati"
+  },
+  "gv": {
+    "name": "Manx"
+  },
+  "ha": {
+    "name": "Hausa"
+  },
+  "he": {
+    "name": "Ibrananci"
+  },
+  "hi": {
+    "name": "Harshen Hindi"
+  },
+  "ho": {
+    "name": "ho"
+  },
+  "hr": {
+    "name": "Kuroshiyan"
+  },
+  "ht": {
+    "name": "Haitian Creole"
+  },
+  "hu": {
+    "name": "Harshen Hungari"
+  },
+  "hy": {
+    "name": "Armeniyanci"
+  },
+  "hz": {
+    "name": "Herero"
+  },
+  "ia": {
+    "name": "Yare Tsakanin Kasashe"
+  },
+  "id": {
+    "name": "Harshen Indunusiya"
+  },
+  "ie": {
+    "name": "Intagulanci"
+  },
+  "ig": {
+    "name": "Igbo"
+  },
+  "ii": {
+    "name": "Sichuan Yi"
+  },
+  "ik": {
+    "name": "ik"
+  },
+  "io": {
+    "name": "Ido"
+  },
+  "is": {
+    "name": "Yaren mutanen Iceland"
+  },
+  "it": {
+    "name": "Italiyanci"
+  },
+  "iu": {
+    "name": "Inuktitut"
+  },
+  "ja": {
+    "name": "Japananci"
+  },
+  "jv": {
+    "name": "Javananci"
+  },
+  "ka": {
+    "name": "Jojiyanci"
+  },
+  "kg": {
+    "name": "kg"
+  },
+  "ki": {
+    "name": "Kikuyu"
+  },
+  "kj": {
+    "name": "Kuanyama"
+  },
+  "kk": {
+    "name": "Kazakh"
+  },
+  "kl": {
+    "name": "Kalaallisut"
+  },
+  "km": {
+    "name": "Harshen Kimar"
+  },
+  "kn": {
+    "name": "Kannada"
+  },
+  "ko": {
+    "name": "Harshen Koriya"
+  },
+  "kr": {
+    "name": "Kanuri"
+  },
+  "ks": {
+    "name": "Kashmiri"
+  },
+  "ku": {
+    "name": "Kurdanci"
+  },
+  "kv": {
+    "name": "Komi"
+  },
+  "kw": {
+    "name": "Cornish"
+  },
+  "ky": {
+    "name": "Kirgizanci"
+  },
+  "la": {
+    "name": "Dan Kabilar Latin"
+  },
+  "lb": {
+    "name": "Luxembourgish"
+  },
+  "lg": {
+    "name": "Ganda"
+  },
+  "li": {
+    "name": "Limburgish"
+  },
+  "ln": {
+    "name": "Lingala"
+  },
+  "lo": {
+    "name": "Lao"
+  },
+  "lt": {
+    "name": "Lituweniyanci"
+  },
+  "lu": {
+    "name": "Luba-Katanga"
+  },
+  "lv": {
+    "name": "Latbiyanci"
+  },
+  "mg": {
+    "name": "Malagasi"
+  },
+  "mh": {
+    "name": "Marshallese"
+  },
+  "mi": {
+    "name": "Maori"
+  },
+  "mk": {
+    "name": "Dan Masedoniya"
+  },
+  "ml": {
+    "name": "Malayalamci"
+  },
+  "mn": {
+    "name": "Mongoliyanci"
+  },
+  "mr": {
+    "name": "Maratinci"
+  },
+  "ms": {
+    "name": "Harshen Malay"
+  },
+  "mt": {
+    "name": "Harshen Maltis"
+  },
+  "my": {
+    "name": "Burmanci"
+  },
+  "na": {
+    "name": "Nauru"
+  },
+  "nb": {
+    "name": "Norwegian Bokmål"
+  },
+  "nd": {
+    "name": "North Ndebele"
+  },
+  "ne": {
+    "name": "Nepali"
+  },
+  "ng": {
+    "name": "Ndonga"
+  },
+  "nl": {
+    "name": "Holanci"
+  },
+  "nn": {
+    "name": "Norwegian Nynorsk"
+  },
+  "no": {
+    "name": "Harhsen Norway"
+  },
+  "nr": {
+    "name": "Ndebele na Kudu"
+  },
+  "nv": {
+    "name": "Navajo"
+  },
+  "ny": {
+    "name": "Nyanja"
+  },
+  "oc": {
+    "name": "Ositanci"
+  },
+  "oj": {
+    "name": "oj"
+  },
+  "om": {
+    "name": "Oromo"
+  },
+  "or": {
+    "name": "Odiya"
+  },
+  "os": {
+    "name": "Ossetic"
+  },
+  "pa": {
+    "name": "Punjabi"
+  },
+  "pi": {
+    "name": "pi"
+  },
+  "pl": {
+    "name": "Harshen Polan"
+  },
+  "ps": {
+    "name": "Pashtanci"
+  },
+  "pt": {
+    "name": "Harshen Potugis"
+  },
+  "qu": {
+    "name": "Quechua"
+  },
+  "rm": {
+    "name": "Romansh"
+  },
+  "rn": {
+    "name": "Rundi"
+  },
+  "ro": {
+    "name": "Romaniyanci"
+  },
+  "ru": {
+    "name": "Rashanci"
+  },
+  "rw": {
+    "name": "Kinyarwanda"
+  },
+  "sa": {
+    "name": "Sanskrit"
+  },
+  "sc": {
+    "name": "Sardiniyanci"
+  },
+  "sd": {
+    "name": "Sindiyanci"
+  },
+  "se": {
+    "name": "Sami ta Arewa"
+  },
+  "sg": {
+    "name": "Sango"
+  },
+  "sh": {
+    "name": "Sabiyan (Latin)"
+  },
+  "si": {
+    "name": "Sinhalanci"
+  },
+  "sk": {
+    "name": "Basulke"
+  },
+  "sl": {
+    "name": "Basulabe"
+  },
+  "sm": {
+    "name": "Samoan"
+  },
+  "sn": {
+    "name": "Shona"
+  },
+  "so": {
+    "name": "Somalianci"
+  },
+  "sq": {
+    "name": "Albaniyanci"
+  },
+  "sr": {
+    "name": "Sabiyan"
+  },
+  "ss": {
+    "name": "Swati"
+  },
+  "st": {
+    "name": "Kudancin Sotho"
+  },
+  "su": {
+    "name": "Harshen Sundanese"
+  },
+  "sv": {
+    "name": "Harshen Suwedan"
+  },
+  "sw": {
+    "name": "Harshen Suwahili"
+  },
+  "ta": {
+    "name": "Tamil"
+  },
+  "te": {
+    "name": "Telugu"
+  },
+  "tg": {
+    "name": "Tajik"
+  },
+  "th": {
+    "name": "Thai"
+  },
+  "ti": {
+    "name": "Tigrinyanci"
+  },
+  "tk": {
+    "name": "Tukmenistanci"
+  },
+  "tl": {
+    "name": "Dan Filifin"
+  },
+  "tn": {
+    "name": "Tswana"
+  },
+  "to": {
+    "name": "Tonganci"
+  },
+  "tr": {
+    "name": "Harshen Turkiyya"
+  },
+  "ts": {
+    "name": "Tsonga"
+  },
+  "tt": {
+    "name": "Tatar"
+  },
+  "tw": {
+    "name": "Akan"
+  },
+  "ty": {
+    "name": "Tahitiyanci"
+  },
+  "ug": {
+    "name": "Ugiranci"
+  },
+  "uk": {
+    "name": "Harshen Yukuren"
+  },
+  "ur": {
+    "name": "Urdanci"
+  },
+  "uz": {
+    "name": "Uzbek"
+  },
+  "ve": {
+    "name": "Venda"
+  },
+  "vi": {
+    "name": "Harshen Biyetinam"
+  },
+  "vo": {
+    "name": "Volapük"
+  },
+  "wa": {
+    "name": "Walloon"
+  },
+  "wo": {
+    "name": "Wolof"
+  },
+  "xh": {
+    "name": "Xhosa"
+  },
+  "yi": {
+    "name": "Yaren Yiddish"
+  },
+  "yo": {
+    "name": "Yarbanci"
+  },
+  "za": {
+    "name": "Zhuang"
+  },
+  "zh": {
+    "name": "Harshen Sinanci"
+  },
+  "zu": {
+    "name": "Harshen Zulu"
+  }
+}

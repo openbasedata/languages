@@ -1,0 +1,554 @@
+{
+  "aa": {
+    "name": "afarera"
+  },
+  "ab": {
+    "name": "abkhaziera"
+  },
+  "ae": {
+    "name": "ae"
+  },
+  "af": {
+    "name": "afrikaansa"
+  },
+  "ak": {
+    "name": "akanera"
+  },
+  "am": {
+    "name": "amharera"
+  },
+  "an": {
+    "name": "aragoiera"
+  },
+  "ar": {
+    "name": "arabiera"
+  },
+  "as": {
+    "name": "assamera"
+  },
+  "av": {
+    "name": "avarera"
+  },
+  "ay": {
+    "name": "aimara"
+  },
+  "az": {
+    "name": "azerbaijanera"
+  },
+  "ba": {
+    "name": "baxkirera"
+  },
+  "be": {
+    "name": "bielorrusiera"
+  },
+  "bg": {
+    "name": "bulgariera"
+  },
+  "bi": {
+    "name": "bislama"
+  },
+  "bm": {
+    "name": "bambarera"
+  },
+  "bn": {
+    "name": "bengalera"
+  },
+  "bo": {
+    "name": "tibetera"
+  },
+  "br": {
+    "name": "bretoiera"
+  },
+  "bs": {
+    "name": "bosniera"
+  },
+  "ca": {
+    "name": "katalana"
+  },
+  "ce": {
+    "name": "txetxenera"
+  },
+  "ch": {
+    "name": "txamorroera"
+  },
+  "co": {
+    "name": "korsikera"
+  },
+  "cr": {
+    "name": "cr"
+  },
+  "cs": {
+    "name": "txekiera"
+  },
+  "cu": {
+    "name": "elizako eslaviera"
+  },
+  "cv": {
+    "name": "txuvaxera"
+  },
+  "cy": {
+    "name": "galesa"
+  },
+  "da": {
+    "name": "daniera"
+  },
+  "de": {
+    "name": "alemana"
+  },
+  "dv": {
+    "name": "dhivehia"
+  },
+  "dz": {
+    "name": "dzongkha"
+  },
+  "ee": {
+    "name": "eweera"
+  },
+  "el": {
+    "name": "greziera"
+  },
+  "en": {
+    "name": "ingelesa"
+  },
+  "eo": {
+    "name": "esperantoa"
+  },
+  "es": {
+    "name": "gaztelania"
+  },
+  "et": {
+    "name": "estoniera"
+  },
+  "eu": {
+    "name": "euskara"
+  },
+  "fa": {
+    "name": "persiera"
+  },
+  "ff": {
+    "name": "fula"
+  },
+  "fi": {
+    "name": "finlandiera"
+  },
+  "fj": {
+    "name": "fijiera"
+  },
+  "fo": {
+    "name": "faroera"
+  },
+  "fr": {
+    "name": "frantsesa"
+  },
+  "fy": {
+    "name": "mendebaldeko frisiera"
+  },
+  "ga": {
+    "name": "irlandera"
+  },
+  "gd": {
+    "name": "Eskoziako gaelikoa"
+  },
+  "gl": {
+    "name": "galiziera"
+  },
+  "gn": {
+    "name": "guaraniera"
+  },
+  "gu": {
+    "name": "gujaratera"
+  },
+  "gv": {
+    "name": "manxera"
+  },
+  "ha": {
+    "name": "hausa"
+  },
+  "he": {
+    "name": "hebreera"
+  },
+  "hi": {
+    "name": "hindia"
+  },
+  "ho": {
+    "name": "ho"
+  },
+  "hr": {
+    "name": "kroaziera"
+  },
+  "ht": {
+    "name": "Haitiko kreolera"
+  },
+  "hu": {
+    "name": "hungariera"
+  },
+  "hy": {
+    "name": "armeniera"
+  },
+  "hz": {
+    "name": "hereroera"
+  },
+  "ia": {
+    "name": "interlingua"
+  },
+  "id": {
+    "name": "indonesiera"
+  },
+  "ie": {
+    "name": "interlinguea"
+  },
+  "ig": {
+    "name": "igboera"
+  },
+  "ii": {
+    "name": "Sichuango yiera"
+  },
+  "ik": {
+    "name": "ik"
+  },
+  "io": {
+    "name": "idoa"
+  },
+  "is": {
+    "name": "islandiera"
+  },
+  "it": {
+    "name": "italiera"
+  },
+  "iu": {
+    "name": "inuitera"
+  },
+  "ja": {
+    "name": "japoniera"
+  },
+  "jv": {
+    "name": "javera"
+  },
+  "ka": {
+    "name": "georgiera"
+  },
+  "kg": {
+    "name": "kikongoa"
+  },
+  "ki": {
+    "name": "kikuyuera"
+  },
+  "kj": {
+    "name": "kuanyama"
+  },
+  "kk": {
+    "name": "kazakhera"
+  },
+  "kl": {
+    "name": "groenlandiera"
+  },
+  "km": {
+    "name": "khemerera"
+  },
+  "kn": {
+    "name": "kannada"
+  },
+  "ko": {
+    "name": "koreera"
+  },
+  "kr": {
+    "name": "kanuriera"
+  },
+  "ks": {
+    "name": "kaxmirera"
+  },
+  "ku": {
+    "name": "kurduera"
+  },
+  "kv": {
+    "name": "komiera"
+  },
+  "kw": {
+    "name": "kornubiera"
+  },
+  "ky": {
+    "name": "kirgizera"
+  },
+  "la": {
+    "name": "latina"
+  },
+  "lb": {
+    "name": "luxenburgera"
+  },
+  "lg": {
+    "name": "luganda"
+  },
+  "li": {
+    "name": "limburgera"
+  },
+  "ln": {
+    "name": "lingala"
+  },
+  "lo": {
+    "name": "laosera"
+  },
+  "lt": {
+    "name": "lituaniera"
+  },
+  "lu": {
+    "name": "Katangako lubera"
+  },
+  "lv": {
+    "name": "letoniera"
+  },
+  "mg": {
+    "name": "malgaxea"
+  },
+  "mh": {
+    "name": "marshallera"
+  },
+  "mi": {
+    "name": "maoriera"
+  },
+  "mk": {
+    "name": "mazedoniera"
+  },
+  "ml": {
+    "name": "malabarera"
+  },
+  "mn": {
+    "name": "mongoliera"
+  },
+  "mr": {
+    "name": "marathera"
+  },
+  "ms": {
+    "name": "malaysiera"
+  },
+  "mt": {
+    "name": "maltera"
+  },
+  "my": {
+    "name": "birmaniera"
+  },
+  "na": {
+    "name": "nauruera"
+  },
+  "nb": {
+    "name": "bokmål (norvegiera)"
+  },
+  "nd": {
+    "name": "iparraldeko ndebeleera"
+  },
+  "ne": {
+    "name": "nepalera"
+  },
+  "ng": {
+    "name": "ndonga"
+  },
+  "nl": {
+    "name": "nederlandera"
+  },
+  "nn": {
+    "name": "nynorsk (norvegiera)"
+  },
+  "no": {
+    "name": "norvegiera"
+  },
+  "nr": {
+    "name": "hegoaldeko ndebeleera"
+  },
+  "nv": {
+    "name": "navajoera"
+  },
+  "ny": {
+    "name": "chewera"
+  },
+  "oc": {
+    "name": "okzitaniera"
+  },
+  "oj": {
+    "name": "oj"
+  },
+  "om": {
+    "name": "oromoera"
+  },
+  "or": {
+    "name": "oriya"
+  },
+  "os": {
+    "name": "osetiera"
+  },
+  "pa": {
+    "name": "punjabera"
+  },
+  "pi": {
+    "name": "pi"
+  },
+  "pl": {
+    "name": "poloniera"
+  },
+  "ps": {
+    "name": "paxtunera"
+  },
+  "pt": {
+    "name": "portugesa"
+  },
+  "qu": {
+    "name": "kitxua"
+  },
+  "rm": {
+    "name": "erretorromaniera"
+  },
+  "rn": {
+    "name": "rundiera"
+  },
+  "ro": {
+    "name": "errumaniera"
+  },
+  "ru": {
+    "name": "errusiera"
+  },
+  "rw": {
+    "name": "kinyaruanda"
+  },
+  "sa": {
+    "name": "sanskritoa"
+  },
+  "sc": {
+    "name": "sardiniera"
+  },
+  "sd": {
+    "name": "sindhia"
+  },
+  "se": {
+    "name": "iparraldeko samiera"
+  },
+  "sg": {
+    "name": "sangoa"
+  },
+  "sh": {
+    "name": "serbiera (latinoa)"
+  },
+  "si": {
+    "name": "sinhala"
+  },
+  "sk": {
+    "name": "eslovakiera"
+  },
+  "sl": {
+    "name": "esloveniera"
+  },
+  "sm": {
+    "name": "samoera"
+  },
+  "sn": {
+    "name": "shonera"
+  },
+  "so": {
+    "name": "somaliera"
+  },
+  "sq": {
+    "name": "albaniera"
+  },
+  "sr": {
+    "name": "serbiera"
+  },
+  "ss": {
+    "name": "swatiera"
+  },
+  "st": {
+    "name": "hegoaldeko sothoera"
+  },
+  "su": {
+    "name": "sundanera"
+  },
+  "sv": {
+    "name": "suediera"
+  },
+  "sw": {
+    "name": "swahilia"
+  },
+  "ta": {
+    "name": "tamilera"
+  },
+  "te": {
+    "name": "telugua"
+  },
+  "tg": {
+    "name": "tajikera"
+  },
+  "th": {
+    "name": "thailandiera"
+  },
+  "ti": {
+    "name": "tigrinyera"
+  },
+  "tk": {
+    "name": "turkmenera"
+  },
+  "tl": {
+    "name": "filipinera"
+  },
+  "tn": {
+    "name": "tswanera"
+  },
+  "to": {
+    "name": "tongera"
+  },
+  "tr": {
+    "name": "turkiera"
+  },
+  "ts": {
+    "name": "tsongera"
+  },
+  "tt": {
+    "name": "tatarera"
+  },
+  "tw": {
+    "name": "akanera"
+  },
+  "ty": {
+    "name": "tahitiera"
+  },
+  "ug": {
+    "name": "uigurrera"
+  },
+  "uk": {
+    "name": "ukrainera"
+  },
+  "ur": {
+    "name": "urdua"
+  },
+  "uz": {
+    "name": "uzbekera"
+  },
+  "ve": {
+    "name": "vendera"
+  },
+  "vi": {
+    "name": "vietnamera"
+  },
+  "vo": {
+    "name": "volapük"
+  },
+  "wa": {
+    "name": "valoniera"
+  },
+  "wo": {
+    "name": "wolofera"
+  },
+  "xh": {
+    "name": "xhosera"
+  },
+  "yi": {
+    "name": "yiddisha"
+  },
+  "yo": {
+    "name": "jorubera"
+  },
+  "za": {
+    "name": "zhuangera"
+  },
+  "zh": {
+    "name": "txinera"
+  },
+  "zu": {
+    "name": "zuluera"
+  }
+}

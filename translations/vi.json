@@ -1,0 +1,554 @@
+{
+  "aa": {
+    "name": "Tiếng Afar"
+  },
+  "ab": {
+    "name": "Tiếng Abkhazia"
+  },
+  "ae": {
+    "name": "Tiếng Avestan"
+  },
+  "af": {
+    "name": "Tiếng Hà Lan (Nam Phi)"
+  },
+  "ak": {
+    "name": "Tiếng Akan"
+  },
+  "am": {
+    "name": "Tiếng Amharic"
+  },
+  "an": {
+    "name": "Tiếng Aragon"
+  },
+  "ar": {
+    "name": "Tiếng Ả Rập"
+  },
+  "as": {
+    "name": "Tiếng Assam"
+  },
+  "av": {
+    "name": "Tiếng Avaric"
+  },
+  "ay": {
+    "name": "Tiếng Aymara"
+  },
+  "az": {
+    "name": "Tiếng Azerbaijan"
+  },
+  "ba": {
+    "name": "Tiếng Bashkir"
+  },
+  "be": {
+    "name": "Tiếng Belarus"
+  },
+  "bg": {
+    "name": "Tiếng Bulgaria"
+  },
+  "bi": {
+    "name": "Tiếng Bislama"
+  },
+  "bm": {
+    "name": "Tiếng Bambara"
+  },
+  "bn": {
+    "name": "Tiếng Bangla"
+  },
+  "bo": {
+    "name": "Tiếng Tây Tạng"
+  },
+  "br": {
+    "name": "Tiếng Breton"
+  },
+  "bs": {
+    "name": "Tiếng Bosnia"
+  },
+  "ca": {
+    "name": "Tiếng Catalan"
+  },
+  "ce": {
+    "name": "Tiếng Chechen"
+  },
+  "ch": {
+    "name": "Tiếng Chamorro"
+  },
+  "co": {
+    "name": "Tiếng Corsica"
+  },
+  "cr": {
+    "name": "Tiếng Cree"
+  },
+  "cs": {
+    "name": "Tiếng Séc"
+  },
+  "cu": {
+    "name": "Tiếng Slavơ Nhà thờ"
+  },
+  "cv": {
+    "name": "Tiếng Chuvash"
+  },
+  "cy": {
+    "name": "Tiếng Wales"
+  },
+  "da": {
+    "name": "Tiếng Đan Mạch"
+  },
+  "de": {
+    "name": "Tiếng Đức"
+  },
+  "dv": {
+    "name": "Tiếng Divehi"
+  },
+  "dz": {
+    "name": "Tiếng Dzongkha"
+  },
+  "ee": {
+    "name": "Tiếng Ewe"
+  },
+  "el": {
+    "name": "Tiếng Hy Lạp"
+  },
+  "en": {
+    "name": "Tiếng Anh"
+  },
+  "eo": {
+    "name": "Tiếng Quốc Tế Ngữ"
+  },
+  "es": {
+    "name": "Tiếng Tây Ban Nha"
+  },
+  "et": {
+    "name": "Tiếng Estonia"
+  },
+  "eu": {
+    "name": "Tiếng Basque"
+  },
+  "fa": {
+    "name": "Tiếng Ba Tư"
+  },
+  "ff": {
+    "name": "Tiếng Fulah"
+  },
+  "fi": {
+    "name": "Tiếng Phần Lan"
+  },
+  "fj": {
+    "name": "Tiếng Fiji"
+  },
+  "fo": {
+    "name": "Tiếng Faroe"
+  },
+  "fr": {
+    "name": "Tiếng Pháp"
+  },
+  "fy": {
+    "name": "Tiếng Frisia"
+  },
+  "ga": {
+    "name": "Tiếng Ireland"
+  },
+  "gd": {
+    "name": "Tiếng Gael Scotland"
+  },
+  "gl": {
+    "name": "Tiếng Galician"
+  },
+  "gn": {
+    "name": "Tiếng Guarani"
+  },
+  "gu": {
+    "name": "Tiếng Gujarati"
+  },
+  "gv": {
+    "name": "Tiếng Manx"
+  },
+  "ha": {
+    "name": "Tiếng Hausa"
+  },
+  "he": {
+    "name": "Tiếng Do Thái"
+  },
+  "hi": {
+    "name": "Tiếng Hindi"
+  },
+  "ho": {
+    "name": "Tiếng Hiri Motu"
+  },
+  "hr": {
+    "name": "Tiếng Croatia"
+  },
+  "ht": {
+    "name": "Tiếng Haiti"
+  },
+  "hu": {
+    "name": "Tiếng Hungary"
+  },
+  "hy": {
+    "name": "Tiếng Armenia"
+  },
+  "hz": {
+    "name": "Tiếng Herero"
+  },
+  "ia": {
+    "name": "Tiếng Khoa Học Quốc Tế"
+  },
+  "id": {
+    "name": "Tiếng Indonesia"
+  },
+  "ie": {
+    "name": "Tiếng Interlingue"
+  },
+  "ig": {
+    "name": "Tiếng Igbo"
+  },
+  "ii": {
+    "name": "Tiếng Di Tứ Xuyên"
+  },
+  "ik": {
+    "name": "Tiếng Inupiaq"
+  },
+  "io": {
+    "name": "Tiếng Ido"
+  },
+  "is": {
+    "name": "Tiếng Iceland"
+  },
+  "it": {
+    "name": "Tiếng Italy"
+  },
+  "iu": {
+    "name": "Tiếng Inuktitut"
+  },
+  "ja": {
+    "name": "Tiếng Nhật"
+  },
+  "jv": {
+    "name": "Tiếng Java"
+  },
+  "ka": {
+    "name": "Tiếng Georgia"
+  },
+  "kg": {
+    "name": "Tiếng Kongo"
+  },
+  "ki": {
+    "name": "Tiếng Kikuyu"
+  },
+  "kj": {
+    "name": "Tiếng Kuanyama"
+  },
+  "kk": {
+    "name": "Tiếng Kazakh"
+  },
+  "kl": {
+    "name": "Tiếng Kalaallisut"
+  },
+  "km": {
+    "name": "Tiếng Khmer"
+  },
+  "kn": {
+    "name": "Tiếng Kannada"
+  },
+  "ko": {
+    "name": "Tiếng Hàn"
+  },
+  "kr": {
+    "name": "Tiếng Kanuri"
+  },
+  "ks": {
+    "name": "Tiếng Kashmir"
+  },
+  "ku": {
+    "name": "Tiếng Kurd"
+  },
+  "kv": {
+    "name": "Tiếng Komi"
+  },
+  "kw": {
+    "name": "Tiếng Cornwall"
+  },
+  "ky": {
+    "name": "Tiếng Kyrgyz"
+  },
+  "la": {
+    "name": "Tiếng La-tinh"
+  },
+  "lb": {
+    "name": "Tiếng Luxembourg"
+  },
+  "lg": {
+    "name": "Tiếng Ganda"
+  },
+  "li": {
+    "name": "Tiếng Limburg"
+  },
+  "ln": {
+    "name": "Tiếng Lingala"
+  },
+  "lo": {
+    "name": "Tiếng Lào"
+  },
+  "lt": {
+    "name": "Tiếng Litva"
+  },
+  "lu": {
+    "name": "Tiếng Luba-Katanga"
+  },
+  "lv": {
+    "name": "Tiếng Latvia"
+  },
+  "mg": {
+    "name": "Tiếng Malagasy"
+  },
+  "mh": {
+    "name": "Tiếng Marshall"
+  },
+  "mi": {
+    "name": "Tiếng Māori"
+  },
+  "mk": {
+    "name": "Tiếng Macedonia"
+  },
+  "ml": {
+    "name": "Tiếng Malayalam"
+  },
+  "mn": {
+    "name": "Tiếng Mông Cổ"
+  },
+  "mr": {
+    "name": "Tiếng Marathi"
+  },
+  "ms": {
+    "name": "Tiếng Mã Lai"
+  },
+  "mt": {
+    "name": "Tiếng Malta"
+  },
+  "my": {
+    "name": "Tiếng Miến Điện"
+  },
+  "na": {
+    "name": "Tiếng Nauru"
+  },
+  "nb": {
+    "name": "Tiếng Na Uy (Bokmål)"
+  },
+  "nd": {
+    "name": "Tiếng Ndebele Miền Bắc"
+  },
+  "ne": {
+    "name": "Tiếng Nepal"
+  },
+  "ng": {
+    "name": "Tiếng Ndonga"
+  },
+  "nl": {
+    "name": "Tiếng Hà Lan"
+  },
+  "nn": {
+    "name": "Tiếng Na Uy (Nynorsk)"
+  },
+  "no": {
+    "name": "Tiếng Na Uy"
+  },
+  "nr": {
+    "name": "Tiếng Ndebele Miền Nam"
+  },
+  "nv": {
+    "name": "Tiếng Navajo"
+  },
+  "ny": {
+    "name": "Tiếng Nyanja"
+  },
+  "oc": {
+    "name": "Tiếng Occitan"
+  },
+  "oj": {
+    "name": "Tiếng Ojibwa"
+  },
+  "om": {
+    "name": "Tiếng Oromo"
+  },
+  "or": {
+    "name": "Tiếng Odia"
+  },
+  "os": {
+    "name": "Tiếng Ossetic"
+  },
+  "pa": {
+    "name": "Tiếng Punjab"
+  },
+  "pi": {
+    "name": "Tiếng Pali"
+  },
+  "pl": {
+    "name": "Tiếng Ba Lan"
+  },
+  "ps": {
+    "name": "Tiếng Pashto"
+  },
+  "pt": {
+    "name": "Tiếng Bồ Đào Nha"
+  },
+  "qu": {
+    "name": "Tiếng Quechua"
+  },
+  "rm": {
+    "name": "Tiếng Romansh"
+  },
+  "rn": {
+    "name": "Tiếng Rundi"
+  },
+  "ro": {
+    "name": "Tiếng Romania"
+  },
+  "ru": {
+    "name": "Tiếng Nga"
+  },
+  "rw": {
+    "name": "Tiếng Kinyarwanda"
+  },
+  "sa": {
+    "name": "Tiếng Phạn"
+  },
+  "sc": {
+    "name": "Tiếng Sardinia"
+  },
+  "sd": {
+    "name": "Tiếng Sindhi"
+  },
+  "se": {
+    "name": "Tiếng Sami Miền Bắc"
+  },
+  "sg": {
+    "name": "Tiếng Sango"
+  },
+  "sh": {
+    "name": "Tiếng Serbia (Chữ La tinh)"
+  },
+  "si": {
+    "name": "Tiếng Sinhala"
+  },
+  "sk": {
+    "name": "Tiếng Slovak"
+  },
+  "sl": {
+    "name": "Tiếng Slovenia"
+  },
+  "sm": {
+    "name": "Tiếng Samoa"
+  },
+  "sn": {
+    "name": "Tiếng Shona"
+  },
+  "so": {
+    "name": "Tiếng Somali"
+  },
+  "sq": {
+    "name": "Tiếng Albania"
+  },
+  "sr": {
+    "name": "Tiếng Serbia"
+  },
+  "ss": {
+    "name": "Tiếng Swati"
+  },
+  "st": {
+    "name": "Tiếng Nam Sotho"
+  },
+  "su": {
+    "name": "Tiếng Sunda"
+  },
+  "sv": {
+    "name": "Tiếng Thụy Điển"
+  },
+  "sw": {
+    "name": "Tiếng Swahili"
+  },
+  "ta": {
+    "name": "Tiếng Tamil"
+  },
+  "te": {
+    "name": "Tiếng Telugu"
+  },
+  "tg": {
+    "name": "Tiếng Tajik"
+  },
+  "th": {
+    "name": "Tiếng Thái"
+  },
+  "ti": {
+    "name": "Tiếng Tigrinya"
+  },
+  "tk": {
+    "name": "Tiếng Turkmen"
+  },
+  "tl": {
+    "name": "Tiếng Philippines"
+  },
+  "tn": {
+    "name": "Tiếng Tswana"
+  },
+  "to": {
+    "name": "Tiếng Tonga"
+  },
+  "tr": {
+    "name": "Tiếng Thổ Nhĩ Kỳ"
+  },
+  "ts": {
+    "name": "Tiếng Tsonga"
+  },
+  "tt": {
+    "name": "Tiếng Tatar"
+  },
+  "tw": {
+    "name": "Tiếng Akan"
+  },
+  "ty": {
+    "name": "Tiếng Tahiti"
+  },
+  "ug": {
+    "name": "Tiếng Uyghur"
+  },
+  "uk": {
+    "name": "Tiếng Ukraina"
+  },
+  "ur": {
+    "name": "Tiếng Urdu"
+  },
+  "uz": {
+    "name": "Tiếng Uzbek"
+  },
+  "ve": {
+    "name": "Tiếng Venda"
+  },
+  "vi": {
+    "name": "Tiếng Việt"
+  },
+  "vo": {
+    "name": "Tiếng Volapük"
+  },
+  "wa": {
+    "name": "Tiếng Walloon"
+  },
+  "wo": {
+    "name": "Tiếng Wolof"
+  },
+  "xh": {
+    "name": "Tiếng Xhosa"
+  },
+  "yi": {
+    "name": "Tiếng Yiddish"
+  },
+  "yo": {
+    "name": "Tiếng Yoruba"
+  },
+  "za": {
+    "name": "Tiếng Choang"
+  },
+  "zh": {
+    "name": "Tiếng Trung"
+  },
+  "zu": {
+    "name": "Tiếng Zulu"
+  }
+}

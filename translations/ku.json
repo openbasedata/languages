@@ -1,0 +1,554 @@
+{
+  "aa": {
+    "name": "afarî"
+  },
+  "ab": {
+    "name": "abxazî"
+  },
+  "ae": {
+    "name": "ae"
+  },
+  "af": {
+    "name": "afrîkansî"
+  },
+  "ak": {
+    "name": "akanî"
+  },
+  "am": {
+    "name": "amharî"
+  },
+  "an": {
+    "name": "aragonî"
+  },
+  "ar": {
+    "name": "erebî"
+  },
+  "as": {
+    "name": "asamî"
+  },
+  "av": {
+    "name": "avarî"
+  },
+  "ay": {
+    "name": "aymarayî"
+  },
+  "az": {
+    "name": "azerbaycanî"
+  },
+  "ba": {
+    "name": "başkîrî"
+  },
+  "be": {
+    "name": "belarûsî"
+  },
+  "bg": {
+    "name": "bulgarî"
+  },
+  "bi": {
+    "name": "bîslamayî"
+  },
+  "bm": {
+    "name": "bambarayî"
+  },
+  "bn": {
+    "name": "bengalî"
+  },
+  "bo": {
+    "name": "tîbetî"
+  },
+  "br": {
+    "name": "bretonî"
+  },
+  "bs": {
+    "name": "bosnî"
+  },
+  "ca": {
+    "name": "katalanî"
+  },
+  "ce": {
+    "name": "çeçenî"
+  },
+  "ch": {
+    "name": "çamoroyî"
+  },
+  "co": {
+    "name": "korsîkayî"
+  },
+  "cr": {
+    "name": "cr"
+  },
+  "cs": {
+    "name": "çekî"
+  },
+  "cu": {
+    "name": "slavîya kenîseyî"
+  },
+  "cv": {
+    "name": "çuvaşî"
+  },
+  "cy": {
+    "name": "weylsî"
+  },
+  "da": {
+    "name": "danîmarkî"
+  },
+  "de": {
+    "name": "almanî"
+  },
+  "dv": {
+    "name": "divehî"
+  },
+  "dz": {
+    "name": "conxayî"
+  },
+  "ee": {
+    "name": "eweyî"
+  },
+  "el": {
+    "name": "yûnanî"
+  },
+  "en": {
+    "name": "îngilîzî"
+  },
+  "eo": {
+    "name": "esperantoyî"
+  },
+  "es": {
+    "name": "spanî"
+  },
+  "et": {
+    "name": "estonî"
+  },
+  "eu": {
+    "name": "baskî"
+  },
+  "fa": {
+    "name": "farisî"
+  },
+  "ff": {
+    "name": "fulahî"
+  },
+  "fi": {
+    "name": "fînî"
+  },
+  "fj": {
+    "name": "fîjî"
+  },
+  "fo": {
+    "name": "ferî"
+  },
+  "fr": {
+    "name": "fransizî"
+  },
+  "fy": {
+    "name": "frîsîya rojavayî"
+  },
+  "ga": {
+    "name": "îrlendî"
+  },
+  "gd": {
+    "name": "gaelîka skotî"
+  },
+  "gl": {
+    "name": "galîsî"
+  },
+  "gn": {
+    "name": "guwaranî"
+  },
+  "gu": {
+    "name": "gujaratî"
+  },
+  "gv": {
+    "name": "manksî"
+  },
+  "ha": {
+    "name": "hawsayî"
+  },
+  "he": {
+    "name": "îbranî"
+  },
+  "hi": {
+    "name": "hindî"
+  },
+  "ho": {
+    "name": "ho"
+  },
+  "hr": {
+    "name": "xirwatî"
+  },
+  "ht": {
+    "name": "haîtî"
+  },
+  "hu": {
+    "name": "macarî"
+  },
+  "hy": {
+    "name": "ermenî"
+  },
+  "hz": {
+    "name": "hereroyî"
+  },
+  "ia": {
+    "name": "înterlîngua"
+  },
+  "id": {
+    "name": "endonezyayî"
+  },
+  "ie": {
+    "name": "înterlîngue"
+  },
+  "ig": {
+    "name": "îgboyî"
+  },
+  "ii": {
+    "name": "yîyîya siçuwayî"
+  },
+  "ik": {
+    "name": "ik"
+  },
+  "io": {
+    "name": "îdoyî"
+  },
+  "is": {
+    "name": "îzlendî"
+  },
+  "it": {
+    "name": "îtalî"
+  },
+  "iu": {
+    "name": "înuîtî"
+  },
+  "ja": {
+    "name": "japonî"
+  },
+  "jv": {
+    "name": "javayî"
+  },
+  "ka": {
+    "name": "gurcî"
+  },
+  "kg": {
+    "name": "kg"
+  },
+  "ki": {
+    "name": "kîkûyûyî"
+  },
+  "kj": {
+    "name": "kwanyamayî"
+  },
+  "kk": {
+    "name": "qazaxî"
+  },
+  "kl": {
+    "name": "kalalîsûtî"
+  },
+  "km": {
+    "name": "khmerî"
+  },
+  "kn": {
+    "name": "kannadayî"
+  },
+  "ko": {
+    "name": "koreyî"
+  },
+  "kr": {
+    "name": "kanurîyî"
+  },
+  "ks": {
+    "name": "keşmîrî"
+  },
+  "ku": {
+    "name": "kurdî (kurmancî)"
+  },
+  "kv": {
+    "name": "komî"
+  },
+  "kw": {
+    "name": "kornî"
+  },
+  "ky": {
+    "name": "qirgizî"
+  },
+  "la": {
+    "name": "latînî"
+  },
+  "lb": {
+    "name": "luksembûrgî"
+  },
+  "lg": {
+    "name": "lugandayî"
+  },
+  "li": {
+    "name": "lîmbûrgî"
+  },
+  "ln": {
+    "name": "lingalayî"
+  },
+  "lo": {
+    "name": "lao"
+  },
+  "lt": {
+    "name": "lîtwanî"
+  },
+  "lu": {
+    "name": "luba-katangayî"
+  },
+  "lv": {
+    "name": "latvîyayî"
+  },
+  "mg": {
+    "name": "malagasî"
+  },
+  "mh": {
+    "name": "marşalî"
+  },
+  "mi": {
+    "name": "maorî"
+  },
+  "mk": {
+    "name": "makedonî"
+  },
+  "ml": {
+    "name": "malayalamî"
+  },
+  "mn": {
+    "name": "moxolî"
+  },
+  "mr": {
+    "name": "maratî"
+  },
+  "ms": {
+    "name": "malezî"
+  },
+  "mt": {
+    "name": "maltayî"
+  },
+  "my": {
+    "name": "burmayî"
+  },
+  "na": {
+    "name": "nawrûyî"
+  },
+  "nb": {
+    "name": "norwecî (bokmål)"
+  },
+  "nd": {
+    "name": "ndebelîya bakurî"
+  },
+  "ne": {
+    "name": "nepalî"
+  },
+  "ng": {
+    "name": "ndongayî"
+  },
+  "nl": {
+    "name": "holendî"
+  },
+  "nn": {
+    "name": "norwecî (nynorsk)"
+  },
+  "no": {
+    "name": "norwecî"
+  },
+  "nr": {
+    "name": "ndebelîya başûrî"
+  },
+  "nv": {
+    "name": "navajoyî"
+  },
+  "ny": {
+    "name": "çîçewayî"
+  },
+  "oc": {
+    "name": "oksîtanî"
+  },
+  "oj": {
+    "name": "oj"
+  },
+  "om": {
+    "name": "oromoyî"
+  },
+  "or": {
+    "name": "oriyayî"
+  },
+  "os": {
+    "name": "osetî"
+  },
+  "pa": {
+    "name": "puncabî"
+  },
+  "pi": {
+    "name": "palî"
+  },
+  "pl": {
+    "name": "polonî"
+  },
+  "ps": {
+    "name": "peştûyî"
+  },
+  "pt": {
+    "name": "portugalî"
+  },
+  "qu": {
+    "name": "keçwayî"
+  },
+  "rm": {
+    "name": "romancî"
+  },
+  "rn": {
+    "name": "rundî"
+  },
+  "ro": {
+    "name": "romanî"
+  },
+  "ru": {
+    "name": "rûsî"
+  },
+  "rw": {
+    "name": "kînyariwandayî"
+  },
+  "sa": {
+    "name": "sanskrîtî"
+  },
+  "sc": {
+    "name": "sardînî"
+  },
+  "sd": {
+    "name": "sindhî"
+  },
+  "se": {
+    "name": "samîya bakur"
+  },
+  "sg": {
+    "name": "sangoyî"
+  },
+  "sh": {
+    "name": "sirbî (latînî)"
+  },
+  "si": {
+    "name": "kîngalî"
+  },
+  "sk": {
+    "name": "slovakî"
+  },
+  "sl": {
+    "name": "slovenî"
+  },
+  "sm": {
+    "name": "samoayî"
+  },
+  "sn": {
+    "name": "şonayî"
+  },
+  "so": {
+    "name": "somalî"
+  },
+  "sq": {
+    "name": "arnawidî"
+  },
+  "sr": {
+    "name": "sirbî"
+  },
+  "ss": {
+    "name": "swazî"
+  },
+  "st": {
+    "name": "sotoyîya başûr"
+  },
+  "su": {
+    "name": "sundanî"
+  },
+  "sv": {
+    "name": "swêdî"
+  },
+  "sw": {
+    "name": "swahîlî"
+  },
+  "ta": {
+    "name": "tamîlî"
+  },
+  "te": {
+    "name": "telûgûyî"
+  },
+  "tg": {
+    "name": "tacikî"
+  },
+  "th": {
+    "name": "tayî"
+  },
+  "ti": {
+    "name": "tigrînî"
+  },
+  "tk": {
+    "name": "tirkmenî"
+  },
+  "tl": {
+    "name": "fîlîpînî"
+  },
+  "tn": {
+    "name": "tswanayî"
+  },
+  "to": {
+    "name": "tongî"
+  },
+  "tr": {
+    "name": "tirkî"
+  },
+  "ts": {
+    "name": "tsongayî"
+  },
+  "tt": {
+    "name": "teterî"
+  },
+  "tw": {
+    "name": "akanî"
+  },
+  "ty": {
+    "name": "tahîtî"
+  },
+  "ug": {
+    "name": "uyxurî"
+  },
+  "uk": {
+    "name": "ukraynî"
+  },
+  "ur": {
+    "name": "urdûyî"
+  },
+  "uz": {
+    "name": "ozbekî"
+  },
+  "ve": {
+    "name": "venda"
+  },
+  "vi": {
+    "name": "vîetnamî"
+  },
+  "vo": {
+    "name": "volapûkî"
+  },
+  "wa": {
+    "name": "walonî"
+  },
+  "wo": {
+    "name": "wolofî"
+  },
+  "xh": {
+    "name": "xosayî"
+  },
+  "yi": {
+    "name": "yidîşî"
+  },
+  "yo": {
+    "name": "yorubayî"
+  },
+  "za": {
+    "name": "zhuangî"
+  },
+  "zh": {
+    "name": "çînî"
+  },
+  "zu": {
+    "name": "zuluyî"
+  }
+}
