@@ -1,0 +1,554 @@
+{
+  "aa": {
+    "name": "Afar"
+  },
+  "ab": {
+    "name": "Abhazca"
+  },
+  "ae": {
+    "name": "Avestçe"
+  },
+  "af": {
+    "name": "Afrikaanca"
+  },
+  "ak": {
+    "name": "Akan"
+  },
+  "am": {
+    "name": "Amharca"
+  },
+  "an": {
+    "name": "Aragonca"
+  },
+  "ar": {
+    "name": "Arapça"
+  },
+  "as": {
+    "name": "Assamca"
+  },
+  "av": {
+    "name": "Avar dili"
+  },
+  "ay": {
+    "name": "Aymara"
+  },
+  "az": {
+    "name": "Azerbaycan dili"
+  },
+  "ba": {
+    "name": "Başkırtça"
+  },
+  "be": {
+    "name": "Belarusça"
+  },
+  "bg": {
+    "name": "Bulgarca"
+  },
+  "bi": {
+    "name": "Bislama"
+  },
+  "bm": {
+    "name": "Bambara"
+  },
+  "bn": {
+    "name": "Bengalce"
+  },
+  "bo": {
+    "name": "Tibetçe"
+  },
+  "br": {
+    "name": "Bretonca"
+  },
+  "bs": {
+    "name": "Boşnakça"
+  },
+  "ca": {
+    "name": "Katalanca"
+  },
+  "ce": {
+    "name": "Çeçence"
+  },
+  "ch": {
+    "name": "Çamorro dili"
+  },
+  "co": {
+    "name": "Korsikaca"
+  },
+  "cr": {
+    "name": "Krice"
+  },
+  "cs": {
+    "name": "Çekçe"
+  },
+  "cu": {
+    "name": "Kilise Slavcası"
+  },
+  "cv": {
+    "name": "Çuvaşça"
+  },
+  "cy": {
+    "name": "Galce"
+  },
+  "da": {
+    "name": "Danca"
+  },
+  "de": {
+    "name": "Almanca"
+  },
+  "dv": {
+    "name": "Divehi dili"
+  },
+  "dz": {
+    "name": "Dzongkha"
+  },
+  "ee": {
+    "name": "Ewe"
+  },
+  "el": {
+    "name": "Yunanca"
+  },
+  "en": {
+    "name": "İngilizce"
+  },
+  "eo": {
+    "name": "Esperanto"
+  },
+  "es": {
+    "name": "İspanyolca"
+  },
+  "et": {
+    "name": "Estonca"
+  },
+  "eu": {
+    "name": "Baskça"
+  },
+  "fa": {
+    "name": "Farsça"
+  },
+  "ff": {
+    "name": "Fula dili"
+  },
+  "fi": {
+    "name": "Fince"
+  },
+  "fj": {
+    "name": "Fiji dili"
+  },
+  "fo": {
+    "name": "Faroe dili"
+  },
+  "fr": {
+    "name": "Fransızca"
+  },
+  "fy": {
+    "name": "Batı Frizcesi"
+  },
+  "ga": {
+    "name": "İrlandaca"
+  },
+  "gd": {
+    "name": "İskoç Gaelcesi"
+  },
+  "gl": {
+    "name": "Galiçyaca"
+  },
+  "gn": {
+    "name": "Guarani dili"
+  },
+  "gu": {
+    "name": "Güceratça"
+  },
+  "gv": {
+    "name": "Man dili"
+  },
+  "ha": {
+    "name": "Hausa dili"
+  },
+  "he": {
+    "name": "İbranice"
+  },
+  "hi": {
+    "name": "Hintçe"
+  },
+  "ho": {
+    "name": "Hiri Motu"
+  },
+  "hr": {
+    "name": "Hırvatça"
+  },
+  "ht": {
+    "name": "Haiti Kreyolu"
+  },
+  "hu": {
+    "name": "Macarca"
+  },
+  "hy": {
+    "name": "Ermenice"
+  },
+  "hz": {
+    "name": "Herero dili"
+  },
+  "ia": {
+    "name": "İnterlingua"
+  },
+  "id": {
+    "name": "Endonezce"
+  },
+  "ie": {
+    "name": "Interlingue"
+  },
+  "ig": {
+    "name": "İbo dili"
+  },
+  "ii": {
+    "name": "Sichuan Yi"
+  },
+  "ik": {
+    "name": "İnyupikçe"
+  },
+  "io": {
+    "name": "Ido"
+  },
+  "is": {
+    "name": "İzlandaca"
+  },
+  "it": {
+    "name": "İtalyanca"
+  },
+  "iu": {
+    "name": "İnuktitut dili"
+  },
+  "ja": {
+    "name": "Japonca"
+  },
+  "jv": {
+    "name": "Cava dili"
+  },
+  "ka": {
+    "name": "Gürcüce"
+  },
+  "kg": {
+    "name": "Kongo dili"
+  },
+  "ki": {
+    "name": "Kikuyu"
+  },
+  "kj": {
+    "name": "Kuanyama"
+  },
+  "kk": {
+    "name": "Kazakça"
+  },
+  "kl": {
+    "name": "Grönland dili"
+  },
+  "km": {
+    "name": "Khmer dili"
+  },
+  "kn": {
+    "name": "Kannada dili"
+  },
+  "ko": {
+    "name": "Korece"
+  },
+  "kr": {
+    "name": "Kanuri dili"
+  },
+  "ks": {
+    "name": "Keşmir dili"
+  },
+  "ku": {
+    "name": "Kürtçe"
+  },
+  "kv": {
+    "name": "Komi"
+  },
+  "kw": {
+    "name": "Kernevekçe"
+  },
+  "ky": {
+    "name": "Kırgızca"
+  },
+  "la": {
+    "name": "Latince"
+  },
+  "lb": {
+    "name": "Lüksemburgca"
+  },
+  "lg": {
+    "name": "Ganda"
+  },
+  "li": {
+    "name": "Limburgca"
+  },
+  "ln": {
+    "name": "Lingala"
+  },
+  "lo": {
+    "name": "Lao dili"
+  },
+  "lt": {
+    "name": "Litvanca"
+  },
+  "lu": {
+    "name": "Luba-Katanga"
+  },
+  "lv": {
+    "name": "Letonca"
+  },
+  "mg": {
+    "name": "Malgaşça"
+  },
+  "mh": {
+    "name": "Marshall Adaları dili"
+  },
+  "mi": {
+    "name": "Maori dili"
+  },
+  "mk": {
+    "name": "Makedonca"
+  },
+  "ml": {
+    "name": "Malayalam dili"
+  },
+  "mn": {
+    "name": "Moğolca"
+  },
+  "mr": {
+    "name": "Marathi dili"
+  },
+  "ms": {
+    "name": "Malayca"
+  },
+  "mt": {
+    "name": "Maltaca"
+  },
+  "my": {
+    "name": "Birman dili"
+  },
+  "na": {
+    "name": "Nauru dili"
+  },
+  "nb": {
+    "name": "Norveççe Bokmål"
+  },
+  "nd": {
+    "name": "Kuzey Ndebele"
+  },
+  "ne": {
+    "name": "Nepalce"
+  },
+  "ng": {
+    "name": "Ndonga"
+  },
+  "nl": {
+    "name": "Felemenkçe"
+  },
+  "nn": {
+    "name": "Norveççe Nynorsk"
+  },
+  "no": {
+    "name": "Norveççe"
+  },
+  "nr": {
+    "name": "Güney Ndebele"
+  },
+  "nv": {
+    "name": "Navaho dili"
+  },
+  "ny": {
+    "name": "Nyanja"
+  },
+  "oc": {
+    "name": "Oksitan dili"
+  },
+  "oj": {
+    "name": "Ojibva dili"
+  },
+  "om": {
+    "name": "Oromo dili"
+  },
+  "or": {
+    "name": "Oriya dili"
+  },
+  "os": {
+    "name": "Osetçe"
+  },
+  "pa": {
+    "name": "Pencapça"
+  },
+  "pi": {
+    "name": "Pali"
+  },
+  "pl": {
+    "name": "Lehçe"
+  },
+  "ps": {
+    "name": "Peştuca"
+  },
+  "pt": {
+    "name": "Portekizce"
+  },
+  "qu": {
+    "name": "Keçuva dili"
+  },
+  "rm": {
+    "name": "Romanşça"
+  },
+  "rn": {
+    "name": "Kirundi"
+  },
+  "ro": {
+    "name": "Rumence"
+  },
+  "ru": {
+    "name": "Rusça"
+  },
+  "rw": {
+    "name": "Kinyarwanda"
+  },
+  "sa": {
+    "name": "Sanskrit"
+  },
+  "sc": {
+    "name": "Sardunya dili"
+  },
+  "sd": {
+    "name": "Sindhi dili"
+  },
+  "se": {
+    "name": "Kuzey Laponcası"
+  },
+  "sg": {
+    "name": "Sango"
+  },
+  "sh": {
+    "name": "Sırpça (Latin)"
+  },
+  "si": {
+    "name": "Sinhali dili"
+  },
+  "sk": {
+    "name": "Slovakça"
+  },
+  "sl": {
+    "name": "Slovence"
+  },
+  "sm": {
+    "name": "Samoa dili"
+  },
+  "sn": {
+    "name": "Şona dili"
+  },
+  "so": {
+    "name": "Somalice"
+  },
+  "sq": {
+    "name": "Arnavutça"
+  },
+  "sr": {
+    "name": "Sırpça"
+  },
+  "ss": {
+    "name": "Sisvati"
+  },
+  "st": {
+    "name": "Güney Sotho dili"
+  },
+  "su": {
+    "name": "Sunda dili"
+  },
+  "sv": {
+    "name": "İsveççe"
+  },
+  "sw": {
+    "name": "Svahili dili"
+  },
+  "ta": {
+    "name": "Tamilce"
+  },
+  "te": {
+    "name": "Telugu dili"
+  },
+  "tg": {
+    "name": "Tacikçe"
+  },
+  "th": {
+    "name": "Tayca"
+  },
+  "ti": {
+    "name": "Tigrinya dili"
+  },
+  "tk": {
+    "name": "Türkmence"
+  },
+  "tl": {
+    "name": "Filipince"
+  },
+  "tn": {
+    "name": "Setsvana"
+  },
+  "to": {
+    "name": "Tonga dili"
+  },
+  "tr": {
+    "name": "Türkçe"
+  },
+  "ts": {
+    "name": "Tsonga"
+  },
+  "tt": {
+    "name": "Tatarca"
+  },
+  "tw": {
+    "name": "Akan"
+  },
+  "ty": {
+    "name": "Tahiti dili"
+  },
+  "ug": {
+    "name": "Uygurca"
+  },
+  "uk": {
+    "name": "Ukraynaca"
+  },
+  "ur": {
+    "name": "Urduca"
+  },
+  "uz": {
+    "name": "Özbekçe"
+  },
+  "ve": {
+    "name": "Venda dili"
+  },
+  "vi": {
+    "name": "Vietnamca"
+  },
+  "vo": {
+    "name": "Volapük"
+  },
+  "wa": {
+    "name": "Valonca"
+  },
+  "wo": {
+    "name": "Volofça"
+  },
+  "xh": {
+    "name": "Zosa dili"
+  },
+  "yi": {
+    "name": "Yidiş"
+  },
+  "yo": {
+    "name": "Yorubaca"
+  },
+  "za": {
+    "name": "Zhuangca"
+  },
+  "zh": {
+    "name": "Çince"
+  },
+  "zu": {
+    "name": "Zuluca"
+  }
+}

@@ -1,0 +1,554 @@
+{
+  "aa": {
+    "name": "afarčina"
+  },
+  "ab": {
+    "name": "abcházčina"
+  },
+  "ae": {
+    "name": "avestčina"
+  },
+  "af": {
+    "name": "afrikánčina"
+  },
+  "ak": {
+    "name": "akančina"
+  },
+  "am": {
+    "name": "amharčina"
+  },
+  "an": {
+    "name": "aragónčina"
+  },
+  "ar": {
+    "name": "arabčina"
+  },
+  "as": {
+    "name": "ásamčina"
+  },
+  "av": {
+    "name": "avarčina"
+  },
+  "ay": {
+    "name": "aymarčina"
+  },
+  "az": {
+    "name": "azerbajdžančina"
+  },
+  "ba": {
+    "name": "baškirčina"
+  },
+  "be": {
+    "name": "bieloruština"
+  },
+  "bg": {
+    "name": "bulharčina"
+  },
+  "bi": {
+    "name": "bislama"
+  },
+  "bm": {
+    "name": "bambarčina"
+  },
+  "bn": {
+    "name": "bengálčina"
+  },
+  "bo": {
+    "name": "tibetčina"
+  },
+  "br": {
+    "name": "bretónčina"
+  },
+  "bs": {
+    "name": "bosniačtina"
+  },
+  "ca": {
+    "name": "katalánčina"
+  },
+  "ce": {
+    "name": "čečenčina"
+  },
+  "ch": {
+    "name": "čamorčina"
+  },
+  "co": {
+    "name": "korzičtina"
+  },
+  "cr": {
+    "name": "krí"
+  },
+  "cs": {
+    "name": "čeština"
+  },
+  "cu": {
+    "name": "cirkevná slovančina"
+  },
+  "cv": {
+    "name": "čuvaština"
+  },
+  "cy": {
+    "name": "waleština"
+  },
+  "da": {
+    "name": "dánčina"
+  },
+  "de": {
+    "name": "nemčina"
+  },
+  "dv": {
+    "name": "maldivčina"
+  },
+  "dz": {
+    "name": "dzongkha"
+  },
+  "ee": {
+    "name": "eweština"
+  },
+  "el": {
+    "name": "gréčtina"
+  },
+  "en": {
+    "name": "angličtina"
+  },
+  "eo": {
+    "name": "esperanto"
+  },
+  "es": {
+    "name": "španielčina"
+  },
+  "et": {
+    "name": "estónčina"
+  },
+  "eu": {
+    "name": "baskičtina"
+  },
+  "fa": {
+    "name": "perzština"
+  },
+  "ff": {
+    "name": "fulbčina"
+  },
+  "fi": {
+    "name": "fínčina"
+  },
+  "fj": {
+    "name": "fidžijčina"
+  },
+  "fo": {
+    "name": "faerčina"
+  },
+  "fr": {
+    "name": "francúzština"
+  },
+  "fy": {
+    "name": "západná frízština"
+  },
+  "ga": {
+    "name": "írčina"
+  },
+  "gd": {
+    "name": "škótska gaelčina"
+  },
+  "gl": {
+    "name": "galícijčina"
+  },
+  "gn": {
+    "name": "guaraníjčina"
+  },
+  "gu": {
+    "name": "gudžarátčina"
+  },
+  "gv": {
+    "name": "mančina"
+  },
+  "ha": {
+    "name": "hauština"
+  },
+  "he": {
+    "name": "hebrejčina"
+  },
+  "hi": {
+    "name": "hindčina"
+  },
+  "ho": {
+    "name": "hiri motu"
+  },
+  "hr": {
+    "name": "chorvátčina"
+  },
+  "ht": {
+    "name": "haitská kreolčina"
+  },
+  "hu": {
+    "name": "maďarčina"
+  },
+  "hy": {
+    "name": "arménčina"
+  },
+  "hz": {
+    "name": "herero"
+  },
+  "ia": {
+    "name": "interlingua"
+  },
+  "id": {
+    "name": "indonézština"
+  },
+  "ie": {
+    "name": "interlingue"
+  },
+  "ig": {
+    "name": "igboština"
+  },
+  "ii": {
+    "name": "s’čchuanská iovčina"
+  },
+  "ik": {
+    "name": "inupik"
+  },
+  "io": {
+    "name": "ido"
+  },
+  "is": {
+    "name": "islandčina"
+  },
+  "it": {
+    "name": "taliančina"
+  },
+  "iu": {
+    "name": "inuktitut"
+  },
+  "ja": {
+    "name": "japončina"
+  },
+  "jv": {
+    "name": "jávčina"
+  },
+  "ka": {
+    "name": "gruzínčina"
+  },
+  "kg": {
+    "name": "kongčina"
+  },
+  "ki": {
+    "name": "kikujčina"
+  },
+  "kj": {
+    "name": "kuaňama"
+  },
+  "kk": {
+    "name": "kazaština"
+  },
+  "kl": {
+    "name": "grónčina"
+  },
+  "km": {
+    "name": "khmérčina"
+  },
+  "kn": {
+    "name": "kannadčina"
+  },
+  "ko": {
+    "name": "kórejčina"
+  },
+  "kr": {
+    "name": "kanurijčina"
+  },
+  "ks": {
+    "name": "kašmírčina"
+  },
+  "ku": {
+    "name": "kurdčina"
+  },
+  "kv": {
+    "name": "komijčina"
+  },
+  "kw": {
+    "name": "kornčina"
+  },
+  "ky": {
+    "name": "kirgizština"
+  },
+  "la": {
+    "name": "latinčina"
+  },
+  "lb": {
+    "name": "luxemburčina"
+  },
+  "lg": {
+    "name": "gandčina"
+  },
+  "li": {
+    "name": "limburčina"
+  },
+  "ln": {
+    "name": "lingalčina"
+  },
+  "lo": {
+    "name": "laoština"
+  },
+  "lt": {
+    "name": "litovčina"
+  },
+  "lu": {
+    "name": "lubčina (katanžská)"
+  },
+  "lv": {
+    "name": "lotyština"
+  },
+  "mg": {
+    "name": "malgaština"
+  },
+  "mh": {
+    "name": "marshallčina"
+  },
+  "mi": {
+    "name": "maorijčina"
+  },
+  "mk": {
+    "name": "macedónčina"
+  },
+  "ml": {
+    "name": "malajálamčina"
+  },
+  "mn": {
+    "name": "mongolčina"
+  },
+  "mr": {
+    "name": "maráthčina"
+  },
+  "ms": {
+    "name": "malajčina"
+  },
+  "mt": {
+    "name": "maltčina"
+  },
+  "my": {
+    "name": "barmčina"
+  },
+  "na": {
+    "name": "nauruština"
+  },
+  "nb": {
+    "name": "nórčina (bokmal)"
+  },
+  "nd": {
+    "name": "ndebelčina (severná)"
+  },
+  "ne": {
+    "name": "nepálčina"
+  },
+  "ng": {
+    "name": "ndonga"
+  },
+  "nl": {
+    "name": "holandčina"
+  },
+  "nn": {
+    "name": "nórčina (nynorsk)"
+  },
+  "no": {
+    "name": "nórčina"
+  },
+  "nr": {
+    "name": "ndebelčina (južná)"
+  },
+  "nv": {
+    "name": "navaho"
+  },
+  "ny": {
+    "name": "ňandža"
+  },
+  "oc": {
+    "name": "okcitánčina"
+  },
+  "oj": {
+    "name": "odžibva"
+  },
+  "om": {
+    "name": "oromčina"
+  },
+  "or": {
+    "name": "uríjčina"
+  },
+  "os": {
+    "name": "osetčina"
+  },
+  "pa": {
+    "name": "pandžábčina"
+  },
+  "pi": {
+    "name": "pálí"
+  },
+  "pl": {
+    "name": "poľština"
+  },
+  "ps": {
+    "name": "paštčina"
+  },
+  "pt": {
+    "name": "portugalčina"
+  },
+  "qu": {
+    "name": "kečuánčina"
+  },
+  "rm": {
+    "name": "rétorománčina"
+  },
+  "rn": {
+    "name": "rundčina"
+  },
+  "ro": {
+    "name": "rumunčina"
+  },
+  "ru": {
+    "name": "ruština"
+  },
+  "rw": {
+    "name": "rwandčina"
+  },
+  "sa": {
+    "name": "sanskrit"
+  },
+  "sc": {
+    "name": "sardínčina"
+  },
+  "sd": {
+    "name": "sindhčina"
+  },
+  "se": {
+    "name": "saamčina (severná)"
+  },
+  "sg": {
+    "name": "sango"
+  },
+  "sh": {
+    "name": "srbčina (latinka)"
+  },
+  "si": {
+    "name": "sinhalčina"
+  },
+  "sk": {
+    "name": "slovenčina"
+  },
+  "sl": {
+    "name": "slovinčina"
+  },
+  "sm": {
+    "name": "samojčina"
+  },
+  "sn": {
+    "name": "šončina"
+  },
+  "so": {
+    "name": "somálčina"
+  },
+  "sq": {
+    "name": "albánčina"
+  },
+  "sr": {
+    "name": "srbčina"
+  },
+  "ss": {
+    "name": "svazijčina"
+  },
+  "st": {
+    "name": "sothčina (južná)"
+  },
+  "su": {
+    "name": "sundčina"
+  },
+  "sv": {
+    "name": "švédčina"
+  },
+  "sw": {
+    "name": "swahilčina"
+  },
+  "ta": {
+    "name": "tamilčina"
+  },
+  "te": {
+    "name": "telugčina"
+  },
+  "tg": {
+    "name": "tadžičtina"
+  },
+  "th": {
+    "name": "thajčina"
+  },
+  "ti": {
+    "name": "tigriňa"
+  },
+  "tk": {
+    "name": "turkménčina"
+  },
+  "tl": {
+    "name": "filipínčina"
+  },
+  "tn": {
+    "name": "tswančina"
+  },
+  "to": {
+    "name": "tongčina"
+  },
+  "tr": {
+    "name": "turečtina"
+  },
+  "ts": {
+    "name": "tsongčina"
+  },
+  "tt": {
+    "name": "tatárčina"
+  },
+  "tw": {
+    "name": "akančina"
+  },
+  "ty": {
+    "name": "tahitčina"
+  },
+  "ug": {
+    "name": "ujgurčina"
+  },
+  "uk": {
+    "name": "ukrajinčina"
+  },
+  "ur": {
+    "name": "urdčina"
+  },
+  "uz": {
+    "name": "uzbečtina"
+  },
+  "ve": {
+    "name": "vendčina"
+  },
+  "vi": {
+    "name": "vietnamčina"
+  },
+  "vo": {
+    "name": "volapük"
+  },
+  "wa": {
+    "name": "valónčina"
+  },
+  "wo": {
+    "name": "wolofčina"
+  },
+  "xh": {
+    "name": "xhoština"
+  },
+  "yi": {
+    "name": "jidiš"
+  },
+  "yo": {
+    "name": "jorubčina"
+  },
+  "za": {
+    "name": "čuangčina"
+  },
+  "zh": {
+    "name": "čínština"
+  },
+  "zu": {
+    "name": "zuluština"
+  }
+}

@@ -1,0 +1,554 @@
+{
+  "aa": {
+    "name": "afár"
+  },
+  "ab": {
+    "name": "abkasíska"
+  },
+  "ae": {
+    "name": "avestíska"
+  },
+  "af": {
+    "name": "afríkanska"
+  },
+  "ak": {
+    "name": "akan"
+  },
+  "am": {
+    "name": "amharíska"
+  },
+  "an": {
+    "name": "aragonska"
+  },
+  "ar": {
+    "name": "arabíska"
+  },
+  "as": {
+    "name": "assamska"
+  },
+  "av": {
+    "name": "avaríska"
+  },
+  "ay": {
+    "name": "aímara"
+  },
+  "az": {
+    "name": "aserska"
+  },
+  "ba": {
+    "name": "baskír"
+  },
+  "be": {
+    "name": "hvítrússneska"
+  },
+  "bg": {
+    "name": "búlgarska"
+  },
+  "bi": {
+    "name": "bíslama"
+  },
+  "bm": {
+    "name": "bambara"
+  },
+  "bn": {
+    "name": "bengalska"
+  },
+  "bo": {
+    "name": "tíbeska"
+  },
+  "br": {
+    "name": "bretónska"
+  },
+  "bs": {
+    "name": "bosníska"
+  },
+  "ca": {
+    "name": "katalónska"
+  },
+  "ce": {
+    "name": "tsjetsjenska"
+  },
+  "ch": {
+    "name": "kamorró"
+  },
+  "co": {
+    "name": "korsíska"
+  },
+  "cr": {
+    "name": "krí"
+  },
+  "cs": {
+    "name": "tékkneska"
+  },
+  "cu": {
+    "name": "kirkjuslavneska"
+  },
+  "cv": {
+    "name": "sjúvas"
+  },
+  "cy": {
+    "name": "velska"
+  },
+  "da": {
+    "name": "danska"
+  },
+  "de": {
+    "name": "þýska"
+  },
+  "dv": {
+    "name": "dívehí"
+  },
+  "dz": {
+    "name": "dsongka"
+  },
+  "ee": {
+    "name": "ewe"
+  },
+  "el": {
+    "name": "gríska"
+  },
+  "en": {
+    "name": "enska"
+  },
+  "eo": {
+    "name": "esperantó"
+  },
+  "es": {
+    "name": "spænska"
+  },
+  "et": {
+    "name": "eistneska"
+  },
+  "eu": {
+    "name": "baskneska"
+  },
+  "fa": {
+    "name": "persneska"
+  },
+  "ff": {
+    "name": "fúla"
+  },
+  "fi": {
+    "name": "finnska"
+  },
+  "fj": {
+    "name": "fídjeyska"
+  },
+  "fo": {
+    "name": "færeyska"
+  },
+  "fr": {
+    "name": "franska"
+  },
+  "fy": {
+    "name": "vesturfrísneska"
+  },
+  "ga": {
+    "name": "írska"
+  },
+  "gd": {
+    "name": "skosk gelíska"
+  },
+  "gl": {
+    "name": "galisíska"
+  },
+  "gn": {
+    "name": "gvaraní"
+  },
+  "gu": {
+    "name": "gújaratí"
+  },
+  "gv": {
+    "name": "manska"
+  },
+  "ha": {
+    "name": "hása"
+  },
+  "he": {
+    "name": "hebreska"
+  },
+  "hi": {
+    "name": "hindí"
+  },
+  "ho": {
+    "name": "hírímótú"
+  },
+  "hr": {
+    "name": "króatíska"
+  },
+  "ht": {
+    "name": "haítíska"
+  },
+  "hu": {
+    "name": "ungverska"
+  },
+  "hy": {
+    "name": "armenska"
+  },
+  "hz": {
+    "name": "hereró"
+  },
+  "ia": {
+    "name": "interlingua"
+  },
+  "id": {
+    "name": "indónesíska"
+  },
+  "ie": {
+    "name": "interlingve"
+  },
+  "ig": {
+    "name": "ígbó"
+  },
+  "ii": {
+    "name": "sísúanjí"
+  },
+  "ik": {
+    "name": "ínúpíak"
+  },
+  "io": {
+    "name": "ídó"
+  },
+  "is": {
+    "name": "íslenska"
+  },
+  "it": {
+    "name": "ítalska"
+  },
+  "iu": {
+    "name": "inúktitút"
+  },
+  "ja": {
+    "name": "japanska"
+  },
+  "jv": {
+    "name": "javanska"
+  },
+  "ka": {
+    "name": "georgíska"
+  },
+  "kg": {
+    "name": "kongóska"
+  },
+  "ki": {
+    "name": "kíkújú"
+  },
+  "kj": {
+    "name": "kúanjama"
+  },
+  "kk": {
+    "name": "kasakska"
+  },
+  "kl": {
+    "name": "grænlenska"
+  },
+  "km": {
+    "name": "kmer"
+  },
+  "kn": {
+    "name": "kannada"
+  },
+  "ko": {
+    "name": "kóreska"
+  },
+  "kr": {
+    "name": "kanúrí"
+  },
+  "ks": {
+    "name": "kasmírska"
+  },
+  "ku": {
+    "name": "kúrdíska"
+  },
+  "kv": {
+    "name": "komíska"
+  },
+  "kw": {
+    "name": "kornbreska"
+  },
+  "ky": {
+    "name": "kirgiska"
+  },
+  "la": {
+    "name": "latína"
+  },
+  "lb": {
+    "name": "lúxemborgíska"
+  },
+  "lg": {
+    "name": "ganda"
+  },
+  "li": {
+    "name": "limbúrgíska"
+  },
+  "ln": {
+    "name": "lingala"
+  },
+  "lo": {
+    "name": "laó"
+  },
+  "lt": {
+    "name": "litháíska"
+  },
+  "lu": {
+    "name": "lúbakatanga"
+  },
+  "lv": {
+    "name": "lettneska"
+  },
+  "mg": {
+    "name": "malagasíska"
+  },
+  "mh": {
+    "name": "marshallska"
+  },
+  "mi": {
+    "name": "maorí"
+  },
+  "mk": {
+    "name": "makedónska"
+  },
+  "ml": {
+    "name": "malajalam"
+  },
+  "mn": {
+    "name": "mongólska"
+  },
+  "mr": {
+    "name": "maratí"
+  },
+  "ms": {
+    "name": "malaíska"
+  },
+  "mt": {
+    "name": "maltneska"
+  },
+  "my": {
+    "name": "búrmneska"
+  },
+  "na": {
+    "name": "nárúska"
+  },
+  "nb": {
+    "name": "norskt bókmál"
+  },
+  "nd": {
+    "name": "norður-ndebele"
+  },
+  "ne": {
+    "name": "nepalska"
+  },
+  "ng": {
+    "name": "ndonga"
+  },
+  "nl": {
+    "name": "hollenska"
+  },
+  "nn": {
+    "name": "nýnorska"
+  },
+  "no": {
+    "name": "norska"
+  },
+  "nr": {
+    "name": "suðurndebele"
+  },
+  "nv": {
+    "name": "navahó"
+  },
+  "ny": {
+    "name": "nýanja"
+  },
+  "oc": {
+    "name": "oksítaníska"
+  },
+  "oj": {
+    "name": "ojibva"
+  },
+  "om": {
+    "name": "oromo"
+  },
+  "or": {
+    "name": "óría"
+  },
+  "os": {
+    "name": "ossetíska"
+  },
+  "pa": {
+    "name": "púnjabí"
+  },
+  "pi": {
+    "name": "palí"
+  },
+  "pl": {
+    "name": "pólska"
+  },
+  "ps": {
+    "name": "pastú"
+  },
+  "pt": {
+    "name": "portúgalska"
+  },
+  "qu": {
+    "name": "kvesjúa"
+  },
+  "rm": {
+    "name": "rómanska"
+  },
+  "rn": {
+    "name": "rúndí"
+  },
+  "ro": {
+    "name": "rúmenska"
+  },
+  "ru": {
+    "name": "rússneska"
+  },
+  "rw": {
+    "name": "kínjarvanda"
+  },
+  "sa": {
+    "name": "sanskrít"
+  },
+  "sc": {
+    "name": "sardínska"
+  },
+  "sd": {
+    "name": "sindí"
+  },
+  "se": {
+    "name": "norðursamíska"
+  },
+  "sg": {
+    "name": "sangó"
+  },
+  "sh": {
+    "name": "serbneska (latneskt)"
+  },
+  "si": {
+    "name": "singalíska"
+  },
+  "sk": {
+    "name": "slóvakíska"
+  },
+  "sl": {
+    "name": "slóvenska"
+  },
+  "sm": {
+    "name": "samóska"
+  },
+  "sn": {
+    "name": "shona"
+  },
+  "so": {
+    "name": "sómalska"
+  },
+  "sq": {
+    "name": "albanska"
+  },
+  "sr": {
+    "name": "serbneska"
+  },
+  "ss": {
+    "name": "svatí"
+  },
+  "st": {
+    "name": "suðursótó"
+  },
+  "su": {
+    "name": "súndanska"
+  },
+  "sv": {
+    "name": "sænska"
+  },
+  "sw": {
+    "name": "svahílí"
+  },
+  "ta": {
+    "name": "tamílska"
+  },
+  "te": {
+    "name": "telúgú"
+  },
+  "tg": {
+    "name": "tadsjikska"
+  },
+  "th": {
+    "name": "taílenska"
+  },
+  "ti": {
+    "name": "tígrinja"
+  },
+  "tk": {
+    "name": "túrkmenska"
+  },
+  "tl": {
+    "name": "filippseyska"
+  },
+  "tn": {
+    "name": "tsúana"
+  },
+  "to": {
+    "name": "tongverska"
+  },
+  "tr": {
+    "name": "tyrkneska"
+  },
+  "ts": {
+    "name": "tsonga"
+  },
+  "tt": {
+    "name": "tatarska"
+  },
+  "tw": {
+    "name": "akan"
+  },
+  "ty": {
+    "name": "tahítíska"
+  },
+  "ug": {
+    "name": "úígúr"
+  },
+  "uk": {
+    "name": "úkraínska"
+  },
+  "ur": {
+    "name": "úrdú"
+  },
+  "uz": {
+    "name": "úsbekska"
+  },
+  "ve": {
+    "name": "venda"
+  },
+  "vi": {
+    "name": "víetnamska"
+  },
+  "vo": {
+    "name": "volapyk"
+  },
+  "wa": {
+    "name": "vallónska"
+  },
+  "wo": {
+    "name": "volof"
+  },
+  "xh": {
+    "name": "sósa"
+  },
+  "yi": {
+    "name": "jiddíska"
+  },
+  "yo": {
+    "name": "jórúba"
+  },
+  "za": {
+    "name": "súang"
+  },
+  "zh": {
+    "name": "kínverska"
+  },
+  "zu": {
+    "name": "súlú"
+  }
+}

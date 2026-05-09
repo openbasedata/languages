@@ -1,0 +1,554 @@
+{
+  "aa": {
+    "name": "Kiafar"
+  },
+  "ab": {
+    "name": "Kiabkhazi"
+  },
+  "ae": {
+    "name": "ae"
+  },
+  "af": {
+    "name": "Kiafrikana"
+  },
+  "ak": {
+    "name": "Kiakani"
+  },
+  "am": {
+    "name": "Kiamhari"
+  },
+  "an": {
+    "name": "Kiaragoni"
+  },
+  "ar": {
+    "name": "Kiarabu"
+  },
+  "as": {
+    "name": "Kiassam"
+  },
+  "av": {
+    "name": "Kiavari"
+  },
+  "ay": {
+    "name": "Kiaymara"
+  },
+  "az": {
+    "name": "Kiazerbaijani"
+  },
+  "ba": {
+    "name": "Kibashkiri"
+  },
+  "be": {
+    "name": "Kibelarusi"
+  },
+  "bg": {
+    "name": "Kibulgaria"
+  },
+  "bi": {
+    "name": "Kibislama"
+  },
+  "bm": {
+    "name": "Kibambara"
+  },
+  "bn": {
+    "name": "Kibengali"
+  },
+  "bo": {
+    "name": "Kitibeti"
+  },
+  "br": {
+    "name": "Kibretoni"
+  },
+  "bs": {
+    "name": "Kibosnia"
+  },
+  "ca": {
+    "name": "Kikatalani"
+  },
+  "ce": {
+    "name": "Kichechenia"
+  },
+  "ch": {
+    "name": "Kichamorro"
+  },
+  "co": {
+    "name": "Kikosikani"
+  },
+  "cr": {
+    "name": "cr"
+  },
+  "cs": {
+    "name": "Kicheki"
+  },
+  "cu": {
+    "name": "Kislovakia cha Kanisa"
+  },
+  "cv": {
+    "name": "Kichuvash"
+  },
+  "cy": {
+    "name": "Kiwelisi"
+  },
+  "da": {
+    "name": "Kidenmaki"
+  },
+  "de": {
+    "name": "Kijerumani"
+  },
+  "dv": {
+    "name": "Kidivehi"
+  },
+  "dz": {
+    "name": "Kizongkha"
+  },
+  "ee": {
+    "name": "Kiewe"
+  },
+  "el": {
+    "name": "Kigiriki"
+  },
+  "en": {
+    "name": "Kiingereza"
+  },
+  "eo": {
+    "name": "Kiesperanto"
+  },
+  "es": {
+    "name": "Kihispania"
+  },
+  "et": {
+    "name": "Kiestonia"
+  },
+  "eu": {
+    "name": "Kibaski"
+  },
+  "fa": {
+    "name": "Kiajemi"
+  },
+  "ff": {
+    "name": "Kifulani"
+  },
+  "fi": {
+    "name": "Kifini"
+  },
+  "fj": {
+    "name": "Kifiji"
+  },
+  "fo": {
+    "name": "Kifaroe"
+  },
+  "fr": {
+    "name": "Kifaransa"
+  },
+  "fy": {
+    "name": "Kifrisia cha Magharibi"
+  },
+  "ga": {
+    "name": "Kiayalandi"
+  },
+  "gd": {
+    "name": "Kigaeli cha Uskoti"
+  },
+  "gl": {
+    "name": "Kigalisi"
+  },
+  "gn": {
+    "name": "Kiguarani"
+  },
+  "gu": {
+    "name": "Kigujarati"
+  },
+  "gv": {
+    "name": "Kimanx"
+  },
+  "ha": {
+    "name": "Kihausa"
+  },
+  "he": {
+    "name": "Kiebrania"
+  },
+  "hi": {
+    "name": "Kihindi"
+  },
+  "ho": {
+    "name": "ho"
+  },
+  "hr": {
+    "name": "Kikorasia"
+  },
+  "ht": {
+    "name": "Kihaiti"
+  },
+  "hu": {
+    "name": "Kihungaria"
+  },
+  "hy": {
+    "name": "Kiarmenia"
+  },
+  "hz": {
+    "name": "Kiherero"
+  },
+  "ia": {
+    "name": "Kiintalingua"
+  },
+  "id": {
+    "name": "Kiindonesia"
+  },
+  "ie": {
+    "name": "lugha ya kisayansi"
+  },
+  "ig": {
+    "name": "Kiigbo"
+  },
+  "ii": {
+    "name": "Kiyi cha Sichuan"
+  },
+  "ik": {
+    "name": "ik"
+  },
+  "io": {
+    "name": "Kiido"
+  },
+  "is": {
+    "name": "Kiisilandi"
+  },
+  "it": {
+    "name": "Kiitaliano"
+  },
+  "iu": {
+    "name": "Kiinuktituti"
+  },
+  "ja": {
+    "name": "Kijapani"
+  },
+  "jv": {
+    "name": "Kijava"
+  },
+  "ka": {
+    "name": "Kijojia"
+  },
+  "kg": {
+    "name": "Kikongo"
+  },
+  "ki": {
+    "name": "Kikikuyu"
+  },
+  "kj": {
+    "name": "Kikwanyama"
+  },
+  "kk": {
+    "name": "Kikazakh"
+  },
+  "kl": {
+    "name": "Kikalaallisut"
+  },
+  "km": {
+    "name": "Kikambodia"
+  },
+  "kn": {
+    "name": "Kikannada"
+  },
+  "ko": {
+    "name": "Kikorea"
+  },
+  "kr": {
+    "name": "Kikanuri"
+  },
+  "ks": {
+    "name": "Kikashmiri"
+  },
+  "ku": {
+    "name": "Kikurdi"
+  },
+  "kv": {
+    "name": "Kikomi"
+  },
+  "kw": {
+    "name": "Kikorni"
+  },
+  "ky": {
+    "name": "Kikyrgyz"
+  },
+  "la": {
+    "name": "Kilatini"
+  },
+  "lb": {
+    "name": "Kilasembagi"
+  },
+  "lg": {
+    "name": "Kiganda"
+  },
+  "li": {
+    "name": "Limburgish"
+  },
+  "ln": {
+    "name": "Kilingala"
+  },
+  "lo": {
+    "name": "Kilaosi"
+  },
+  "lt": {
+    "name": "Kilithuania"
+  },
+  "lu": {
+    "name": "Kiluba-Katanga"
+  },
+  "lv": {
+    "name": "Kilatvia"
+  },
+  "mg": {
+    "name": "Kimalagasi"
+  },
+  "mh": {
+    "name": "Kimashale"
+  },
+  "mi": {
+    "name": "Kimaori"
+  },
+  "mk": {
+    "name": "Kimacedonia"
+  },
+  "ml": {
+    "name": "Kimalayalamu"
+  },
+  "mn": {
+    "name": "Kimongolia"
+  },
+  "mr": {
+    "name": "Kimarathi"
+  },
+  "ms": {
+    "name": "Kimalei"
+  },
+  "mt": {
+    "name": "Kimalta"
+  },
+  "my": {
+    "name": "Kiburma"
+  },
+  "na": {
+    "name": "Kinauru"
+  },
+  "nb": {
+    "name": "Kinorwe cha Bokmal"
+  },
+  "nd": {
+    "name": "Kindebele cha Kaskazini"
+  },
+  "ne": {
+    "name": "Kinepali"
+  },
+  "ng": {
+    "name": "Kindonga"
+  },
+  "nl": {
+    "name": "Kiholanzi"
+  },
+  "nn": {
+    "name": "Kinorwe cha Nynorsk"
+  },
+  "no": {
+    "name": "Kinorwe"
+  },
+  "nr": {
+    "name": "Kindebele"
+  },
+  "nv": {
+    "name": "Kinavajo"
+  },
+  "ny": {
+    "name": "Kinyanja"
+  },
+  "oc": {
+    "name": "Kiokitani"
+  },
+  "oj": {
+    "name": "oj"
+  },
+  "om": {
+    "name": "Kioromo"
+  },
+  "or": {
+    "name": "Kioriya"
+  },
+  "os": {
+    "name": "Kiosetia"
+  },
+  "pa": {
+    "name": "Kipunjabi"
+  },
+  "pi": {
+    "name": "pi"
+  },
+  "pl": {
+    "name": "Kipolandi"
+  },
+  "ps": {
+    "name": "Kipashto"
+  },
+  "pt": {
+    "name": "Kireno"
+  },
+  "qu": {
+    "name": "Kikechua"
+  },
+  "rm": {
+    "name": "Kiromanshi"
+  },
+  "rn": {
+    "name": "Kirundi"
+  },
+  "ro": {
+    "name": "Kiromania"
+  },
+  "ru": {
+    "name": "Kirusi"
+  },
+  "rw": {
+    "name": "Kinyarwanda"
+  },
+  "sa": {
+    "name": "Kisanskriti"
+  },
+  "sc": {
+    "name": "Kisardinia"
+  },
+  "sd": {
+    "name": "Kisindhi"
+  },
+  "se": {
+    "name": "Kisami cha Kaskazini"
+  },
+  "sg": {
+    "name": "Kisango"
+  },
+  "sh": {
+    "name": "Kiserbia (Kilatini)"
+  },
+  "si": {
+    "name": "Kisinhala"
+  },
+  "sk": {
+    "name": "Kislovakia"
+  },
+  "sl": {
+    "name": "Kislovenia"
+  },
+  "sm": {
+    "name": "Kisamoa"
+  },
+  "sn": {
+    "name": "Kishona"
+  },
+  "so": {
+    "name": "Kisomali"
+  },
+  "sq": {
+    "name": "Kialbania"
+  },
+  "sr": {
+    "name": "Kiserbia"
+  },
+  "ss": {
+    "name": "Kiswati"
+  },
+  "st": {
+    "name": "Kisotho"
+  },
+  "su": {
+    "name": "Kisunda"
+  },
+  "sv": {
+    "name": "Kiswidi"
+  },
+  "sw": {
+    "name": "Kiswahili"
+  },
+  "ta": {
+    "name": "Kitamili"
+  },
+  "te": {
+    "name": "Kitelugu"
+  },
+  "tg": {
+    "name": "Kitajiki"
+  },
+  "th": {
+    "name": "Kithai"
+  },
+  "ti": {
+    "name": "Kitigrinya"
+  },
+  "tk": {
+    "name": "Kiturukimeni"
+  },
+  "tl": {
+    "name": "Kifilipino"
+  },
+  "tn": {
+    "name": "Kitswana"
+  },
+  "to": {
+    "name": "Kitonga"
+  },
+  "tr": {
+    "name": "Kituruki"
+  },
+  "ts": {
+    "name": "Kitsonga"
+  },
+  "tt": {
+    "name": "Kitatari"
+  },
+  "tw": {
+    "name": "Kiakani"
+  },
+  "ty": {
+    "name": "Kitahiti"
+  },
+  "ug": {
+    "name": "Kiuyghur"
+  },
+  "uk": {
+    "name": "Kiukraini"
+  },
+  "ur": {
+    "name": "Kiurdu"
+  },
+  "uz": {
+    "name": "Kiuzbeki"
+  },
+  "ve": {
+    "name": "Kivenda"
+  },
+  "vi": {
+    "name": "Kivietinamu"
+  },
+  "vo": {
+    "name": "Kivolapuk"
+  },
+  "wa": {
+    "name": "Kiwaloon"
+  },
+  "wo": {
+    "name": "Kiwolofu"
+  },
+  "xh": {
+    "name": "Kixhosa"
+  },
+  "yi": {
+    "name": "Kiyiddi"
+  },
+  "yo": {
+    "name": "Kiyoruba"
+  },
+  "za": {
+    "name": "Kizhuang"
+  },
+  "zh": {
+    "name": "Kichina"
+  },
+  "zu": {
+    "name": "Kizulu"
+  }
+}

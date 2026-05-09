@@ -1,0 +1,554 @@
+{
+  "aa": {
+    "name": "afar dili"
+  },
+  "ab": {
+    "name": "abhaz dili"
+  },
+  "ae": {
+    "name": "ae"
+  },
+  "af": {
+    "name": "afrikaans dili"
+  },
+  "ak": {
+    "name": "akan dili"
+  },
+  "am": {
+    "name": "amhar dili"
+  },
+  "an": {
+    "name": "aragon dili"
+  },
+  "ar": {
+    "name": "arap dili"
+  },
+  "as": {
+    "name": "assam dili"
+  },
+  "av": {
+    "name": "awar dili"
+  },
+  "ay": {
+    "name": "aýmara dili"
+  },
+  "az": {
+    "name": "azerbaýjan dili"
+  },
+  "ba": {
+    "name": "başgyrt dili"
+  },
+  "be": {
+    "name": "belarus dili"
+  },
+  "bg": {
+    "name": "bolgar dili"
+  },
+  "bi": {
+    "name": "bislama dili"
+  },
+  "bm": {
+    "name": "bamana"
+  },
+  "bn": {
+    "name": "bengal dili"
+  },
+  "bo": {
+    "name": "tibet dili"
+  },
+  "br": {
+    "name": "breton dili"
+  },
+  "bs": {
+    "name": "bosniýa dili"
+  },
+  "ca": {
+    "name": "katalan dili"
+  },
+  "ce": {
+    "name": "çeçen dili"
+  },
+  "ch": {
+    "name": "çamorro"
+  },
+  "co": {
+    "name": "korsikan dili"
+  },
+  "cr": {
+    "name": "cr"
+  },
+  "cs": {
+    "name": "çeh dili"
+  },
+  "cu": {
+    "name": "buthana slaw dili"
+  },
+  "cv": {
+    "name": "çuwaş dili"
+  },
+  "cy": {
+    "name": "walliý dili"
+  },
+  "da": {
+    "name": "daniýa dili"
+  },
+  "de": {
+    "name": "nemes dili"
+  },
+  "dv": {
+    "name": "diwehi dili"
+  },
+  "dz": {
+    "name": "dzong-ke dili"
+  },
+  "ee": {
+    "name": "ewe dili"
+  },
+  "el": {
+    "name": "grek dili"
+  },
+  "en": {
+    "name": "iňlis dili"
+  },
+  "eo": {
+    "name": "esperanto dili"
+  },
+  "es": {
+    "name": "ispan dili"
+  },
+  "et": {
+    "name": "eston dili"
+  },
+  "eu": {
+    "name": "bask dili"
+  },
+  "fa": {
+    "name": "pars dili"
+  },
+  "ff": {
+    "name": "fula dili"
+  },
+  "fi": {
+    "name": "fin dili"
+  },
+  "fj": {
+    "name": "fiji dili"
+  },
+  "fo": {
+    "name": "farer dili"
+  },
+  "fr": {
+    "name": "fransuz dili"
+  },
+  "fy": {
+    "name": "günbatar friz dili"
+  },
+  "ga": {
+    "name": "irland dili"
+  },
+  "gd": {
+    "name": "şotland kelt dili"
+  },
+  "gl": {
+    "name": "galisiý dili"
+  },
+  "gn": {
+    "name": "guarani dili"
+  },
+  "gu": {
+    "name": "gujarati dili"
+  },
+  "gv": {
+    "name": "men dili"
+  },
+  "ha": {
+    "name": "hausa dili"
+  },
+  "he": {
+    "name": "ýewreý dili"
+  },
+  "hi": {
+    "name": "hindi dili"
+  },
+  "ho": {
+    "name": "ho"
+  },
+  "hr": {
+    "name": "horwat dili"
+  },
+  "ht": {
+    "name": "gaiti kreol dili"
+  },
+  "hu": {
+    "name": "wenger dili"
+  },
+  "hy": {
+    "name": "ermeni dili"
+  },
+  "hz": {
+    "name": "gerero dili"
+  },
+  "ia": {
+    "name": "interlingwa dili"
+  },
+  "id": {
+    "name": "indonez dili"
+  },
+  "ie": {
+    "name": "interlingwe dili"
+  },
+  "ig": {
+    "name": "igbo dili"
+  },
+  "ii": {
+    "name": "syçuan-i dili"
+  },
+  "ik": {
+    "name": "ik"
+  },
+  "io": {
+    "name": "ido dili"
+  },
+  "is": {
+    "name": "island dili"
+  },
+  "it": {
+    "name": "italýan dili"
+  },
+  "iu": {
+    "name": "inuktitut dili"
+  },
+  "ja": {
+    "name": "ýapon dili"
+  },
+  "jv": {
+    "name": "ýawa dili"
+  },
+  "ka": {
+    "name": "gruzin dili"
+  },
+  "kg": {
+    "name": "kg"
+  },
+  "ki": {
+    "name": "kikuýu dili"
+  },
+  "kj": {
+    "name": "kwanýama dili"
+  },
+  "kk": {
+    "name": "gazak dili"
+  },
+  "kl": {
+    "name": "grenland dili"
+  },
+  "km": {
+    "name": "khmer dili"
+  },
+  "kn": {
+    "name": "kannada dili"
+  },
+  "ko": {
+    "name": "koreý dili"
+  },
+  "kr": {
+    "name": "kanuri"
+  },
+  "ks": {
+    "name": "kaşmiri dili"
+  },
+  "ku": {
+    "name": "kürt dili"
+  },
+  "kv": {
+    "name": "komi dili"
+  },
+  "kw": {
+    "name": "korn dili"
+  },
+  "ky": {
+    "name": "gyrgyz dili"
+  },
+  "la": {
+    "name": "latyn dili"
+  },
+  "lb": {
+    "name": "lýuksemburg dili"
+  },
+  "lg": {
+    "name": "ganda dili"
+  },
+  "li": {
+    "name": "limburg dili"
+  },
+  "ln": {
+    "name": "lingala dili"
+  },
+  "lo": {
+    "name": "laos dili"
+  },
+  "lt": {
+    "name": "litwa dili"
+  },
+  "lu": {
+    "name": "luba-katanga dili"
+  },
+  "lv": {
+    "name": "latyş dili"
+  },
+  "mg": {
+    "name": "malagasiý dili"
+  },
+  "mh": {
+    "name": "marşall dili"
+  },
+  "mi": {
+    "name": "maori dili"
+  },
+  "mk": {
+    "name": "makedon dili"
+  },
+  "ml": {
+    "name": "malaýalam dili"
+  },
+  "mn": {
+    "name": "mongol dili"
+  },
+  "mr": {
+    "name": "marathi dili"
+  },
+  "ms": {
+    "name": "malaý dili"
+  },
+  "mt": {
+    "name": "malta dili"
+  },
+  "my": {
+    "name": "birma dili"
+  },
+  "na": {
+    "name": "nauru dili"
+  },
+  "nb": {
+    "name": "norwegiýa bukmol dili"
+  },
+  "nd": {
+    "name": "demirgazyk ndebele dili"
+  },
+  "ne": {
+    "name": "nepal dili"
+  },
+  "ng": {
+    "name": "ndonga dili"
+  },
+  "nl": {
+    "name": "niderland dili"
+  },
+  "nn": {
+    "name": "norwegiýa nýunorsk dili"
+  },
+  "no": {
+    "name": "norweg dili"
+  },
+  "nr": {
+    "name": "günorta ndebele dili"
+  },
+  "nv": {
+    "name": "nawaho dili"
+  },
+  "ny": {
+    "name": "nýanja dili"
+  },
+  "oc": {
+    "name": "oksitan dili"
+  },
+  "oj": {
+    "name": "oj"
+  },
+  "om": {
+    "name": "oromo dili"
+  },
+  "or": {
+    "name": "oriýa dili"
+  },
+  "os": {
+    "name": "osetin dili"
+  },
+  "pa": {
+    "name": "penjab dili"
+  },
+  "pi": {
+    "name": "pi"
+  },
+  "pl": {
+    "name": "polýak dili"
+  },
+  "ps": {
+    "name": "puştu dili"
+  },
+  "pt": {
+    "name": "portugal dili"
+  },
+  "qu": {
+    "name": "keçua dili"
+  },
+  "rm": {
+    "name": "retoroman dili"
+  },
+  "rn": {
+    "name": "rundi dili"
+  },
+  "ro": {
+    "name": "rumyn dili"
+  },
+  "ru": {
+    "name": "rus dili"
+  },
+  "rw": {
+    "name": "kinýaruanda dili"
+  },
+  "sa": {
+    "name": "sanskrit dili"
+  },
+  "sc": {
+    "name": "sardin dili"
+  },
+  "sd": {
+    "name": "sindhi dili"
+  },
+  "se": {
+    "name": "demirgazyk saam dili"
+  },
+  "sg": {
+    "name": "sango dili"
+  },
+  "sh": {
+    "name": "serb dili (Latyn elipbiýi)"
+  },
+  "si": {
+    "name": "singal dili"
+  },
+  "sk": {
+    "name": "slowak dili"
+  },
+  "sl": {
+    "name": "slowen dili"
+  },
+  "sm": {
+    "name": "samoa dili"
+  },
+  "sn": {
+    "name": "şona dili"
+  },
+  "so": {
+    "name": "somali dili"
+  },
+  "sq": {
+    "name": "alban dili"
+  },
+  "sr": {
+    "name": "serb dili"
+  },
+  "ss": {
+    "name": "swati dili"
+  },
+  "st": {
+    "name": "günorta soto dili"
+  },
+  "su": {
+    "name": "sundan dili"
+  },
+  "sv": {
+    "name": "şwed dili"
+  },
+  "sw": {
+    "name": "suahili dili"
+  },
+  "ta": {
+    "name": "tamil dili"
+  },
+  "te": {
+    "name": "telugu dili"
+  },
+  "tg": {
+    "name": "täjik dili"
+  },
+  "th": {
+    "name": "taý dili"
+  },
+  "ti": {
+    "name": "tigrinýa dili"
+  },
+  "tk": {
+    "name": "türkmen dili"
+  },
+  "tl": {
+    "name": "filippin dili"
+  },
+  "tn": {
+    "name": "tswana dili"
+  },
+  "to": {
+    "name": "tongan dili"
+  },
+  "tr": {
+    "name": "türk dili"
+  },
+  "ts": {
+    "name": "tsonga dili"
+  },
+  "tt": {
+    "name": "tatar dili"
+  },
+  "tw": {
+    "name": "akan dili"
+  },
+  "ty": {
+    "name": "taiti dili"
+  },
+  "ug": {
+    "name": "uýgur dili"
+  },
+  "uk": {
+    "name": "ukrain dili"
+  },
+  "ur": {
+    "name": "urdu"
+  },
+  "uz": {
+    "name": "özbek dili"
+  },
+  "ve": {
+    "name": "wenda dili"
+  },
+  "vi": {
+    "name": "wýetnam dili"
+  },
+  "vo": {
+    "name": "wolapýuk dili"
+  },
+  "wa": {
+    "name": "wallon dili"
+  },
+  "wo": {
+    "name": "wolof dili"
+  },
+  "xh": {
+    "name": "kosa dili"
+  },
+  "yi": {
+    "name": "idiş dili"
+  },
+  "yo": {
+    "name": "ýoruba dili"
+  },
+  "za": {
+    "name": "çžuan dili"
+  },
+  "zh": {
+    "name": "hytaý dili"
+  },
+  "zu": {
+    "name": "zulu dili"
+  }
+}

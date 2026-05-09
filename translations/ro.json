@@ -1,0 +1,554 @@
+{
+  "aa": {
+    "name": "afar"
+  },
+  "ab": {
+    "name": "abhază"
+  },
+  "ae": {
+    "name": "avestană"
+  },
+  "af": {
+    "name": "afrikaans"
+  },
+  "ak": {
+    "name": "akan"
+  },
+  "am": {
+    "name": "amharică"
+  },
+  "an": {
+    "name": "aragoneză"
+  },
+  "ar": {
+    "name": "arabă"
+  },
+  "as": {
+    "name": "asameză"
+  },
+  "av": {
+    "name": "avară"
+  },
+  "ay": {
+    "name": "aymara"
+  },
+  "az": {
+    "name": "azeră"
+  },
+  "ba": {
+    "name": "bașkiră"
+  },
+  "be": {
+    "name": "belarusă"
+  },
+  "bg": {
+    "name": "bulgară"
+  },
+  "bi": {
+    "name": "bislama"
+  },
+  "bm": {
+    "name": "bambara"
+  },
+  "bn": {
+    "name": "bengaleză"
+  },
+  "bo": {
+    "name": "tibetană"
+  },
+  "br": {
+    "name": "bretonă"
+  },
+  "bs": {
+    "name": "bosniacă"
+  },
+  "ca": {
+    "name": "catalană"
+  },
+  "ce": {
+    "name": "cecenă"
+  },
+  "ch": {
+    "name": "chamorro"
+  },
+  "co": {
+    "name": "corsicană"
+  },
+  "cr": {
+    "name": "cree"
+  },
+  "cs": {
+    "name": "cehă"
+  },
+  "cu": {
+    "name": "slavonă"
+  },
+  "cv": {
+    "name": "ciuvașă"
+  },
+  "cy": {
+    "name": "galeză"
+  },
+  "da": {
+    "name": "daneză"
+  },
+  "de": {
+    "name": "germană"
+  },
+  "dv": {
+    "name": "divehi"
+  },
+  "dz": {
+    "name": "dzongkha"
+  },
+  "ee": {
+    "name": "ewe"
+  },
+  "el": {
+    "name": "greacă"
+  },
+  "en": {
+    "name": "engleză"
+  },
+  "eo": {
+    "name": "esperanto"
+  },
+  "es": {
+    "name": "spaniolă"
+  },
+  "et": {
+    "name": "estonă"
+  },
+  "eu": {
+    "name": "bască"
+  },
+  "fa": {
+    "name": "persană"
+  },
+  "ff": {
+    "name": "fulah"
+  },
+  "fi": {
+    "name": "finlandeză"
+  },
+  "fj": {
+    "name": "fijiană"
+  },
+  "fo": {
+    "name": "feroeză"
+  },
+  "fr": {
+    "name": "franceză"
+  },
+  "fy": {
+    "name": "frizonă occidentală"
+  },
+  "ga": {
+    "name": "irlandeză"
+  },
+  "gd": {
+    "name": "gaelică scoțiană"
+  },
+  "gl": {
+    "name": "galiciană"
+  },
+  "gn": {
+    "name": "guarani"
+  },
+  "gu": {
+    "name": "gujarati"
+  },
+  "gv": {
+    "name": "manx"
+  },
+  "ha": {
+    "name": "hausa"
+  },
+  "he": {
+    "name": "ebraică"
+  },
+  "hi": {
+    "name": "hindi"
+  },
+  "ho": {
+    "name": "hiri motu"
+  },
+  "hr": {
+    "name": "croată"
+  },
+  "ht": {
+    "name": "haitiană"
+  },
+  "hu": {
+    "name": "maghiară"
+  },
+  "hy": {
+    "name": "armeană"
+  },
+  "hz": {
+    "name": "herero"
+  },
+  "ia": {
+    "name": "interlingua"
+  },
+  "id": {
+    "name": "indoneziană"
+  },
+  "ie": {
+    "name": "interlingue"
+  },
+  "ig": {
+    "name": "igbo"
+  },
+  "ii": {
+    "name": "yi din Sichuan"
+  },
+  "ik": {
+    "name": "inupiak"
+  },
+  "io": {
+    "name": "ido"
+  },
+  "is": {
+    "name": "islandeză"
+  },
+  "it": {
+    "name": "italiană"
+  },
+  "iu": {
+    "name": "inuktitut"
+  },
+  "ja": {
+    "name": "japoneză"
+  },
+  "jv": {
+    "name": "javaneză"
+  },
+  "ka": {
+    "name": "georgiană"
+  },
+  "kg": {
+    "name": "congoleză"
+  },
+  "ki": {
+    "name": "kikuyu"
+  },
+  "kj": {
+    "name": "kuanyama"
+  },
+  "kk": {
+    "name": "kazahă"
+  },
+  "kl": {
+    "name": "kalaallisut"
+  },
+  "km": {
+    "name": "khmeră"
+  },
+  "kn": {
+    "name": "kannada"
+  },
+  "ko": {
+    "name": "coreeană"
+  },
+  "kr": {
+    "name": "kanuri"
+  },
+  "ks": {
+    "name": "cașmiră"
+  },
+  "ku": {
+    "name": "kurdă"
+  },
+  "kv": {
+    "name": "komi"
+  },
+  "kw": {
+    "name": "cornică"
+  },
+  "ky": {
+    "name": "kârgâză"
+  },
+  "la": {
+    "name": "latină"
+  },
+  "lb": {
+    "name": "luxemburgheză"
+  },
+  "lg": {
+    "name": "ganda"
+  },
+  "li": {
+    "name": "limburgheză"
+  },
+  "ln": {
+    "name": "lingala"
+  },
+  "lo": {
+    "name": "laoțiană"
+  },
+  "lt": {
+    "name": "lituaniană"
+  },
+  "lu": {
+    "name": "luba-katanga"
+  },
+  "lv": {
+    "name": "letonă"
+  },
+  "mg": {
+    "name": "malgașă"
+  },
+  "mh": {
+    "name": "marshalleză"
+  },
+  "mi": {
+    "name": "maori"
+  },
+  "mk": {
+    "name": "macedoneană"
+  },
+  "ml": {
+    "name": "malayalam"
+  },
+  "mn": {
+    "name": "mongolă"
+  },
+  "mr": {
+    "name": "marathi"
+  },
+  "ms": {
+    "name": "malaeză"
+  },
+  "mt": {
+    "name": "malteză"
+  },
+  "my": {
+    "name": "birmană"
+  },
+  "na": {
+    "name": "nauru"
+  },
+  "nb": {
+    "name": "norvegiană bokmål"
+  },
+  "nd": {
+    "name": "ndebele de nord"
+  },
+  "ne": {
+    "name": "nepaleză"
+  },
+  "ng": {
+    "name": "ndonga"
+  },
+  "nl": {
+    "name": "neerlandeză"
+  },
+  "nn": {
+    "name": "norvegiană nynorsk"
+  },
+  "no": {
+    "name": "norvegiană"
+  },
+  "nr": {
+    "name": "ndebele de sud"
+  },
+  "nv": {
+    "name": "navajo"
+  },
+  "ny": {
+    "name": "nyanja"
+  },
+  "oc": {
+    "name": "occitană"
+  },
+  "oj": {
+    "name": "ojibwa"
+  },
+  "om": {
+    "name": "oromo"
+  },
+  "or": {
+    "name": "odia"
+  },
+  "os": {
+    "name": "osetă"
+  },
+  "pa": {
+    "name": "punjabi"
+  },
+  "pi": {
+    "name": "pali"
+  },
+  "pl": {
+    "name": "poloneză"
+  },
+  "ps": {
+    "name": "paștună"
+  },
+  "pt": {
+    "name": "portugheză"
+  },
+  "qu": {
+    "name": "quechua"
+  },
+  "rm": {
+    "name": "romanșă"
+  },
+  "rn": {
+    "name": "kirundi"
+  },
+  "ro": {
+    "name": "română"
+  },
+  "ru": {
+    "name": "rusă"
+  },
+  "rw": {
+    "name": "kinyarwanda"
+  },
+  "sa": {
+    "name": "sanscrită"
+  },
+  "sc": {
+    "name": "sardiniană"
+  },
+  "sd": {
+    "name": "sindhi"
+  },
+  "se": {
+    "name": "sami de nord"
+  },
+  "sg": {
+    "name": "sango"
+  },
+  "sh": {
+    "name": "sârbă (latină)"
+  },
+  "si": {
+    "name": "singhaleză"
+  },
+  "sk": {
+    "name": "slovacă"
+  },
+  "sl": {
+    "name": "slovenă"
+  },
+  "sm": {
+    "name": "samoană"
+  },
+  "sn": {
+    "name": "shona"
+  },
+  "so": {
+    "name": "somaleză"
+  },
+  "sq": {
+    "name": "albaneză"
+  },
+  "sr": {
+    "name": "sârbă"
+  },
+  "ss": {
+    "name": "swati"
+  },
+  "st": {
+    "name": "sesotho"
+  },
+  "su": {
+    "name": "sundaneză"
+  },
+  "sv": {
+    "name": "suedeză"
+  },
+  "sw": {
+    "name": "swahili"
+  },
+  "ta": {
+    "name": "tamilă"
+  },
+  "te": {
+    "name": "telugu"
+  },
+  "tg": {
+    "name": "tadjică"
+  },
+  "th": {
+    "name": "thailandeză"
+  },
+  "ti": {
+    "name": "tigrină"
+  },
+  "tk": {
+    "name": "turkmenă"
+  },
+  "tl": {
+    "name": "filipineză"
+  },
+  "tn": {
+    "name": "setswana"
+  },
+  "to": {
+    "name": "tongană"
+  },
+  "tr": {
+    "name": "turcă"
+  },
+  "ts": {
+    "name": "tsonga"
+  },
+  "tt": {
+    "name": "tătară"
+  },
+  "tw": {
+    "name": "akan"
+  },
+  "ty": {
+    "name": "tahitiană"
+  },
+  "ug": {
+    "name": "uigură"
+  },
+  "uk": {
+    "name": "ucraineană"
+  },
+  "ur": {
+    "name": "urdu"
+  },
+  "uz": {
+    "name": "uzbecă"
+  },
+  "ve": {
+    "name": "venda"
+  },
+  "vi": {
+    "name": "vietnameză"
+  },
+  "vo": {
+    "name": "volapuk"
+  },
+  "wa": {
+    "name": "valonă"
+  },
+  "wo": {
+    "name": "wolof"
+  },
+  "xh": {
+    "name": "xhosa"
+  },
+  "yi": {
+    "name": "idiș"
+  },
+  "yo": {
+    "name": "yoruba"
+  },
+  "za": {
+    "name": "zhuang"
+  },
+  "zh": {
+    "name": "chineză"
+  },
+  "zu": {
+    "name": "zulu"
+  }
+}

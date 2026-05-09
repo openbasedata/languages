@@ -1,0 +1,554 @@
+{
+  "aa": {
+    "name": "Affareg"
+  },
+  "ab": {
+    "name": "Abchaseg"
+  },
+  "ae": {
+    "name": "Afestaneg"
+  },
+  "af": {
+    "name": "Affricaneg"
+  },
+  "ak": {
+    "name": "Acaneg"
+  },
+  "am": {
+    "name": "Amhareg"
+  },
+  "an": {
+    "name": "Aragoneg"
+  },
+  "ar": {
+    "name": "Arabeg"
+  },
+  "as": {
+    "name": "Asameg"
+  },
+  "av": {
+    "name": "Afareg"
+  },
+  "ay": {
+    "name": "Aymareg"
+  },
+  "az": {
+    "name": "Aserbaijaneg"
+  },
+  "ba": {
+    "name": "Bashcorteg"
+  },
+  "be": {
+    "name": "Belarwseg"
+  },
+  "bg": {
+    "name": "Bwlgareg"
+  },
+  "bi": {
+    "name": "Bislama"
+  },
+  "bm": {
+    "name": "Bambareg"
+  },
+  "bn": {
+    "name": "Bengaleg"
+  },
+  "bo": {
+    "name": "Tibeteg"
+  },
+  "br": {
+    "name": "Llydaweg"
+  },
+  "bs": {
+    "name": "Bosnieg"
+  },
+  "ca": {
+    "name": "Catalaneg"
+  },
+  "ce": {
+    "name": "Tsietsieneg"
+  },
+  "ch": {
+    "name": "Tsiamorro"
+  },
+  "co": {
+    "name": "Corseg"
+  },
+  "cr": {
+    "name": "Cri"
+  },
+  "cs": {
+    "name": "Tsieceg"
+  },
+  "cu": {
+    "name": "Hen Slafoneg"
+  },
+  "cv": {
+    "name": "Tshwfasheg"
+  },
+  "cy": {
+    "name": "Cymraeg"
+  },
+  "da": {
+    "name": "Daneg"
+  },
+  "de": {
+    "name": "Almaeneg"
+  },
+  "dv": {
+    "name": "Difehi"
+  },
+  "dz": {
+    "name": "Dzongkha"
+  },
+  "ee": {
+    "name": "Ewe"
+  },
+  "el": {
+    "name": "Groeg"
+  },
+  "en": {
+    "name": "Saesneg"
+  },
+  "eo": {
+    "name": "Esperanto"
+  },
+  "es": {
+    "name": "Sbaeneg"
+  },
+  "et": {
+    "name": "Estoneg"
+  },
+  "eu": {
+    "name": "Basgeg"
+  },
+  "fa": {
+    "name": "Perseg"
+  },
+  "ff": {
+    "name": "Ffwla"
+  },
+  "fi": {
+    "name": "Ffinneg"
+  },
+  "fj": {
+    "name": "Ffijïeg"
+  },
+  "fo": {
+    "name": "Ffaröeg"
+  },
+  "fr": {
+    "name": "Ffrangeg"
+  },
+  "fy": {
+    "name": "Ffriseg y Gorllewin"
+  },
+  "ga": {
+    "name": "Gwyddeleg"
+  },
+  "gd": {
+    "name": "Gaeleg yr Alban"
+  },
+  "gl": {
+    "name": "Galisieg"
+  },
+  "gn": {
+    "name": "Guaraní"
+  },
+  "gu": {
+    "name": "Gwjarati"
+  },
+  "gv": {
+    "name": "Manaweg"
+  },
+  "ha": {
+    "name": "Hawsa"
+  },
+  "he": {
+    "name": "Hebraeg"
+  },
+  "hi": {
+    "name": "Hindi"
+  },
+  "ho": {
+    "name": "ho"
+  },
+  "hr": {
+    "name": "Croateg"
+  },
+  "ht": {
+    "name": "Creol Haiti"
+  },
+  "hu": {
+    "name": "Hwngareg"
+  },
+  "hy": {
+    "name": "Armeneg"
+  },
+  "hz": {
+    "name": "Herero"
+  },
+  "ia": {
+    "name": "Interlingua"
+  },
+  "id": {
+    "name": "Indoneseg"
+  },
+  "ie": {
+    "name": "Interlingue"
+  },
+  "ig": {
+    "name": "Igbo"
+  },
+  "ii": {
+    "name": "Nwosw"
+  },
+  "ik": {
+    "name": "Inwpiaceg"
+  },
+  "io": {
+    "name": "Ido"
+  },
+  "is": {
+    "name": "Islandeg"
+  },
+  "it": {
+    "name": "Eidaleg"
+  },
+  "iu": {
+    "name": "Inwctitwt"
+  },
+  "ja": {
+    "name": "Japaneeg"
+  },
+  "jv": {
+    "name": "Jafanaeg"
+  },
+  "ka": {
+    "name": "Georgeg"
+  },
+  "kg": {
+    "name": "Congo"
+  },
+  "ki": {
+    "name": "Kikuyu"
+  },
+  "kj": {
+    "name": "Kuanyama"
+  },
+  "kk": {
+    "name": "Casacheg"
+  },
+  "kl": {
+    "name": "Kalaallisut"
+  },
+  "km": {
+    "name": "Chmereg"
+  },
+  "kn": {
+    "name": "Kannada"
+  },
+  "ko": {
+    "name": "Coreeg"
+  },
+  "kr": {
+    "name": "Canwri"
+  },
+  "ks": {
+    "name": "Cashmireg"
+  },
+  "ku": {
+    "name": "Cwrdeg"
+  },
+  "kv": {
+    "name": "Comi"
+  },
+  "kw": {
+    "name": "Cernyweg"
+  },
+  "ky": {
+    "name": "Cirgiseg"
+  },
+  "la": {
+    "name": "Lladin"
+  },
+  "lb": {
+    "name": "Lwcsembwrgeg"
+  },
+  "lg": {
+    "name": "Ganda"
+  },
+  "li": {
+    "name": "Limbwrgeg"
+  },
+  "ln": {
+    "name": "Lingala"
+  },
+  "lo": {
+    "name": "Laoeg"
+  },
+  "lt": {
+    "name": "Lithwaneg"
+  },
+  "lu": {
+    "name": "Luba-Katanga"
+  },
+  "lv": {
+    "name": "Latfieg"
+  },
+  "mg": {
+    "name": "Malagaseg"
+  },
+  "mh": {
+    "name": "Marsialeg"
+  },
+  "mi": {
+    "name": "Māori"
+  },
+  "mk": {
+    "name": "Macedoneg"
+  },
+  "ml": {
+    "name": "Malayalam"
+  },
+  "mn": {
+    "name": "Mongoleg"
+  },
+  "mr": {
+    "name": "Marathi"
+  },
+  "ms": {
+    "name": "Maleieg"
+  },
+  "mt": {
+    "name": "Malteg"
+  },
+  "my": {
+    "name": "Byrmaneg"
+  },
+  "na": {
+    "name": "Nawrŵeg"
+  },
+  "nb": {
+    "name": "Norwyeg Bokmål"
+  },
+  "nd": {
+    "name": "Ndebele Gogleddol"
+  },
+  "ne": {
+    "name": "Nepaleg"
+  },
+  "ng": {
+    "name": "Ndonga"
+  },
+  "nl": {
+    "name": "Iseldireg"
+  },
+  "nn": {
+    "name": "Norwyeg Nynorsk"
+  },
+  "no": {
+    "name": "Norwyeg"
+  },
+  "nr": {
+    "name": "Ndebele Deheuol"
+  },
+  "nv": {
+    "name": "Nafaho"
+  },
+  "ny": {
+    "name": "Nianja"
+  },
+  "oc": {
+    "name": "Ocsitaneg"
+  },
+  "oj": {
+    "name": "Ojibwa"
+  },
+  "om": {
+    "name": "Oromo"
+  },
+  "or": {
+    "name": "Odia"
+  },
+  "os": {
+    "name": "Oseteg"
+  },
+  "pa": {
+    "name": "Pwnjabeg"
+  },
+  "pi": {
+    "name": "Pali"
+  },
+  "pl": {
+    "name": "Pwyleg"
+  },
+  "ps": {
+    "name": "Pashto"
+  },
+  "pt": {
+    "name": "Portiwgaleg"
+  },
+  "qu": {
+    "name": "Quechua"
+  },
+  "rm": {
+    "name": "Románsh"
+  },
+  "rn": {
+    "name": "Rwndi"
+  },
+  "ro": {
+    "name": "Rwmaneg"
+  },
+  "ru": {
+    "name": "Rwseg"
+  },
+  "rw": {
+    "name": "Ciniarŵandeg"
+  },
+  "sa": {
+    "name": "Sansgrit"
+  },
+  "sc": {
+    "name": "Sardeg"
+  },
+  "sd": {
+    "name": "Sindhi"
+  },
+  "se": {
+    "name": "Sami Gogleddol"
+  },
+  "sg": {
+    "name": "Sango"
+  },
+  "sh": {
+    "name": "Serbeg (Lladin)"
+  },
+  "si": {
+    "name": "Sinhaleg"
+  },
+  "sk": {
+    "name": "Slofaceg"
+  },
+  "sl": {
+    "name": "Slofeneg"
+  },
+  "sm": {
+    "name": "Samöeg"
+  },
+  "sn": {
+    "name": "Shona"
+  },
+  "so": {
+    "name": "Somaleg"
+  },
+  "sq": {
+    "name": "Albaneg"
+  },
+  "sr": {
+    "name": "Serbeg"
+  },
+  "ss": {
+    "name": "Swati"
+  },
+  "st": {
+    "name": "Sesotheg Deheuol"
+  },
+  "su": {
+    "name": "Swndaneg"
+  },
+  "sv": {
+    "name": "Swedeg"
+  },
+  "sw": {
+    "name": "Swahili"
+  },
+  "ta": {
+    "name": "Tamileg"
+  },
+  "te": {
+    "name": "Telugu"
+  },
+  "tg": {
+    "name": "Tajiceg"
+  },
+  "th": {
+    "name": "Thai"
+  },
+  "ti": {
+    "name": "Tigrinya"
+  },
+  "tk": {
+    "name": "Tyrcmeneg"
+  },
+  "tl": {
+    "name": "Ffilipineg"
+  },
+  "tn": {
+    "name": "Tswana"
+  },
+  "to": {
+    "name": "Tongeg"
+  },
+  "tr": {
+    "name": "Tyrceg"
+  },
+  "ts": {
+    "name": "Tsongaeg"
+  },
+  "tt": {
+    "name": "Tatareg"
+  },
+  "tw": {
+    "name": "Acaneg"
+  },
+  "ty": {
+    "name": "Tahitïeg"
+  },
+  "ug": {
+    "name": "Uighur"
+  },
+  "uk": {
+    "name": "Wcreineg"
+  },
+  "ur": {
+    "name": "Wrdw"
+  },
+  "uz": {
+    "name": "Wsbeceg"
+  },
+  "ve": {
+    "name": "Fendeg"
+  },
+  "vi": {
+    "name": "Fietnameg"
+  },
+  "vo": {
+    "name": "Folapük"
+  },
+  "wa": {
+    "name": "Walwneg"
+  },
+  "wo": {
+    "name": "Woloff"
+  },
+  "xh": {
+    "name": "Xhosa"
+  },
+  "yi": {
+    "name": "Iddew-Almaeneg"
+  },
+  "yo": {
+    "name": "Iorwba"
+  },
+  "za": {
+    "name": "Zhuang"
+  },
+  "zh": {
+    "name": "Tsieinëeg"
+  },
+  "zu": {
+    "name": "Swlw"
+  }
+}
