@@ -1,0 +1,48 @@
+{
+  "name": "@openbasedata/languages",
+  "version": "1.0.0",
+  "description": "Open base data for world languages",
+  "keywords": [
+    "data",
+    "i18n",
+    "iso",
+    "iso-639",
+    "language",
+    "languages",
+    "locale",
+    "localization",
+    "translation",
+    "translations",
+    "world"
+  ],
+  "homepage": "https://github.com/openbasedata/languages#readme",
+  "bugs": {
+    "url": "https://github.com/openbasedata/languages/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/openbasedata"
+  },
+  "license": "AGPL-3.0",
+  "author": {
+    "name": "openbasedata",
+    "url": "https://github.com/openbasedata"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openbasedata/languages.git"
+  },
+  "files": [
+    "data.json",
+    "translations"
+  ],
+  "main": "data.json",
+  "scripts": {
+    "format": "oxfmt .",
+    "format:check": "oxfmt --check ."
+  },
+  "devDependencies": {
+    "@guoyunhe/oxfmt-config": "^1.1.0",
+    "oxfmt": "^0.48.0"
+  }
+}
