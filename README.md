@@ -24,13 +24,13 @@ Other localized translations are split into `/translations/<locale>.json` (one l
 ]
 ```
 
-| Field        | Type     | Required | Description                                                |
-| ------------ | -------- | -------- | ---------------------------------------------------------- |
-| `code2`      | `string` | Yes      | ISO 639-1 language code (2 lowercase letters), e.g. `zh`.  |
-| `code3`      | `string` | Yes      | ISO 639-3 language code (3 lowercase letters), e.g. `zho`. |
-| `name`       | `string` | Yes      | English language name.                                     |
-| `nativeName` | `string` | Yes      | Native/self language name.                                 |
-| `population` | `number` | Yes      | Estimated speaker population (default `0` if unknown).     |
+| Field        | Type     | Required | Description                                                 |
+| ------------ | -------- | -------- | ----------------------------------------------------------- |
+| `code2`      | `string` | Yes      | ISO 639-1 language code (2 lowercase letters), e.g. `zh`.   |
+| `code3`      | `string` | Yes      | ISO 639-3 language code (3 lowercase letters), e.g. `zho`.  |
+| `name`       | `string` | Yes      | English language name.                                      |
+| `nativeName` | `string` | Yes      | Native/self language name.                                  |
+| `population` | `number` | Yes      | Estimated speaker population (`0` when no estimate exists). |
 
 ## Translations
 
