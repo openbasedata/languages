@@ -34,6 +34,7 @@
   },
   "files": [
     "data.json",
+    "data.schema.json",
     "translations"
   ],
   "main": "data.json",
