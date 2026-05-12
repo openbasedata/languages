@@ -12,6 +12,10 @@ Other localized translations are split into `/translations/<locale>.json` (one l
 
 `population` is an estimated speaker count generated for data completeness. Values are approximate and may overlap for macro-languages or script variants; `0` means no reliable estimate.
 
+## JSON Schema
+
+`data.schema.json` provides a JSON Schema for validating `data.json`.
+
 ## Data Structure
 
 ```json
