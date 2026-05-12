@@ -15,20 +15,18 @@ Other localized translations are split into `/translations/<locale>.json` (one l
 ```json
 [
   {
-    "code2": "zh",
-    "code3": "zho",
+    "code": "zh",
     "name": "Chinese",
     "nativeName": "中文"
   }
 ]
 ```
 
-| Field        | Type     | Required | Description                                                |
-| ------------ | -------- | -------- | ---------------------------------------------------------- |
-| `code2`      | `string` | Yes      | ISO 639-1 language code (2 lowercase letters), e.g. `zh`.  |
-| `code3`      | `string` | Yes      | ISO 639-3 language code (3 lowercase letters), e.g. `zho`. |
-| `name`       | `string` | Yes      | English language name.                                     |
-| `nativeName` | `string` | Yes      | Native/self language name.                                 |
+| Field        | Type     | Required | Description                                               |
+| ------------ | -------- | -------- | --------------------------------------------------------- |
+| `code`       | `string` | Yes      | ISO 639-1 language code (2 lowercase letters), e.g. `zh`. |
+| `name`       | `string` | Yes      | English language name.                                    |
+| `nativeName` | `string` | Yes      | Native/self language name.                                |
 
 ## Translations
 
