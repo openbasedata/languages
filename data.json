@@ -263,7 +263,7 @@
     "code3": "epo",
     "name": "Esperanto",
     "nativeName": "Esperanto",
-    "population": 2000000
+    "population": 1983000
   },
   {
     "code2": "es",
@@ -634,7 +634,7 @@
     "code3": "lat",
     "name": "Latin",
     "nativeName": "Lingua latina",
-    "population": 1000000
+    "population": 0
   },
   {
     "code2": "lb",
@@ -991,7 +991,7 @@
     "code3": "hbs",
     "name": "Serbo-Croatian",
     "nativeName": "srpski (latinica)",
-    "population": 14898992
+    "population": 12000000
   },
   {
     "code2": "si",
@@ -1047,7 +1047,7 @@
     "code3": "srp",
     "name": "Serbian",
     "nativeName": "српски",
-    "population": 14898992
+    "population": 9500000
   },
   {
     "code2": "ss",
@@ -1285,14 +1285,14 @@
     "code3": "zho",
     "name": "Chinese (Simplified)",
     "nativeName": "简体中文",
-    "population": 1325522927
+    "population": 1110000000
   },
   {
     "code2": "zh-Hant",
     "code3": "zho",
     "name": "Chinese (Traditional)",
     "nativeName": "繁體中文",
-    "population": 1325522927
+    "population": 42000000
   },
   {
     "code2": "zu",
