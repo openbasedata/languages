@@ -263,7 +263,7 @@
     "code3": "epo",
     "name": "Esperanto",
     "nativeName": "Esperanto",
-    "population": 298
+    "population": 2000000
   },
   {
     "code2": "es",
@@ -445,7 +445,7 @@
     "code3": "ina",
     "name": "Interlingua (International Auxiliary Language Association)",
     "nativeName": "interlingua",
-    "population": 137
+    "population": 1500
   },
   {
     "code2": "id",
@@ -459,7 +459,7 @@
     "code3": "ile",
     "name": "Interlingue",
     "nativeName": "Interlingue",
-    "population": 1
+    "population": 1000
   },
   {
     "code2": "ig",
@@ -634,7 +634,7 @@
     "code3": "lat",
     "name": "Latin",
     "nativeName": "Lingua latina",
-    "population": 820
+    "population": 1000000
   },
   {
     "code2": "lb",
