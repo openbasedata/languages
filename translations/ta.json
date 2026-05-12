@@ -548,6 +548,12 @@
   "zh": {
     "name": "சீனம்"
   },
+  "zh-Hans": {
+    "name": "Chinese (Simplified)"
+  },
+  "zh-Hant": {
+    "name": "Chinese (Traditional)"
+  },
   "zu": {
     "name": "ஜுலு"
   }
