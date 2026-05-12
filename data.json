@@ -3,1116 +3,1302 @@
     "code2": "aa",
     "code3": "aar",
     "name": "Afar",
-    "nativeName": "Afar"
+    "nativeName": "Afar",
+    "population": 0
   },
   {
     "code2": "ab",
     "code3": "abk",
     "name": "Abkhazian",
-    "nativeName": "Аԥсшәа"
+    "nativeName": "Аԥсшәа",
+    "population": 0
   },
   {
     "code2": "ae",
     "code3": "ave",
     "name": "Avestan",
-    "nativeName": "Avestan"
+    "nativeName": "Avestan",
+    "population": 0
   },
   {
     "code2": "af",
     "code3": "afr",
     "name": "Afrikaans",
-    "nativeName": "Afrikaans"
+    "nativeName": "Afrikaans",
+    "population": 0
   },
   {
     "code2": "ak",
     "code3": "aka",
     "name": "Akan",
-    "nativeName": "Akan"
+    "nativeName": "Akan",
+    "population": 0
   },
   {
     "code2": "am",
     "code3": "amh",
     "name": "Amharic",
-    "nativeName": "አማርኛ"
+    "nativeName": "አማርኛ",
+    "population": 0
   },
   {
     "code2": "an",
     "code3": "arg",
     "name": "Aragonese",
-    "nativeName": "aragonés"
+    "nativeName": "aragonés",
+    "population": 0
   },
   {
     "code2": "ar",
     "code3": "ara",
     "name": "Arabic",
-    "nativeName": "العربية"
+    "nativeName": "العربية",
+    "population": 0
   },
   {
     "code2": "as",
     "code3": "asm",
     "name": "Assamese",
-    "nativeName": "অসমীয়া"
+    "nativeName": "অসমীয়া",
+    "population": 0
   },
   {
     "code2": "av",
     "code3": "ava",
     "name": "Avaric",
-    "nativeName": "Avaric"
+    "nativeName": "Avaric",
+    "population": 0
   },
   {
     "code2": "ay",
     "code3": "aym",
     "name": "Aymara",
-    "nativeName": "Aymara"
+    "nativeName": "Aymara",
+    "population": 0
   },
   {
     "code2": "az",
     "code3": "aze",
     "name": "Azerbaijani",
-    "nativeName": "azərbaycan"
+    "nativeName": "azərbaycan",
+    "population": 0
   },
   {
     "code2": "ba",
     "code3": "bak",
     "name": "Bashkir",
-    "nativeName": "башҡорт теле"
+    "nativeName": "башҡорт теле",
+    "population": 0
   },
   {
     "code2": "be",
     "code3": "bel",
     "name": "Belarusian",
-    "nativeName": "беларуская"
+    "nativeName": "беларуская",
+    "population": 0
   },
   {
     "code2": "bg",
     "code3": "bul",
     "name": "Bulgarian",
-    "nativeName": "български"
+    "nativeName": "български",
+    "population": 0
   },
   {
     "code2": "bi",
     "code3": "bis",
     "name": "Bislama",
-    "nativeName": "Bislama"
+    "nativeName": "Bislama",
+    "population": 0
   },
   {
     "code2": "bm",
     "code3": "bam",
     "name": "Bambara",
-    "nativeName": "bamanakan"
+    "nativeName": "bamanakan",
+    "population": 0
   },
   {
     "code2": "bn",
     "code3": "ben",
     "name": "Bengali",
-    "nativeName": "বাংলা"
+    "nativeName": "বাংলা",
+    "population": 0
   },
   {
     "code2": "bo",
     "code3": "bod",
     "name": "Tibetan",
-    "nativeName": "བོད་སྐད་"
+    "nativeName": "བོད་སྐད་",
+    "population": 0
   },
   {
     "code2": "br",
     "code3": "bre",
     "name": "Breton",
-    "nativeName": "brezhoneg"
+    "nativeName": "brezhoneg",
+    "population": 0
   },
   {
     "code2": "bs",
     "code3": "bos",
     "name": "Bosnian",
-    "nativeName": "bosanski"
+    "nativeName": "bosanski",
+    "population": 0
   },
   {
     "code2": "ca",
     "code3": "cat",
     "name": "Catalan",
-    "nativeName": "català"
+    "nativeName": "català",
+    "population": 0
   },
   {
     "code2": "ce",
     "code3": "che",
     "name": "Chechen",
-    "nativeName": "нохчийн"
+    "nativeName": "нохчийн",
+    "population": 0
   },
   {
     "code2": "ch",
     "code3": "cha",
     "name": "Chamorro",
-    "nativeName": "Chamorro"
+    "nativeName": "Chamorro",
+    "population": 0
   },
   {
     "code2": "co",
     "code3": "cos",
     "name": "Corsican",
-    "nativeName": "corsu"
+    "nativeName": "corsu",
+    "population": 0
   },
   {
     "code2": "cr",
     "code3": "cre",
     "name": "Cree",
-    "nativeName": "Cree"
+    "nativeName": "Cree",
+    "population": 0
   },
   {
     "code2": "cs",
     "code3": "ces",
     "name": "Czech",
-    "nativeName": "čeština"
+    "nativeName": "čeština",
+    "population": 0
   },
   {
     "code2": "cu",
     "code3": "chu",
     "name": "Church Slavic",
-    "nativeName": "Church Slavic"
+    "nativeName": "Church Slavic",
+    "population": 0
   },
   {
     "code2": "cv",
     "code3": "chv",
     "name": "Chuvash",
-    "nativeName": "чӑваш"
+    "nativeName": "чӑваш",
+    "population": 0
   },
   {
     "code2": "cy",
     "code3": "cym",
     "name": "Welsh",
-    "nativeName": "Cymraeg"
+    "nativeName": "Cymraeg",
+    "population": 0
   },
   {
     "code2": "da",
     "code3": "dan",
     "name": "Danish",
-    "nativeName": "dansk"
+    "nativeName": "dansk",
+    "population": 0
   },
   {
     "code2": "de",
     "code3": "deu",
     "name": "German",
-    "nativeName": "Deutsch"
+    "nativeName": "Deutsch",
+    "population": 0
   },
   {
     "code2": "dv",
     "code3": "div",
     "name": "Divehi",
-    "nativeName": "Divehi"
+    "nativeName": "Divehi",
+    "population": 0
   },
   {
     "code2": "dz",
     "code3": "dzo",
     "name": "Dzongkha",
-    "nativeName": "རྫོང་ཁ"
+    "nativeName": "རྫོང་ཁ",
+    "population": 0
   },
   {
     "code2": "ee",
     "code3": "ewe",
     "name": "Ewe",
-    "nativeName": "eʋegbe"
+    "nativeName": "eʋegbe",
+    "population": 0
   },
   {
     "code2": "el",
     "code3": "ell",
     "name": "Modern Greek (1453-)",
-    "nativeName": "Ελληνικά"
+    "nativeName": "Ελληνικά",
+    "population": 0
   },
   {
     "code2": "en",
     "code3": "eng",
     "name": "English",
-    "nativeName": "English"
+    "nativeName": "English",
+    "population": 0
   },
   {
     "code2": "eo",
     "code3": "epo",
     "name": "Esperanto",
-    "nativeName": "Esperanto"
+    "nativeName": "Esperanto",
+    "population": 0
   },
   {
     "code2": "es",
     "code3": "spa",
     "name": "Spanish",
-    "nativeName": "español"
+    "nativeName": "español",
+    "population": 0
   },
   {
     "code2": "et",
     "code3": "est",
     "name": "Estonian",
-    "nativeName": "eesti"
+    "nativeName": "eesti",
+    "population": 0
   },
   {
     "code2": "eu",
     "code3": "eus",
     "name": "Basque",
-    "nativeName": "euskara"
+    "nativeName": "euskara",
+    "population": 0
   },
   {
     "code2": "fa",
     "code3": "fas",
     "name": "Persian",
-    "nativeName": "فارسی"
+    "nativeName": "فارسی",
+    "population": 0
   },
   {
     "code2": "ff",
     "code3": "ful",
     "name": "Fulah",
-    "nativeName": "Pulaar"
+    "nativeName": "Pulaar",
+    "population": 0
   },
   {
     "code2": "fi",
     "code3": "fin",
     "name": "Finnish",
-    "nativeName": "suomi"
+    "nativeName": "suomi",
+    "population": 0
   },
   {
     "code2": "fj",
     "code3": "fij",
     "name": "Fijian",
-    "nativeName": "Fijian"
+    "nativeName": "Fijian",
+    "population": 0
   },
   {
     "code2": "fo",
     "code3": "fao",
     "name": "Faroese",
-    "nativeName": "føroyskt"
+    "nativeName": "føroyskt",
+    "population": 0
   },
   {
     "code2": "fr",
     "code3": "fra",
     "name": "French",
-    "nativeName": "français"
+    "nativeName": "français",
+    "population": 0
   },
   {
     "code2": "fy",
     "code3": "fry",
     "name": "Western Frisian",
-    "nativeName": "Frysk"
+    "nativeName": "Frysk",
+    "population": 0
   },
   {
     "code2": "ga",
     "code3": "gle",
     "name": "Irish",
-    "nativeName": "Gaeilge"
+    "nativeName": "Gaeilge",
+    "population": 0
   },
   {
     "code2": "gd",
     "code3": "gla",
     "name": "Scottish Gaelic",
-    "nativeName": "Gàidhlig"
+    "nativeName": "Gàidhlig",
+    "population": 0
   },
   {
     "code2": "gl",
     "code3": "glg",
     "name": "Galician",
-    "nativeName": "galego"
+    "nativeName": "galego",
+    "population": 0
   },
   {
     "code2": "gn",
     "code3": "grn",
     "name": "Guarani",
-    "nativeName": "avañe’ẽ"
+    "nativeName": "avañe’ẽ",
+    "population": 0
   },
   {
     "code2": "gu",
     "code3": "guj",
     "name": "Gujarati",
-    "nativeName": "ગુજરાતી"
+    "nativeName": "ગુજરાતી",
+    "population": 0
   },
   {
     "code2": "gv",
     "code3": "glv",
     "name": "Manx",
-    "nativeName": "Gaelg"
+    "nativeName": "Gaelg",
+    "population": 0
   },
   {
     "code2": "ha",
     "code3": "hau",
     "name": "Hausa",
-    "nativeName": "Hausa"
+    "nativeName": "Hausa",
+    "population": 0
   },
   {
     "code2": "he",
     "code3": "heb",
     "name": "Hebrew",
-    "nativeName": "עברית"
+    "nativeName": "עברית",
+    "population": 0
   },
   {
     "code2": "hi",
     "code3": "hin",
     "name": "Hindi",
-    "nativeName": "हिन्दी"
+    "nativeName": "हिन्दी",
+    "population": 0
   },
   {
     "code2": "ho",
     "code3": "hmo",
     "name": "Hiri Motu",
-    "nativeName": "Hiri Motu"
+    "nativeName": "Hiri Motu",
+    "population": 0
   },
   {
     "code2": "hr",
     "code3": "hrv",
     "name": "Croatian",
-    "nativeName": "hrvatski"
+    "nativeName": "hrvatski",
+    "population": 0
   },
   {
     "code2": "ht",
     "code3": "hat",
     "name": "Haitian",
-    "nativeName": "Kreyòl Ayisyen"
+    "nativeName": "Kreyòl Ayisyen",
+    "population": 0
   },
   {
     "code2": "hu",
     "code3": "hun",
     "name": "Hungarian",
-    "nativeName": "magyar"
+    "nativeName": "magyar",
+    "population": 0
   },
   {
     "code2": "hy",
     "code3": "hye",
     "name": "Armenian",
-    "nativeName": "հայերեն"
+    "nativeName": "հայերեն",
+    "population": 0
   },
   {
     "code2": "hz",
     "code3": "her",
     "name": "Herero",
-    "nativeName": "Herero"
+    "nativeName": "Herero",
+    "population": 0
   },
   {
     "code2": "ia",
     "code3": "ina",
     "name": "Interlingua (International Auxiliary Language Association)",
-    "nativeName": "interlingua"
+    "nativeName": "interlingua",
+    "population": 0
   },
   {
     "code2": "id",
     "code3": "ind",
     "name": "Indonesian",
-    "nativeName": "bahasa Indonesia"
+    "nativeName": "bahasa Indonesia",
+    "population": 0
   },
   {
     "code2": "ie",
     "code3": "ile",
     "name": "Interlingue",
-    "nativeName": "Interlingue"
+    "nativeName": "Interlingue",
+    "population": 0
   },
   {
     "code2": "ig",
     "code3": "ibo",
     "name": "Igbo",
-    "nativeName": "Igbo"
+    "nativeName": "Igbo",
+    "population": 0
   },
   {
     "code2": "ii",
     "code3": "iii",
     "name": "Sichuan Yi",
-    "nativeName": "ꆈꌠꉙ"
+    "nativeName": "ꆈꌠꉙ",
+    "population": 0
   },
   {
     "code2": "ik",
     "code3": "ipk",
     "name": "Inupiaq",
-    "nativeName": "Inupiaq"
+    "nativeName": "Inupiaq",
+    "population": 0
   },
   {
     "code2": "io",
     "code3": "ido",
     "name": "Ido",
-    "nativeName": "Ido"
+    "nativeName": "Ido",
+    "population": 0
   },
   {
     "code2": "is",
     "code3": "isl",
     "name": "Icelandic",
-    "nativeName": "íslenska"
+    "nativeName": "íslenska",
+    "population": 0
   },
   {
     "code2": "it",
     "code3": "ita",
     "name": "Italian",
-    "nativeName": "italiano"
+    "nativeName": "italiano",
+    "population": 0
   },
   {
     "code2": "iu",
     "code3": "iku",
     "name": "Inuktitut",
-    "nativeName": "Inuktitut"
+    "nativeName": "Inuktitut",
+    "population": 0
   },
   {
     "code2": "ja",
     "code3": "jpn",
     "name": "Japanese",
-    "nativeName": "日本語"
+    "nativeName": "日本語",
+    "population": 0
   },
   {
     "code2": "jv",
     "code3": "jav",
     "name": "Javanese",
-    "nativeName": "Jawa"
+    "nativeName": "Jawa",
+    "population": 0
   },
   {
     "code2": "ka",
     "code3": "kat",
     "name": "Georgian",
-    "nativeName": "ქართული"
+    "nativeName": "ქართული",
+    "population": 0
   },
   {
     "code2": "kg",
     "code3": "kon",
     "name": "Kongo",
-    "nativeName": "Kongo"
+    "nativeName": "Kongo",
+    "population": 0
   },
   {
     "code2": "ki",
     "code3": "kik",
     "name": "Kikuyu",
-    "nativeName": "Gikuyu"
+    "nativeName": "Gikuyu",
+    "population": 0
   },
   {
     "code2": "kj",
     "code3": "kua",
     "name": "Kuanyama",
-    "nativeName": "Kuanyama"
+    "nativeName": "Kuanyama",
+    "population": 0
   },
   {
     "code2": "kk",
     "code3": "kaz",
     "name": "Kazakh",
-    "nativeName": "қазақ тілі"
+    "nativeName": "қазақ тілі",
+    "population": 0
   },
   {
     "code2": "kl",
     "code3": "kal",
     "name": "Kalaallisut",
-    "nativeName": "kalaallisut"
+    "nativeName": "kalaallisut",
+    "population": 0
   },
   {
     "code2": "km",
     "code3": "khm",
     "name": "Khmer",
-    "nativeName": "ខ្មែរ"
+    "nativeName": "ខ្មែរ",
+    "population": 0
   },
   {
     "code2": "kn",
     "code3": "kan",
     "name": "Kannada",
-    "nativeName": "ಕನ್ನಡ"
+    "nativeName": "ಕನ್ನಡ",
+    "population": 0
   },
   {
     "code2": "ko",
     "code3": "kor",
     "name": "Korean",
-    "nativeName": "한국어"
+    "nativeName": "한국어",
+    "population": 0
   },
   {
     "code2": "kr",
     "code3": "kau",
     "name": "Kanuri",
-    "nativeName": "Kanuri"
+    "nativeName": "Kanuri",
+    "population": 0
   },
   {
     "code2": "ks",
     "code3": "kas",
     "name": "Kashmiri",
-    "nativeName": "کٲشُر"
+    "nativeName": "کٲشُر",
+    "population": 0
   },
   {
     "code2": "ku",
     "code3": "kur",
     "name": "Kurdish",
-    "nativeName": "kurdî (kurmancî)"
+    "nativeName": "kurdî (kurmancî)",
+    "population": 0
   },
   {
     "code2": "kv",
     "code3": "kom",
     "name": "Komi",
-    "nativeName": "Komi"
+    "nativeName": "Komi",
+    "population": 0
   },
   {
     "code2": "kw",
     "code3": "cor",
     "name": "Cornish",
-    "nativeName": "kernewek"
+    "nativeName": "kernewek",
+    "population": 0
   },
   {
     "code2": "ky",
     "code3": "kir",
     "name": "Kirghiz",
-    "nativeName": "кыргызча"
+    "nativeName": "кыргызча",
+    "population": 0
   },
   {
     "code2": "la",
     "code3": "lat",
     "name": "Latin",
-    "nativeName": "Lingua latina"
+    "nativeName": "Lingua latina",
+    "population": 0
   },
   {
     "code2": "lb",
     "code3": "ltz",
     "name": "Luxembourgish",
-    "nativeName": "Lëtzebuergesch"
+    "nativeName": "Lëtzebuergesch",
+    "population": 0
   },
   {
     "code2": "lg",
     "code3": "lug",
     "name": "Ganda",
-    "nativeName": "Luganda"
+    "nativeName": "Luganda",
+    "population": 0
   },
   {
     "code2": "li",
     "code3": "lim",
     "name": "Limburgan",
-    "nativeName": "Limburgish"
+    "nativeName": "Limburgish",
+    "population": 0
   },
   {
     "code2": "ln",
     "code3": "lin",
     "name": "Lingala",
-    "nativeName": "lingála"
+    "nativeName": "lingála",
+    "population": 0
   },
   {
     "code2": "lo",
     "code3": "lao",
     "name": "Lao",
-    "nativeName": "ລາວ"
+    "nativeName": "ລາວ",
+    "population": 0
   },
   {
     "code2": "lt",
     "code3": "lit",
     "name": "Lithuanian",
-    "nativeName": "lietuvių"
+    "nativeName": "lietuvių",
+    "population": 0
   },
   {
     "code2": "lu",
     "code3": "lub",
     "name": "Luba-Katanga",
-    "nativeName": "Tshiluba"
+    "nativeName": "Tshiluba",
+    "population": 0
   },
   {
     "code2": "lv",
     "code3": "lav",
     "name": "Latvian",
-    "nativeName": "latviešu"
+    "nativeName": "latviešu",
+    "population": 0
   },
   {
     "code2": "mg",
     "code3": "mlg",
     "name": "Malagasy",
-    "nativeName": "Malagasy"
+    "nativeName": "Malagasy",
+    "population": 0
   },
   {
     "code2": "mh",
     "code3": "mah",
     "name": "Marshallese",
-    "nativeName": "Marshallese"
+    "nativeName": "Marshallese",
+    "population": 0
   },
   {
     "code2": "mi",
     "code3": "mri",
     "name": "Maori",
-    "nativeName": "Māori"
+    "nativeName": "Māori",
+    "population": 0
   },
   {
     "code2": "mk",
     "code3": "mkd",
     "name": "Macedonian",
-    "nativeName": "македонски"
+    "nativeName": "македонски",
+    "population": 0
   },
   {
     "code2": "ml",
     "code3": "mal",
     "name": "Malayalam",
-    "nativeName": "മലയാളം"
+    "nativeName": "മലയാളം",
+    "population": 0
   },
   {
     "code2": "mn",
     "code3": "mon",
     "name": "Mongolian",
-    "nativeName": "монгол"
+    "nativeName": "монгол",
+    "population": 0
   },
   {
     "code2": "mr",
     "code3": "mar",
     "name": "Marathi",
-    "nativeName": "मराठी"
+    "nativeName": "मराठी",
+    "population": 0
   },
   {
     "code2": "ms",
     "code3": "msa",
     "name": "Malay (macrolanguage)",
-    "nativeName": "bahasa Malaysia"
+    "nativeName": "bahasa Malaysia",
+    "population": 0
   },
   {
     "code2": "mt",
     "code3": "mlt",
     "name": "Maltese",
-    "nativeName": "Malti"
+    "nativeName": "Malti",
+    "population": 0
   },
   {
     "code2": "my",
     "code3": "mya",
     "name": "Burmese",
-    "nativeName": "မြန်မာ"
+    "nativeName": "မြန်မာ",
+    "population": 0
   },
   {
     "code2": "na",
     "code3": "nau",
     "name": "Nauru",
-    "nativeName": "Nauru"
+    "nativeName": "Nauru",
+    "population": 0
   },
   {
     "code2": "nb",
     "code3": "nob",
     "name": "Norwegian Bokmål",
-    "nativeName": "norsk bokmål"
+    "nativeName": "norsk bokmål",
+    "population": 0
   },
   {
     "code2": "nd",
     "code3": "nde",
     "name": "North Ndebele",
-    "nativeName": "isiNdebele"
+    "nativeName": "isiNdebele",
+    "population": 0
   },
   {
     "code2": "ne",
     "code3": "nep",
     "name": "Nepali (macrolanguage)",
-    "nativeName": "नेपाली"
+    "nativeName": "नेपाली",
+    "population": 0
   },
   {
     "code2": "ng",
     "code3": "ndo",
     "name": "Ndonga",
-    "nativeName": "Ndonga"
+    "nativeName": "Ndonga",
+    "population": 0
   },
   {
     "code2": "nl",
     "code3": "nld",
     "name": "Dutch",
-    "nativeName": "Nederlands"
+    "nativeName": "Nederlands",
+    "population": 0
   },
   {
     "code2": "nn",
     "code3": "nno",
     "name": "Norwegian Nynorsk",
-    "nativeName": "norsk nynorsk"
+    "nativeName": "norsk nynorsk",
+    "population": 0
   },
   {
     "code2": "no",
     "code3": "nor",
     "name": "Norwegian",
-    "nativeName": "norsk"
+    "nativeName": "norsk",
+    "population": 0
   },
   {
     "code2": "nr",
     "code3": "nbl",
     "name": "South Ndebele",
-    "nativeName": "South Ndebele"
+    "nativeName": "South Ndebele",
+    "population": 0
   },
   {
     "code2": "nv",
     "code3": "nav",
     "name": "Navajo",
-    "nativeName": "Diné Bizaad"
+    "nativeName": "Diné Bizaad",
+    "population": 0
   },
   {
     "code2": "ny",
     "code3": "nya",
     "name": "Chichewa",
-    "nativeName": "Nyanja"
+    "nativeName": "Nyanja",
+    "population": 0
   },
   {
     "code2": "oc",
     "code3": "oci",
     "name": "Occitan (post 1500)",
-    "nativeName": "occitan"
+    "nativeName": "occitan",
+    "population": 0
   },
   {
     "code2": "oj",
     "code3": "oji",
     "name": "Ojibwa",
-    "nativeName": "Ojibwa"
+    "nativeName": "Ojibwa",
+    "population": 0
   },
   {
     "code2": "om",
     "code3": "orm",
     "name": "Oromo",
-    "nativeName": "Oromoo"
+    "nativeName": "Oromoo",
+    "population": 0
   },
   {
     "code2": "or",
     "code3": "ori",
     "name": "Oriya (macrolanguage)",
-    "nativeName": "ଓଡ଼ିଆ"
+    "nativeName": "ଓଡ଼ିଆ",
+    "population": 0
   },
   {
     "code2": "os",
     "code3": "oss",
     "name": "Ossetian",
-    "nativeName": "ирон"
+    "nativeName": "ирон",
+    "population": 0
   },
   {
     "code2": "pa",
     "code3": "pan",
     "name": "Panjabi",
-    "nativeName": "ਪੰਜਾਬੀ"
+    "nativeName": "ਪੰਜਾਬੀ",
+    "population": 0
   },
   {
     "code2": "pi",
     "code3": "pli",
     "name": "Pali",
-    "nativeName": "Pali"
+    "nativeName": "Pali",
+    "population": 0
   },
   {
     "code2": "pl",
     "code3": "pol",
     "name": "Polish",
-    "nativeName": "polski"
+    "nativeName": "polski",
+    "population": 0
   },
   {
     "code2": "ps",
     "code3": "pus",
     "name": "Pushto",
-    "nativeName": "پښتو"
+    "nativeName": "پښتو",
+    "population": 0
   },
   {
     "code2": "pt",
     "code3": "por",
     "name": "Portuguese",
-    "nativeName": "português"
+    "nativeName": "português",
+    "population": 0
   },
   {
     "code2": "qu",
     "code3": "que",
     "name": "Quechua",
-    "nativeName": "Runasimi"
+    "nativeName": "Runasimi",
+    "population": 0
   },
   {
     "code2": "rm",
     "code3": "roh",
     "name": "Romansh",
-    "nativeName": "rumantsch"
+    "nativeName": "rumantsch",
+    "population": 0
   },
   {
     "code2": "rn",
     "code3": "run",
     "name": "Rundi",
-    "nativeName": "Ikirundi"
+    "nativeName": "Ikirundi",
+    "population": 0
   },
   {
     "code2": "ro",
     "code3": "ron",
     "name": "Romanian",
-    "nativeName": "română"
+    "nativeName": "română",
+    "population": 0
   },
   {
     "code2": "ru",
     "code3": "rus",
     "name": "Russian",
-    "nativeName": "русский"
+    "nativeName": "русский",
+    "population": 0
   },
   {
     "code2": "rw",
     "code3": "kin",
     "name": "Kinyarwanda",
-    "nativeName": "Ikinyarwanda"
+    "nativeName": "Ikinyarwanda",
+    "population": 0
   },
   {
     "code2": "sa",
     "code3": "san",
     "name": "Sanskrit",
-    "nativeName": "संस्कृत भाषा"
+    "nativeName": "संस्कृत भाषा",
+    "population": 0
   },
   {
     "code2": "sc",
     "code3": "srd",
     "name": "Sardinian",
-    "nativeName": "sardu"
+    "nativeName": "sardu",
+    "population": 0
   },
   {
     "code2": "sd",
     "code3": "snd",
     "name": "Sindhi",
-    "nativeName": "سنڌي"
+    "nativeName": "سنڌي",
+    "population": 0
   },
   {
     "code2": "se",
     "code3": "sme",
     "name": "Northern Sami",
-    "nativeName": "davvisámegiella"
+    "nativeName": "davvisámegiella",
+    "population": 0
   },
   {
     "code2": "sg",
     "code3": "sag",
     "name": "Sango",
-    "nativeName": "Sängö"
+    "nativeName": "Sängö",
+    "population": 0
   },
   {
     "code2": "sh",
     "code3": "hbs",
     "name": "Serbo-Croatian",
-    "nativeName": "srpski (latinica)"
+    "nativeName": "srpski (latinica)",
+    "population": 0
   },
   {
     "code2": "si",
     "code3": "sin",
     "name": "Sinhala",
-    "nativeName": "සිංහල"
+    "nativeName": "සිංහල",
+    "population": 0
   },
   {
     "code2": "sk",
     "code3": "slk",
     "name": "Slovak",
-    "nativeName": "slovenčina"
+    "nativeName": "slovenčina",
+    "population": 0
   },
   {
     "code2": "sl",
     "code3": "slv",
     "name": "Slovenian",
-    "nativeName": "slovenščina"
+    "nativeName": "slovenščina",
+    "population": 0
   },
   {
     "code2": "sm",
     "code3": "smo",
     "name": "Samoan",
-    "nativeName": "Samoan"
+    "nativeName": "Samoan",
+    "population": 0
   },
   {
     "code2": "sn",
     "code3": "sna",
     "name": "Shona",
-    "nativeName": "chiShona"
+    "nativeName": "chiShona",
+    "population": 0
   },
   {
     "code2": "so",
     "code3": "som",
     "name": "Somali",
-    "nativeName": "Soomaali"
+    "nativeName": "Soomaali",
+    "population": 0
   },
   {
     "code2": "sq",
     "code3": "sqi",
     "name": "Albanian",
-    "nativeName": "shqip"
+    "nativeName": "shqip",
+    "population": 0
   },
   {
     "code2": "sr",
     "code3": "srp",
     "name": "Serbian",
-    "nativeName": "српски"
+    "nativeName": "српски",
+    "population": 0
   },
   {
     "code2": "ss",
     "code3": "ssw",
     "name": "Swati",
-    "nativeName": "siSwati"
+    "nativeName": "siSwati",
+    "population": 0
   },
   {
     "code2": "st",
     "code3": "sot",
     "name": "Southern Sotho",
-    "nativeName": "Sesotho"
+    "nativeName": "Sesotho",
+    "population": 0
   },
   {
     "code2": "su",
     "code3": "sun",
     "name": "Sundanese",
-    "nativeName": "Basa Sunda"
+    "nativeName": "Basa Sunda",
+    "population": 0
   },
   {
     "code2": "sv",
     "code3": "swe",
     "name": "Swedish",
-    "nativeName": "svenska"
+    "nativeName": "svenska",
+    "population": 0
   },
   {
     "code2": "sw",
     "code3": "swa",
     "name": "Swahili (macrolanguage)",
-    "nativeName": "Kiswahili"
+    "nativeName": "Kiswahili",
+    "population": 0
   },
   {
     "code2": "ta",
     "code3": "tam",
     "name": "Tamil",
-    "nativeName": "தமிழ்"
+    "nativeName": "தமிழ்",
+    "population": 0
   },
   {
     "code2": "te",
     "code3": "tel",
     "name": "Telugu",
-    "nativeName": "తెలుగు"
+    "nativeName": "తెలుగు",
+    "population": 0
   },
   {
     "code2": "tg",
     "code3": "tgk",
     "name": "Tajik",
-    "nativeName": "тоҷикӣ"
+    "nativeName": "тоҷикӣ",
+    "population": 0
   },
   {
     "code2": "th",
     "code3": "tha",
     "name": "Thai",
-    "nativeName": "ไทย"
+    "nativeName": "ไทย",
+    "population": 0
   },
   {
     "code2": "ti",
     "code3": "tir",
     "name": "Tigrinya",
-    "nativeName": "ትግርኛ"
+    "nativeName": "ትግርኛ",
+    "population": 0
   },
   {
     "code2": "tk",
     "code3": "tuk",
     "name": "Turkmen",
-    "nativeName": "türkmen dili"
+    "nativeName": "türkmen dili",
+    "population": 0
   },
   {
     "code2": "tl",
     "code3": "tgl",
     "name": "Tagalog",
-    "nativeName": "Filipino"
+    "nativeName": "Filipino",
+    "population": 0
   },
   {
     "code2": "tn",
     "code3": "tsn",
     "name": "Tswana",
-    "nativeName": "Setswana"
+    "nativeName": "Setswana",
+    "population": 0
   },
   {
     "code2": "to",
     "code3": "ton",
     "name": "Tonga (Tonga Islands)",
-    "nativeName": "lea fakatonga"
+    "nativeName": "lea fakatonga",
+    "population": 0
   },
   {
     "code2": "tr",
     "code3": "tur",
     "name": "Turkish",
-    "nativeName": "Türkçe"
+    "nativeName": "Türkçe",
+    "population": 0
   },
   {
     "code2": "ts",
     "code3": "tso",
     "name": "Tsonga",
-    "nativeName": "Tsonga"
+    "nativeName": "Tsonga",
+    "population": 0
   },
   {
     "code2": "tt",
     "code3": "tat",
     "name": "Tatar",
-    "nativeName": "татар"
+    "nativeName": "татар",
+    "population": 0
   },
   {
     "code2": "tw",
     "code3": "twi",
     "name": "Twi",
-    "nativeName": "Akan"
+    "nativeName": "Akan",
+    "population": 0
   },
   {
     "code2": "ty",
     "code3": "tah",
     "name": "Tahitian",
-    "nativeName": "Tahitian"
+    "nativeName": "Tahitian",
+    "population": 0
   },
   {
     "code2": "ug",
     "code3": "uig",
     "name": "Uighur",
-    "nativeName": "ئۇيغۇرچە"
+    "nativeName": "ئۇيغۇرچە",
+    "population": 0
   },
   {
     "code2": "uk",
     "code3": "ukr",
     "name": "Ukrainian",
-    "nativeName": "українська"
+    "nativeName": "українська",
+    "population": 0
   },
   {
     "code2": "ur",
     "code3": "urd",
     "name": "Urdu",
-    "nativeName": "اردو"
+    "nativeName": "اردو",
+    "population": 0
   },
   {
     "code2": "uz",
     "code3": "uzb",
     "name": "Uzbek",
-    "nativeName": "o‘zbek"
+    "nativeName": "o‘zbek",
+    "population": 0
   },
   {
     "code2": "ve",
     "code3": "ven",
     "name": "Venda",
-    "nativeName": "tshiVenḓa"
+    "nativeName": "tshiVenḓa",
+    "population": 0
   },
   {
     "code2": "vi",
     "code3": "vie",
     "name": "Vietnamese",
-    "nativeName": "Tiếng Việt"
+    "nativeName": "Tiếng Việt",
+    "population": 0
   },
   {
     "code2": "vo",
     "code3": "vol",
     "name": "Volapük",
-    "nativeName": "Volapük"
+    "nativeName": "Volapük",
+    "population": 0
   },
   {
     "code2": "wa",
     "code3": "wln",
     "name": "Walloon",
-    "nativeName": "walon"
+    "nativeName": "walon",
+    "population": 0
   },
   {
     "code2": "wo",
     "code3": "wol",
     "name": "Wolof",
-    "nativeName": "Wolof"
+    "nativeName": "Wolof",
+    "population": 0
   },
   {
     "code2": "xh",
     "code3": "xho",
     "name": "Xhosa",
-    "nativeName": "IsiXhosa"
+    "nativeName": "IsiXhosa",
+    "population": 0
   },
   {
     "code2": "yi",
     "code3": "yid",
     "name": "Yiddish",
-    "nativeName": "ייִדיש"
+    "nativeName": "ייִדיש",
+    "population": 0
   },
   {
     "code2": "yo",
     "code3": "yor",
     "name": "Yoruba",
-    "nativeName": "Èdè Yorùbá"
+    "nativeName": "Èdè Yorùbá",
+    "population": 0
   },
   {
     "code2": "za",
     "code3": "zha",
     "name": "Zhuang",
-    "nativeName": "Vahcuengh"
+    "nativeName": "Vahcuengh",
+    "population": 0
   },
   {
     "code2": "zh",
     "code3": "zho",
     "name": "Chinese",
-    "nativeName": "中文"
+    "nativeName": "中文",
+    "population": 0
   },
   {
     "code2": "zh-Hans",
     "code3": "zho",
     "name": "Chinese (Simplified)",
-    "nativeName": "简体中文"
+    "nativeName": "简体中文",
+    "population": 0
   },
   {
     "code2": "zh-Hant",
     "code3": "zho",
     "name": "Chinese (Traditional)",
-    "nativeName": "繁體中文"
+    "nativeName": "繁體中文",
+    "population": 0
   },
   {
     "code2": "zu",
     "code3": "zul",
     "name": "Zulu",
-    "nativeName": "isiZulu"
+    "nativeName": "isiZulu",
+    "population": 0
   }
 ]

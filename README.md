@@ -18,7 +18,8 @@ Other localized translations are split into `/translations/<locale>.json` (one l
     "code2": "zh",
     "code3": "zho",
     "name": "Chinese",
-    "nativeName": "中文"
+    "nativeName": "中文",
+    "population": 0
   }
 ]
 ```
@@ -29,6 +30,7 @@ Other localized translations are split into `/translations/<locale>.json` (one l
 | `code3`      | `string` | Yes      | ISO 639-3 language code (3 lowercase letters), e.g. `zho`. |
 | `name`       | `string` | Yes      | English language name.                                     |
 | `nativeName` | `string` | Yes      | Native/self language name.                                 |
+| `population` | `number` | Yes      | Estimated speaker population (default `0` if unknown).     |
 
 ## Translations
 
