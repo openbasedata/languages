@@ -2,931 +2,1117 @@
   {
     "code": "aa",
     "name": "Afar",
-    "nativeName": "Afar"
+    "nativeName": "Afar",
+    "population": 2305972
   },
   {
     "code": "ab",
     "name": "Abkhazian",
-    "nativeName": "Аԥсшәа"
+    "nativeName": "Аԥсшәа",
+    "population": 111859
   },
   {
     "code": "ae",
     "name": "Avestan",
-    "nativeName": "Avestan"
+    "nativeName": "Avestan",
+    "population": 0
   },
   {
     "code": "af",
     "name": "Afrikaans",
-    "nativeName": "Afrikaans"
+    "nativeName": "Afrikaans",
+    "population": 9966165
   },
   {
     "code": "ak",
     "name": "Akan",
-    "nativeName": "Akan"
+    "nativeName": "Akan",
+    "population": 13489749
   },
   {
     "code": "am",
     "name": "Amharic",
-    "nativeName": "አማርኛ"
+    "nativeName": "አማርኛ",
+    "population": 39176975
   },
   {
     "code": "an",
     "name": "Aragonese",
-    "nativeName": "aragonés"
+    "nativeName": "aragonés",
+    "population": 24586
   },
   {
     "code": "ar",
     "name": "Arabic",
-    "nativeName": "العربية"
+    "nativeName": "العربية",
+    "population": 378792524
   },
   {
     "code": "as",
     "name": "Assamese",
-    "nativeName": "অসমীয়া"
+    "nativeName": "অসমীয়া",
+    "population": 18318690
   },
   {
     "code": "av",
     "name": "Avaric",
-    "nativeName": "Avaric"
+    "nativeName": "Avaric",
+    "population": 549202
   },
   {
     "code": "ay",
     "name": "Aymara",
-    "nativeName": "Aymara"
+    "nativeName": "Aymara",
+    "population": 2984003
   },
   {
     "code": "az",
     "name": "Azerbaijani",
-    "nativeName": "azərbaycan"
+    "nativeName": "azərbaycan",
+    "population": 33803630
   },
   {
     "code": "ba",
     "name": "Bashkir",
-    "nativeName": "башҡорт теле"
+    "nativeName": "башҡорт теле",
+    "population": 1830673
   },
   {
     "code": "be",
     "name": "Belarusian",
-    "nativeName": "беларуская"
+    "nativeName": "беларуская",
+    "population": 10022172
   },
   {
     "code": "bg",
     "name": "Bulgarian",
-    "nativeName": "български"
+    "nativeName": "български",
+    "population": 7684021
   },
   {
     "code": "bi",
     "name": "Bislama",
-    "nativeName": "Bislama"
+    "nativeName": "Bislama",
+    "population": 286206
   },
   {
     "code": "bm",
     "name": "Bambara",
-    "nativeName": "bamanakan"
+    "nativeName": "bamanakan",
+    "population": 10555488
   },
   {
     "code": "bn",
     "name": "Bengali",
-    "nativeName": "বাংলা"
+    "nativeName": "বাংলা",
+    "population": 279893704
   },
   {
     "code": "bo",
     "name": "Tibetan",
-    "nativeName": "བོད་སྐད་"
+    "nativeName": "བོད་སྐད་",
+    "population": 3061778
   },
   {
     "code": "br",
     "name": "Breton",
-    "nativeName": "brezhoneg"
+    "nativeName": "brezhoneg",
+    "population": 567509
   },
   {
     "code": "bs",
     "name": "Bosnian",
-    "nativeName": "bosanski"
+    "nativeName": "bosanski",
+    "population": 7521366
   },
   {
     "code": "ca",
     "name": "Catalan",
-    "nativeName": "català"
+    "nativeName": "català",
+    "population": 8218782
   },
   {
     "code": "ce",
     "name": "Chechen",
-    "nativeName": "нохчийн"
+    "nativeName": "нохчийн",
+    "population": 929419
   },
   {
     "code": "ch",
     "name": "Chamorro",
-    "nativeName": "Chamorro"
+    "nativeName": "Chamorro",
+    "population": 46498
   },
   {
     "code": "co",
     "name": "Corsican",
-    "nativeName": "corsu"
+    "nativeName": "corsu",
+    "population": 164099
   },
   {
     "code": "cr",
     "name": "Cree",
-    "nativeName": "Cree"
+    "nativeName": "Cree",
+    "population": 5043
   },
   {
     "code": "cs",
     "name": "Czech",
-    "nativeName": "čeština"
+    "nativeName": "čeština",
+    "population": 13236058
   },
   {
     "code": "cu",
     "name": "Church Slavic",
-    "nativeName": "Church Slavic"
+    "nativeName": "Church Slavic",
+    "population": 0
   },
   {
     "code": "cv",
     "name": "Chuvash",
-    "nativeName": "чӑваш"
+    "nativeName": "чӑваш",
+    "population": 1830673
   },
   {
     "code": "cy",
     "name": "Welsh",
-    "nativeName": "Cymraeg"
+    "nativeName": "Cymraeg",
+    "population": 920984
   },
   {
     "code": "da",
     "name": "Danish",
-    "nativeName": "dansk"
+    "nativeName": "dansk",
+    "population": 7247744
   },
   {
     "code": "de",
     "name": "German",
-    "nativeName": "Deutsch"
+    "nativeName": "Deutsch",
+    "population": 141873198
   },
   {
     "code": "dv",
     "name": "Divehi",
-    "nativeName": "Divehi"
+    "nativeName": "Divehi",
+    "population": 385308
   },
   {
     "code": "dz",
     "name": "Dzongkha",
-    "nativeName": "རྫོང་ཁ"
+    "nativeName": "རྫོང་ཁ",
+    "population": 418555
   },
   {
     "code": "ee",
     "name": "Ewe",
-    "nativeName": "eʋegbe"
+    "nativeName": "eʋegbe",
+    "population": 5320859
   },
   {
     "code": "el",
     "name": "Modern Greek (1453-)",
-    "nativeName": "Ελληνικά"
+    "nativeName": "Ελληνικά",
+    "population": 12249403
   },
   {
     "code": "en",
     "name": "English",
-    "nativeName": "English"
+    "nativeName": "English",
+    "population": 1728003523
   },
   {
     "code": "eo",
     "name": "Esperanto",
-    "nativeName": "Esperanto"
+    "nativeName": "Esperanto",
+    "population": 1983000
   },
   {
     "code": "es",
     "name": "Spanish",
-    "nativeName": "español"
+    "nativeName": "español",
+    "population": 507161086
   },
   {
     "code": "et",
     "name": "Estonian",
-    "nativeName": "eesti"
+    "nativeName": "eesti",
+    "population": 853780
   },
   {
     "code": "eu",
     "name": "Basque",
-    "nativeName": "euskara"
+    "nativeName": "euskara",
+    "population": 1034495
   },
   {
     "code": "fa",
     "name": "Persian",
-    "nativeName": "فارسی"
+    "nativeName": "فارسی",
+    "population": 89208446
   },
   {
     "code": "ff",
     "name": "Fulah",
-    "nativeName": "Pulaar"
+    "nativeName": "Pulaar",
+    "population": 8955865
   },
   {
     "code": "fi",
     "name": "Finnish",
-    "nativeName": "suomi"
+    "nativeName": "suomi",
+    "population": 5789396
   },
   {
     "code": "fj",
     "name": "Fijian",
-    "nativeName": "Fijian"
+    "nativeName": "Fijian",
+    "population": 371128
   },
   {
     "code": "fo",
     "name": "Faroese",
-    "nativeName": "føroyskt"
+    "nativeName": "føroyskt",
+    "population": 72984
   },
   {
     "code": "fr",
     "name": "French",
-    "nativeName": "français"
+    "nativeName": "français",
+    "population": 332956351
   },
   {
     "code": "fy",
     "name": "Western Frisian",
-    "nativeName": "Frysk"
+    "nativeName": "Frysk",
+    "population": 764213
   },
   {
     "code": "ga",
     "name": "Irish",
-    "nativeName": "Gaeilge"
+    "nativeName": "Gaeilge",
+    "population": 1254050
   },
   {
     "code": "gd",
     "name": "Scottish Gaelic",
-    "nativeName": "Gàidhlig"
+    "nativeName": "Gàidhlig",
+    "population": 75305
   },
   {
     "code": "gl",
     "name": "Galician",
-    "nativeName": "galego"
+    "nativeName": "galego",
+    "population": 3323918
   },
   {
     "code": "gn",
     "name": "Guarani",
-    "nativeName": "avañe’ẽ"
+    "nativeName": "avañe’ẽ",
+    "population": 6095531
   },
   {
     "code": "gu",
     "name": "Gujarati",
-    "nativeName": "ગુજરાતી"
+    "nativeName": "ગુજરાતી",
+    "population": 65626183
   },
   {
     "code": "gv",
     "name": "Manx",
-    "nativeName": "Gaelg"
+    "nativeName": "Gaelg",
+    "population": 1661
   },
   {
     "code": "ha",
     "name": "Hausa",
-    "nativeName": "Hausa"
+    "nativeName": "Hausa",
+    "population": 45194358
   },
   {
     "code": "he",
     "name": "Hebrew",
-    "nativeName": "עברית"
+    "nativeName": "עברית",
+    "population": 9402620
   },
   {
     "code": "hi",
     "name": "Hindi",
-    "nativeName": "हिन्दी"
+    "nativeName": "हिन्दी",
+    "population": 581727614
   },
   {
     "code": "ho",
     "name": "Hiri Motu",
-    "nativeName": "Hiri Motu"
+    "nativeName": "Hiri Motu",
+    "population": 210970
   },
   {
     "code": "hr",
     "name": "Croatian",
-    "nativeName": "hrvatski"
+    "nativeName": "hrvatski",
+    "population": 6790798
   },
   {
     "code": "ht",
     "name": "Haitian",
-    "nativeName": "Kreyòl Ayisyen"
+    "nativeName": "Kreyòl Ayisyen",
+    "population": 9520659
   },
   {
     "code": "hu",
     "name": "Hungarian",
-    "nativeName": "magyar"
+    "nativeName": "magyar",
+    "population": 12313193
   },
   {
     "code": "hy",
     "name": "Armenian",
-    "nativeName": "հայերեն"
+    "nativeName": "հայերեն",
+    "population": 5413737
   },
   {
     "code": "hz",
     "name": "Herero",
-    "nativeName": "Herero"
+    "nativeName": "Herero",
+    "population": 255133
   },
   {
     "code": "ia",
     "name": "Interlingua (International Auxiliary Language Association)",
-    "nativeName": "interlingua"
+    "nativeName": "interlingua",
+    "population": 1500
   },
   {
     "code": "id",
     "name": "Indonesian",
-    "nativeName": "bahasa Indonesia"
+    "nativeName": "bahasa Indonesia",
+    "population": 180519583
   },
   {
     "code": "ie",
     "name": "Interlingue",
-    "nativeName": "Interlingue"
+    "nativeName": "Interlingue",
+    "population": 1000
   },
   {
     "code": "ig",
     "name": "Igbo",
-    "nativeName": "Igbo"
+    "nativeName": "Igbo",
+    "population": 30777110
   },
   {
     "code": "ii",
     "name": "Sichuan Yi",
-    "nativeName": "ꆈꌠꉙ"
+    "nativeName": "ꆈꌠꉙ",
+    "population": 8496240
   },
   {
     "code": "ik",
     "name": "Inupiaq",
-    "nativeName": "Inupiaq"
+    "nativeName": "Inupiaq",
+    "population": 7865
   },
   {
     "code": "io",
     "name": "Ido",
-    "nativeName": "Ido"
+    "nativeName": "Ido",
+    "population": 0
   },
   {
     "code": "is",
     "name": "Icelandic",
-    "nativeName": "íslenska"
+    "nativeName": "íslenska",
+    "population": 364036
   },
   {
     "code": "it",
     "name": "Italian",
-    "nativeName": "italiano"
+    "nativeName": "italiano",
+    "population": 70475319
   },
   {
     "code": "iu",
     "name": "Inuktitut",
-    "nativeName": "Inuktitut"
+    "nativeName": "Inuktitut",
+    "population": 85348
   },
   {
     "code": "ja",
     "name": "Japanese",
-    "nativeName": "日本語"
+    "nativeName": "日本語",
+    "population": 117608755
   },
   {
     "code": "jv",
     "name": "Javanese",
-    "nativeName": "Jawa"
+    "nativeName": "Jawa",
+    "population": 96145858
   },
   {
     "code": "ka",
     "name": "Georgian",
-    "nativeName": "ქართული"
+    "nativeName": "ქართული",
+    "population": 4324688
   },
   {
     "code": "kg",
     "name": "Kongo",
-    "nativeName": "Kongo"
+    "nativeName": "Kongo",
+    "population": 1731045
   },
   {
     "code": "ki",
     "name": "Kikuyu",
-    "nativeName": "Gikuyu"
+    "nativeName": "Gikuyu",
+    "population": 9901888
   },
   {
     "code": "kj",
     "name": "Kuanyama",
-    "nativeName": "Kuanyama"
+    "nativeName": "Kuanyama",
+    "population": 981281
   },
   {
     "code": "kk",
     "name": "Kazakh",
-    "nativeName": "қазақ тілі"
+    "nativeName": "қазақ тілі",
+    "population": 14411915
   },
   {
     "code": "kl",
     "name": "Kalaallisut",
-    "nativeName": "kalaallisut"
+    "nativeName": "kalaallisut",
+    "population": 55679
   },
   {
     "code": "km",
     "name": "Khmer",
-    "nativeName": "ខ្មែរ"
+    "nativeName": "ខ្មែរ",
+    "population": 15186693
   },
   {
     "code": "kn",
     "name": "Kannada",
-    "nativeName": "ಕನ್ನಡ"
+    "nativeName": "ಕನ್ನಡ",
+    "population": 52137810
   },
   {
     "code": "ko",
     "name": "Korean",
-    "nativeName": "한국어"
+    "nativeName": "한국어",
+    "population": 79278717
   },
   {
     "code": "kr",
     "name": "Kanuri",
-    "nativeName": "Kanuri"
+    "nativeName": "Kanuri",
+    "population": 0
   },
   {
     "code": "ks",
     "name": "Kashmiri",
-    "nativeName": "کٲشُر"
+    "nativeName": "کٲشُر",
+    "population": 5951564
   },
   {
     "code": "ku",
     "name": "Kurdish",
-    "nativeName": "kurdî (kurmancî)"
+    "nativeName": "kurdî (kurmancî)",
+    "population": 7372575
   },
   {
     "code": "kv",
     "name": "Komi",
-    "nativeName": "Komi"
+    "nativeName": "Komi",
+    "population": 253478
   },
   {
     "code": "kw",
     "name": "Cornish",
-    "nativeName": "kernewek"
+    "nativeName": "kernewek",
+    "population": 1985
   },
   {
     "code": "ky",
     "name": "Kirghiz",
-    "nativeName": "кыргызча"
+    "nativeName": "кыргызча",
+    "population": 3445240
   },
   {
     "code": "la",
     "name": "Latin",
-    "nativeName": "Lingua latina"
+    "nativeName": "Lingua latina",
+    "population": 0
   },
   {
     "code": "lb",
     "name": "Luxembourgish",
-    "nativeName": "Lëtzebuergesch"
+    "nativeName": "Lëtzebuergesch",
+    "population": 449740
   },
   {
     "code": "lg",
     "name": "Ganda",
-    "nativeName": "Luganda"
+    "nativeName": "Luganda",
+    "population": 6406790
   },
   {
     "code": "li",
     "name": "Limburgan",
-    "nativeName": "Limburgish"
+    "nativeName": "Limburgish",
+    "population": 977482
   },
   {
     "code": "ln",
     "name": "Lingala",
-    "nativeName": "lingála"
+    "nativeName": "lingála",
+    "population": 3986653
   },
   {
     "code": "lo",
     "name": "Lao",
-    "nativeName": "ລາວ"
+    "nativeName": "ລາວ",
+    "population": 5487956
   },
   {
     "code": "lt",
     "name": "Lithuanian",
-    "nativeName": "lietuvių"
+    "nativeName": "lietuvių",
+    "population": 2405298
   },
   {
     "code": "lu",
     "name": "Luba-Katanga",
-    "nativeName": "Tshiluba"
+    "nativeName": "Tshiluba",
+    "population": 2654269
   },
   {
     "code": "lv",
     "name": "Latvian",
-    "nativeName": "latviešu"
+    "nativeName": "latviešu",
+    "population": 1098762
   },
   {
     "code": "mg",
     "name": "Malagasy",
-    "nativeName": "Malagasy"
+    "nativeName": "Malagasy",
+    "population": 26507430
   },
   {
     "code": "mh",
     "name": "Marshallese",
-    "nativeName": "Marshallese"
+    "nativeName": "Marshallese",
+    "population": 59868
   },
   {
     "code": "mi",
     "name": "Maori",
-    "nativeName": "Māori"
+    "nativeName": "Māori",
+    "population": 144514
   },
   {
     "code": "mk",
     "name": "Macedonian",
-    "nativeName": "македонски"
+    "nativeName": "македонски",
+    "population": 1612846
   },
   {
     "code": "ml",
     "name": "Malayalam",
-    "nativeName": "മലയാളം"
+    "nativeName": "മലയാളം",
+    "population": 45922588
   },
   {
     "code": "mn",
     "name": "Mongolian",
-    "nativeName": "монгол"
+    "nativeName": "монгол",
+    "population": 6735778
   },
   {
     "code": "mr",
     "name": "Marathi",
-    "nativeName": "मराठी"
+    "nativeName": "मराठी",
+    "population": 98639100
   },
   {
     "code": "ms",
     "name": "Malay (macrolanguage)",
-    "nativeName": "bahasa Malaysia"
+    "nativeName": "bahasa Malaysia",
+    "population": 40201996
   },
   {
     "code": "mt",
     "name": "Maltese",
-    "nativeName": "Malti"
+    "nativeName": "Malti",
+    "population": 469730
   },
   {
     "code": "my",
     "name": "Burmese",
-    "nativeName": "မြန်မာ"
+    "nativeName": "မြန်မာ",
+    "population": 37171608
   },
   {
     "code": "na",
     "name": "Nauru",
-    "nativeName": "Nauru"
+    "nativeName": "Nauru",
+    "population": 6924
   },
   {
     "code": "nb",
     "name": "Norwegian Bokmål",
-    "nativeName": "norsk bokmål"
+    "nativeName": "norsk bokmål",
+    "population": 5511222
   },
   {
     "code": "nd",
     "name": "North Ndebele",
-    "nativeName": "isiNdebele"
+    "nativeName": "isiNdebele",
+    "population": 2058048
   },
   {
     "code": "ne",
     "name": "Nepali (macrolanguage)",
-    "nativeName": "नेपाली"
+    "nativeName": "नेपाली",
+    "population": 21735357
   },
   {
     "code": "ng",
     "name": "Ndonga",
-    "nativeName": "Ndonga"
+    "nativeName": "Ndonga",
+    "population": 588769
   },
   {
     "code": "nl",
     "name": "Dutch",
-    "nativeName": "Nederlands"
+    "nativeName": "Nederlands",
+    "population": 32854897
   },
   {
     "code": "nn",
     "name": "Norwegian Nynorsk",
-    "nativeName": "norsk nynorsk"
+    "nativeName": "norsk nynorsk",
+    "population": 1377432
   },
   {
     "code": "no",
     "name": "Norwegian",
-    "nativeName": "norsk"
+    "nativeName": "norsk",
+    "population": 5509731
   },
   {
     "code": "nr",
     "name": "South Ndebele",
-    "nativeName": "South Ndebele"
+    "nativeName": "South Ndebele",
+    "population": 967082
   },
   {
     "code": "nv",
     "name": "Navajo",
-    "nativeName": "Diné Bizaad"
+    "nativeName": "Diné Bizaad",
+    "population": 170982
   },
   {
     "code": "ny",
     "name": "Chichewa",
-    "nativeName": "Nyanja"
+    "nativeName": "Nyanja",
+    "population": 18855692
   },
   {
     "code": "oc",
     "name": "Occitan (post 1500)",
-    "nativeName": "occitan"
+    "nativeName": "occitan",
+    "population": 2055966
   },
   {
     "code": "oj",
     "name": "Ojibwa",
-    "nativeName": "Ojibwa"
+    "nativeName": "Ojibwa",
+    "population": 27932
   },
   {
     "code": "om",
     "name": "Oromo",
-    "nativeName": "Oromoo"
+    "nativeName": "Oromoo",
+    "population": 38264431
   },
   {
     "code": "or",
     "name": "Oriya (macrolanguage)",
-    "nativeName": "ଓଡ଼ିଆ"
+    "nativeName": "ଓଡ଼ିଆ",
+    "population": 45092160
   },
   {
     "code": "os",
     "name": "Ossetian",
-    "nativeName": "ирон"
+    "nativeName": "ирон",
+    "population": 558448
   },
   {
     "code": "pa",
     "name": "Panjabi",
-    "nativeName": "ਪੰਜਾਬੀ"
+    "nativeName": "ਪੰਜਾਬੀ",
+    "population": 219603181
   },
   {
     "code": "pi",
     "name": "Pali",
-    "nativeName": "Pali"
+    "nativeName": "Pali",
+    "population": 0
   },
   {
     "code": "pl",
     "name": "Polish",
-    "nativeName": "polski"
+    "nativeName": "polski",
+    "population": 41500500
   },
   {
     "code": "ps",
     "name": "Pushto",
-    "nativeName": "پښتو"
+    "nativeName": "پښتو",
+    "population": 58062881
   },
   {
     "code": "pt",
     "name": "Portuguese",
-    "nativeName": "português"
+    "nativeName": "português",
+    "population": 249463920
   },
   {
     "code": "qu",
     "name": "Quechua",
-    "nativeName": "Runasimi"
+    "nativeName": "Runasimi",
+    "population": 11942570
   },
   {
     "code": "rm",
     "name": "Romansh",
-    "nativeName": "rumantsch"
+    "nativeName": "rumantsch",
+    "population": 44303
   },
   {
     "code": "rn",
     "name": "Rundi",
-    "nativeName": "Ikirundi"
+    "nativeName": "Ikirundi",
+    "population": 8561763
   },
   {
     "code": "ro",
     "name": "Romanian",
-    "nativeName": "română"
+    "nativeName": "română",
+    "population": 20043506
   },
   {
     "code": "ru",
     "name": "Russian",
-    "nativeName": "русский"
+    "nativeName": "русский",
+    "population": 193610712
   },
   {
     "code": "rw",
     "name": "Kinyarwanda",
-    "nativeName": "Ikinyarwanda"
+    "nativeName": "Ikinyarwanda",
+    "population": 11963415
   },
   {
     "code": "sa",
     "name": "Sanskrit",
-    "nativeName": "संस्कृत भाषा"
+    "nativeName": "संस्कृत भाषा",
+    "population": 16910
   },
   {
     "code": "sc",
     "name": "Sardinian",
-    "nativeName": "sardu"
+    "nativeName": "sardu",
+    "population": 1036403
   },
   {
     "code": "sd",
     "name": "Sindhi",
-    "nativeName": "سنڌي"
+    "nativeName": "سنڌي",
+    "population": 43491120
   },
   {
     "code": "se",
     "name": "Northern Sami",
-    "nativeName": "davvisámegiella"
+    "nativeName": "davvisámegiella",
+    "population": 52950
   },
   {
     "code": "sg",
     "name": "Sango",
-    "nativeName": "Sängö"
+    "nativeName": "Sängö",
+    "population": 2768970
   },
   {
     "code": "sh",
     "name": "Serbo-Croatian",
-    "nativeName": "srpski (latinica)"
+    "nativeName": "srpski (latinica)",
+    "population": 12000000
   },
   {
     "code": "si",
     "name": "Sinhala",
-    "nativeName": "සිංහල"
+    "nativeName": "සිංහල",
+    "population": 14948168
   },
   {
     "code": "sk",
     "name": "Slovak",
-    "nativeName": "slovenčina"
+    "nativeName": "slovenčina",
+    "population": 6809720
   },
   {
     "code": "sl",
     "name": "Slovenian",
-    "nativeName": "slovenščina"
+    "nativeName": "slovenščina",
+    "population": 1967012
   },
   {
     "code": "sm",
     "name": "Samoan",
-    "nativeName": "Samoan"
+    "nativeName": "Samoan",
+    "population": 252638
   },
   {
     "code": "sn",
     "name": "Shona",
-    "nativeName": "chiShona"
+    "nativeName": "chiShona",
+    "population": 13891824
   },
   {
     "code": "so",
     "name": "Somali",
-    "nativeName": "Soomaali"
+    "nativeName": "Soomaali",
+    "population": 18630626
   },
   {
     "code": "sq",
     "name": "Albanian",
-    "nativeName": "shqip"
+    "nativeName": "shqip",
+    "population": 6798944
   },
   {
     "code": "sr",
     "name": "Serbian",
-    "nativeName": "српски"
+    "nativeName": "српски",
+    "population": 9500000
   },
   {
     "code": "ss",
     "name": "Swati",
-    "nativeName": "siSwati"
+    "nativeName": "siSwati",
+    "population": 2345503
   },
   {
     "code": "st",
     "name": "Southern Sotho",
-    "nativeName": "Sesotho"
+    "nativeName": "Sesotho",
+    "population": 6957964
   },
   {
     "code": "su",
     "name": "Sundanese",
-    "nativeName": "Basa Sunda"
+    "nativeName": "Basa Sunda",
+    "population": 33787440
   },
   {
     "code": "sv",
     "name": "Swedish",
-    "nativeName": "svenska"
+    "nativeName": "svenska",
+    "population": 13338376
   },
   {
     "code": "sw",
     "name": "Swahili (macrolanguage)",
-    "nativeName": "Kiswahili"
+    "nativeName": "Kiswahili",
+    "population": 194102079
   },
   {
     "code": "ta",
     "name": "Tamil",
-    "nativeName": "தமிழ்"
+    "nativeName": "தமிழ்",
+    "population": 90608137
   },
   {
     "code": "te",
     "name": "Telugu",
-    "nativeName": "తెలుగు"
+    "nativeName": "తెలుగు",
+    "population": 101457360
   },
   {
     "code": "tg",
     "name": "Tajik",
-    "nativeName": "тоҷикӣ"
+    "nativeName": "тоҷикӣ",
+    "population": 11226901
   },
   {
     "code": "th",
     "name": "Thai",
-    "nativeName": "ไทย"
+    "nativeName": "ไทย",
+    "population": 55936800
   },
   {
     "code": "ti",
     "name": "Tigrinya",
-    "nativeName": "ትግርኛ"
+    "nativeName": "ትግርኛ",
+    "population": 10929719
   },
   {
     "code": "tk",
     "name": "Turkmen",
-    "nativeName": "türkmen dili"
+    "nativeName": "türkmen dili",
+    "population": 7177805
   },
   {
     "code": "tl",
     "name": "Tagalog",
-    "nativeName": "Filipino"
+    "nativeName": "Filipino",
+    "population": 73198318
   },
   {
     "code": "tn",
     "name": "Tswana",
-    "nativeName": "Setswana"
+    "nativeName": "Setswana",
+    "population": 6529139
   },
   {
     "code": "to",
     "name": "Tonga (Tonga Islands)",
-    "nativeName": "lea fakatonga"
+    "nativeName": "lea fakatonga",
+    "population": 99645
   },
   {
     "code": "tr",
     "name": "Turkish",
-    "nativeName": "Türkçe"
+    "nativeName": "Türkçe",
+    "population": 82419545
   },
   {
     "code": "ts",
     "name": "Tsonga",
-    "nativeName": "Tsonga"
+    "nativeName": "Tsonga",
+    "population": 5313551
   },
   {
     "code": "tt",
     "name": "Tatar",
-    "nativeName": "татар"
+    "nativeName": "татар",
+    "population": 1971494
   },
   {
     "code": "tw",
     "name": "Twi",
-    "nativeName": "Akan"
+    "nativeName": "Akan",
+    "population": 0
   },
   {
     "code": "ty",
     "name": "Tahitian",
-    "nativeName": "Tahitian"
+    "nativeName": "Tahitian",
+    "population": 94097
   },
   {
     "code": "ug",
     "name": "Uighur",
-    "nativeName": "ئۇيغۇرچە"
+    "nativeName": "ئۇيغۇرچە",
+    "population": 8197414
   },
   {
     "code": "uk",
     "name": "Ukrainian",
-    "nativeName": "українська"
+    "nativeName": "українська",
+    "population": 24080585
   },
   {
     "code": "ur",
     "name": "Urdu",
-    "nativeName": "اردو"
+    "nativeName": "اردو",
+    "population": 313093257
   },
   {
     "code": "uz",
     "name": "Uzbek",
-    "nativeName": "o‘zbek"
+    "nativeName": "o‘zbek",
+    "population": 38930972
   },
   {
     "code": "ve",
     "name": "Venda",
-    "nativeName": "tshiVenḓa"
+    "nativeName": "tshiVenḓa",
+    "population": 1499943
   },
   {
     "code": "vi",
     "name": "Vietnamese",
-    "nativeName": "Tiếng Việt"
+    "nativeName": "Tiếng Việt",
+    "population": 92370781
   },
   {
     "code": "vo",
     "name": "Volapük",
-    "nativeName": "Volapük"
+    "nativeName": "Volapük",
+    "population": 0
   },
   {
     "code": "wa",
     "name": "Walloon",
-    "nativeName": "walon"
+    "nativeName": "walon",
+    "population": 694701
   },
   {
     "code": "wo",
     "name": "Wolof",
-    "nativeName": "Wolof"
+    "nativeName": "Wolof",
+    "population": 13203204
   },
   {
     "code": "xh",
     "name": "Xhosa",
-    "nativeName": "IsiXhosa"
+    "nativeName": "IsiXhosa",
+    "population": 10901721
   },
   {
     "code": "yi",
     "name": "Yiddish",
-    "nativeName": "ייִדיש"
+    "nativeName": "ייִדיש",
+    "population": 916209
   },
   {
     "code": "yo",
     "name": "Yoruba",
-    "nativeName": "Èdè Yorùbá"
+    "nativeName": "Èdè Yorùbá",
+    "population": 31761816
   },
   {
     "code": "za",
     "name": "Zhuang",
-    "nativeName": "Vahcuengh"
+    "nativeName": "Vahcuengh",
+    "population": 4389724
   },
   {
     "code": "zh",
     "name": "Chinese",
-    "nativeName": "中文"
+    "nativeName": "中文",
+    "population": 1325522927
   },
   {
     "code": "zh-Hans",
     "name": "Chinese (Simplified)",
-    "nativeName": "简体中文"
+    "nativeName": "简体中文",
+    "population": 1110000000
   },
   {
     "code": "zh-Hant",
     "name": "Chinese (Traditional)",
-    "nativeName": "繁體中文"
+    "nativeName": "繁體中文",
+    "population": 42000000
   },
   {
     "code": "zu",
     "name": "Zulu",
-    "nativeName": "isiZulu"
+    "nativeName": "isiZulu",
+    "population": 14969091
   }
 ]

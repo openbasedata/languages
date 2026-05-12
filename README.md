@@ -10,6 +10,8 @@ npm install @openbasedata/languages
 
 Other localized translations are split into `/translations/<locale>.json` (one language per file) to keep the main dataset smaller.
 
+`population` is an estimated speaker count generated for data completeness. Values are approximate and may overlap for macro-languages or script variants; `0` means no reliable estimate.
+
 ## Data Structure
 
 ```json
@@ -17,16 +19,18 @@ Other localized translations are split into `/translations/<locale>.json` (one l
   {
     "code": "zh",
     "name": "Chinese",
-    "nativeName": "中文"
+    "nativeName": "中文",
+    "population": 0
   }
 ]
 ```
 
-| Field        | Type     | Required | Description                                               |
-| ------------ | -------- | -------- | --------------------------------------------------------- |
-| `code`       | `string` | Yes      | ISO 639-1 language code (2 lowercase letters), e.g. `zh`. |
-| `name`       | `string` | Yes      | English language name.                                    |
-| `nativeName` | `string` | Yes      | Native/self language name.                                |
+| Field        | Type     | Required | Description                                                 |
+| ------------ | -------- | -------- | ----------------------------------------------------------- |
+| `code`       | `string` | Yes      | ISO 639-1 language code (2 lowercase letters), e.g. `zh`.   |
+| `name`       | `string` | Yes      | English language name.                                      |
+| `nativeName` | `string` | Yes      | Native/self language name.                                  |
+| `population` | `number` | Yes      | Estimated speaker population (`0` when no estimate exists). |
 
 ## Translations
 
