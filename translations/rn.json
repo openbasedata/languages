@@ -1,0 +1,560 @@
+{
+  "aa": {
+    "name": "Afar"
+  },
+  "ab": {
+    "name": "Abkhazian"
+  },
+  "ae": {
+    "name": "Avestan"
+  },
+  "af": {
+    "name": "Afrikaans"
+  },
+  "ak": {
+    "name": "Igikani"
+  },
+  "am": {
+    "name": "Ikimuhariki"
+  },
+  "an": {
+    "name": "Aragonese"
+  },
+  "ar": {
+    "name": "Icarabu"
+  },
+  "as": {
+    "name": "Assamese"
+  },
+  "av": {
+    "name": "Avaric"
+  },
+  "ay": {
+    "name": "Aymara"
+  },
+  "az": {
+    "name": "Azerbaijani"
+  },
+  "ba": {
+    "name": "Bashkir"
+  },
+  "be": {
+    "name": "Ikibelarusiya"
+  },
+  "bg": {
+    "name": "Ikinyabuligariya"
+  },
+  "bi": {
+    "name": "Bislama"
+  },
+  "bm": {
+    "name": "Bambara"
+  },
+  "bn": {
+    "name": "Ikibengali"
+  },
+  "bo": {
+    "name": "Tibetan"
+  },
+  "br": {
+    "name": "Breton"
+  },
+  "bs": {
+    "name": "Bosnian"
+  },
+  "ca": {
+    "name": "Catalan"
+  },
+  "ce": {
+    "name": "Chechen"
+  },
+  "ch": {
+    "name": "Chamorro"
+  },
+  "co": {
+    "name": "Corsican"
+  },
+  "cr": {
+    "name": "Cree"
+  },
+  "cs": {
+    "name": "Igiceke"
+  },
+  "cu": {
+    "name": "Church Slavic"
+  },
+  "cv": {
+    "name": "Chuvash"
+  },
+  "cy": {
+    "name": "Welsh"
+  },
+  "da": {
+    "name": "Danish"
+  },
+  "de": {
+    "name": "Ikidage"
+  },
+  "dv": {
+    "name": "Divehi"
+  },
+  "dz": {
+    "name": "Dzongkha"
+  },
+  "ee": {
+    "name": "Ewe"
+  },
+  "el": {
+    "name": "Ikigereki"
+  },
+  "en": {
+    "name": "Icongereza"
+  },
+  "eo": {
+    "name": "Esperanto"
+  },
+  "es": {
+    "name": "Icesipanyolo"
+  },
+  "et": {
+    "name": "Estonian"
+  },
+  "eu": {
+    "name": "Basque"
+  },
+  "fa": {
+    "name": "Igiperisi"
+  },
+  "ff": {
+    "name": "Fulah"
+  },
+  "fi": {
+    "name": "Finnish"
+  },
+  "fj": {
+    "name": "Fijian"
+  },
+  "fo": {
+    "name": "Faroese"
+  },
+  "fr": {
+    "name": "Igifaransa"
+  },
+  "fy": {
+    "name": "Western Frisian"
+  },
+  "ga": {
+    "name": "Irish"
+  },
+  "gd": {
+    "name": "Scottish Gaelic"
+  },
+  "gl": {
+    "name": "Galician"
+  },
+  "gn": {
+    "name": "Guarani"
+  },
+  "gu": {
+    "name": "Gujarati"
+  },
+  "gv": {
+    "name": "Manx"
+  },
+  "ha": {
+    "name": "Igihawusa"
+  },
+  "he": {
+    "name": "Hebrew"
+  },
+  "hi": {
+    "name": "Igihindi"
+  },
+  "ho": {
+    "name": "Hiri Motu"
+  },
+  "hr": {
+    "name": "Croatian"
+  },
+  "ht": {
+    "name": "Haitian"
+  },
+  "hu": {
+    "name": "Ikinyahongiriya"
+  },
+  "hy": {
+    "name": "Armenian"
+  },
+  "hz": {
+    "name": "Herero"
+  },
+  "ia": {
+    "name": "Interlingua (International Auxiliary Language Association)"
+  },
+  "id": {
+    "name": "Ikinyendoziya"
+  },
+  "ie": {
+    "name": "Interlingue"
+  },
+  "ig": {
+    "name": "Ikigubo"
+  },
+  "ii": {
+    "name": "Sichuan Yi"
+  },
+  "ik": {
+    "name": "Inupiaq"
+  },
+  "io": {
+    "name": "Ido"
+  },
+  "is": {
+    "name": "Icelandic"
+  },
+  "it": {
+    "name": "Igitaliyani"
+  },
+  "iu": {
+    "name": "Inuktitut"
+  },
+  "ja": {
+    "name": "Ikiyapani"
+  },
+  "jv": {
+    "name": "Ikinyejava"
+  },
+  "ka": {
+    "name": "Georgian"
+  },
+  "kg": {
+    "name": "Kongo"
+  },
+  "ki": {
+    "name": "Kikuyu"
+  },
+  "kj": {
+    "name": "Kuanyama"
+  },
+  "kk": {
+    "name": "Kazakh"
+  },
+  "kl": {
+    "name": "Kalaallisut"
+  },
+  "km": {
+    "name": "Igikambodiya"
+  },
+  "kn": {
+    "name": "Kannada"
+  },
+  "ko": {
+    "name": "Ikinyakoreya"
+  },
+  "kr": {
+    "name": "Kanuri"
+  },
+  "ks": {
+    "name": "Kashmiri"
+  },
+  "ku": {
+    "name": "Kurdish"
+  },
+  "kv": {
+    "name": "Komi"
+  },
+  "kw": {
+    "name": "Cornish"
+  },
+  "ky": {
+    "name": "Kirghiz"
+  },
+  "la": {
+    "name": "Latin"
+  },
+  "lb": {
+    "name": "Luxembourgish"
+  },
+  "lg": {
+    "name": "Ganda"
+  },
+  "li": {
+    "name": "Limburgan"
+  },
+  "ln": {
+    "name": "Lingala"
+  },
+  "lo": {
+    "name": "Lao"
+  },
+  "lt": {
+    "name": "Lithuanian"
+  },
+  "lu": {
+    "name": "Luba-Katanga"
+  },
+  "lv": {
+    "name": "Latvian"
+  },
+  "mg": {
+    "name": "Malagasy"
+  },
+  "mh": {
+    "name": "Marshallese"
+  },
+  "mi": {
+    "name": "Maori"
+  },
+  "mk": {
+    "name": "Macedonian"
+  },
+  "ml": {
+    "name": "Malayalam"
+  },
+  "mn": {
+    "name": "Mongolian"
+  },
+  "mr": {
+    "name": "Marathi"
+  },
+  "ms": {
+    "name": "Ikinyamaleziya"
+  },
+  "mt": {
+    "name": "Maltese"
+  },
+  "my": {
+    "name": "Ikinyabirimaniya"
+  },
+  "na": {
+    "name": "Nauru"
+  },
+  "nb": {
+    "name": "Norwegian Bokmål"
+  },
+  "nd": {
+    "name": "North Ndebele"
+  },
+  "ne": {
+    "name": "Ikinepali"
+  },
+  "ng": {
+    "name": "Ndonga"
+  },
+  "nl": {
+    "name": "Igiholandi"
+  },
+  "nn": {
+    "name": "Norwegian Nynorsk"
+  },
+  "no": {
+    "name": "Norwegian"
+  },
+  "nr": {
+    "name": "South Ndebele"
+  },
+  "nv": {
+    "name": "Navajo"
+  },
+  "ny": {
+    "name": "Chichewa"
+  },
+  "oc": {
+    "name": "Occitan (post 1500)"
+  },
+  "oj": {
+    "name": "Ojibwa"
+  },
+  "om": {
+    "name": "Oromo"
+  },
+  "or": {
+    "name": "Oriya (macrolanguage)"
+  },
+  "os": {
+    "name": "Ossetian"
+  },
+  "pa": {
+    "name": "Igipunjabi"
+  },
+  "pi": {
+    "name": "Pali"
+  },
+  "pl": {
+    "name": "Ikinyapolonye"
+  },
+  "ps": {
+    "name": "Pushto"
+  },
+  "pt": {
+    "name": "Igiporutugari"
+  },
+  "qu": {
+    "name": "Quechua"
+  },
+  "rm": {
+    "name": "Romansh"
+  },
+  "rn": {
+    "name": "Ikirundi"
+  },
+  "ro": {
+    "name": "Ikinyarumaniya"
+  },
+  "ru": {
+    "name": "Ikirusiya"
+  },
+  "rw": {
+    "name": "Ikinyarwanda"
+  },
+  "sa": {
+    "name": "Sanskrit"
+  },
+  "sc": {
+    "name": "Sardinian"
+  },
+  "sd": {
+    "name": "Sindhi"
+  },
+  "se": {
+    "name": "Northern Sami"
+  },
+  "sg": {
+    "name": "Sango"
+  },
+  "sh": {
+    "name": "Serbo-Croatian"
+  },
+  "si": {
+    "name": "Sinhala"
+  },
+  "sk": {
+    "name": "Slovak"
+  },
+  "sl": {
+    "name": "Slovenian"
+  },
+  "sm": {
+    "name": "Samoan"
+  },
+  "sn": {
+    "name": "Shona"
+  },
+  "so": {
+    "name": "Igisomali"
+  },
+  "sq": {
+    "name": "Albanian"
+  },
+  "sr": {
+    "name": "Serbian"
+  },
+  "ss": {
+    "name": "Swati"
+  },
+  "st": {
+    "name": "Southern Sotho"
+  },
+  "su": {
+    "name": "Sundanese"
+  },
+  "sv": {
+    "name": "Igisuweduwa"
+  },
+  "sw": {
+    "name": "Swahili (macrolanguage)"
+  },
+  "ta": {
+    "name": "Igitamili"
+  },
+  "te": {
+    "name": "Telugu"
+  },
+  "tg": {
+    "name": "Tajik"
+  },
+  "th": {
+    "name": "Ikinyatayilandi"
+  },
+  "ti": {
+    "name": "Tigrinya"
+  },
+  "tk": {
+    "name": "Turkmen"
+  },
+  "tl": {
+    "name": "Tagalog"
+  },
+  "tn": {
+    "name": "Tswana"
+  },
+  "to": {
+    "name": "Tonga (Tonga Islands)"
+  },
+  "tr": {
+    "name": "Igiturukiya"
+  },
+  "ts": {
+    "name": "Tsonga"
+  },
+  "tt": {
+    "name": "Tatar"
+  },
+  "tw": {
+    "name": "Igikani"
+  },
+  "ty": {
+    "name": "Tahitian"
+  },
+  "ug": {
+    "name": "Uighur"
+  },
+  "uk": {
+    "name": "Ikinyayukereni"
+  },
+  "ur": {
+    "name": "Inyeyurudu"
+  },
+  "uz": {
+    "name": "Uzbek"
+  },
+  "ve": {
+    "name": "Venda"
+  },
+  "vi": {
+    "name": "Ikinyaviyetinamu"
+  },
+  "vo": {
+    "name": "Volapük"
+  },
+  "wa": {
+    "name": "Walloon"
+  },
+  "wo": {
+    "name": "Wolof"
+  },
+  "xh": {
+    "name": "Xhosa"
+  },
+  "yi": {
+    "name": "Yiddish"
+  },
+  "yo": {
+    "name": "Ikiyoruba"
+  },
+  "za": {
+    "name": "Zhuang"
+  },
+  "zh": {
+    "name": "Igishinwa"
+  },
+  "zh-Hans": {
+    "name": "Chinese (Simplified)"
+  },
+  "zh-Hant": {
+    "name": "Chinese (Traditional)"
+  },
+  "zu": {
+    "name": "Ikizulu"
+  }
+}

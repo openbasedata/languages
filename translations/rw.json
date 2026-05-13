@@ -1,0 +1,560 @@
+{
+  "aa": {
+    "name": "Afar"
+  },
+  "ab": {
+    "name": "Abkhazian"
+  },
+  "ae": {
+    "name": "Avestan"
+  },
+  "af": {
+    "name": "Ikinyafurikaneri"
+  },
+  "ak": {
+    "name": "Akan"
+  },
+  "am": {
+    "name": "Inyamuhariki"
+  },
+  "an": {
+    "name": "Aragonese"
+  },
+  "ar": {
+    "name": "Icyarabu"
+  },
+  "as": {
+    "name": "Icyasamizi"
+  },
+  "av": {
+    "name": "Avaric"
+  },
+  "ay": {
+    "name": "Aymara"
+  },
+  "az": {
+    "name": "Inyazeribayijani"
+  },
+  "ba": {
+    "name": "Bashkir"
+  },
+  "be": {
+    "name": "Ikibelarusiya"
+  },
+  "bg": {
+    "name": "Urunyabuligariya"
+  },
+  "bi": {
+    "name": "Bislama"
+  },
+  "bm": {
+    "name": "Bambara"
+  },
+  "bn": {
+    "name": "Ikibengali"
+  },
+  "bo": {
+    "name": "Tibetan"
+  },
+  "br": {
+    "name": "Inyebiritoni"
+  },
+  "bs": {
+    "name": "Inyebosiniya"
+  },
+  "ca": {
+    "name": "Igikatalani"
+  },
+  "ce": {
+    "name": "Chechen"
+  },
+  "ch": {
+    "name": "Chamorro"
+  },
+  "co": {
+    "name": "Corsican"
+  },
+  "cr": {
+    "name": "Cree"
+  },
+  "cs": {
+    "name": "Igiceke"
+  },
+  "cu": {
+    "name": "Church Slavic"
+  },
+  "cv": {
+    "name": "Chuvash"
+  },
+  "cy": {
+    "name": "Ikigaluwa"
+  },
+  "da": {
+    "name": "Ikidaninwa"
+  },
+  "de": {
+    "name": "Ikidage"
+  },
+  "dv": {
+    "name": "Divehi"
+  },
+  "dz": {
+    "name": "Dzongkha"
+  },
+  "ee": {
+    "name": "Ewe"
+  },
+  "el": {
+    "name": "Ikigereki"
+  },
+  "en": {
+    "name": "Icyongereza"
+  },
+  "eo": {
+    "name": "Icyesiperanto"
+  },
+  "es": {
+    "name": "Icyesipanyolo"
+  },
+  "et": {
+    "name": "Icyesitoniya"
+  },
+  "eu": {
+    "name": "Ikibasiki"
+  },
+  "fa": {
+    "name": "Inyeperisi"
+  },
+  "ff": {
+    "name": "Fulah"
+  },
+  "fi": {
+    "name": "Igifinilande"
+  },
+  "fj": {
+    "name": "Fijian"
+  },
+  "fo": {
+    "name": "Inyefaroyizi"
+  },
+  "fr": {
+    "name": "Igifaransa"
+  },
+  "fy": {
+    "name": "Igifiriziyani"
+  },
+  "ga": {
+    "name": "Ikirilandi"
+  },
+  "gd": {
+    "name": "Ikigaluwa cy’Igisweduwa"
+  },
+  "gl": {
+    "name": "Ikigalisiya"
+  },
+  "gn": {
+    "name": "Inyaguwarani"
+  },
+  "gu": {
+    "name": "Inyegujarati"
+  },
+  "gv": {
+    "name": "Manx"
+  },
+  "ha": {
+    "name": "Hausa"
+  },
+  "he": {
+    "name": "Igiheburayo"
+  },
+  "hi": {
+    "name": "Igihindi"
+  },
+  "ho": {
+    "name": "Hiri Motu"
+  },
+  "hr": {
+    "name": "Igikorowasiya"
+  },
+  "ht": {
+    "name": "Haitian"
+  },
+  "hu": {
+    "name": "Igihongiriya"
+  },
+  "hy": {
+    "name": "Ikinyarumeniya"
+  },
+  "hz": {
+    "name": "Herero"
+  },
+  "ia": {
+    "name": "Ururimi Gahuzamiryango"
+  },
+  "id": {
+    "name": "Ikinyendoziya"
+  },
+  "ie": {
+    "name": "Uruhuzandimi"
+  },
+  "ig": {
+    "name": "Igbo"
+  },
+  "ii": {
+    "name": "Sichuan Yi"
+  },
+  "ik": {
+    "name": "Inupiaq"
+  },
+  "io": {
+    "name": "Ido"
+  },
+  "is": {
+    "name": "Igisilande"
+  },
+  "it": {
+    "name": "Igitaliyani"
+  },
+  "iu": {
+    "name": "Inuktitut"
+  },
+  "ja": {
+    "name": "Ikiyapani"
+  },
+  "jv": {
+    "name": "Inyejava"
+  },
+  "ka": {
+    "name": "Inyejeworujiya"
+  },
+  "kg": {
+    "name": "Kongo"
+  },
+  "ki": {
+    "name": "Kikuyu"
+  },
+  "kj": {
+    "name": "Kuanyama"
+  },
+  "kk": {
+    "name": "Kazakh"
+  },
+  "kl": {
+    "name": "Kalaallisut"
+  },
+  "km": {
+    "name": "Igikambodiya"
+  },
+  "kn": {
+    "name": "Igikanada"
+  },
+  "ko": {
+    "name": "Igikoreya"
+  },
+  "kr": {
+    "name": "Kanuri"
+  },
+  "ks": {
+    "name": "Kashmiri"
+  },
+  "ku": {
+    "name": "Inyekuridishi"
+  },
+  "kv": {
+    "name": "Komi"
+  },
+  "kw": {
+    "name": "Cornish"
+  },
+  "ky": {
+    "name": "Inkerigizi"
+  },
+  "la": {
+    "name": "Ikilatini"
+  },
+  "lb": {
+    "name": "Luxembourgish"
+  },
+  "lg": {
+    "name": "Ganda"
+  },
+  "li": {
+    "name": "Limburgan"
+  },
+  "ln": {
+    "name": "Ilingala"
+  },
+  "lo": {
+    "name": "Ikilawotiyani"
+  },
+  "lt": {
+    "name": "Ikilituwaniya"
+  },
+  "lu": {
+    "name": "Luba-Katanga"
+  },
+  "lv": {
+    "name": "Ikinyaletoviyani"
+  },
+  "mg": {
+    "name": "Malagasy"
+  },
+  "mh": {
+    "name": "Marshallese"
+  },
+  "mi": {
+    "name": "Maori"
+  },
+  "mk": {
+    "name": "Ikimasedoniya"
+  },
+  "ml": {
+    "name": "Ikimalayalami"
+  },
+  "mn": {
+    "name": "Ikimongoli"
+  },
+  "mr": {
+    "name": "Ikimarati"
+  },
+  "ms": {
+    "name": "Ikimalayi"
+  },
+  "mt": {
+    "name": "Ikimaliteze"
+  },
+  "my": {
+    "name": "Burmese"
+  },
+  "na": {
+    "name": "Nauru"
+  },
+  "nb": {
+    "name": "Norwegian Bokmål"
+  },
+  "nd": {
+    "name": "North Ndebele"
+  },
+  "ne": {
+    "name": "Ikinepali"
+  },
+  "ng": {
+    "name": "Ndonga"
+  },
+  "nl": {
+    "name": "Ikinerilande"
+  },
+  "nn": {
+    "name": "Inyenoruveji (Nyonorusiki)"
+  },
+  "no": {
+    "name": "Ikinoruveji"
+  },
+  "nr": {
+    "name": "South Ndebele"
+  },
+  "nv": {
+    "name": "Navajo"
+  },
+  "ny": {
+    "name": "Chichewa"
+  },
+  "oc": {
+    "name": "Inyogusitani"
+  },
+  "oj": {
+    "name": "Ojibwa"
+  },
+  "om": {
+    "name": "Oromo"
+  },
+  "or": {
+    "name": "Inyoriya"
+  },
+  "os": {
+    "name": "Ossetian"
+  },
+  "pa": {
+    "name": "Igipunjabi"
+  },
+  "pi": {
+    "name": "Pali"
+  },
+  "pl": {
+    "name": "Igipolone"
+  },
+  "ps": {
+    "name": "Impashito"
+  },
+  "pt": {
+    "name": "Igiporutugali"
+  },
+  "qu": {
+    "name": "Quechua"
+  },
+  "rm": {
+    "name": "Romansh"
+  },
+  "rn": {
+    "name": "Rundi"
+  },
+  "ro": {
+    "name": "Ikinyarumaniya"
+  },
+  "ru": {
+    "name": "Ikirusiya"
+  },
+  "rw": {
+    "name": "Ikinyarwanda"
+  },
+  "sa": {
+    "name": "Igisansikiri"
+  },
+  "sc": {
+    "name": "Sardinian"
+  },
+  "sd": {
+    "name": "Igisindi"
+  },
+  "se": {
+    "name": "Northern Sami"
+  },
+  "sg": {
+    "name": "Sango"
+  },
+  "sh": {
+    "name": "Igiseribe (Latin)"
+  },
+  "si": {
+    "name": "Inyesimpaleze"
+  },
+  "sk": {
+    "name": "Igisilovaki"
+  },
+  "sl": {
+    "name": "Ikinyasiloveniya"
+  },
+  "sm": {
+    "name": "Samoan"
+  },
+  "sn": {
+    "name": "Shona"
+  },
+  "so": {
+    "name": "Igisomali"
+  },
+  "sq": {
+    "name": "Icyalubaniya"
+  },
+  "sr": {
+    "name": "Igiseribe"
+  },
+  "ss": {
+    "name": "Swati"
+  },
+  "st": {
+    "name": "Inyesesoto"
+  },
+  "su": {
+    "name": "Inyesudani"
+  },
+  "sv": {
+    "name": "Igisuweduwa"
+  },
+  "sw": {
+    "name": "Igiswahili"
+  },
+  "ta": {
+    "name": "Igitamili"
+  },
+  "te": {
+    "name": "Igitelugu"
+  },
+  "tg": {
+    "name": "Tajik"
+  },
+  "th": {
+    "name": "Igitayi"
+  },
+  "ti": {
+    "name": "Inyatigirinya"
+  },
+  "tk": {
+    "name": "Inyeturukimeni"
+  },
+  "tl": {
+    "name": "Ikinyafilipine"
+  },
+  "tn": {
+    "name": "Tswana"
+  },
+  "to": {
+    "name": "Tonga (Tonga Islands)"
+  },
+  "tr": {
+    "name": "Igiturukiya"
+  },
+  "ts": {
+    "name": "Tsonga"
+  },
+  "tt": {
+    "name": "Tatar"
+  },
+  "tw": {
+    "name": "Twi"
+  },
+  "ty": {
+    "name": "Tahitian"
+  },
+  "ug": {
+    "name": "Ikiwiguri"
+  },
+  "uk": {
+    "name": "Ikinyayukereni"
+  },
+  "ur": {
+    "name": "Inyeyurudu"
+  },
+  "uz": {
+    "name": "Inyeyuzubeki"
+  },
+  "ve": {
+    "name": "Venda"
+  },
+  "vi": {
+    "name": "Ikinyaviyetinamu"
+  },
+  "vo": {
+    "name": "Volapük"
+  },
+  "wa": {
+    "name": "Walloon"
+  },
+  "wo": {
+    "name": "Wolof"
+  },
+  "xh": {
+    "name": "Inyehawusa"
+  },
+  "yi": {
+    "name": "Inyeyidishi"
+  },
+  "yo": {
+    "name": "Yoruba"
+  },
+  "za": {
+    "name": "Zhuang"
+  },
+  "zh": {
+    "name": "Chinese"
+  },
+  "zh-Hans": {
+    "name": "Chinese (Simplified)"
+  },
+  "zh-Hant": {
+    "name": "Chinese (Traditional)"
+  },
+  "zu": {
+    "name": "Inyezulu"
+  }
+}

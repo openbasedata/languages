@@ -1,0 +1,560 @@
+{
+  "aa": {
+    "name": "afara"
+  },
+  "ab": {
+    "name": "abĥaza"
+  },
+  "ae": {
+    "name": "Avestan"
+  },
+  "af": {
+    "name": "afrikansa"
+  },
+  "ak": {
+    "name": "akana"
+  },
+  "am": {
+    "name": "amhara"
+  },
+  "an": {
+    "name": "aragona"
+  },
+  "ar": {
+    "name": "araba"
+  },
+  "as": {
+    "name": "asama"
+  },
+  "av": {
+    "name": "avara"
+  },
+  "ay": {
+    "name": "ajmara"
+  },
+  "az": {
+    "name": "azerbajĝana"
+  },
+  "ba": {
+    "name": "baŝkira"
+  },
+  "be": {
+    "name": "belorusa"
+  },
+  "bg": {
+    "name": "bulgara"
+  },
+  "bi": {
+    "name": "Bislamo"
+  },
+  "bm": {
+    "name": "bambara"
+  },
+  "bn": {
+    "name": "bengala"
+  },
+  "bo": {
+    "name": "tibeta"
+  },
+  "br": {
+    "name": "bretona"
+  },
+  "bs": {
+    "name": "bosna"
+  },
+  "ca": {
+    "name": "kataluna"
+  },
+  "ce": {
+    "name": "ĉeĉena"
+  },
+  "ch": {
+    "name": "ĉamora"
+  },
+  "co": {
+    "name": "korsika"
+  },
+  "cr": {
+    "name": "Cree"
+  },
+  "cs": {
+    "name": "ĉeĥa"
+  },
+  "cu": {
+    "name": "malnovslava"
+  },
+  "cv": {
+    "name": "ĉuvaŝa"
+  },
+  "cy": {
+    "name": "kimra"
+  },
+  "da": {
+    "name": "dana"
+  },
+  "de": {
+    "name": "germana"
+  },
+  "dv": {
+    "name": "maldiva"
+  },
+  "dz": {
+    "name": "Dzonko"
+  },
+  "ee": {
+    "name": "evea"
+  },
+  "el": {
+    "name": "greka"
+  },
+  "en": {
+    "name": "angla"
+  },
+  "eo": {
+    "name": "Esperanto"
+  },
+  "es": {
+    "name": "hispana"
+  },
+  "et": {
+    "name": "estona"
+  },
+  "eu": {
+    "name": "eŭska"
+  },
+  "fa": {
+    "name": "persa"
+  },
+  "ff": {
+    "name": "fula"
+  },
+  "fi": {
+    "name": "finna"
+  },
+  "fj": {
+    "name": "fiĝia"
+  },
+  "fo": {
+    "name": "feroa"
+  },
+  "fr": {
+    "name": "franca"
+  },
+  "fy": {
+    "name": "okcident-frisa"
+  },
+  "ga": {
+    "name": "irlanda"
+  },
+  "gd": {
+    "name": "skot-gaela"
+  },
+  "gl": {
+    "name": "galega"
+  },
+  "gn": {
+    "name": "gvarania"
+  },
+  "gu": {
+    "name": "guĝarata"
+  },
+  "gv": {
+    "name": "manksa"
+  },
+  "ha": {
+    "name": "haŭsa"
+  },
+  "he": {
+    "name": "hebrea"
+  },
+  "hi": {
+    "name": "hindia"
+  },
+  "ho": {
+    "name": "Hiri Motu"
+  },
+  "hr": {
+    "name": "kroata"
+  },
+  "ht": {
+    "name": "haitia kreola"
+  },
+  "hu": {
+    "name": "hungara"
+  },
+  "hy": {
+    "name": "armena"
+  },
+  "hz": {
+    "name": "herera"
+  },
+  "ia": {
+    "name": "Interlingvao"
+  },
+  "id": {
+    "name": "indonezia"
+  },
+  "ie": {
+    "name": "Interlingveo"
+  },
+  "ig": {
+    "name": "igba"
+  },
+  "ii": {
+    "name": "jia"
+  },
+  "ik": {
+    "name": "injupiaka"
+  },
+  "io": {
+    "name": "Ido"
+  },
+  "is": {
+    "name": "islanda"
+  },
+  "it": {
+    "name": "itala"
+  },
+  "iu": {
+    "name": "inuktituta"
+  },
+  "ja": {
+    "name": "japana"
+  },
+  "jv": {
+    "name": "java"
+  },
+  "ka": {
+    "name": "kartvela"
+  },
+  "kg": {
+    "name": "Kongo"
+  },
+  "ki": {
+    "name": "kikuja"
+  },
+  "kj": {
+    "name": "kuanjama"
+  },
+  "kk": {
+    "name": "kazaĥa"
+  },
+  "kl": {
+    "name": "gronlanda"
+  },
+  "km": {
+    "name": "kmera"
+  },
+  "kn": {
+    "name": "kanara"
+  },
+  "ko": {
+    "name": "korea"
+  },
+  "kr": {
+    "name": "kanura"
+  },
+  "ks": {
+    "name": "kaŝmira"
+  },
+  "ku": {
+    "name": "kurda"
+  },
+  "kv": {
+    "name": "komia"
+  },
+  "kw": {
+    "name": "kornvala"
+  },
+  "ky": {
+    "name": "kirgiza"
+  },
+  "la": {
+    "name": "Latino"
+  },
+  "lb": {
+    "name": "luksemburga"
+  },
+  "lg": {
+    "name": "ganda"
+  },
+  "li": {
+    "name": "limburga"
+  },
+  "ln": {
+    "name": "lingala"
+  },
+  "lo": {
+    "name": "laŭa"
+  },
+  "lt": {
+    "name": "litova"
+  },
+  "lu": {
+    "name": "katanga-luba"
+  },
+  "lv": {
+    "name": "latva"
+  },
+  "mg": {
+    "name": "malagasa"
+  },
+  "mh": {
+    "name": "marŝala"
+  },
+  "mi": {
+    "name": "maoria"
+  },
+  "mk": {
+    "name": "makedona"
+  },
+  "ml": {
+    "name": "malajalama"
+  },
+  "mn": {
+    "name": "mongola"
+  },
+  "mr": {
+    "name": "marata"
+  },
+  "ms": {
+    "name": "malaja"
+  },
+  "mt": {
+    "name": "malta"
+  },
+  "my": {
+    "name": "birma"
+  },
+  "na": {
+    "name": "naura"
+  },
+  "nb": {
+    "name": "dannorvega"
+  },
+  "nd": {
+    "name": "nord-matabela"
+  },
+  "ne": {
+    "name": "nepala"
+  },
+  "ng": {
+    "name": "ndonga"
+  },
+  "nl": {
+    "name": "nederlanda"
+  },
+  "nn": {
+    "name": "novnorvega"
+  },
+  "no": {
+    "name": "norvega"
+  },
+  "nr": {
+    "name": "sud-matabela"
+  },
+  "nv": {
+    "name": "navaha"
+  },
+  "ny": {
+    "name": "njanĝa"
+  },
+  "oc": {
+    "name": "okcitana"
+  },
+  "oj": {
+    "name": "Ojibwa"
+  },
+  "om": {
+    "name": "oroma"
+  },
+  "or": {
+    "name": "Orijo"
+  },
+  "os": {
+    "name": "oseta"
+  },
+  "pa": {
+    "name": "panĝaba"
+  },
+  "pi": {
+    "name": "palia"
+  },
+  "pl": {
+    "name": "pola"
+  },
+  "ps": {
+    "name": "paŝtua"
+  },
+  "pt": {
+    "name": "portugala"
+  },
+  "qu": {
+    "name": "keĉua"
+  },
+  "rm": {
+    "name": "romanĉa"
+  },
+  "rn": {
+    "name": "burunda"
+  },
+  "ro": {
+    "name": "rumana"
+  },
+  "ru": {
+    "name": "rusa"
+  },
+  "rw": {
+    "name": "ruanda"
+  },
+  "sa": {
+    "name": "Sanskrito"
+  },
+  "sc": {
+    "name": "sarda"
+  },
+  "sd": {
+    "name": "sinda"
+  },
+  "se": {
+    "name": "nord-samea"
+  },
+  "sg": {
+    "name": "sangoa"
+  },
+  "sh": {
+    "name": "serba (latina)"
+  },
+  "si": {
+    "name": "sinhala"
+  },
+  "sk": {
+    "name": "slovaka"
+  },
+  "sl": {
+    "name": "slovena"
+  },
+  "sm": {
+    "name": "samoa"
+  },
+  "sn": {
+    "name": "ŝona"
+  },
+  "so": {
+    "name": "somala"
+  },
+  "sq": {
+    "name": "albana"
+  },
+  "sr": {
+    "name": "serba"
+  },
+  "ss": {
+    "name": "svazia"
+  },
+  "st": {
+    "name": "sota"
+  },
+  "su": {
+    "name": "sunda"
+  },
+  "sv": {
+    "name": "sveda"
+  },
+  "sw": {
+    "name": "svahila"
+  },
+  "ta": {
+    "name": "tamila"
+  },
+  "te": {
+    "name": "telugua"
+  },
+  "tg": {
+    "name": "taĝika"
+  },
+  "th": {
+    "name": "taja"
+  },
+  "ti": {
+    "name": "tigraja"
+  },
+  "tk": {
+    "name": "turkmena"
+  },
+  "tl": {
+    "name": "filipina"
+  },
+  "tn": {
+    "name": "cvana"
+  },
+  "to": {
+    "name": "tonga"
+  },
+  "tr": {
+    "name": "turka"
+  },
+  "ts": {
+    "name": "conga"
+  },
+  "tt": {
+    "name": "tatara"
+  },
+  "tw": {
+    "name": "akana"
+  },
+  "ty": {
+    "name": "tahitia"
+  },
+  "ug": {
+    "name": "ujgura"
+  },
+  "uk": {
+    "name": "ukraina"
+  },
+  "ur": {
+    "name": "Urduo"
+  },
+  "uz": {
+    "name": "uzbeka"
+  },
+  "ve": {
+    "name": "vendaa"
+  },
+  "vi": {
+    "name": "vjetnama"
+  },
+  "vo": {
+    "name": "Volapuko"
+  },
+  "wa": {
+    "name": "valona"
+  },
+  "wo": {
+    "name": "volofa"
+  },
+  "xh": {
+    "name": "ksosa"
+  },
+  "yi": {
+    "name": "judgermana"
+  },
+  "yo": {
+    "name": "joruba"
+  },
+  "za": {
+    "name": "ĝuanga"
+  },
+  "zh": {
+    "name": "ĉina"
+  },
+  "zh-Hans": {
+    "name": "ĉina simpligita"
+  },
+  "zh-Hant": {
+    "name": "ĉina tradicia"
+  },
+  "zu": {
+    "name": "zulua"
+  }
+}

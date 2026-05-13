@@ -1,0 +1,560 @@
+{
+  "aa": {
+    "name": "Afar"
+  },
+  "ab": {
+    "name": "Abkhazian"
+  },
+  "ae": {
+    "name": "Avestan"
+  },
+  "af": {
+    "name": "afrikánsagiella"
+  },
+  "ak": {
+    "name": "Akan"
+  },
+  "am": {
+    "name": "Amharic"
+  },
+  "an": {
+    "name": "aragoniagiella"
+  },
+  "ar": {
+    "name": "arábagiella"
+  },
+  "as": {
+    "name": "Assamese"
+  },
+  "av": {
+    "name": "Avaric"
+  },
+  "ay": {
+    "name": "Aymara"
+  },
+  "az": {
+    "name": "Azerbaijani"
+  },
+  "ba": {
+    "name": "Bashkir"
+  },
+  "be": {
+    "name": "vilges-ruoššagiella"
+  },
+  "bg": {
+    "name": "bulgáriagiella"
+  },
+  "bi": {
+    "name": "Bislama"
+  },
+  "bm": {
+    "name": "Bambara"
+  },
+  "bn": {
+    "name": "bengalgiella"
+  },
+  "bo": {
+    "name": "tibetagiella"
+  },
+  "br": {
+    "name": "bretonagiella"
+  },
+  "bs": {
+    "name": "bosniagiella"
+  },
+  "ca": {
+    "name": "katalánagiella"
+  },
+  "ce": {
+    "name": "Chechen"
+  },
+  "ch": {
+    "name": "Chamorro"
+  },
+  "co": {
+    "name": "corsicagiella"
+  },
+  "cr": {
+    "name": "Cree"
+  },
+  "cs": {
+    "name": "čeahkagiella"
+  },
+  "cu": {
+    "name": "Church Slavic"
+  },
+  "cv": {
+    "name": "Chuvash"
+  },
+  "cy": {
+    "name": "kymragiella"
+  },
+  "da": {
+    "name": "dánskkagiella"
+  },
+  "de": {
+    "name": "duiskkagiella"
+  },
+  "dv": {
+    "name": "divehigiella"
+  },
+  "dz": {
+    "name": "dzongkhagiella"
+  },
+  "ee": {
+    "name": "Ewe"
+  },
+  "el": {
+    "name": "greikkagiella"
+  },
+  "en": {
+    "name": "eaŋgalsgiella"
+  },
+  "eo": {
+    "name": "Esperanto"
+  },
+  "es": {
+    "name": "spánskkagiella"
+  },
+  "et": {
+    "name": "esttegiella"
+  },
+  "eu": {
+    "name": "Basque"
+  },
+  "fa": {
+    "name": "persijagiella"
+  },
+  "ff": {
+    "name": "Fulah"
+  },
+  "fi": {
+    "name": "suomagiella"
+  },
+  "fj": {
+    "name": "fidjigiella"
+  },
+  "fo": {
+    "name": "fearagiella"
+  },
+  "fr": {
+    "name": "fránskkagiella"
+  },
+  "fy": {
+    "name": "oarjifriisagiella"
+  },
+  "ga": {
+    "name": "iirragiella"
+  },
+  "gd": {
+    "name": "Scottish Gaelic"
+  },
+  "gl": {
+    "name": "Galician"
+  },
+  "gn": {
+    "name": "Guarani"
+  },
+  "gu": {
+    "name": "gujaratagiella"
+  },
+  "gv": {
+    "name": "manksgiella"
+  },
+  "ha": {
+    "name": "haussagiella"
+  },
+  "he": {
+    "name": "Hebrew"
+  },
+  "hi": {
+    "name": "hindigiella"
+  },
+  "ho": {
+    "name": "Hiri Motu"
+  },
+  "hr": {
+    "name": "kroátiagiella"
+  },
+  "ht": {
+    "name": "haitigiella"
+  },
+  "hu": {
+    "name": "ungárgiella"
+  },
+  "hy": {
+    "name": "armeenagiella"
+  },
+  "hz": {
+    "name": "Herero"
+  },
+  "ia": {
+    "name": "Interlingua (International Auxiliary Language Association)"
+  },
+  "id": {
+    "name": "indonesiagiella"
+  },
+  "ie": {
+    "name": "Interlingue"
+  },
+  "ig": {
+    "name": "Igbo"
+  },
+  "ii": {
+    "name": "Sichuan Yi"
+  },
+  "ik": {
+    "name": "Inupiaq"
+  },
+  "io": {
+    "name": "Ido"
+  },
+  "is": {
+    "name": "islánddagiella"
+  },
+  "it": {
+    "name": "itáliagiella"
+  },
+  "iu": {
+    "name": "Inuktitut"
+  },
+  "ja": {
+    "name": "japánagiella"
+  },
+  "jv": {
+    "name": "javagiella"
+  },
+  "ka": {
+    "name": "georgiagiella"
+  },
+  "kg": {
+    "name": "Kongo"
+  },
+  "ki": {
+    "name": "Kikuyu"
+  },
+  "kj": {
+    "name": "Kuanyama"
+  },
+  "kk": {
+    "name": "kazakgiella"
+  },
+  "kl": {
+    "name": "Kalaallisut"
+  },
+  "km": {
+    "name": "kambodiagiella"
+  },
+  "kn": {
+    "name": "Kannada"
+  },
+  "ko": {
+    "name": "koreagiella"
+  },
+  "kr": {
+    "name": "Kanuri"
+  },
+  "ks": {
+    "name": "Kashmiri"
+  },
+  "ku": {
+    "name": "kurdigiella"
+  },
+  "kv": {
+    "name": "komigiella"
+  },
+  "kw": {
+    "name": "kornagiella"
+  },
+  "ky": {
+    "name": "Kirghiz"
+  },
+  "la": {
+    "name": "láhtengiella"
+  },
+  "lb": {
+    "name": "luxemburggagiella"
+  },
+  "lg": {
+    "name": "Ganda"
+  },
+  "li": {
+    "name": "Limburgan"
+  },
+  "ln": {
+    "name": "Lingala"
+  },
+  "lo": {
+    "name": "laogiella"
+  },
+  "lt": {
+    "name": "liettuvagiella"
+  },
+  "lu": {
+    "name": "Luba-Katanga"
+  },
+  "lv": {
+    "name": "látviagiella"
+  },
+  "mg": {
+    "name": "Malagasy"
+  },
+  "mh": {
+    "name": "Marshallese"
+  },
+  "mi": {
+    "name": "maorigiella"
+  },
+  "mk": {
+    "name": "makedoniagiella"
+  },
+  "ml": {
+    "name": "Malayalam"
+  },
+  "mn": {
+    "name": "mongoliagiella"
+  },
+  "mr": {
+    "name": "Marathi"
+  },
+  "ms": {
+    "name": "Malay (macrolanguage)"
+  },
+  "mt": {
+    "name": "maltagiella"
+  },
+  "my": {
+    "name": "burmagiella"
+  },
+  "na": {
+    "name": "Nauru"
+  },
+  "nb": {
+    "name": "girjedárogiella"
+  },
+  "nd": {
+    "name": "North Ndebele"
+  },
+  "ne": {
+    "name": "nepaligiella"
+  },
+  "ng": {
+    "name": "Ndonga"
+  },
+  "nl": {
+    "name": "hollánddagiella"
+  },
+  "nn": {
+    "name": "ođđadárogiella"
+  },
+  "no": {
+    "name": "dárogiella"
+  },
+  "nr": {
+    "name": "South Ndebele"
+  },
+  "nv": {
+    "name": "Navajo"
+  },
+  "ny": {
+    "name": "Chichewa"
+  },
+  "oc": {
+    "name": "oksitánagiella"
+  },
+  "oj": {
+    "name": "Ojibwa"
+  },
+  "om": {
+    "name": "Oromo"
+  },
+  "or": {
+    "name": "Oriya (macrolanguage)"
+  },
+  "os": {
+    "name": "Ossetian"
+  },
+  "pa": {
+    "name": "panjabigiella"
+  },
+  "pi": {
+    "name": "Pali"
+  },
+  "pl": {
+    "name": "polskkagiella"
+  },
+  "ps": {
+    "name": "Pushto"
+  },
+  "pt": {
+    "name": "portugálagiella"
+  },
+  "qu": {
+    "name": "Quechua"
+  },
+  "rm": {
+    "name": "romanšgiella"
+  },
+  "rn": {
+    "name": "Rundi"
+  },
+  "ro": {
+    "name": "romániagiella"
+  },
+  "ru": {
+    "name": "ruoššagiella"
+  },
+  "rw": {
+    "name": "Kinyarwanda"
+  },
+  "sa": {
+    "name": "Sanskrit"
+  },
+  "sc": {
+    "name": "sardigiella"
+  },
+  "sd": {
+    "name": "Sindhi"
+  },
+  "se": {
+    "name": "davvisámegiella"
+  },
+  "sg": {
+    "name": "Sango"
+  },
+  "sh": {
+    "name": "serbiagiella (láhtenaš)"
+  },
+  "si": {
+    "name": "Sinhala"
+  },
+  "sk": {
+    "name": "slovákiagiella"
+  },
+  "sl": {
+    "name": "slovenagiella"
+  },
+  "sm": {
+    "name": "samoagiella"
+  },
+  "sn": {
+    "name": "Shona"
+  },
+  "so": {
+    "name": "Somali"
+  },
+  "sq": {
+    "name": "albánagiella"
+  },
+  "sr": {
+    "name": "serbiagiella"
+  },
+  "ss": {
+    "name": "Swati"
+  },
+  "st": {
+    "name": "Southern Sotho"
+  },
+  "su": {
+    "name": "Sundanese"
+  },
+  "sv": {
+    "name": "ruoŧagiella"
+  },
+  "sw": {
+    "name": "Swahili (macrolanguage)"
+  },
+  "ta": {
+    "name": "Tamil"
+  },
+  "te": {
+    "name": "Telugu"
+  },
+  "tg": {
+    "name": "Tajik"
+  },
+  "th": {
+    "name": "ŧaigiella"
+  },
+  "ti": {
+    "name": "Tigrinya"
+  },
+  "tk": {
+    "name": "Turkmen"
+  },
+  "tl": {
+    "name": "filippiinnagiella"
+  },
+  "tn": {
+    "name": "Tswana"
+  },
+  "to": {
+    "name": "Tonga (Tonga Islands)"
+  },
+  "tr": {
+    "name": "durkagiella"
+  },
+  "ts": {
+    "name": "Tsonga"
+  },
+  "tt": {
+    "name": "Tatar"
+  },
+  "tw": {
+    "name": "Twi"
+  },
+  "ty": {
+    "name": "tahitigiella"
+  },
+  "ug": {
+    "name": "Uighur"
+  },
+  "uk": {
+    "name": "ukrainagiella"
+  },
+  "ur": {
+    "name": "urdugiella"
+  },
+  "uz": {
+    "name": "Uzbek"
+  },
+  "ve": {
+    "name": "Venda"
+  },
+  "vi": {
+    "name": "vietnamgiella"
+  },
+  "vo": {
+    "name": "Volapük"
+  },
+  "wa": {
+    "name": "vallonagiella"
+  },
+  "wo": {
+    "name": "Wolof"
+  },
+  "xh": {
+    "name": "Xhosa"
+  },
+  "yi": {
+    "name": "Yiddish"
+  },
+  "yo": {
+    "name": "Yoruba"
+  },
+  "za": {
+    "name": "Zhuang"
+  },
+  "zh": {
+    "name": "kiinnágiella"
+  },
+  "zh-Hans": {
+    "name": "álki kiinágiella"
+  },
+  "zh-Hant": {
+    "name": "árbevirolaš kiinnágiella"
+  },
+  "zu": {
+    "name": "Zulu"
+  }
+}

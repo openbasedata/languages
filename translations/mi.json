@@ -1,0 +1,560 @@
+{
+  "aa": {
+    "name": "Afar"
+  },
+  "ab": {
+    "name": "Apakāhiana"
+  },
+  "ae": {
+    "name": "Avestan"
+  },
+  "af": {
+    "name": "Awherikāna"
+  },
+  "ak": {
+    "name": "Ākana"
+  },
+  "am": {
+    "name": "Amahereka"
+  },
+  "an": {
+    "name": "Arakonihi"
+  },
+  "ar": {
+    "name": "Ārapi"
+  },
+  "as": {
+    "name": "Āhamēhi"
+  },
+  "av": {
+    "name": "Āwhāriki"
+  },
+  "ay": {
+    "name": "Aimāra"
+  },
+  "az": {
+    "name": "Atepaihānia"
+  },
+  "ba": {
+    "name": "Pākīra"
+  },
+  "be": {
+    "name": "Perarūhiana"
+  },
+  "bg": {
+    "name": "Purukāriana"
+  },
+  "bi": {
+    "name": "Pihirāma"
+  },
+  "bm": {
+    "name": "Pāpara"
+  },
+  "bn": {
+    "name": "Pākara"
+  },
+  "bo": {
+    "name": "Tipete"
+  },
+  "br": {
+    "name": "Peretana"
+  },
+  "bs": {
+    "name": "Pōngiana"
+  },
+  "ca": {
+    "name": "Katarana"
+  },
+  "ce": {
+    "name": "Tietiene"
+  },
+  "ch": {
+    "name": "Tiamoro"
+  },
+  "co": {
+    "name": "Kōhikana"
+  },
+  "cr": {
+    "name": "Cree"
+  },
+  "cs": {
+    "name": "Tieke"
+  },
+  "cu": {
+    "name": "Church Slavic"
+  },
+  "cv": {
+    "name": "Tiuwhāhi"
+  },
+  "cy": {
+    "name": "Werehi"
+  },
+  "da": {
+    "name": "Teina"
+  },
+  "de": {
+    "name": "Tiamana"
+  },
+  "dv": {
+    "name": "Tīwhehi"
+  },
+  "dz": {
+    "name": "Tonoka"
+  },
+  "ee": {
+    "name": "Ewe"
+  },
+  "el": {
+    "name": "Kariki"
+  },
+  "en": {
+    "name": "Ingarihi"
+  },
+  "eo": {
+    "name": "Eheperāto"
+  },
+  "es": {
+    "name": "Pāniora"
+  },
+  "et": {
+    "name": "Etōniana"
+  },
+  "eu": {
+    "name": "Pākihi"
+  },
+  "fa": {
+    "name": "Pāhiana"
+  },
+  "ff": {
+    "name": "Whūra"
+  },
+  "fi": {
+    "name": "Whinirānia"
+  },
+  "fj": {
+    "name": "Whītīana"
+  },
+  "fo": {
+    "name": "Wharoīhi"
+  },
+  "fr": {
+    "name": "Wīwī"
+  },
+  "fy": {
+    "name": "Whirīhiana ki te Uru"
+  },
+  "ga": {
+    "name": "Airihi"
+  },
+  "gd": {
+    "name": "Keiriki Kotimana"
+  },
+  "gl": {
+    "name": "Karīhia"
+  },
+  "gn": {
+    "name": "Kuaranī"
+  },
+  "gu": {
+    "name": "Kutarāti"
+  },
+  "gv": {
+    "name": "Manaki"
+  },
+  "ha": {
+    "name": "Hauha"
+  },
+  "he": {
+    "name": "Hīperu"
+  },
+  "hi": {
+    "name": "Hīni"
+  },
+  "ho": {
+    "name": "Hiri Motu"
+  },
+  "hr": {
+    "name": "Koroātiana"
+  },
+  "ht": {
+    "name": "Kereō Haiti"
+  },
+  "hu": {
+    "name": "Hanekari"
+  },
+  "hy": {
+    "name": "Āmeniana"
+  },
+  "hz": {
+    "name": "Herero"
+  },
+  "ia": {
+    "name": "Inarīngua"
+  },
+  "id": {
+    "name": "Initonīhiana"
+  },
+  "ie": {
+    "name": "Interlingue"
+  },
+  "ig": {
+    "name": "Ikapo"
+  },
+  "ii": {
+    "name": "Hīhuana Eī"
+  },
+  "ik": {
+    "name": "Inupiaq"
+  },
+  "io": {
+    "name": "Īto"
+  },
+  "is": {
+    "name": "Tiorangi"
+  },
+  "it": {
+    "name": "Itāriana"
+  },
+  "iu": {
+    "name": "Inukitetūta"
+  },
+  "ja": {
+    "name": "Hapanihi"
+  },
+  "jv": {
+    "name": "Hāwhanihi"
+  },
+  "ka": {
+    "name": "Hōriana"
+  },
+  "kg": {
+    "name": "Kongo"
+  },
+  "ki": {
+    "name": "Kikūiu"
+  },
+  "kj": {
+    "name": "Kuoniāma"
+  },
+  "kk": {
+    "name": "Kahāka"
+  },
+  "kl": {
+    "name": "Kararīhutu"
+  },
+  "km": {
+    "name": "Kimēra"
+  },
+  "kn": {
+    "name": "Kanara"
+  },
+  "ko": {
+    "name": "Kōreana"
+  },
+  "kr": {
+    "name": "Kanuri"
+  },
+  "ks": {
+    "name": "Kahimiri"
+  },
+  "ku": {
+    "name": "Kūrihi"
+  },
+  "kv": {
+    "name": "Komi"
+  },
+  "kw": {
+    "name": "Kōnihi"
+  },
+  "ky": {
+    "name": "Kiakihi"
+  },
+  "la": {
+    "name": "Rātini"
+  },
+  "lb": {
+    "name": "Rakapuō"
+  },
+  "lg": {
+    "name": "Kānata"
+  },
+  "li": {
+    "name": "Ripūkuihi"
+  },
+  "ln": {
+    "name": "Ringāra"
+  },
+  "lo": {
+    "name": "Rao"
+  },
+  "lt": {
+    "name": "Rituānia"
+  },
+  "lu": {
+    "name": "Rupa Katanga"
+  },
+  "lv": {
+    "name": "Rāwhia"
+  },
+  "mg": {
+    "name": "Marakāhi"
+  },
+  "mh": {
+    "name": "Mararīhi"
+  },
+  "mi": {
+    "name": "Māori"
+  },
+  "mk": {
+    "name": "Makerōnia"
+  },
+  "ml": {
+    "name": "Mareiārama"
+  },
+  "mn": {
+    "name": "Mongōria"
+  },
+  "mr": {
+    "name": "Marati"
+  },
+  "ms": {
+    "name": "Marei"
+  },
+  "mt": {
+    "name": "Mārata"
+  },
+  "my": {
+    "name": "Pēmīhi"
+  },
+  "na": {
+    "name": "Nauru"
+  },
+  "nb": {
+    "name": "Pakamō Nōwei"
+  },
+  "nd": {
+    "name": "Enetepēra ki te Raki"
+  },
+  "ne": {
+    "name": "Nepari"
+  },
+  "ng": {
+    "name": "Natōka"
+  },
+  "nl": {
+    "name": "Tati"
+  },
+  "nn": {
+    "name": "Nīnōka Nōwei"
+  },
+  "no": {
+    "name": "Nōwei"
+  },
+  "nr": {
+    "name": "Enetepēra ki te Tonga"
+  },
+  "nv": {
+    "name": "Nawahō"
+  },
+  "ny": {
+    "name": "Niānia"
+  },
+  "oc": {
+    "name": "Ōkitana"
+  },
+  "oj": {
+    "name": "Ojibwa"
+  },
+  "om": {
+    "name": "Ōromo"
+  },
+  "or": {
+    "name": "Ōtia"
+  },
+  "os": {
+    "name": "Ōtītiki"
+  },
+  "pa": {
+    "name": "Punutapi"
+  },
+  "pi": {
+    "name": "Pali"
+  },
+  "pl": {
+    "name": "Pōrihi"
+  },
+  "ps": {
+    "name": "Pāhitō"
+  },
+  "pt": {
+    "name": "Pōtukīhi"
+  },
+  "qu": {
+    "name": "Kētua"
+  },
+  "rm": {
+    "name": "Romānihi"
+  },
+  "rn": {
+    "name": "Rūniti"
+  },
+  "ro": {
+    "name": "Romeinia"
+  },
+  "ru": {
+    "name": "Ruhiana"
+  },
+  "rw": {
+    "name": "Kiniawāna"
+  },
+  "sa": {
+    "name": "Hanahiti"
+  },
+  "sc": {
+    "name": "Hārinia"
+  },
+  "sd": {
+    "name": "Hiniti"
+  },
+  "se": {
+    "name": "Hami ki te Raki"
+  },
+  "sg": {
+    "name": "Hāngo"
+  },
+  "sh": {
+    "name": "Hirupia (Rātini)"
+  },
+  "si": {
+    "name": "Hinihāra"
+  },
+  "sk": {
+    "name": "Horowākia"
+  },
+  "sl": {
+    "name": "Horowinia"
+  },
+  "sm": {
+    "name": "Hāmoa"
+  },
+  "sn": {
+    "name": "Hōna"
+  },
+  "so": {
+    "name": "Hamāri"
+  },
+  "sq": {
+    "name": "Arapeiniana"
+  },
+  "sr": {
+    "name": "Hirupia"
+  },
+  "ss": {
+    "name": "Wāti"
+  },
+  "st": {
+    "name": "Hōto ki te Tonga"
+  },
+  "su": {
+    "name": "Hunanīhi"
+  },
+  "sv": {
+    "name": "Huitene"
+  },
+  "sw": {
+    "name": "Wāhīri"
+  },
+  "ta": {
+    "name": "Tamira"
+  },
+  "te": {
+    "name": "Teruku"
+  },
+  "tg": {
+    "name": "Tāhiki"
+  },
+  "th": {
+    "name": "Tai"
+  },
+  "ti": {
+    "name": "Tekirinia"
+  },
+  "tk": {
+    "name": "Tākamana"
+  },
+  "tl": {
+    "name": "Piripīno"
+  },
+  "tn": {
+    "name": "Hawāna"
+  },
+  "to": {
+    "name": "Tonga"
+  },
+  "tr": {
+    "name": "Tākei"
+  },
+  "ts": {
+    "name": "Honga"
+  },
+  "tt": {
+    "name": "Tatā"
+  },
+  "tw": {
+    "name": "Ākana"
+  },
+  "ty": {
+    "name": "Tahiti"
+  },
+  "ug": {
+    "name": "Wīkura"
+  },
+  "uk": {
+    "name": "Ukareinga"
+  },
+  "ur": {
+    "name": "Ūrutu"
+  },
+  "uz": {
+    "name": "Ūpeke"
+  },
+  "ve": {
+    "name": "Wēnera"
+  },
+  "vi": {
+    "name": "Whitināmu"
+  },
+  "vo": {
+    "name": "Volapük"
+  },
+  "wa": {
+    "name": "Warūna"
+  },
+  "wo": {
+    "name": "Warawhe"
+  },
+  "xh": {
+    "name": "Tōha"
+  },
+  "yi": {
+    "name": "Irihi"
+  },
+  "yo": {
+    "name": "Ōrūpa"
+  },
+  "za": {
+    "name": "Zhuang"
+  },
+  "zh": {
+    "name": "Hainamana"
+  },
+  "zh-Hans": {
+    "name": "Hainamana Māmā"
+  },
+  "zh-Hant": {
+    "name": "Hainamana Tukuiho"
+  },
+  "zu": {
+    "name": "Tūru"
+  }
+}

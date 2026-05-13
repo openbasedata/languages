@@ -1,0 +1,560 @@
+{
+  "aa": {
+    "name": "Afar"
+  },
+  "ab": {
+    "name": "Abjasia"
+  },
+  "ae": {
+    "name": "Avestan"
+  },
+  "af": {
+    "name": "Afrikaans Simi"
+  },
+  "ak": {
+    "name": "Akan Simi"
+  },
+  "am": {
+    "name": "Amarico Simi"
+  },
+  "an": {
+    "name": "Aragonesa"
+  },
+  "ar": {
+    "name": "Arabe Simi"
+  },
+  "as": {
+    "name": "Asames Simi"
+  },
+  "av": {
+    "name": "Avaric"
+  },
+  "ay": {
+    "name": "Aymara Simi"
+  },
+  "az": {
+    "name": "Azerbaiyano Simi"
+  },
+  "ba": {
+    "name": "Baskir Simi"
+  },
+  "be": {
+    "name": "Bielorruso Simi"
+  },
+  "bg": {
+    "name": "Bulgaro Simi"
+  },
+  "bi": {
+    "name": "Bislama"
+  },
+  "bm": {
+    "name": "Bambara Simi"
+  },
+  "bn": {
+    "name": "Bangla Simi"
+  },
+  "bo": {
+    "name": "Tibetano Simi"
+  },
+  "br": {
+    "name": "Breton Simi"
+  },
+  "bs": {
+    "name": "Bosnio Simi"
+  },
+  "ca": {
+    "name": "Catalan Simi"
+  },
+  "ce": {
+    "name": "Checheno Simi"
+  },
+  "ch": {
+    "name": "Chamorro Simi"
+  },
+  "co": {
+    "name": "Corso Simi"
+  },
+  "cr": {
+    "name": "Cree"
+  },
+  "cs": {
+    "name": "Checo Simi"
+  },
+  "cu": {
+    "name": "Eslavo Eclesiástico Simi"
+  },
+  "cv": {
+    "name": "Chuvash Simi"
+  },
+  "cy": {
+    "name": "Gales Simi"
+  },
+  "da": {
+    "name": "Danes Simi"
+  },
+  "de": {
+    "name": "Aleman Simi"
+  },
+  "dv": {
+    "name": "Divehi Simi"
+  },
+  "dz": {
+    "name": "Butanés Simi"
+  },
+  "ee": {
+    "name": "Ewé Simi"
+  },
+  "el": {
+    "name": "Griego Simi"
+  },
+  "en": {
+    "name": "Ingles Simi"
+  },
+  "eo": {
+    "name": "Esperanto Simi"
+  },
+  "es": {
+    "name": "Español Simi"
+  },
+  "et": {
+    "name": "Estonio Simi"
+  },
+  "eu": {
+    "name": "Euskera Simi"
+  },
+  "fa": {
+    "name": "Persa Simi"
+  },
+  "ff": {
+    "name": "Fulah Simi"
+  },
+  "fi": {
+    "name": "Fines Simi"
+  },
+  "fj": {
+    "name": "Fiyiano Simi"
+  },
+  "fo": {
+    "name": "Feroes Simi"
+  },
+  "fr": {
+    "name": "Frances Simi"
+  },
+  "fy": {
+    "name": "Frison Simi"
+  },
+  "ga": {
+    "name": "Irlandes Simi"
+  },
+  "gd": {
+    "name": "Gaelico Escoces Simi"
+  },
+  "gl": {
+    "name": "Gallego Simi"
+  },
+  "gn": {
+    "name": "Guaraní Simi"
+  },
+  "gu": {
+    "name": "Gujarati Simi"
+  },
+  "gv": {
+    "name": "Manés Simi"
+  },
+  "ha": {
+    "name": "Hausa Simi"
+  },
+  "he": {
+    "name": "Hebreo Simi"
+  },
+  "hi": {
+    "name": "Hindi Simi"
+  },
+  "ho": {
+    "name": "Hiri Motu"
+  },
+  "hr": {
+    "name": "Croata Simi"
+  },
+  "ht": {
+    "name": "Haitiano Criollo Simi"
+  },
+  "hu": {
+    "name": "Hungaro Simi"
+  },
+  "hy": {
+    "name": "Armenio Simi"
+  },
+  "hz": {
+    "name": "Herero Simi"
+  },
+  "ia": {
+    "name": "Interlingua Simi"
+  },
+  "id": {
+    "name": "Indonesio Simi"
+  },
+  "ie": {
+    "name": "Interlingue Simi"
+  },
+  "ig": {
+    "name": "Igbo Simi"
+  },
+  "ii": {
+    "name": "Yi Simi"
+  },
+  "ik": {
+    "name": "Inupiaq"
+  },
+  "io": {
+    "name": "Ido Simi"
+  },
+  "is": {
+    "name": "Islandes Simi"
+  },
+  "it": {
+    "name": "Italiano Simi"
+  },
+  "iu": {
+    "name": "Inuktitut Simi"
+  },
+  "ja": {
+    "name": "Japones Simi"
+  },
+  "jv": {
+    "name": "Javanés Simi"
+  },
+  "ka": {
+    "name": "Georgiano Simi"
+  },
+  "kg": {
+    "name": "Kongo"
+  },
+  "ki": {
+    "name": "Kikuyu Simi"
+  },
+  "kj": {
+    "name": "Kuanyama Simi"
+  },
+  "kk": {
+    "name": "Kazajo Simi"
+  },
+  "kl": {
+    "name": "Groenlandes Simi"
+  },
+  "km": {
+    "name": "Khmer Simi"
+  },
+  "kn": {
+    "name": "Kannada Simi"
+  },
+  "ko": {
+    "name": "Coreano Simi"
+  },
+  "kr": {
+    "name": "Kanuri Simi"
+  },
+  "ks": {
+    "name": "Cachemir Simi"
+  },
+  "ku": {
+    "name": "Kurdo Simi"
+  },
+  "kv": {
+    "name": "Komi Simi"
+  },
+  "kw": {
+    "name": "Córnico Simi"
+  },
+  "ky": {
+    "name": "Kirghiz Simi"
+  },
+  "la": {
+    "name": "Latín Simi"
+  },
+  "lb": {
+    "name": "Luxemburgues Simi"
+  },
+  "lg": {
+    "name": "Luganda Simi"
+  },
+  "li": {
+    "name": "Limburgues Simi"
+  },
+  "ln": {
+    "name": "Lingala Simi"
+  },
+  "lo": {
+    "name": "Lao Simi"
+  },
+  "lt": {
+    "name": "Lituano Simi"
+  },
+  "lu": {
+    "name": "Luba-Katanga Simi"
+  },
+  "lv": {
+    "name": "Leton Simi"
+  },
+  "mg": {
+    "name": "Malgache Simi"
+  },
+  "mh": {
+    "name": "Marshallese Simi"
+  },
+  "mi": {
+    "name": "Maori Simi"
+  },
+  "mk": {
+    "name": "Macedonio Simi"
+  },
+  "ml": {
+    "name": "Malayalam Simi"
+  },
+  "mn": {
+    "name": "Mongol Simi"
+  },
+  "mr": {
+    "name": "Marathi Simi"
+  },
+  "ms": {
+    "name": "Malayo Simi"
+  },
+  "mt": {
+    "name": "Maltes Simi"
+  },
+  "my": {
+    "name": "Birmano Simi"
+  },
+  "na": {
+    "name": "Nauru Simi"
+  },
+  "nb": {
+    "name": "Noruego Bokmål Simi"
+  },
+  "nd": {
+    "name": "Ndebele septentrional Simi"
+  },
+  "ne": {
+    "name": "Nepali Simi"
+  },
+  "ng": {
+    "name": "Ndonga Simi"
+  },
+  "nl": {
+    "name": "Neerlandes Simi"
+  },
+  "nn": {
+    "name": "Noruego Nynorsk Simi"
+  },
+  "no": {
+    "name": "Noruego Simi"
+  },
+  "nr": {
+    "name": "Ndebele del Sur Simi"
+  },
+  "nv": {
+    "name": "Navajo Simi"
+  },
+  "ny": {
+    "name": "Nyanja Simi"
+  },
+  "oc": {
+    "name": "Occitano Simi"
+  },
+  "oj": {
+    "name": "Ojibwa"
+  },
+  "om": {
+    "name": "Oromo Simi"
+  },
+  "or": {
+    "name": "Odia Simi"
+  },
+  "os": {
+    "name": "Osetio Simi"
+  },
+  "pa": {
+    "name": "Punyabi Simi"
+  },
+  "pi": {
+    "name": "Pali"
+  },
+  "pl": {
+    "name": "Polaco Simi"
+  },
+  "ps": {
+    "name": "Pashto Simi"
+  },
+  "pt": {
+    "name": "Portugues Simi"
+  },
+  "qu": {
+    "name": "Runasimi"
+  },
+  "rm": {
+    "name": "Romanche Simi"
+  },
+  "rn": {
+    "name": "Rundi Simi"
+  },
+  "ro": {
+    "name": "Rumano Simi"
+  },
+  "ru": {
+    "name": "Ruso Simi"
+  },
+  "rw": {
+    "name": "Kinyarwanda Simi"
+  },
+  "sa": {
+    "name": "Sanscrito Simi"
+  },
+  "sc": {
+    "name": "Sardinian Simi"
+  },
+  "sd": {
+    "name": "Sindhi Simi"
+  },
+  "se": {
+    "name": "Chincha Sami Simi"
+  },
+  "sg": {
+    "name": "Sango Simi"
+  },
+  "sh": {
+    "name": "Serbio Simi (Latin Simi)"
+  },
+  "si": {
+    "name": "Cingales Simi"
+  },
+  "sk": {
+    "name": "Eslovaco Simi"
+  },
+  "sl": {
+    "name": "Esloveno Simi"
+  },
+  "sm": {
+    "name": "Samoano Simi"
+  },
+  "sn": {
+    "name": "Shona Simi"
+  },
+  "so": {
+    "name": "Somali Simi"
+  },
+  "sq": {
+    "name": "Albanes Simi"
+  },
+  "sr": {
+    "name": "Serbio Simi"
+  },
+  "ss": {
+    "name": "Swati Simi"
+  },
+  "st": {
+    "name": "Soto Meridional Simi"
+  },
+  "su": {
+    "name": "Sundanés Simi"
+  },
+  "sv": {
+    "name": "Sueco Simi"
+  },
+  "sw": {
+    "name": "Suajili Simi"
+  },
+  "ta": {
+    "name": "Tamil Simi"
+  },
+  "te": {
+    "name": "Telugu Simi"
+  },
+  "tg": {
+    "name": "Tayiko Simi"
+  },
+  "th": {
+    "name": "Tailandes Simi"
+  },
+  "ti": {
+    "name": "Tigriña Simi"
+  },
+  "tk": {
+    "name": "Turcomano Simi"
+  },
+  "tl": {
+    "name": "Filipino Simi"
+  },
+  "tn": {
+    "name": "Setsuana Simi"
+  },
+  "to": {
+    "name": "Tongano Simi"
+  },
+  "tr": {
+    "name": "Turco Simi"
+  },
+  "ts": {
+    "name": "Tsonga Simi"
+  },
+  "tt": {
+    "name": "Tartaro Simi"
+  },
+  "tw": {
+    "name": "Akan Simi"
+  },
+  "ty": {
+    "name": "Tahití Simi"
+  },
+  "ug": {
+    "name": "Uigur Simi"
+  },
+  "uk": {
+    "name": "Ucraniano Simi"
+  },
+  "ur": {
+    "name": "Urdu Simi"
+  },
+  "uz": {
+    "name": "Uzbeko Simi"
+  },
+  "ve": {
+    "name": "Venda Simi"
+  },
+  "vi": {
+    "name": "Vietnamita Simi"
+  },
+  "vo": {
+    "name": "Volapük Simi"
+  },
+  "wa": {
+    "name": "Valona Simi"
+  },
+  "wo": {
+    "name": "Wolof Simi"
+  },
+  "xh": {
+    "name": "Isixhosa Simi"
+  },
+  "yi": {
+    "name": "Yiddish Simi"
+  },
+  "yo": {
+    "name": "Yoruba Simi"
+  },
+  "za": {
+    "name": "Zhuang"
+  },
+  "zh": {
+    "name": "Chino Simi"
+  },
+  "zh-Hans": {
+    "name": "Chino Simplificado Simi"
+  },
+  "zh-Hant": {
+    "name": "Chino Tradicional Simi"
+  },
+  "zu": {
+    "name": "Isizulu Simi"
+  }
+}

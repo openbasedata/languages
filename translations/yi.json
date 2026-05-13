@@ -1,0 +1,560 @@
+{
+  "aa": {
+    "name": "אַפֿאַר"
+  },
+  "ab": {
+    "name": "Abkhazian"
+  },
+  "ae": {
+    "name": "Avestan"
+  },
+  "af": {
+    "name": "אַפֿריקאַנס"
+  },
+  "ak": {
+    "name": "Akan"
+  },
+  "am": {
+    "name": "אַמהאַריש"
+  },
+  "an": {
+    "name": "אַראַגאניש"
+  },
+  "ar": {
+    "name": "אַראַביש"
+  },
+  "as": {
+    "name": "אַסאַמיש"
+  },
+  "av": {
+    "name": "Avaric"
+  },
+  "ay": {
+    "name": "Aymara"
+  },
+  "az": {
+    "name": "אַזערביידזשאַניש"
+  },
+  "ba": {
+    "name": "Bashkir"
+  },
+  "be": {
+    "name": "בעלאַרוסיש"
+  },
+  "bg": {
+    "name": "בולגאַריש"
+  },
+  "bi": {
+    "name": "Bislama"
+  },
+  "bm": {
+    "name": "Bambara"
+  },
+  "bn": {
+    "name": "בענגאַליש"
+  },
+  "bo": {
+    "name": "טיבעטיש"
+  },
+  "br": {
+    "name": "ברעטאניש"
+  },
+  "bs": {
+    "name": "באסניש"
+  },
+  "ca": {
+    "name": "קאַטאַלאניש"
+  },
+  "ce": {
+    "name": "Chechen"
+  },
+  "ch": {
+    "name": "Chamorro"
+  },
+  "co": {
+    "name": "Corsican"
+  },
+  "cr": {
+    "name": "Cree"
+  },
+  "cs": {
+    "name": "טשעכיש"
+  },
+  "cu": {
+    "name": "קלויסטער־סלאַוויש"
+  },
+  "cv": {
+    "name": "Chuvash"
+  },
+  "cy": {
+    "name": "וועלשיש"
+  },
+  "da": {
+    "name": "דעניש"
+  },
+  "de": {
+    "name": "דײַטש"
+  },
+  "dv": {
+    "name": "Divehi"
+  },
+  "dz": {
+    "name": "Dzongkha"
+  },
+  "ee": {
+    "name": "Ewe"
+  },
+  "el": {
+    "name": "גריכיש"
+  },
+  "en": {
+    "name": "ענגליש"
+  },
+  "eo": {
+    "name": "עספּעראַנטא"
+  },
+  "es": {
+    "name": "שפּאַניש"
+  },
+  "et": {
+    "name": "עסטיש"
+  },
+  "eu": {
+    "name": "באַסקיש"
+  },
+  "fa": {
+    "name": "פּערסיש"
+  },
+  "ff": {
+    "name": "Fulah"
+  },
+  "fi": {
+    "name": "פֿיניש"
+  },
+  "fj": {
+    "name": "פֿידזשי"
+  },
+  "fo": {
+    "name": "פֿאַראיש"
+  },
+  "fr": {
+    "name": "פֿראַנצויזיש"
+  },
+  "fy": {
+    "name": "מערב־פֿריזיש"
+  },
+  "ga": {
+    "name": "איריש"
+  },
+  "gd": {
+    "name": "סקאטיש געליש"
+  },
+  "gl": {
+    "name": "גאַלישיש"
+  },
+  "gn": {
+    "name": "Guarani"
+  },
+  "gu": {
+    "name": "Gujarati"
+  },
+  "gv": {
+    "name": "מאַנקס"
+  },
+  "ha": {
+    "name": "האַוסאַ"
+  },
+  "he": {
+    "name": "העברעאיש"
+  },
+  "hi": {
+    "name": "הינדי"
+  },
+  "ho": {
+    "name": "Hiri Motu"
+  },
+  "hr": {
+    "name": "קראאַטיש"
+  },
+  "ht": {
+    "name": "Haitian"
+  },
+  "hu": {
+    "name": "אונגעריש"
+  },
+  "hy": {
+    "name": "אַרמעניש"
+  },
+  "hz": {
+    "name": "Herero"
+  },
+  "ia": {
+    "name": "Interlingua (International Auxiliary Language Association)"
+  },
+  "id": {
+    "name": "אינדאנעזיש"
+  },
+  "ie": {
+    "name": "Interlingue"
+  },
+  "ig": {
+    "name": "Igbo"
+  },
+  "ii": {
+    "name": "Sichuan Yi"
+  },
+  "ik": {
+    "name": "Inupiaq"
+  },
+  "io": {
+    "name": "אידא"
+  },
+  "is": {
+    "name": "איסלאַנדיש"
+  },
+  "it": {
+    "name": "איטאַליעניש"
+  },
+  "iu": {
+    "name": "Inuktitut"
+  },
+  "ja": {
+    "name": "יאַפּאַניש"
+  },
+  "jv": {
+    "name": "יאַוואַנעזיש"
+  },
+  "ka": {
+    "name": "גרוזיניש"
+  },
+  "kg": {
+    "name": "Kongo"
+  },
+  "ki": {
+    "name": "Kikuyu"
+  },
+  "kj": {
+    "name": "Kuanyama"
+  },
+  "kk": {
+    "name": "קאַזאַכיש"
+  },
+  "kl": {
+    "name": "Kalaallisut"
+  },
+  "km": {
+    "name": "כמער"
+  },
+  "kn": {
+    "name": "קאַנאַדאַ"
+  },
+  "ko": {
+    "name": "קארעאיש"
+  },
+  "kr": {
+    "name": "Kanuri"
+  },
+  "ks": {
+    "name": "Kashmiri"
+  },
+  "ku": {
+    "name": "קורדיש"
+  },
+  "kv": {
+    "name": "Komi"
+  },
+  "kw": {
+    "name": "קארניש"
+  },
+  "ky": {
+    "name": "קירגיזיש"
+  },
+  "la": {
+    "name": "לאטייניש"
+  },
+  "lb": {
+    "name": "לוקסעמבורגיש"
+  },
+  "lg": {
+    "name": "Ganda"
+  },
+  "li": {
+    "name": "Limburgan"
+  },
+  "ln": {
+    "name": "Lingala"
+  },
+  "lo": {
+    "name": "לאַא"
+  },
+  "lt": {
+    "name": "ליטוויש"
+  },
+  "lu": {
+    "name": "Luba-Katanga"
+  },
+  "lv": {
+    "name": "לעטיש"
+  },
+  "mg": {
+    "name": "Malagasy"
+  },
+  "mh": {
+    "name": "Marshallese"
+  },
+  "mi": {
+    "name": "מאַאריש"
+  },
+  "mk": {
+    "name": "מאַקעדאניש"
+  },
+  "ml": {
+    "name": "מאַלאַיאַלאַם"
+  },
+  "mn": {
+    "name": "מאנגאליש"
+  },
+  "mr": {
+    "name": "Marathi"
+  },
+  "ms": {
+    "name": "Malay (macrolanguage)"
+  },
+  "mt": {
+    "name": "מאַלטעזיש"
+  },
+  "my": {
+    "name": "בירמאַניש"
+  },
+  "na": {
+    "name": "Nauru"
+  },
+  "nb": {
+    "name": "Norwegian Bokmål"
+  },
+  "nd": {
+    "name": "North Ndebele"
+  },
+  "ne": {
+    "name": "נעפּאַליש"
+  },
+  "ng": {
+    "name": "Ndonga"
+  },
+  "nl": {
+    "name": "האלענדיש"
+  },
+  "nn": {
+    "name": "נײַ־נארוועגיש"
+  },
+  "no": {
+    "name": "נארוועגיש"
+  },
+  "nr": {
+    "name": "South Ndebele"
+  },
+  "nv": {
+    "name": "Navajo"
+  },
+  "ny": {
+    "name": "Chichewa"
+  },
+  "oc": {
+    "name": "אקסיטאַניש"
+  },
+  "oj": {
+    "name": "Ojibwa"
+  },
+  "om": {
+    "name": "Oromo"
+  },
+  "or": {
+    "name": "Oriya (macrolanguage)"
+  },
+  "os": {
+    "name": "אסעטיש"
+  },
+  "pa": {
+    "name": "Panjabi"
+  },
+  "pi": {
+    "name": "Pali"
+  },
+  "pl": {
+    "name": "פּויליש"
+  },
+  "ps": {
+    "name": "פּאַשטאָ"
+  },
+  "pt": {
+    "name": "פּארטוגעזיש"
+  },
+  "qu": {
+    "name": "Quechua"
+  },
+  "rm": {
+    "name": "Romansh"
+  },
+  "rn": {
+    "name": "Rundi"
+  },
+  "ro": {
+    "name": "רומעניש"
+  },
+  "ru": {
+    "name": "רוסיש"
+  },
+  "rw": {
+    "name": "Kinyarwanda"
+  },
+  "sa": {
+    "name": "סאַנסקריט"
+  },
+  "sc": {
+    "name": "סאַרדיש"
+  },
+  "sd": {
+    "name": "סינדהי"
+  },
+  "se": {
+    "name": "נארדסאַמיש"
+  },
+  "sg": {
+    "name": "Sango"
+  },
+  "sh": {
+    "name": "סערביש (גַלחיש)"
+  },
+  "si": {
+    "name": "סינהאַליש"
+  },
+  "sk": {
+    "name": "סלאוואַקיש"
+  },
+  "sl": {
+    "name": "סלאוועניש"
+  },
+  "sm": {
+    "name": "סאַמאאַניש"
+  },
+  "sn": {
+    "name": "שאנאַ"
+  },
+  "so": {
+    "name": "סאמאַליש"
+  },
+  "sq": {
+    "name": "אַלבאַניש"
+  },
+  "sr": {
+    "name": "סערביש"
+  },
+  "ss": {
+    "name": "Swati"
+  },
+  "st": {
+    "name": "Southern Sotho"
+  },
+  "su": {
+    "name": "Sundanese"
+  },
+  "sv": {
+    "name": "שוועדיש"
+  },
+  "sw": {
+    "name": "סוואַהיליש"
+  },
+  "ta": {
+    "name": "טאַמיל"
+  },
+  "te": {
+    "name": "Telugu"
+  },
+  "tg": {
+    "name": "Tajik"
+  },
+  "th": {
+    "name": "Thai"
+  },
+  "ti": {
+    "name": "Tigrinya"
+  },
+  "tk": {
+    "name": "טורקמעניש"
+  },
+  "tl": {
+    "name": "פֿיליפּינא"
+  },
+  "tn": {
+    "name": "Tswana"
+  },
+  "to": {
+    "name": "Tonga (Tonga Islands)"
+  },
+  "tr": {
+    "name": "Turkish"
+  },
+  "ts": {
+    "name": "Tsonga"
+  },
+  "tt": {
+    "name": "טאָטעריש"
+  },
+  "tw": {
+    "name": "Twi"
+  },
+  "ty": {
+    "name": "Tahitian"
+  },
+  "ug": {
+    "name": "Uighur"
+  },
+  "uk": {
+    "name": "אוקראַאיניש"
+  },
+  "ur": {
+    "name": "אורדו"
+  },
+  "uz": {
+    "name": "אוזבעקיש"
+  },
+  "ve": {
+    "name": "Venda"
+  },
+  "vi": {
+    "name": "וויעטנאַמעזיש"
+  },
+  "vo": {
+    "name": "וואלאַפּוק"
+  },
+  "wa": {
+    "name": "Walloon"
+  },
+  "wo": {
+    "name": "Wolof"
+  },
+  "xh": {
+    "name": "Xhosa"
+  },
+  "yi": {
+    "name": "ייִדיש"
+  },
+  "yo": {
+    "name": "Yoruba"
+  },
+  "za": {
+    "name": "Zhuang"
+  },
+  "zh": {
+    "name": "כינעזיש"
+  },
+  "zh-Hans": {
+    "name": "Chinese (Simplified)"
+  },
+  "zh-Hant": {
+    "name": "Chinese (Traditional)"
+  },
+  "zu": {
+    "name": "זולו"
+  }
+}

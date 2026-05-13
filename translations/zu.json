@@ -1,0 +1,560 @@
+{
+  "aa": {
+    "name": "isi-Afar"
+  },
+  "ab": {
+    "name": "isi-Abkhazian"
+  },
+  "ae": {
+    "name": "Avestan"
+  },
+  "af": {
+    "name": "i-Afrikaans"
+  },
+  "ak": {
+    "name": "isi-Akan"
+  },
+  "am": {
+    "name": "isi-Amharic"
+  },
+  "an": {
+    "name": "isi-Aragonese"
+  },
+  "ar": {
+    "name": "isi-Arabic"
+  },
+  "as": {
+    "name": "isi-Assamese"
+  },
+  "av": {
+    "name": "isi-Avaric"
+  },
+  "ay": {
+    "name": "isi-Aymara"
+  },
+  "az": {
+    "name": "isi-Azerbaijani"
+  },
+  "ba": {
+    "name": "isi-Bashkir"
+  },
+  "be": {
+    "name": "isi-Belarusian"
+  },
+  "bg": {
+    "name": "isi-Bulgari"
+  },
+  "bi": {
+    "name": "isi-Bislama"
+  },
+  "bm": {
+    "name": "isi-Bambara"
+  },
+  "bn": {
+    "name": "isi-Bengali"
+  },
+  "bo": {
+    "name": "isi-Tibetan"
+  },
+  "br": {
+    "name": "isi-Breton"
+  },
+  "bs": {
+    "name": "isi-Bosnian"
+  },
+  "ca": {
+    "name": "isi-Catalan"
+  },
+  "ce": {
+    "name": "isi-Chechen"
+  },
+  "ch": {
+    "name": "isi-Chamorro"
+  },
+  "co": {
+    "name": "isi-Corsican"
+  },
+  "cr": {
+    "name": "Cree"
+  },
+  "cs": {
+    "name": "isi-Czech"
+  },
+  "cu": {
+    "name": "isi-Church Slavic"
+  },
+  "cv": {
+    "name": "isi-Chuvash"
+  },
+  "cy": {
+    "name": "isi-Welsh"
+  },
+  "da": {
+    "name": "isi-Danish"
+  },
+  "de": {
+    "name": "isi-German"
+  },
+  "dv": {
+    "name": "isi-Divehi"
+  },
+  "dz": {
+    "name": "isi-Dzongkha"
+  },
+  "ee": {
+    "name": "isi-Ewe"
+  },
+  "el": {
+    "name": "isi-Greek"
+  },
+  "en": {
+    "name": "i-English"
+  },
+  "eo": {
+    "name": "isi-Esperanto"
+  },
+  "es": {
+    "name": "isi-Spanish"
+  },
+  "et": {
+    "name": "isi-Estonia"
+  },
+  "eu": {
+    "name": "isi-Basque"
+  },
+  "fa": {
+    "name": "isi-Persian"
+  },
+  "ff": {
+    "name": "isi-Fulah"
+  },
+  "fi": {
+    "name": "isi-Finnish"
+  },
+  "fj": {
+    "name": "isi-Fijian"
+  },
+  "fo": {
+    "name": "isi-Faroese"
+  },
+  "fr": {
+    "name": "isi-French"
+  },
+  "fy": {
+    "name": "isi-Western Frisian"
+  },
+  "ga": {
+    "name": "isi-Irish"
+  },
+  "gd": {
+    "name": "isi-Scottish Gaelic"
+  },
+  "gl": {
+    "name": "isi-Galicia"
+  },
+  "gn": {
+    "name": "isi-Guarani"
+  },
+  "gu": {
+    "name": "isi-Gujarati"
+  },
+  "gv": {
+    "name": "isi-Manx"
+  },
+  "ha": {
+    "name": "isi-Hausa"
+  },
+  "he": {
+    "name": "isi-Hebrew"
+  },
+  "hi": {
+    "name": "isi-Hindi"
+  },
+  "ho": {
+    "name": "Hiri Motu"
+  },
+  "hr": {
+    "name": "isi-Croatian"
+  },
+  "ht": {
+    "name": "isi-Haitian"
+  },
+  "hu": {
+    "name": "isi-Hungarian"
+  },
+  "hy": {
+    "name": "isi-Armenia"
+  },
+  "hz": {
+    "name": "isi-Herero"
+  },
+  "ia": {
+    "name": "izilimi ezihlangene"
+  },
+  "id": {
+    "name": "isi-Indonesian"
+  },
+  "ie": {
+    "name": "izimili"
+  },
+  "ig": {
+    "name": "isi-Igbo"
+  },
+  "ii": {
+    "name": "isi-Sichuan Yi"
+  },
+  "ik": {
+    "name": "Inupiaq"
+  },
+  "io": {
+    "name": "isi-Ido"
+  },
+  "is": {
+    "name": "isi-Icelandic"
+  },
+  "it": {
+    "name": "isi-Italian"
+  },
+  "iu": {
+    "name": "isi-Inuktitut"
+  },
+  "ja": {
+    "name": "isi-Japanese"
+  },
+  "jv": {
+    "name": "isi-Javanese"
+  },
+  "ka": {
+    "name": "isi-Georgian"
+  },
+  "kg": {
+    "name": "isi-Kongo"
+  },
+  "ki": {
+    "name": "isi-Kikuyu"
+  },
+  "kj": {
+    "name": "isi-Kuanyama"
+  },
+  "kk": {
+    "name": "isi-Kazakh"
+  },
+  "kl": {
+    "name": "isi-Kalaallisut"
+  },
+  "km": {
+    "name": "isi-Khmer"
+  },
+  "kn": {
+    "name": "isi-Kannada"
+  },
+  "ko": {
+    "name": "isi-Korean"
+  },
+  "kr": {
+    "name": "isi-Kanuri"
+  },
+  "ks": {
+    "name": "isi-Kashmiri"
+  },
+  "ku": {
+    "name": "isi-Kurdish"
+  },
+  "kv": {
+    "name": "isi-Komi"
+  },
+  "kw": {
+    "name": "isi-Cornish"
+  },
+  "ky": {
+    "name": "isi-Kyrgyz"
+  },
+  "la": {
+    "name": "isi-Latin"
+  },
+  "lb": {
+    "name": "isi-Luxembourgish"
+  },
+  "lg": {
+    "name": "isi-Ganda"
+  },
+  "li": {
+    "name": "isi-Limburgish"
+  },
+  "ln": {
+    "name": "isi-Lingala"
+  },
+  "lo": {
+    "name": "isi-Lao"
+  },
+  "lt": {
+    "name": "isi-Lithuanian"
+  },
+  "lu": {
+    "name": "isi-Luba-Katanga"
+  },
+  "lv": {
+    "name": "isi-Latvian"
+  },
+  "mg": {
+    "name": "isi-Malagasy"
+  },
+  "mh": {
+    "name": "isi-Marshallese"
+  },
+  "mi": {
+    "name": "isi-Maori"
+  },
+  "mk": {
+    "name": "isi-Macedonian"
+  },
+  "ml": {
+    "name": "isi-Malayalam"
+  },
+  "mn": {
+    "name": "isi-Mongolian"
+  },
+  "mr": {
+    "name": "isi-Marathi"
+  },
+  "ms": {
+    "name": "isi-Malay"
+  },
+  "mt": {
+    "name": "isi-Maltese"
+  },
+  "my": {
+    "name": "isi-Burmese"
+  },
+  "na": {
+    "name": "isi-Nauru"
+  },
+  "nb": {
+    "name": "isi-Norwegian Bokmål"
+  },
+  "nd": {
+    "name": "isi-North Ndebele"
+  },
+  "ne": {
+    "name": "isi-Nepali"
+  },
+  "ng": {
+    "name": "isi-Ndonga"
+  },
+  "nl": {
+    "name": "isi-Dutch"
+  },
+  "nn": {
+    "name": "isi-Norwegian Nynorsk"
+  },
+  "no": {
+    "name": "isi-Norwegian"
+  },
+  "nr": {
+    "name": "isi-South Ndebele"
+  },
+  "nv": {
+    "name": "isi-Navajo"
+  },
+  "ny": {
+    "name": "isi-Nyanja"
+  },
+  "oc": {
+    "name": "isi-Occitan"
+  },
+  "oj": {
+    "name": "Ojibwa"
+  },
+  "om": {
+    "name": "isi-Oromo"
+  },
+  "or": {
+    "name": "isi-Odia"
+  },
+  "os": {
+    "name": "isi-Ossetic"
+  },
+  "pa": {
+    "name": "isi-Punjabi"
+  },
+  "pi": {
+    "name": "Pali"
+  },
+  "pl": {
+    "name": "isi-Polish"
+  },
+  "ps": {
+    "name": "isi-Pashto"
+  },
+  "pt": {
+    "name": "isi-Portuguese"
+  },
+  "qu": {
+    "name": "isi-Quechua"
+  },
+  "rm": {
+    "name": "isi-Romansh"
+  },
+  "rn": {
+    "name": "isi-Rundi"
+  },
+  "ro": {
+    "name": "isi-Romanian"
+  },
+  "ru": {
+    "name": "isi-Russian"
+  },
+  "rw": {
+    "name": "isi-Kinyarwanda"
+  },
+  "sa": {
+    "name": "isi-Sanskrit"
+  },
+  "sc": {
+    "name": "isi-Sardinian"
+  },
+  "sd": {
+    "name": "isi-Sindhi"
+  },
+  "se": {
+    "name": "isi-Northern Sami"
+  },
+  "sg": {
+    "name": "isi-Sango"
+  },
+  "sh": {
+    "name": "isi-Serbian (isi-Latin)"
+  },
+  "si": {
+    "name": "isi-Sinhala"
+  },
+  "sk": {
+    "name": "isi-Slovak"
+  },
+  "sl": {
+    "name": "isi-Slovenian"
+  },
+  "sm": {
+    "name": "isi-Samoan"
+  },
+  "sn": {
+    "name": "isiShona"
+  },
+  "so": {
+    "name": "isi-Somali"
+  },
+  "sq": {
+    "name": "isi-Albania"
+  },
+  "sr": {
+    "name": "isi-Serbian"
+  },
+  "ss": {
+    "name": "isiSwati"
+  },
+  "st": {
+    "name": "isi-Southern Sotho"
+  },
+  "su": {
+    "name": "isi-Sundanese"
+  },
+  "sv": {
+    "name": "isi-Swedish"
+  },
+  "sw": {
+    "name": "isiSwahili"
+  },
+  "ta": {
+    "name": "isi-Tamil"
+  },
+  "te": {
+    "name": "isi-Telugu"
+  },
+  "tg": {
+    "name": "isi-Tajik"
+  },
+  "th": {
+    "name": "isi-Thai"
+  },
+  "ti": {
+    "name": "isi-Tigrinya"
+  },
+  "tk": {
+    "name": "isi-Turkmen"
+  },
+  "tl": {
+    "name": "isi-Filipino"
+  },
+  "tn": {
+    "name": "isi-Tswana"
+  },
+  "to": {
+    "name": "isi-Tongan"
+  },
+  "tr": {
+    "name": "isi-Turkish"
+  },
+  "ts": {
+    "name": "isi-Tsonga"
+  },
+  "tt": {
+    "name": "isi-Tatar"
+  },
+  "tw": {
+    "name": "isi-Akan"
+  },
+  "ty": {
+    "name": "isi-Tahitian"
+  },
+  "ug": {
+    "name": "isi-Uighur"
+  },
+  "uk": {
+    "name": "isi-Ukrainian"
+  },
+  "ur": {
+    "name": "isi-Urdu"
+  },
+  "uz": {
+    "name": "isi-Uzbek"
+  },
+  "ve": {
+    "name": "isi-Venda"
+  },
+  "vi": {
+    "name": "isi-Vietnamese"
+  },
+  "vo": {
+    "name": "isi-Volapük"
+  },
+  "wa": {
+    "name": "isi-Walloon"
+  },
+  "wo": {
+    "name": "isi-Wolof"
+  },
+  "xh": {
+    "name": "isiXhosa"
+  },
+  "yi": {
+    "name": "isi-Yiddish"
+  },
+  "yo": {
+    "name": "isi-Yoruba"
+  },
+  "za": {
+    "name": "IsiZhuang"
+  },
+  "zh": {
+    "name": "isi-Chinese"
+  },
+  "zh-Hans": {
+    "name": "isi-Chinese (esenziwe-lula)"
+  },
+  "zh-Hant": {
+    "name": "Isi-Chinese Sasendulo"
+  },
+  "zu": {
+    "name": "isiZulu"
+  }
+}

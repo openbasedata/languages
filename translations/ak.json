@@ -1,0 +1,560 @@
+{
+  "aa": {
+    "name": "Afar"
+  },
+  "ab": {
+    "name": "Abkhazian"
+  },
+  "ae": {
+    "name": "Avestan"
+  },
+  "af": {
+    "name": "Afrikaans"
+  },
+  "ak": {
+    "name": "Akan"
+  },
+  "am": {
+    "name": "Amariki"
+  },
+  "an": {
+    "name": "Aragonese"
+  },
+  "ar": {
+    "name": "Arabeke"
+  },
+  "as": {
+    "name": "Asamese"
+  },
+  "av": {
+    "name": "Avaric"
+  },
+  "ay": {
+    "name": "Aymara"
+  },
+  "az": {
+    "name": "Asabegyanni"
+  },
+  "ba": {
+    "name": "Bashkir"
+  },
+  "be": {
+    "name": "Belarus kasa"
+  },
+  "bg": {
+    "name": "Bɔlgeria kasa"
+  },
+  "bi": {
+    "name": "Bislama"
+  },
+  "bm": {
+    "name": "Bambara"
+  },
+  "bn": {
+    "name": "Bengali kasa"
+  },
+  "bo": {
+    "name": "Tibetan"
+  },
+  "br": {
+    "name": "Britenni"
+  },
+  "bs": {
+    "name": "Bosniani"
+  },
+  "ca": {
+    "name": "Katalan"
+  },
+  "ce": {
+    "name": "Chechen"
+  },
+  "ch": {
+    "name": "Chamorro"
+  },
+  "co": {
+    "name": "Corsican"
+  },
+  "cr": {
+    "name": "Cree"
+  },
+  "cs": {
+    "name": "Kyɛk kasa"
+  },
+  "cu": {
+    "name": "Church Slavic"
+  },
+  "cv": {
+    "name": "Kyuvahyi"
+  },
+  "cy": {
+    "name": "Wɛɛhye Kasa"
+  },
+  "da": {
+    "name": "Dane kasa"
+  },
+  "de": {
+    "name": "Gyaaman"
+  },
+  "dv": {
+    "name": "Divehi"
+  },
+  "dz": {
+    "name": "Dzongkha"
+  },
+  "ee": {
+    "name": "Ayigbe"
+  },
+  "el": {
+    "name": "Greek kasa"
+  },
+  "en": {
+    "name": "Borɔfo"
+  },
+  "eo": {
+    "name": "Esperanto"
+  },
+  "es": {
+    "name": "Spain kasa"
+  },
+  "et": {
+    "name": "Estonia kasa"
+  },
+  "eu": {
+    "name": "Baske"
+  },
+  "fa": {
+    "name": "Pɛɛhyia kasa"
+  },
+  "ff": {
+    "name": "Fula kasa"
+  },
+  "fi": {
+    "name": "Finlande kasa"
+  },
+  "fj": {
+    "name": "Fijian"
+  },
+  "fo": {
+    "name": "Farosi"
+  },
+  "fr": {
+    "name": "Frɛnkye"
+  },
+  "fy": {
+    "name": "Atɔeɛ Fam Frihyia Kasa"
+  },
+  "ga": {
+    "name": "Aerelande kasa"
+  },
+  "gd": {
+    "name": "Skotlandfoɔ Galek Kasa"
+  },
+  "gl": {
+    "name": "Galisia kasa"
+  },
+  "gn": {
+    "name": "Guarani"
+  },
+  "gu": {
+    "name": "Gugyarata"
+  },
+  "gv": {
+    "name": "Manx"
+  },
+  "ha": {
+    "name": "Hausa"
+  },
+  "he": {
+    "name": "Hibri kasa"
+  },
+  "hi": {
+    "name": "Hindi"
+  },
+  "ho": {
+    "name": "Hiri Motu"
+  },
+  "hr": {
+    "name": "Kurowehyia kasa"
+  },
+  "ht": {
+    "name": "Haitian"
+  },
+  "hu": {
+    "name": "Hangri kasa"
+  },
+  "hy": {
+    "name": "Aameniani"
+  },
+  "hz": {
+    "name": "Herero"
+  },
+  "ia": {
+    "name": "Kasa ntam"
+  },
+  "id": {
+    "name": "Indonihyia kasa"
+  },
+  "ie": {
+    "name": "Kasa afrafra"
+  },
+  "ig": {
+    "name": "Igbo kasa"
+  },
+  "ii": {
+    "name": "Sichuan Yi"
+  },
+  "ik": {
+    "name": "Inupiaq"
+  },
+  "io": {
+    "name": "Ido"
+  },
+  "is": {
+    "name": "Aeslande kasa"
+  },
+  "it": {
+    "name": "Italy kasa"
+  },
+  "iu": {
+    "name": "Inuktitut"
+  },
+  "ja": {
+    "name": "Gyapan kasa"
+  },
+  "jv": {
+    "name": "Gyabanis kasa"
+  },
+  "ka": {
+    "name": "Gyɔɔgyia kasa"
+  },
+  "kg": {
+    "name": "Kongo"
+  },
+  "ki": {
+    "name": "Kikuyu"
+  },
+  "kj": {
+    "name": "Kuanyama"
+  },
+  "kk": {
+    "name": "kasaki kasa"
+  },
+  "kl": {
+    "name": "Kalaallisut"
+  },
+  "km": {
+    "name": "Kambodia kasa"
+  },
+  "kn": {
+    "name": "Kanada"
+  },
+  "ko": {
+    "name": "Korea kasa"
+  },
+  "kr": {
+    "name": "Kanuri"
+  },
+  "ks": {
+    "name": "Kahyimiɛ"
+  },
+  "ku": {
+    "name": "Kɛɛde kasa"
+  },
+  "kv": {
+    "name": "Komi"
+  },
+  "kw": {
+    "name": "Cornish"
+  },
+  "ky": {
+    "name": "Kɛgyese kasa"
+  },
+  "la": {
+    "name": "Latin"
+  },
+  "lb": {
+    "name": "Lɔsimbɔge kasa"
+  },
+  "lg": {
+    "name": "Ganda"
+  },
+  "li": {
+    "name": "Limburgan"
+  },
+  "ln": {
+    "name": "Lingala"
+  },
+  "lo": {
+    "name": "Lawo kasa"
+  },
+  "lt": {
+    "name": "Lituania kasa"
+  },
+  "lu": {
+    "name": "Luba-Katanga"
+  },
+  "lv": {
+    "name": "Latvia kasa"
+  },
+  "mg": {
+    "name": "Malagasy"
+  },
+  "mh": {
+    "name": "Marshallese"
+  },
+  "mi": {
+    "name": "Mawori"
+  },
+  "mk": {
+    "name": "Mɛsidonia kasa"
+  },
+  "ml": {
+    "name": "Malayalam kasa"
+  },
+  "mn": {
+    "name": "Mongoliafoɔ kasa"
+  },
+  "mr": {
+    "name": "Marati"
+  },
+  "ms": {
+    "name": "Malay kasa"
+  },
+  "mt": {
+    "name": "Malta kasa"
+  },
+  "my": {
+    "name": "Bɛɛmis kasa"
+  },
+  "na": {
+    "name": "Nauru"
+  },
+  "nb": {
+    "name": "Norwegian Bokmål"
+  },
+  "nd": {
+    "name": "North Ndebele"
+  },
+  "ne": {
+    "name": "Nɛpal kasa"
+  },
+  "ng": {
+    "name": "Ndonga"
+  },
+  "nl": {
+    "name": "Dɛɛkye"
+  },
+  "nn": {
+    "name": "Nɔwefoɔ Ninɔso"
+  },
+  "no": {
+    "name": "Nɔwefoɔ kasa"
+  },
+  "nr": {
+    "name": "South Ndebele"
+  },
+  "nv": {
+    "name": "Navajo"
+  },
+  "ny": {
+    "name": "Chichewa"
+  },
+  "oc": {
+    "name": "Osita kasa"
+  },
+  "oj": {
+    "name": "Ojibwa"
+  },
+  "om": {
+    "name": "Oromo"
+  },
+  "or": {
+    "name": "Odia"
+  },
+  "os": {
+    "name": "Ossetian"
+  },
+  "pa": {
+    "name": "Pungyabi kasa"
+  },
+  "pi": {
+    "name": "Pali"
+  },
+  "pl": {
+    "name": "Pɔland kasa"
+  },
+  "ps": {
+    "name": "Pahyito"
+  },
+  "pt": {
+    "name": "Pɔɔtugal kasa"
+  },
+  "qu": {
+    "name": "Kwɛkya"
+  },
+  "rm": {
+    "name": "Romanhye kasa"
+  },
+  "rn": {
+    "name": "Rundi"
+  },
+  "ro": {
+    "name": "Romenia kasa"
+  },
+  "ru": {
+    "name": "Rahyia kasa"
+  },
+  "rw": {
+    "name": "Rewanda kasa"
+  },
+  "sa": {
+    "name": "Sanskrit kasa"
+  },
+  "sc": {
+    "name": "Saadinia kasa"
+  },
+  "sd": {
+    "name": "Sindi"
+  },
+  "se": {
+    "name": "Northern Sami"
+  },
+  "sg": {
+    "name": "Sango"
+  },
+  "sh": {
+    "name": "Sɛbia Kasa (Laatin)"
+  },
+  "si": {
+    "name": "Sinhala"
+  },
+  "sk": {
+    "name": "Slovak Kasa"
+  },
+  "sl": {
+    "name": "Slovɛniafoɔ Kasa"
+  },
+  "sm": {
+    "name": "Samoan"
+  },
+  "sn": {
+    "name": "Shona"
+  },
+  "so": {
+    "name": "Somalia kasa"
+  },
+  "sq": {
+    "name": "Aabeniani"
+  },
+  "sr": {
+    "name": "Sɛbia Kasa"
+  },
+  "ss": {
+    "name": "Swati"
+  },
+  "st": {
+    "name": "Southern Sotho"
+  },
+  "su": {
+    "name": "Sunda Kasa"
+  },
+  "sv": {
+    "name": "Sweden kasa"
+  },
+  "sw": {
+    "name": "Swahili"
+  },
+  "ta": {
+    "name": "Tamil kasa"
+  },
+  "te": {
+    "name": "Telugu"
+  },
+  "tg": {
+    "name": "Tɛgyeke kasa"
+  },
+  "th": {
+    "name": "Taeland kasa"
+  },
+  "ti": {
+    "name": "Tigrinya kasa"
+  },
+  "tk": {
+    "name": "Tɛkmɛnistan Kasa"
+  },
+  "tl": {
+    "name": "Filipin kasa"
+  },
+  "tn": {
+    "name": "Tswana"
+  },
+  "to": {
+    "name": "Tonga kasa"
+  },
+  "tr": {
+    "name": "Tɛɛki kasa"
+  },
+  "ts": {
+    "name": "Tsonga"
+  },
+  "tt": {
+    "name": "Tata kasa"
+  },
+  "tw": {
+    "name": "Akan"
+  },
+  "ty": {
+    "name": "Tahitian"
+  },
+  "ug": {
+    "name": "Yugaa Kasa"
+  },
+  "uk": {
+    "name": "Ukren kasa"
+  },
+  "ur": {
+    "name": "Urdu kasa"
+  },
+  "uz": {
+    "name": "Usbɛkistan Kasa"
+  },
+  "ve": {
+    "name": "Venda"
+  },
+  "vi": {
+    "name": "Viɛtnam kasa"
+  },
+  "vo": {
+    "name": "Volapük"
+  },
+  "wa": {
+    "name": "Walloon"
+  },
+  "wo": {
+    "name": "Wolɔfo Kasa"
+  },
+  "xh": {
+    "name": "Hosa Kasa"
+  },
+  "yi": {
+    "name": "Yiddish"
+  },
+  "yo": {
+    "name": "Yoruba"
+  },
+  "za": {
+    "name": "Zuang"
+  },
+  "zh": {
+    "name": "Kyaena kasa"
+  },
+  "zh-Hans": {
+    "name": "Kyaena kasa a emu yɛ mmrɛ"
+  },
+  "zh-Hant": {
+    "name": "Tete Kyaena kasa"
+  },
+  "zu": {
+    "name": "Zulu"
+  }
+}

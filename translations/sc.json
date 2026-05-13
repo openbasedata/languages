@@ -1,0 +1,560 @@
+{
+  "aa": {
+    "name": "afar"
+  },
+  "ab": {
+    "name": "abcasu"
+  },
+  "ae": {
+    "name": "Avestan"
+  },
+  "af": {
+    "name": "afrikaans"
+  },
+  "ak": {
+    "name": "akan"
+  },
+  "am": {
+    "name": "amàricu"
+  },
+  "an": {
+    "name": "aragonesu"
+  },
+  "ar": {
+    "name": "àrabu"
+  },
+  "as": {
+    "name": "assamesu"
+  },
+  "av": {
+    "name": "avaru"
+  },
+  "ay": {
+    "name": "aimara"
+  },
+  "az": {
+    "name": "azerbaigianu"
+  },
+  "ba": {
+    "name": "baschiru"
+  },
+  "be": {
+    "name": "bielorussu"
+  },
+  "bg": {
+    "name": "bùlgaru"
+  },
+  "bi": {
+    "name": "bislama"
+  },
+  "bm": {
+    "name": "bambara"
+  },
+  "bn": {
+    "name": "bengalesu"
+  },
+  "bo": {
+    "name": "tibetanu"
+  },
+  "br": {
+    "name": "brètone"
+  },
+  "bs": {
+    "name": "bosnìacu"
+  },
+  "ca": {
+    "name": "catalanu"
+  },
+  "ce": {
+    "name": "cecenu"
+  },
+  "ch": {
+    "name": "chamorru"
+  },
+  "co": {
+    "name": "corsicanu"
+  },
+  "cr": {
+    "name": "Cree"
+  },
+  "cs": {
+    "name": "tzecu"
+  },
+  "cu": {
+    "name": "islavu eclesiàsticu"
+  },
+  "cv": {
+    "name": "ciuvàsciu"
+  },
+  "cy": {
+    "name": "gallesu"
+  },
+  "da": {
+    "name": "danesu"
+  },
+  "de": {
+    "name": "tedescu"
+  },
+  "dv": {
+    "name": "malvidianu"
+  },
+  "dz": {
+    "name": "dzongkha"
+  },
+  "ee": {
+    "name": "ewe"
+  },
+  "el": {
+    "name": "grecu"
+  },
+  "en": {
+    "name": "inglesu"
+  },
+  "eo": {
+    "name": "esperanto"
+  },
+  "es": {
+    "name": "ispagnolu"
+  },
+  "et": {
+    "name": "èstone"
+  },
+  "eu": {
+    "name": "bascu"
+  },
+  "fa": {
+    "name": "persianu"
+  },
+  "ff": {
+    "name": "fulah"
+  },
+  "fi": {
+    "name": "finlandesu"
+  },
+  "fj": {
+    "name": "fijianu"
+  },
+  "fo": {
+    "name": "faroesu"
+  },
+  "fr": {
+    "name": "frantzesu"
+  },
+  "fy": {
+    "name": "frisone otzidentale"
+  },
+  "ga": {
+    "name": "irlandesu"
+  },
+  "gd": {
+    "name": "gaèlicu iscotzesu"
+  },
+  "gl": {
+    "name": "galitzianu"
+  },
+  "gn": {
+    "name": "guaranì"
+  },
+  "gu": {
+    "name": "gujarati"
+  },
+  "gv": {
+    "name": "mannesu"
+  },
+  "ha": {
+    "name": "hausa"
+  },
+  "he": {
+    "name": "ebràicu"
+  },
+  "hi": {
+    "name": "hindi"
+  },
+  "ho": {
+    "name": "Hiri Motu"
+  },
+  "hr": {
+    "name": "croatu"
+  },
+  "ht": {
+    "name": "crèolu haitianu"
+  },
+  "hu": {
+    "name": "ungheresu"
+  },
+  "hy": {
+    "name": "armenu"
+  },
+  "hz": {
+    "name": "herero"
+  },
+  "ia": {
+    "name": "interlìngua"
+  },
+  "id": {
+    "name": "indonesianu"
+  },
+  "ie": {
+    "name": "interlìngue"
+  },
+  "ig": {
+    "name": "igbo"
+  },
+  "ii": {
+    "name": "sichuan yi"
+  },
+  "ik": {
+    "name": "Inupiaq"
+  },
+  "io": {
+    "name": "ido"
+  },
+  "is": {
+    "name": "islandesu"
+  },
+  "it": {
+    "name": "italianu"
+  },
+  "iu": {
+    "name": "inuktitut"
+  },
+  "ja": {
+    "name": "giaponesu"
+  },
+  "jv": {
+    "name": "giavanesu"
+  },
+  "ka": {
+    "name": "georgianu"
+  },
+  "kg": {
+    "name": "Kongo"
+  },
+  "ki": {
+    "name": "kikuyu"
+  },
+  "kj": {
+    "name": "kuanyama"
+  },
+  "kk": {
+    "name": "kazacu"
+  },
+  "kl": {
+    "name": "groenlandesu"
+  },
+  "km": {
+    "name": "khmer"
+  },
+  "kn": {
+    "name": "kannada"
+  },
+  "ko": {
+    "name": "coreanu"
+  },
+  "kr": {
+    "name": "kanuri"
+  },
+  "ks": {
+    "name": "kashmiri"
+  },
+  "ku": {
+    "name": "curdu"
+  },
+  "kv": {
+    "name": "komi"
+  },
+  "kw": {
+    "name": "còrnicu"
+  },
+  "ky": {
+    "name": "chirghisu"
+  },
+  "la": {
+    "name": "latinu"
+  },
+  "lb": {
+    "name": "lussemburghesu"
+  },
+  "lg": {
+    "name": "ganda"
+  },
+  "li": {
+    "name": "limburghesu"
+  },
+  "ln": {
+    "name": "lingala"
+  },
+  "lo": {
+    "name": "laotianu"
+  },
+  "lt": {
+    "name": "lituanu"
+  },
+  "lu": {
+    "name": "luba-katanga"
+  },
+  "lv": {
+    "name": "lètone"
+  },
+  "mg": {
+    "name": "malgàsciu"
+  },
+  "mh": {
+    "name": "marshallesu"
+  },
+  "mi": {
+    "name": "maori"
+  },
+  "mk": {
+    "name": "matzèdone"
+  },
+  "ml": {
+    "name": "malayalam"
+  },
+  "mn": {
+    "name": "mòngolu"
+  },
+  "mr": {
+    "name": "marathi"
+  },
+  "ms": {
+    "name": "malesu"
+  },
+  "mt": {
+    "name": "maltesu"
+  },
+  "my": {
+    "name": "burmesu"
+  },
+  "na": {
+    "name": "nauru"
+  },
+  "nb": {
+    "name": "norvegesu bokmål"
+  },
+  "nd": {
+    "name": "ndebele de su nord"
+  },
+  "ne": {
+    "name": "nepalesu"
+  },
+  "ng": {
+    "name": "ndonga"
+  },
+  "nl": {
+    "name": "olandesu"
+  },
+  "nn": {
+    "name": "norvegesu nynorsk"
+  },
+  "no": {
+    "name": "norvegesu"
+  },
+  "nr": {
+    "name": "ndebele de su sud"
+  },
+  "nv": {
+    "name": "navajo"
+  },
+  "ny": {
+    "name": "nyanja"
+  },
+  "oc": {
+    "name": "otzitanu"
+  },
+  "oj": {
+    "name": "Ojibwa"
+  },
+  "om": {
+    "name": "oromo"
+  },
+  "or": {
+    "name": "odia"
+  },
+  "os": {
+    "name": "ossèticu"
+  },
+  "pa": {
+    "name": "punjabi"
+  },
+  "pi": {
+    "name": "pali"
+  },
+  "pl": {
+    "name": "polacu"
+  },
+  "ps": {
+    "name": "pashto"
+  },
+  "pt": {
+    "name": "portoghesu"
+  },
+  "qu": {
+    "name": "quechua"
+  },
+  "rm": {
+    "name": "romànciu"
+  },
+  "rn": {
+    "name": "rundi"
+  },
+  "ro": {
+    "name": "rumenu"
+  },
+  "ru": {
+    "name": "russu"
+  },
+  "rw": {
+    "name": "kinyarwanda"
+  },
+  "sa": {
+    "name": "sànscritu"
+  },
+  "sc": {
+    "name": "sardu"
+  },
+  "sd": {
+    "name": "sindhi"
+  },
+  "se": {
+    "name": "sami setentrionale"
+  },
+  "sg": {
+    "name": "sango"
+  },
+  "sh": {
+    "name": "serbu (latinu)"
+  },
+  "si": {
+    "name": "singalesu"
+  },
+  "sk": {
+    "name": "islovacu"
+  },
+  "sl": {
+    "name": "islovenu"
+  },
+  "sm": {
+    "name": "samoanu"
+  },
+  "sn": {
+    "name": "shona"
+  },
+  "so": {
+    "name": "sòmalu"
+  },
+  "sq": {
+    "name": "albanesu"
+  },
+  "sr": {
+    "name": "serbu"
+  },
+  "ss": {
+    "name": "swati"
+  },
+  "st": {
+    "name": "sotho meridionale"
+  },
+  "su": {
+    "name": "sundanesu"
+  },
+  "sv": {
+    "name": "isvedesu"
+  },
+  "sw": {
+    "name": "swahili"
+  },
+  "ta": {
+    "name": "tamil"
+  },
+  "te": {
+    "name": "telugu"
+  },
+  "tg": {
+    "name": "tagicu"
+  },
+  "th": {
+    "name": "tailandesu"
+  },
+  "ti": {
+    "name": "tigrignu"
+  },
+  "tk": {
+    "name": "turcmenu"
+  },
+  "tl": {
+    "name": "filipinu"
+  },
+  "tn": {
+    "name": "tswana"
+  },
+  "to": {
+    "name": "tonganu"
+  },
+  "tr": {
+    "name": "turcu"
+  },
+  "ts": {
+    "name": "tsonga"
+  },
+  "tt": {
+    "name": "tàtaru"
+  },
+  "tw": {
+    "name": "akan"
+  },
+  "ty": {
+    "name": "taitianu"
+  },
+  "ug": {
+    "name": "uiguru"
+  },
+  "uk": {
+    "name": "ucrainu"
+  },
+  "ur": {
+    "name": "urdu"
+  },
+  "uz": {
+    "name": "uzbecu"
+  },
+  "ve": {
+    "name": "venda"
+  },
+  "vi": {
+    "name": "vietnamita"
+  },
+  "vo": {
+    "name": "volapük"
+  },
+  "wa": {
+    "name": "vallonu"
+  },
+  "wo": {
+    "name": "wolof"
+  },
+  "xh": {
+    "name": "xhosa"
+  },
+  "yi": {
+    "name": "yiddish"
+  },
+  "yo": {
+    "name": "yoruba"
+  },
+  "za": {
+    "name": "zhuang"
+  },
+  "zh": {
+    "name": "tzinesu"
+  },
+  "zh-Hans": {
+    "name": "tzinesu semplificadu"
+  },
+  "zh-Hant": {
+    "name": "tzinesu traditzionale"
+  },
+  "zu": {
+    "name": "zulu"
+  }
+}

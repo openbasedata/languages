@@ -1,0 +1,560 @@
+{
+  "aa": {
+    "name": "ཨ་ཕར་ཁ"
+  },
+  "ab": {
+    "name": "ཨཱབ་ཁ་ཟི་ཡ་ཁ"
+  },
+  "ae": {
+    "name": "Avestan"
+  },
+  "af": {
+    "name": "ཨཕ་རི་ཀཱནས་ཁ"
+  },
+  "ak": {
+    "name": "Akan"
+  },
+  "am": {
+    "name": "ཨམ་ཧ་རིཀ་ཁ"
+  },
+  "an": {
+    "name": "Aragonese"
+  },
+  "ar": {
+    "name": "ཨེ་ར་བིཀ་ཁ"
+  },
+  "as": {
+    "name": "ཨ་ས་མིས་ཁ"
+  },
+  "av": {
+    "name": "Avaric"
+  },
+  "ay": {
+    "name": "Aymara"
+  },
+  "az": {
+    "name": "ཨ་ཛར་བྷའི་ཇཱན་ཁ"
+  },
+  "ba": {
+    "name": "Bashkir"
+  },
+  "be": {
+    "name": "བེལ་ཨ་རུས་ཁ"
+  },
+  "bg": {
+    "name": "བཱལ་གེ་རི་ཡཱན་ཁ"
+  },
+  "bi": {
+    "name": "Bislama"
+  },
+  "bm": {
+    "name": "Bambara"
+  },
+  "bn": {
+    "name": "བངྒ་ལ་ཁ"
+  },
+  "bo": {
+    "name": "བོད་ཁ"
+  },
+  "br": {
+    "name": "Breton"
+  },
+  "bs": {
+    "name": "བྷོས་ནི་ཡཱན་ཁ"
+  },
+  "ca": {
+    "name": "ཀེ་ཊ་ལཱན་ཁ"
+  },
+  "ce": {
+    "name": "Chechen"
+  },
+  "ch": {
+    "name": "Chamorro"
+  },
+  "co": {
+    "name": "Corsican"
+  },
+  "cr": {
+    "name": "Cree"
+  },
+  "cs": {
+    "name": "ཅེཀ་ཁ"
+  },
+  "cu": {
+    "name": "Church Slavic"
+  },
+  "cv": {
+    "name": "Chuvash"
+  },
+  "cy": {
+    "name": "ཝེལཤ་ཁ"
+  },
+  "da": {
+    "name": "ཌེ་ནིཤ་ཁ"
+  },
+  "de": {
+    "name": "ཇཱར་མཱན་ཁ"
+  },
+  "dv": {
+    "name": "དི་བེ་ཧི་ཁ"
+  },
+  "dz": {
+    "name": "རྫོང་ཁ"
+  },
+  "ee": {
+    "name": "Ewe"
+  },
+  "el": {
+    "name": "གྲིཀ་ཁ"
+  },
+  "en": {
+    "name": "ཨིང་ལིཤ་ཁ"
+  },
+  "eo": {
+    "name": "ཨེས་པ་རཱན་ཏོ་ཁ"
+  },
+  "es": {
+    "name": "ཨིས་པེ་ནིཤ་ཁ"
+  },
+  "et": {
+    "name": "ཨེས་ཊོ་ནི་ཡཱན་ཁ"
+  },
+  "eu": {
+    "name": "བཱསཀ་ཁ"
+  },
+  "fa": {
+    "name": "པར་ཤི་ཡཱན་ཁ"
+  },
+  "ff": {
+    "name": "Fulah"
+  },
+  "fi": {
+    "name": "ཕི་ནིཤ་ཁ"
+  },
+  "fj": {
+    "name": "ཕི་ཇི་ཡཱན་ཁ"
+  },
+  "fo": {
+    "name": "ཕཱ་རོ་ཨིས་ཁ"
+  },
+  "fr": {
+    "name": "ཕྲནཅ་ཁ"
+  },
+  "fy": {
+    "name": "ནུབ་ཕྼི་སི་ཡན་ཁ"
+  },
+  "ga": {
+    "name": "ཨཱའི་རིཤ་ཁ"
+  },
+  "gd": {
+    "name": "Scottish Gaelic"
+  },
+  "gl": {
+    "name": "གལ་ཨིས་ཨི་ཡན་ཁ"
+  },
+  "gn": {
+    "name": "གུ་ཝ་ར་ནི་ཁ"
+  },
+  "gu": {
+    "name": "གུ་ཇ་ར་ཏི་ཁ"
+  },
+  "gv": {
+    "name": "Manx"
+  },
+  "ha": {
+    "name": "ཧཝ་ས་ཁ"
+  },
+  "he": {
+    "name": "ཧེ་བྲུ་ཁ"
+  },
+  "hi": {
+    "name": "ཧིན་དི་ཁ"
+  },
+  "ho": {
+    "name": "Hiri Motu"
+  },
+  "hr": {
+    "name": "ཀྲོ་ཨེ་ཤི་ཡཱན་ཁ"
+  },
+  "ht": {
+    "name": "ཧེ་ཏི་ཡཱན་ཁ"
+  },
+  "hu": {
+    "name": "ཧཱང་གྷ་རི་ཡཱན་ཁ"
+  },
+  "hy": {
+    "name": "ཨར་མི་ནི་ཡཱན་ཁ"
+  },
+  "hz": {
+    "name": "Herero"
+  },
+  "ia": {
+    "name": "Interlingua (International Auxiliary Language Association)"
+  },
+  "id": {
+    "name": "ཨིན་ཌོ་ནེ་ཤི་ཡཱན་ཁ"
+  },
+  "ie": {
+    "name": "Interlingue"
+  },
+  "ig": {
+    "name": "ཨིག་བོ་ཁ"
+  },
+  "ii": {
+    "name": "Sichuan Yi"
+  },
+  "ik": {
+    "name": "Inupiaq"
+  },
+  "io": {
+    "name": "Ido"
+  },
+  "is": {
+    "name": "ཨ་ཡིས་ལེན་ཌིཀ་ཁ"
+  },
+  "it": {
+    "name": "ཨི་ཊ་ལི་ཡཱན་ཁ"
+  },
+  "iu": {
+    "name": "Inuktitut"
+  },
+  "ja": {
+    "name": "ཇཱ་པཱ་ནིས་ཁ"
+  },
+  "jv": {
+    "name": "ཇཱ་བ་ནིས་ཁ"
+  },
+  "ka": {
+    "name": "ཇཽ་ཇི་ཡཱན་ཁ"
+  },
+  "kg": {
+    "name": "Kongo"
+  },
+  "ki": {
+    "name": "Kikuyu"
+  },
+  "kj": {
+    "name": "Kuanyama"
+  },
+  "kk": {
+    "name": "ཀ་ཛགས་ཁ"
+  },
+  "kl": {
+    "name": "Kalaallisut"
+  },
+  "km": {
+    "name": "ཁེ་མེར་ཁ"
+  },
+  "kn": {
+    "name": "ཀ་ན་ཌ་ཁ"
+  },
+  "ko": {
+    "name": "ཀོ་རི་ཡཱན་ཁ"
+  },
+  "kr": {
+    "name": "Kanuri"
+  },
+  "ks": {
+    "name": "ཀཱཤ་མི་རི་ཁ"
+  },
+  "ku": {
+    "name": "ཀར་ཌིཤ་ཁ"
+  },
+  "kv": {
+    "name": "Komi"
+  },
+  "kw": {
+    "name": "Cornish"
+  },
+  "ky": {
+    "name": "ཀིར་གིས་ཁ"
+  },
+  "la": {
+    "name": "ལེ་ཊིན་ཁ"
+  },
+  "lb": {
+    "name": "ལག་ཛམ་བོརྒ་ཁ"
+  },
+  "lg": {
+    "name": "Ganda"
+  },
+  "li": {
+    "name": "Limburgan"
+  },
+  "ln": {
+    "name": "Lingala"
+  },
+  "lo": {
+    "name": "ལཱ་ཝོས་ཁ"
+  },
+  "lt": {
+    "name": "ལི་ཐུ་ཝེ་ནི་ཡཱན་ཁ"
+  },
+  "lu": {
+    "name": "Luba-Katanga"
+  },
+  "lv": {
+    "name": "ལཊ་བི་ཡཱན་ཁ"
+  },
+  "mg": {
+    "name": "མ་ལ་ག་སི་ཁ"
+  },
+  "mh": {
+    "name": "Marshallese"
+  },
+  "mi": {
+    "name": "མ་ཨོ་རི་ཁ"
+  },
+  "mk": {
+    "name": "མ་སེ་ཌོ་ནི་ཡཱན་ཁ"
+  },
+  "ml": {
+    "name": "མ་ལ་ཡ་ལམ་ཁ"
+  },
+  "mn": {
+    "name": "Mongolian"
+  },
+  "mr": {
+    "name": "མ་ར་ཐི་ཁ"
+  },
+  "ms": {
+    "name": "མ་ལེ་ཁ"
+  },
+  "mt": {
+    "name": "མཱལ་ཊ་ཁ"
+  },
+  "my": {
+    "name": "བར་མིས་ཁ"
+  },
+  "na": {
+    "name": "Nauru"
+  },
+  "nb": {
+    "name": "ནོར་ཝེ་ཇི་ཡཱན་བོཀ་མཱལ་ཁ"
+  },
+  "nd": {
+    "name": "North Ndebele"
+  },
+  "ne": {
+    "name": "ནེ་པཱལི་ཁ"
+  },
+  "ng": {
+    "name": "Ndonga"
+  },
+  "nl": {
+    "name": "ཌཆ་ཁ"
+  },
+  "nn": {
+    "name": "ནོར་ཝེ་ཇི་ཡཱན་ནོརསཀ་ཁ"
+  },
+  "no": {
+    "name": "ནོར་ཝི་ཇི་ཡན་ཁ"
+  },
+  "nr": {
+    "name": "South Ndebele"
+  },
+  "nv": {
+    "name": "Navajo"
+  },
+  "ny": {
+    "name": "Chichewa"
+  },
+  "oc": {
+    "name": "Occitan (post 1500)"
+  },
+  "oj": {
+    "name": "Ojibwa"
+  },
+  "om": {
+    "name": "Oromo"
+  },
+  "or": {
+    "name": "ཨོ་རི་ཡ་ཁ"
+  },
+  "os": {
+    "name": "Ossetian"
+  },
+  "pa": {
+    "name": "པཱན་ཇ་བི་ཁ"
+  },
+  "pi": {
+    "name": "Pali"
+  },
+  "pl": {
+    "name": "པོ་ལིཤ་ཁ"
+  },
+  "ps": {
+    "name": "པཱཤ་ཏོ་ཁ"
+  },
+  "pt": {
+    "name": "པོར་ཅུ་གིས་ཁ"
+  },
+  "qu": {
+    "name": "ཀྭེ་ཆུ་ཨ་ཁ"
+  },
+  "rm": {
+    "name": "རོ་མེ་ནིཤ་ཁ"
+  },
+  "rn": {
+    "name": "Rundi"
+  },
+  "ro": {
+    "name": "རོ་མེ་ནི་ཡཱན་ཁ"
+  },
+  "ru": {
+    "name": "ཨུ་རུ་སུའི་ཁ"
+  },
+  "rw": {
+    "name": "Kinyarwanda"
+  },
+  "sa": {
+    "name": "སཾསྐྲྀཏ་ཁ"
+  },
+  "sc": {
+    "name": "Sardinian"
+  },
+  "sd": {
+    "name": "སིན་དཱི་ཁ"
+  },
+  "se": {
+    "name": "Northern Sami"
+  },
+  "sg": {
+    "name": "Sango"
+  },
+  "sh": {
+    "name": "སཱར་བྷི་ཡཱན་ཁ། (ལེ་ཊིན་ཡིག་གུ།)"
+  },
+  "si": {
+    "name": "སིང་ཧ་ལ་ཁ"
+  },
+  "sk": {
+    "name": "སུ་ལོ་བཱཀ་ཁ"
+  },
+  "sl": {
+    "name": "སུ་ལོ་བི་ནི་ཡཱན་ཁ"
+  },
+  "sm": {
+    "name": "Samoan"
+  },
+  "sn": {
+    "name": "Shona"
+  },
+  "so": {
+    "name": "སོ་མ་ལི་ཁ"
+  },
+  "sq": {
+    "name": "ཨཱལ་བེ་ནི་ཡཱན་ཁ"
+  },
+  "sr": {
+    "name": "སཱར་བྷི་ཡཱན་ཁ"
+  },
+  "ss": {
+    "name": "Swati"
+  },
+  "st": {
+    "name": "Southern Sotho"
+  },
+  "su": {
+    "name": "སཱུན་ད་ནིས་ཁ"
+  },
+  "sv": {
+    "name": "སུའི་ཌིཤ་ཁ"
+  },
+  "sw": {
+    "name": "སྭཱ་ཧི་ལི་ཁ"
+  },
+  "ta": {
+    "name": "ཏ་མིལ་ཁ"
+  },
+  "te": {
+    "name": "ཏེ་ལུ་གུ་ཁ"
+  },
+  "tg": {
+    "name": "ཏ་ཇིཀ་ཁ"
+  },
+  "th": {
+    "name": "ཐཱའི་ཁ"
+  },
+  "ti": {
+    "name": "ཏིག་རི་ཉ་ཁ"
+  },
+  "tk": {
+    "name": "ཊཱརཀ་མེན་ཁ"
+  },
+  "tl": {
+    "name": "ཕི་ལི་པི་ནོ་ཁ"
+  },
+  "tn": {
+    "name": "Tswana"
+  },
+  "to": {
+    "name": "ཊོང་གྷན་ཁ"
+  },
+  "tr": {
+    "name": "ཊཱར་ཀིཤ་ཁ"
+  },
+  "ts": {
+    "name": "Tsonga"
+  },
+  "tt": {
+    "name": "ཊ་ཊར་ཁ"
+  },
+  "tw": {
+    "name": "Twi"
+  },
+  "ty": {
+    "name": "Tahitian"
+  },
+  "ug": {
+    "name": "ཝི་གུར་ཁ"
+  },
+  "uk": {
+    "name": "ཡུ་ཀེ་རེ་ནི་ཡཱན་ཁ"
+  },
+  "ur": {
+    "name": "ཨུར་དུ་ཁ"
+  },
+  "uz": {
+    "name": "ཨུས་བེཀ་ཁ"
+  },
+  "ve": {
+    "name": "Venda"
+  },
+  "vi": {
+    "name": "བེཊ་ནཱ་མིས་ཁ"
+  },
+  "vo": {
+    "name": "Volapük"
+  },
+  "wa": {
+    "name": "Walloon"
+  },
+  "wo": {
+    "name": "ཝོ་ལོཕ་ཁ"
+  },
+  "xh": {
+    "name": "ཞོ་ས་ཁ"
+  },
+  "yi": {
+    "name": "Yiddish"
+  },
+  "yo": {
+    "name": "ཡོ་རུ་བ་ཁ"
+  },
+  "za": {
+    "name": "Zhuang"
+  },
+  "zh": {
+    "name": "རྒྱ་མི་ཁ"
+  },
+  "zh-Hans": {
+    "name": "རྒྱ་མི་ཁ་འཇམ་སངམ"
+  },
+  "zh-Hant": {
+    "name": "སྔ་དུས་ཀྱི་རྒྱ་མི་ཁ"
+  },
+  "zu": {
+    "name": "ཟུ་ལུ་ཁ"
+  }
+}
