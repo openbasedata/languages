@@ -1,12 +1,12 @@
 {
   "aa": {
-    "name": "aa"
+    "name": "Afar"
   },
   "ab": {
     "name": "Abkhazian"
   },
   "ae": {
-    "name": "ae"
+    "name": "Avestan"
   },
   "af": {
     "name": "Afrikaans"
@@ -75,7 +75,7 @@
     "name": "Corsican"
   },
   "cr": {
-    "name": "cr"
+    "name": "Cree"
   },
   "cs": {
     "name": "Cek"
@@ -171,7 +171,7 @@
     "name": "Harshen Hindi"
   },
   "ho": {
-    "name": "ho"
+    "name": "Hiri Motu"
   },
   "hr": {
     "name": "Kuroshiyan"
@@ -204,7 +204,7 @@
     "name": "Sichuan Yi"
   },
   "ik": {
-    "name": "ik"
+    "name": "Inupiaq"
   },
   "io": {
     "name": "Ido"
@@ -228,7 +228,7 @@
     "name": "Jojiyanci"
   },
   "kg": {
-    "name": "kg"
+    "name": "Kongo"
   },
   "ki": {
     "name": "Kikuyu"
@@ -363,7 +363,7 @@
     "name": "Ositanci"
   },
   "oj": {
-    "name": "oj"
+    "name": "Ojibwa"
   },
   "om": {
     "name": "Oromo"
@@ -378,7 +378,7 @@
     "name": "Punjabi"
   },
   "pi": {
-    "name": "pi"
+    "name": "Pali"
   },
   "pl": {
     "name": "Harshen Polan"
