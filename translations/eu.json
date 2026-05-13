@@ -548,6 +548,12 @@
   "zh": {
     "name": "txinera"
   },
+  "zh-Hans": {
+    "name": "txinera sinplifikatua"
+  },
+  "zh-Hant": {
+    "name": "txinera tradizionala"
+  },
   "zu": {
     "name": "zuluera"
   }

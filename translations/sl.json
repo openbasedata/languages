@@ -548,6 +548,12 @@
   "zh": {
     "name": "kitajščina"
   },
+  "zh-Hans": {
+    "name": "poenostavljena kitajščina"
+  },
+  "zh-Hant": {
+    "name": "tradicionalna kitajščina"
+  },
   "zu": {
     "name": "zulujščina"
   }

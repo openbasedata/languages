@@ -548,6 +548,12 @@
   "zh": {
     "name": "kineski"
   },
+  "zh-Hans": {
+    "name": "pojednostavljeni kineski"
+  },
+  "zh-Hant": {
+    "name": "tradicionalni kineski"
+  },
   "zu": {
     "name": "zulu"
   }

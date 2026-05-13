@@ -548,6 +548,12 @@
   "zh": {
     "name": "hiina"
   },
+  "zh-Hans": {
+    "name": "lihtsustatud hiina"
+  },
+  "zh-Hant": {
+    "name": "traditsiooniline hiina"
+  },
   "zu": {
     "name": "suulu"
   }

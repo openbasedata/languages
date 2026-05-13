@@ -548,6 +548,12 @@
   "zh": {
     "name": "čínština"
   },
+  "zh-Hans": {
+    "name": "zjednodušená čínština"
+  },
+  "zh-Hant": {
+    "name": "tradiční čínština"
+  },
   "zu": {
     "name": "zuluština"
   }

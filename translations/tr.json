@@ -548,6 +548,12 @@
   "zh": {
     "name": "Çince"
   },
+  "zh-Hans": {
+    "name": "Basitleştirilmiş Çince"
+  },
+  "zh-Hant": {
+    "name": "Geleneksel Çince"
+  },
   "zu": {
     "name": "Zuluca"
   }

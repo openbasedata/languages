@@ -548,6 +548,12 @@
   "zh": {
     "name": "Tionghoa"
   },
+  "zh-Hans": {
+    "name": "Sederhana Tionghoa"
+  },
+  "zh-Hant": {
+    "name": "Tradisional Tionghoa"
+  },
   "zu": {
     "name": "Zulu"
   }

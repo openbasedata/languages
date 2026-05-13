@@ -548,6 +548,12 @@
   "zh": {
     "name": "chino"
   },
+  "zh-Hans": {
+    "name": "chino simplificado"
+  },
+  "zh-Hant": {
+    "name": "chino tradicional"
+  },
   "zu": {
     "name": "zulú"
   }

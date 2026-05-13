@@ -548,6 +548,12 @@
   "zh": {
     "name": "kinų"
   },
+  "zh-Hans": {
+    "name": "supaprastintoji kinų"
+  },
+  "zh-Hant": {
+    "name": "tradicinė kinų"
+  },
   "zu": {
     "name": "zulų"
   }

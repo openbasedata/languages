@@ -548,6 +548,12 @@
   "zh": {
     "name": "Tiếng Trung"
   },
+  "zh-Hans": {
+    "name": "Giản thể Tiếng Trung"
+  },
+  "zh-Hant": {
+    "name": "Phồn thể Tiếng Trung"
+  },
   "zu": {
     "name": "Tiếng Zulu"
   }
