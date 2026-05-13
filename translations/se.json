@@ -9,7 +9,7 @@
     "name": "Avestan"
   },
   "af": {
-    "name": "Afrikaans"
+    "name": "afrikánsagiella"
   },
   "ak": {
     "name": "Akan"
@@ -18,10 +18,10 @@
     "name": "Amharic"
   },
   "an": {
-    "name": "Aragonese"
+    "name": "aragoniagiella"
   },
   "ar": {
-    "name": "Arabic"
+    "name": "arábagiella"
   },
   "as": {
     "name": "Assamese"
@@ -39,10 +39,10 @@
     "name": "Bashkir"
   },
   "be": {
-    "name": "Belarusian"
+    "name": "vilges-ruoššagiella"
   },
   "bg": {
-    "name": "Bulgarian"
+    "name": "bulgáriagiella"
   },
   "bi": {
     "name": "Bislama"
@@ -51,19 +51,19 @@
     "name": "Bambara"
   },
   "bn": {
-    "name": "Bengali"
+    "name": "bengalgiella"
   },
   "bo": {
-    "name": "Tibetan"
+    "name": "tibetagiella"
   },
   "br": {
-    "name": "Breton"
+    "name": "bretonagiella"
   },
   "bs": {
-    "name": "Bosnian"
+    "name": "bosniagiella"
   },
   "ca": {
-    "name": "Catalan"
+    "name": "katalánagiella"
   },
   "ce": {
     "name": "Chechen"
@@ -72,13 +72,13 @@
     "name": "Chamorro"
   },
   "co": {
-    "name": "Corsican"
+    "name": "corsicagiella"
   },
   "cr": {
     "name": "Cree"
   },
   "cs": {
-    "name": "Czech"
+    "name": "čeahkagiella"
   },
   "cu": {
     "name": "Church Slavic"
@@ -87,64 +87,64 @@
     "name": "Chuvash"
   },
   "cy": {
-    "name": "Welsh"
+    "name": "kymragiella"
   },
   "da": {
-    "name": "Danish"
+    "name": "dánskkagiella"
   },
   "de": {
-    "name": "German"
+    "name": "duiskkagiella"
   },
   "dv": {
-    "name": "Divehi"
+    "name": "divehigiella"
   },
   "dz": {
-    "name": "Dzongkha"
+    "name": "dzongkhagiella"
   },
   "ee": {
     "name": "Ewe"
   },
   "el": {
-    "name": "Modern Greek (1453-)"
+    "name": "greikkagiella"
   },
   "en": {
-    "name": "English"
+    "name": "eaŋgalsgiella"
   },
   "eo": {
     "name": "Esperanto"
   },
   "es": {
-    "name": "Spanish"
+    "name": "spánskkagiella"
   },
   "et": {
-    "name": "Estonian"
+    "name": "esttegiella"
   },
   "eu": {
     "name": "Basque"
   },
   "fa": {
-    "name": "Persian"
+    "name": "persijagiella"
   },
   "ff": {
     "name": "Fulah"
   },
   "fi": {
-    "name": "Finnish"
+    "name": "suomagiella"
   },
   "fj": {
-    "name": "Fijian"
+    "name": "fidjigiella"
   },
   "fo": {
-    "name": "Faroese"
+    "name": "fearagiella"
   },
   "fr": {
-    "name": "French"
+    "name": "fránskkagiella"
   },
   "fy": {
-    "name": "Western Frisian"
+    "name": "oarjifriisagiella"
   },
   "ga": {
-    "name": "Irish"
+    "name": "iirragiella"
   },
   "gd": {
     "name": "Scottish Gaelic"
@@ -156,34 +156,34 @@
     "name": "Guarani"
   },
   "gu": {
-    "name": "Gujarati"
+    "name": "gujaratagiella"
   },
   "gv": {
-    "name": "Manx"
+    "name": "manksgiella"
   },
   "ha": {
-    "name": "Hausa"
+    "name": "haussagiella"
   },
   "he": {
     "name": "Hebrew"
   },
   "hi": {
-    "name": "Hindi"
+    "name": "hindigiella"
   },
   "ho": {
     "name": "Hiri Motu"
   },
   "hr": {
-    "name": "Croatian"
+    "name": "kroátiagiella"
   },
   "ht": {
-    "name": "Haitian"
+    "name": "haitigiella"
   },
   "hu": {
-    "name": "Hungarian"
+    "name": "ungárgiella"
   },
   "hy": {
-    "name": "Armenian"
+    "name": "armeenagiella"
   },
   "hz": {
     "name": "Herero"
@@ -192,7 +192,7 @@
     "name": "Interlingua (International Auxiliary Language Association)"
   },
   "id": {
-    "name": "Indonesian"
+    "name": "indonesiagiella"
   },
   "ie": {
     "name": "Interlingue"
@@ -210,22 +210,22 @@
     "name": "Ido"
   },
   "is": {
-    "name": "Icelandic"
+    "name": "islánddagiella"
   },
   "it": {
-    "name": "Italian"
+    "name": "itáliagiella"
   },
   "iu": {
     "name": "Inuktitut"
   },
   "ja": {
-    "name": "Japanese"
+    "name": "japánagiella"
   },
   "jv": {
-    "name": "Javanese"
+    "name": "javagiella"
   },
   "ka": {
-    "name": "Georgian"
+    "name": "georgiagiella"
   },
   "kg": {
     "name": "Kongo"
@@ -237,19 +237,19 @@
     "name": "Kuanyama"
   },
   "kk": {
-    "name": "Kazakh"
+    "name": "kazakgiella"
   },
   "kl": {
     "name": "Kalaallisut"
   },
   "km": {
-    "name": "Khmer"
+    "name": "kambodiagiella"
   },
   "kn": {
     "name": "Kannada"
   },
   "ko": {
-    "name": "Korean"
+    "name": "koreagiella"
   },
   "kr": {
     "name": "Kanuri"
@@ -258,22 +258,22 @@
     "name": "Kashmiri"
   },
   "ku": {
-    "name": "Kurdish"
+    "name": "kurdigiella"
   },
   "kv": {
-    "name": "Komi"
+    "name": "komigiella"
   },
   "kw": {
-    "name": "Cornish"
+    "name": "kornagiella"
   },
   "ky": {
     "name": "Kirghiz"
   },
   "la": {
-    "name": "Latin"
+    "name": "láhtengiella"
   },
   "lb": {
-    "name": "Luxembourgish"
+    "name": "luxemburggagiella"
   },
   "lg": {
     "name": "Ganda"
@@ -285,16 +285,16 @@
     "name": "Lingala"
   },
   "lo": {
-    "name": "Lao"
+    "name": "laogiella"
   },
   "lt": {
-    "name": "Lithuanian"
+    "name": "liettuvagiella"
   },
   "lu": {
     "name": "Luba-Katanga"
   },
   "lv": {
-    "name": "Latvian"
+    "name": "látviagiella"
   },
   "mg": {
     "name": "Malagasy"
@@ -303,16 +303,16 @@
     "name": "Marshallese"
   },
   "mi": {
-    "name": "Maori"
+    "name": "maorigiella"
   },
   "mk": {
-    "name": "Macedonian"
+    "name": "makedoniagiella"
   },
   "ml": {
     "name": "Malayalam"
   },
   "mn": {
-    "name": "Mongolian"
+    "name": "mongoliagiella"
   },
   "mr": {
     "name": "Marathi"
@@ -321,34 +321,34 @@
     "name": "Malay (macrolanguage)"
   },
   "mt": {
-    "name": "Maltese"
+    "name": "maltagiella"
   },
   "my": {
-    "name": "Burmese"
+    "name": "burmagiella"
   },
   "na": {
     "name": "Nauru"
   },
   "nb": {
-    "name": "Norwegian Bokmål"
+    "name": "girjedárogiella"
   },
   "nd": {
     "name": "North Ndebele"
   },
   "ne": {
-    "name": "Nepali (macrolanguage)"
+    "name": "nepaligiella"
   },
   "ng": {
     "name": "Ndonga"
   },
   "nl": {
-    "name": "Dutch"
+    "name": "hollánddagiella"
   },
   "nn": {
-    "name": "Norwegian Nynorsk"
+    "name": "ođđadárogiella"
   },
   "no": {
-    "name": "Norwegian"
+    "name": "dárogiella"
   },
   "nr": {
     "name": "South Ndebele"
@@ -360,7 +360,7 @@
     "name": "Chichewa"
   },
   "oc": {
-    "name": "Occitan (post 1500)"
+    "name": "oksitánagiella"
   },
   "oj": {
     "name": "Ojibwa"
@@ -375,34 +375,34 @@
     "name": "Ossetian"
   },
   "pa": {
-    "name": "Panjabi"
+    "name": "panjabigiella"
   },
   "pi": {
     "name": "Pali"
   },
   "pl": {
-    "name": "Polish"
+    "name": "polskkagiella"
   },
   "ps": {
     "name": "Pushto"
   },
   "pt": {
-    "name": "Portuguese"
+    "name": "portugálagiella"
   },
   "qu": {
     "name": "Quechua"
   },
   "rm": {
-    "name": "Romansh"
+    "name": "romanšgiella"
   },
   "rn": {
     "name": "Rundi"
   },
   "ro": {
-    "name": "Romanian"
+    "name": "romániagiella"
   },
   "ru": {
-    "name": "Russian"
+    "name": "ruoššagiella"
   },
   "rw": {
     "name": "Kinyarwanda"
@@ -411,31 +411,31 @@
     "name": "Sanskrit"
   },
   "sc": {
-    "name": "Sardinian"
+    "name": "sardigiella"
   },
   "sd": {
     "name": "Sindhi"
   },
   "se": {
-    "name": "Northern Sami"
+    "name": "davvisámegiella"
   },
   "sg": {
     "name": "Sango"
   },
   "sh": {
-    "name": "Serbo-Croatian"
+    "name": "serbiagiella (láhtenaš)"
   },
   "si": {
     "name": "Sinhala"
   },
   "sk": {
-    "name": "Slovak"
+    "name": "slovákiagiella"
   },
   "sl": {
-    "name": "Slovenian"
+    "name": "slovenagiella"
   },
   "sm": {
-    "name": "Samoan"
+    "name": "samoagiella"
   },
   "sn": {
     "name": "Shona"
@@ -444,10 +444,10 @@
     "name": "Somali"
   },
   "sq": {
-    "name": "Albanian"
+    "name": "albánagiella"
   },
   "sr": {
-    "name": "Serbian"
+    "name": "serbiagiella"
   },
   "ss": {
     "name": "Swati"
@@ -459,7 +459,7 @@
     "name": "Sundanese"
   },
   "sv": {
-    "name": "Swedish"
+    "name": "ruoŧagiella"
   },
   "sw": {
     "name": "Swahili (macrolanguage)"
@@ -474,7 +474,7 @@
     "name": "Tajik"
   },
   "th": {
-    "name": "Thai"
+    "name": "ŧaigiella"
   },
   "ti": {
     "name": "Tigrinya"
@@ -483,7 +483,7 @@
     "name": "Turkmen"
   },
   "tl": {
-    "name": "Tagalog"
+    "name": "filippiinnagiella"
   },
   "tn": {
     "name": "Tswana"
@@ -492,7 +492,7 @@
     "name": "Tonga (Tonga Islands)"
   },
   "tr": {
-    "name": "Turkish"
+    "name": "durkagiella"
   },
   "ts": {
     "name": "Tsonga"
@@ -504,16 +504,16 @@
     "name": "Twi"
   },
   "ty": {
-    "name": "Tahitian"
+    "name": "tahitigiella"
   },
   "ug": {
     "name": "Uighur"
   },
   "uk": {
-    "name": "Ukrainian"
+    "name": "ukrainagiella"
   },
   "ur": {
-    "name": "Urdu"
+    "name": "urdugiella"
   },
   "uz": {
     "name": "Uzbek"
@@ -522,13 +522,13 @@
     "name": "Venda"
   },
   "vi": {
-    "name": "Vietnamese"
+    "name": "vietnamgiella"
   },
   "vo": {
     "name": "Volapük"
   },
   "wa": {
-    "name": "Walloon"
+    "name": "vallonagiella"
   },
   "wo": {
     "name": "Wolof"
@@ -546,13 +546,13 @@
     "name": "Zhuang"
   },
   "zh": {
-    "name": "Chinese"
+    "name": "kiinnágiella"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "álki kiinágiella"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "árbevirolaš kiinnágiella"
   },
   "zu": {
     "name": "Zulu"

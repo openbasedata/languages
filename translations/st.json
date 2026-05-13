@@ -87,7 +87,7 @@
     "name": "Chuvash"
   },
   "cy": {
-    "name": "Welsh"
+    "name": "Sewelsh"
   },
   "da": {
     "name": "Danish"
@@ -108,7 +108,7 @@
     "name": "Modern Greek (1453-)"
   },
   "en": {
-    "name": "English"
+    "name": "Senyesemane"
   },
   "eo": {
     "name": "Esperanto"
@@ -453,7 +453,7 @@
     "name": "Swati"
   },
   "st": {
-    "name": "Southern Sotho"
+    "name": "Sesotho"
   },
   "su": {
     "name": "Sundanese"
@@ -549,10 +549,10 @@
     "name": "Chinese"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "Chinese (Simplified)"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "Chinese (Traditional)"
   },
   "zu": {
     "name": "Zulu"

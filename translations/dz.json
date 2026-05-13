@@ -1,30 +1,30 @@
 {
   "aa": {
-    "name": "Afar"
+    "name": "ཨ་ཕར་ཁ"
   },
   "ab": {
-    "name": "Abkhazian"
+    "name": "ཨཱབ་ཁ་ཟི་ཡ་ཁ"
   },
   "ae": {
     "name": "Avestan"
   },
   "af": {
-    "name": "Afrikaans"
+    "name": "ཨཕ་རི་ཀཱནས་ཁ"
   },
   "ak": {
     "name": "Akan"
   },
   "am": {
-    "name": "Amharic"
+    "name": "ཨམ་ཧ་རིཀ་ཁ"
   },
   "an": {
     "name": "Aragonese"
   },
   "ar": {
-    "name": "Arabic"
+    "name": "ཨེ་ར་བིཀ་ཁ"
   },
   "as": {
-    "name": "Assamese"
+    "name": "ཨ་ས་མིས་ཁ"
   },
   "av": {
     "name": "Avaric"
@@ -33,16 +33,16 @@
     "name": "Aymara"
   },
   "az": {
-    "name": "Azerbaijani"
+    "name": "ཨ་ཛར་བྷའི་ཇཱན་ཁ"
   },
   "ba": {
     "name": "Bashkir"
   },
   "be": {
-    "name": "Belarusian"
+    "name": "བེལ་ཨ་རུས་ཁ"
   },
   "bg": {
-    "name": "Bulgarian"
+    "name": "བཱལ་གེ་རི་ཡཱན་ཁ"
   },
   "bi": {
     "name": "Bislama"
@@ -51,19 +51,19 @@
     "name": "Bambara"
   },
   "bn": {
-    "name": "Bengali"
+    "name": "བངྒ་ལ་ཁ"
   },
   "bo": {
-    "name": "Tibetan"
+    "name": "བོད་ཁ"
   },
   "br": {
     "name": "Breton"
   },
   "bs": {
-    "name": "Bosnian"
+    "name": "བྷོས་ནི་ཡཱན་ཁ"
   },
   "ca": {
-    "name": "Catalan"
+    "name": "ཀེ་ཊ་ལཱན་ཁ"
   },
   "ce": {
     "name": "Chechen"
@@ -78,7 +78,7 @@
     "name": "Cree"
   },
   "cs": {
-    "name": "Czech"
+    "name": "ཅེཀ་ཁ"
   },
   "cu": {
     "name": "Church Slavic"
@@ -87,103 +87,103 @@
     "name": "Chuvash"
   },
   "cy": {
-    "name": "Welsh"
+    "name": "ཝེལཤ་ཁ"
   },
   "da": {
-    "name": "Danish"
+    "name": "ཌེ་ནིཤ་ཁ"
   },
   "de": {
-    "name": "German"
+    "name": "ཇཱར་མཱན་ཁ"
   },
   "dv": {
-    "name": "Divehi"
+    "name": "དི་བེ་ཧི་ཁ"
   },
   "dz": {
-    "name": "Dzongkha"
+    "name": "རྫོང་ཁ"
   },
   "ee": {
     "name": "Ewe"
   },
   "el": {
-    "name": "Modern Greek (1453-)"
+    "name": "གྲིཀ་ཁ"
   },
   "en": {
-    "name": "English"
+    "name": "ཨིང་ལིཤ་ཁ"
   },
   "eo": {
-    "name": "Esperanto"
+    "name": "ཨེས་པ་རཱན་ཏོ་ཁ"
   },
   "es": {
-    "name": "Spanish"
+    "name": "ཨིས་པེ་ནིཤ་ཁ"
   },
   "et": {
-    "name": "Estonian"
+    "name": "ཨེས་ཊོ་ནི་ཡཱན་ཁ"
   },
   "eu": {
-    "name": "Basque"
+    "name": "བཱསཀ་ཁ"
   },
   "fa": {
-    "name": "Persian"
+    "name": "པར་ཤི་ཡཱན་ཁ"
   },
   "ff": {
     "name": "Fulah"
   },
   "fi": {
-    "name": "Finnish"
+    "name": "ཕི་ནིཤ་ཁ"
   },
   "fj": {
-    "name": "Fijian"
+    "name": "ཕི་ཇི་ཡཱན་ཁ"
   },
   "fo": {
-    "name": "Faroese"
+    "name": "ཕཱ་རོ་ཨིས་ཁ"
   },
   "fr": {
-    "name": "French"
+    "name": "ཕྲནཅ་ཁ"
   },
   "fy": {
-    "name": "Western Frisian"
+    "name": "ནུབ་ཕྼི་སི་ཡན་ཁ"
   },
   "ga": {
-    "name": "Irish"
+    "name": "ཨཱའི་རིཤ་ཁ"
   },
   "gd": {
     "name": "Scottish Gaelic"
   },
   "gl": {
-    "name": "Galician"
+    "name": "གལ་ཨིས་ཨི་ཡན་ཁ"
   },
   "gn": {
-    "name": "Guarani"
+    "name": "གུ་ཝ་ར་ནི་ཁ"
   },
   "gu": {
-    "name": "Gujarati"
+    "name": "གུ་ཇ་ར་ཏི་ཁ"
   },
   "gv": {
     "name": "Manx"
   },
   "ha": {
-    "name": "Hausa"
+    "name": "ཧཝ་ས་ཁ"
   },
   "he": {
-    "name": "Hebrew"
+    "name": "ཧེ་བྲུ་ཁ"
   },
   "hi": {
-    "name": "Hindi"
+    "name": "ཧིན་དི་ཁ"
   },
   "ho": {
     "name": "Hiri Motu"
   },
   "hr": {
-    "name": "Croatian"
+    "name": "ཀྲོ་ཨེ་ཤི་ཡཱན་ཁ"
   },
   "ht": {
-    "name": "Haitian"
+    "name": "ཧེ་ཏི་ཡཱན་ཁ"
   },
   "hu": {
-    "name": "Hungarian"
+    "name": "ཧཱང་གྷ་རི་ཡཱན་ཁ"
   },
   "hy": {
-    "name": "Armenian"
+    "name": "ཨར་མི་ནི་ཡཱན་ཁ"
   },
   "hz": {
     "name": "Herero"
@@ -192,13 +192,13 @@
     "name": "Interlingua (International Auxiliary Language Association)"
   },
   "id": {
-    "name": "Indonesian"
+    "name": "ཨིན་ཌོ་ནེ་ཤི་ཡཱན་ཁ"
   },
   "ie": {
     "name": "Interlingue"
   },
   "ig": {
-    "name": "Igbo"
+    "name": "ཨིག་བོ་ཁ"
   },
   "ii": {
     "name": "Sichuan Yi"
@@ -210,22 +210,22 @@
     "name": "Ido"
   },
   "is": {
-    "name": "Icelandic"
+    "name": "ཨ་ཡིས་ལེན་ཌིཀ་ཁ"
   },
   "it": {
-    "name": "Italian"
+    "name": "ཨི་ཊ་ལི་ཡཱན་ཁ"
   },
   "iu": {
     "name": "Inuktitut"
   },
   "ja": {
-    "name": "Japanese"
+    "name": "ཇཱ་པཱ་ནིས་ཁ"
   },
   "jv": {
-    "name": "Javanese"
+    "name": "ཇཱ་བ་ནིས་ཁ"
   },
   "ka": {
-    "name": "Georgian"
+    "name": "ཇཽ་ཇི་ཡཱན་ཁ"
   },
   "kg": {
     "name": "Kongo"
@@ -237,28 +237,28 @@
     "name": "Kuanyama"
   },
   "kk": {
-    "name": "Kazakh"
+    "name": "ཀ་ཛགས་ཁ"
   },
   "kl": {
     "name": "Kalaallisut"
   },
   "km": {
-    "name": "Khmer"
+    "name": "ཁེ་མེར་ཁ"
   },
   "kn": {
-    "name": "Kannada"
+    "name": "ཀ་ན་ཌ་ཁ"
   },
   "ko": {
-    "name": "Korean"
+    "name": "ཀོ་རི་ཡཱན་ཁ"
   },
   "kr": {
     "name": "Kanuri"
   },
   "ks": {
-    "name": "Kashmiri"
+    "name": "ཀཱཤ་མི་རི་ཁ"
   },
   "ku": {
-    "name": "Kurdish"
+    "name": "ཀར་ཌིཤ་ཁ"
   },
   "kv": {
     "name": "Komi"
@@ -267,13 +267,13 @@
     "name": "Cornish"
   },
   "ky": {
-    "name": "Kirghiz"
+    "name": "ཀིར་གིས་ཁ"
   },
   "la": {
-    "name": "Latin"
+    "name": "ལེ་ཊིན་ཁ"
   },
   "lb": {
-    "name": "Luxembourgish"
+    "name": "ལག་ཛམ་བོརྒ་ཁ"
   },
   "lg": {
     "name": "Ganda"
@@ -285,70 +285,70 @@
     "name": "Lingala"
   },
   "lo": {
-    "name": "Lao"
+    "name": "ལཱ་ཝོས་ཁ"
   },
   "lt": {
-    "name": "Lithuanian"
+    "name": "ལི་ཐུ་ཝེ་ནི་ཡཱན་ཁ"
   },
   "lu": {
     "name": "Luba-Katanga"
   },
   "lv": {
-    "name": "Latvian"
+    "name": "ལཊ་བི་ཡཱན་ཁ"
   },
   "mg": {
-    "name": "Malagasy"
+    "name": "མ་ལ་ག་སི་ཁ"
   },
   "mh": {
     "name": "Marshallese"
   },
   "mi": {
-    "name": "Maori"
+    "name": "མ་ཨོ་རི་ཁ"
   },
   "mk": {
-    "name": "Macedonian"
+    "name": "མ་སེ་ཌོ་ནི་ཡཱན་ཁ"
   },
   "ml": {
-    "name": "Malayalam"
+    "name": "མ་ལ་ཡ་ལམ་ཁ"
   },
   "mn": {
     "name": "Mongolian"
   },
   "mr": {
-    "name": "Marathi"
+    "name": "མ་ར་ཐི་ཁ"
   },
   "ms": {
-    "name": "Malay (macrolanguage)"
+    "name": "མ་ལེ་ཁ"
   },
   "mt": {
-    "name": "Maltese"
+    "name": "མཱལ་ཊ་ཁ"
   },
   "my": {
-    "name": "Burmese"
+    "name": "བར་མིས་ཁ"
   },
   "na": {
     "name": "Nauru"
   },
   "nb": {
-    "name": "Norwegian Bokmål"
+    "name": "ནོར་ཝེ་ཇི་ཡཱན་བོཀ་མཱལ་ཁ"
   },
   "nd": {
     "name": "North Ndebele"
   },
   "ne": {
-    "name": "Nepali (macrolanguage)"
+    "name": "ནེ་པཱལི་ཁ"
   },
   "ng": {
     "name": "Ndonga"
   },
   "nl": {
-    "name": "Dutch"
+    "name": "ཌཆ་ཁ"
   },
   "nn": {
-    "name": "Norwegian Nynorsk"
+    "name": "ནོར་ཝེ་ཇི་ཡཱན་ནོརསཀ་ཁ"
   },
   "no": {
-    "name": "Norwegian"
+    "name": "ནོར་ཝི་ཇི་ཡན་ཁ"
   },
   "nr": {
     "name": "South Ndebele"
@@ -369,52 +369,52 @@
     "name": "Oromo"
   },
   "or": {
-    "name": "Oriya (macrolanguage)"
+    "name": "ཨོ་རི་ཡ་ཁ"
   },
   "os": {
     "name": "Ossetian"
   },
   "pa": {
-    "name": "Panjabi"
+    "name": "པཱན་ཇ་བི་ཁ"
   },
   "pi": {
     "name": "Pali"
   },
   "pl": {
-    "name": "Polish"
+    "name": "པོ་ལིཤ་ཁ"
   },
   "ps": {
-    "name": "Pushto"
+    "name": "པཱཤ་ཏོ་ཁ"
   },
   "pt": {
-    "name": "Portuguese"
+    "name": "པོར་ཅུ་གིས་ཁ"
   },
   "qu": {
-    "name": "Quechua"
+    "name": "ཀྭེ་ཆུ་ཨ་ཁ"
   },
   "rm": {
-    "name": "Romansh"
+    "name": "རོ་མེ་ནིཤ་ཁ"
   },
   "rn": {
     "name": "Rundi"
   },
   "ro": {
-    "name": "Romanian"
+    "name": "རོ་མེ་ནི་ཡཱན་ཁ"
   },
   "ru": {
-    "name": "Russian"
+    "name": "ཨུ་རུ་སུའི་ཁ"
   },
   "rw": {
     "name": "Kinyarwanda"
   },
   "sa": {
-    "name": "Sanskrit"
+    "name": "སཾསྐྲྀཏ་ཁ"
   },
   "sc": {
     "name": "Sardinian"
   },
   "sd": {
-    "name": "Sindhi"
+    "name": "སིན་དཱི་ཁ"
   },
   "se": {
     "name": "Northern Sami"
@@ -423,16 +423,16 @@
     "name": "Sango"
   },
   "sh": {
-    "name": "Serbo-Croatian"
+    "name": "སཱར་བྷི་ཡཱན་ཁ། (ལེ་ཊིན་ཡིག་གུ།)"
   },
   "si": {
-    "name": "Sinhala"
+    "name": "སིང་ཧ་ལ་ཁ"
   },
   "sk": {
-    "name": "Slovak"
+    "name": "སུ་ལོ་བཱཀ་ཁ"
   },
   "sl": {
-    "name": "Slovenian"
+    "name": "སུ་ལོ་བི་ནི་ཡཱན་ཁ"
   },
   "sm": {
     "name": "Samoan"
@@ -441,13 +441,13 @@
     "name": "Shona"
   },
   "so": {
-    "name": "Somali"
+    "name": "སོ་མ་ལི་ཁ"
   },
   "sq": {
-    "name": "Albanian"
+    "name": "ཨཱལ་བེ་ནི་ཡཱན་ཁ"
   },
   "sr": {
-    "name": "Serbian"
+    "name": "སཱར་བྷི་ཡཱན་ཁ"
   },
   "ss": {
     "name": "Swati"
@@ -456,49 +456,49 @@
     "name": "Southern Sotho"
   },
   "su": {
-    "name": "Sundanese"
+    "name": "སཱུན་ད་ནིས་ཁ"
   },
   "sv": {
-    "name": "Swedish"
+    "name": "སུའི་ཌིཤ་ཁ"
   },
   "sw": {
-    "name": "Swahili (macrolanguage)"
+    "name": "སྭཱ་ཧི་ལི་ཁ"
   },
   "ta": {
-    "name": "Tamil"
+    "name": "ཏ་མིལ་ཁ"
   },
   "te": {
-    "name": "Telugu"
+    "name": "ཏེ་ལུ་གུ་ཁ"
   },
   "tg": {
-    "name": "Tajik"
+    "name": "ཏ་ཇིཀ་ཁ"
   },
   "th": {
-    "name": "Thai"
+    "name": "ཐཱའི་ཁ"
   },
   "ti": {
-    "name": "Tigrinya"
+    "name": "ཏིག་རི་ཉ་ཁ"
   },
   "tk": {
-    "name": "Turkmen"
+    "name": "ཊཱརཀ་མེན་ཁ"
   },
   "tl": {
-    "name": "Tagalog"
+    "name": "ཕི་ལི་པི་ནོ་ཁ"
   },
   "tn": {
     "name": "Tswana"
   },
   "to": {
-    "name": "Tonga (Tonga Islands)"
+    "name": "ཊོང་གྷན་ཁ"
   },
   "tr": {
-    "name": "Turkish"
+    "name": "ཊཱར་ཀིཤ་ཁ"
   },
   "ts": {
     "name": "Tsonga"
   },
   "tt": {
-    "name": "Tatar"
+    "name": "ཊ་ཊར་ཁ"
   },
   "tw": {
     "name": "Twi"
@@ -507,22 +507,22 @@
     "name": "Tahitian"
   },
   "ug": {
-    "name": "Uighur"
+    "name": "ཝི་གུར་ཁ"
   },
   "uk": {
-    "name": "Ukrainian"
+    "name": "ཡུ་ཀེ་རེ་ནི་ཡཱན་ཁ"
   },
   "ur": {
-    "name": "Urdu"
+    "name": "ཨུར་དུ་ཁ"
   },
   "uz": {
-    "name": "Uzbek"
+    "name": "ཨུས་བེཀ་ཁ"
   },
   "ve": {
     "name": "Venda"
   },
   "vi": {
-    "name": "Vietnamese"
+    "name": "བེཊ་ནཱ་མིས་ཁ"
   },
   "vo": {
     "name": "Volapük"
@@ -531,30 +531,30 @@
     "name": "Walloon"
   },
   "wo": {
-    "name": "Wolof"
+    "name": "ཝོ་ལོཕ་ཁ"
   },
   "xh": {
-    "name": "Xhosa"
+    "name": "ཞོ་ས་ཁ"
   },
   "yi": {
     "name": "Yiddish"
   },
   "yo": {
-    "name": "Yoruba"
+    "name": "ཡོ་རུ་བ་ཁ"
   },
   "za": {
     "name": "Zhuang"
   },
   "zh": {
-    "name": "Chinese"
+    "name": "རྒྱ་མི་ཁ"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "རྒྱ་མི་ཁ་འཇམ་སངམ"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "སྔ་དུས་ཀྱི་རྒྱ་མི་ཁ"
   },
   "zu": {
-    "name": "Zulu"
+    "name": "ཟུ་ལུ་ཁ"
   }
 }

@@ -108,7 +108,7 @@
     "name": "Modern Greek (1453-)"
   },
   "en": {
-    "name": "English"
+    "name": "anglés"
   },
   "eo": {
     "name": "Esperanto"
@@ -360,7 +360,7 @@
     "name": "Chichewa"
   },
   "oc": {
-    "name": "Occitan (post 1500)"
+    "name": "occitan"
   },
   "oj": {
     "name": "Ojibwa"
@@ -549,10 +549,10 @@
     "name": "Chinese"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "Chinese (Simplified)"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "Chinese (Traditional)"
   },
   "zu": {
     "name": "Zulu"

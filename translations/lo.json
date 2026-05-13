@@ -1,560 +1,560 @@
 {
   "aa": {
-    "name": "Afar"
+    "name": "ອະຟາ"
   },
   "ab": {
-    "name": "Abkhazian"
+    "name": "ແອບຄາຊຽນ"
   },
   "ae": {
-    "name": "Avestan"
+    "name": "ອາເວັສແຕນ"
   },
   "af": {
-    "name": "Afrikaans"
+    "name": "ອາຟຣິການ"
   },
   "ak": {
-    "name": "Akan"
+    "name": "ອາການ"
   },
   "am": {
-    "name": "Amharic"
+    "name": "ອຳຮາຣິກ"
   },
   "an": {
-    "name": "Aragonese"
+    "name": "ອາຣາໂກເນັດ"
   },
   "ar": {
-    "name": "Arabic"
+    "name": "ອາຣັບ"
   },
   "as": {
-    "name": "Assamese"
+    "name": "ອັສຊາມີສ"
   },
   "av": {
-    "name": "Avaric"
+    "name": "ອາວາຣິກ"
   },
   "ay": {
-    "name": "Aymara"
+    "name": "ອາຍມາລາ"
   },
   "az": {
-    "name": "Azerbaijani"
+    "name": "ອາເຊີໄບຈານິ"
   },
   "ba": {
-    "name": "Bashkir"
+    "name": "ບາຣກີ"
   },
   "be": {
-    "name": "Belarusian"
+    "name": "ເບລາຣັສຊຽນ"
   },
   "bg": {
-    "name": "Bulgarian"
+    "name": "ບັງກາຣຽນ"
   },
   "bi": {
-    "name": "Bislama"
+    "name": "ບິສລະມາ"
   },
   "bm": {
-    "name": "Bambara"
+    "name": "ບາມບາຣາ"
   },
   "bn": {
-    "name": "Bengali"
+    "name": "ເບັງກາລີ"
   },
   "bo": {
-    "name": "Tibetan"
+    "name": "ທິເບທັນ"
   },
   "br": {
-    "name": "Breton"
+    "name": "ເບຣຕັນ"
   },
   "bs": {
-    "name": "Bosnian"
+    "name": "ບອສນຽນ"
   },
   "ca": {
-    "name": "Catalan"
+    "name": "ຄາຕາລານ"
   },
   "ce": {
-    "name": "Chechen"
+    "name": "ຊີເຄນ"
   },
   "ch": {
-    "name": "Chamorro"
+    "name": "ຊາມໍໂຣ"
   },
   "co": {
-    "name": "Corsican"
+    "name": "ຄໍຊິກາ"
   },
   "cr": {
-    "name": "Cree"
+    "name": "ຄີ"
   },
   "cs": {
-    "name": "Czech"
+    "name": "ເຊກ"
   },
   "cu": {
-    "name": "Church Slavic"
+    "name": "ໂບດສລາວິກ"
   },
   "cv": {
-    "name": "Chuvash"
+    "name": "ຊູວາຊ"
   },
   "cy": {
-    "name": "Welsh"
+    "name": "ເວວ"
   },
   "da": {
-    "name": "Danish"
+    "name": "ແດນິຊ"
   },
   "de": {
-    "name": "German"
+    "name": "ເຢຍລະມັນ"
   },
   "dv": {
-    "name": "Divehi"
+    "name": "ດີວີຮີ"
   },
   "dz": {
-    "name": "Dzongkha"
+    "name": "ດີຊອງຄາ"
   },
   "ee": {
-    "name": "Ewe"
+    "name": "ອິວາ"
   },
   "el": {
-    "name": "Modern Greek (1453-)"
+    "name": "ກຣີກ"
   },
   "en": {
-    "name": "English"
+    "name": "ອັງກິດ"
   },
   "eo": {
-    "name": "Esperanto"
+    "name": "ເອສປາຍ"
   },
   "es": {
-    "name": "Spanish"
+    "name": "ສະແປນນິຊ"
   },
   "et": {
-    "name": "Estonian"
+    "name": "ເອສໂຕນຽນ"
   },
   "eu": {
-    "name": "Basque"
+    "name": "ບັສກີ"
   },
   "fa": {
-    "name": "Persian"
+    "name": "ເປີຊຽນ"
   },
   "ff": {
-    "name": "Fulah"
+    "name": "ຟູລາ"
   },
   "fi": {
-    "name": "Finnish"
+    "name": "ຟິນນິຊ"
   },
   "fj": {
-    "name": "Fijian"
+    "name": "ຟິຈຽນ"
   },
   "fo": {
-    "name": "Faroese"
+    "name": "ຟາໂຣສ"
   },
   "fr": {
-    "name": "French"
+    "name": "ຝຣັ່ງ"
   },
   "fy": {
-    "name": "Western Frisian"
+    "name": "ຟຣິຊຽນ ຕາເວັນຕົກ"
   },
   "ga": {
-    "name": "Irish"
+    "name": "ໄອຣິສ"
   },
   "gd": {
-    "name": "Scottish Gaelic"
+    "name": "ສະກັອດເກລິກ"
   },
   "gl": {
-    "name": "Galician"
+    "name": "ກາລິຊຽນ"
   },
   "gn": {
-    "name": "Guarani"
+    "name": "ກົວຣານີ"
   },
   "gu": {
-    "name": "Gujarati"
+    "name": "ກູຈາຣາຕິ"
   },
   "gv": {
-    "name": "Manx"
+    "name": "ແມງຊ໌"
   },
   "ha": {
-    "name": "Hausa"
+    "name": "ເຮົາຊາ"
   },
   "he": {
-    "name": "Hebrew"
+    "name": "ຮີບຣິວ"
   },
   "hi": {
-    "name": "Hindi"
+    "name": "ຮິນດິ"
   },
   "ho": {
-    "name": "Hiri Motu"
+    "name": "ຮິຣິໂມຕູ"
   },
   "hr": {
-    "name": "Croatian"
+    "name": "ໂຄຣເອທຽນ"
   },
   "ht": {
-    "name": "Haitian"
+    "name": "ໄຮຕຽນ"
   },
   "hu": {
-    "name": "Hungarian"
+    "name": "ຮັງກາຣຽນ"
   },
   "hy": {
-    "name": "Armenian"
+    "name": "ອາເມນຽນ"
   },
   "hz": {
-    "name": "Herero"
+    "name": "ເຮິຮິໂຣ"
   },
   "ia": {
-    "name": "Interlingua (International Auxiliary Language Association)"
+    "name": "ອິນເຕີລິງລົວ"
   },
   "id": {
-    "name": "Indonesian"
+    "name": "ອິນໂດເນຊຽນ"
   },
   "ie": {
-    "name": "Interlingue"
+    "name": "ອິນເຕີລິງກຣີ"
   },
   "ig": {
-    "name": "Igbo"
+    "name": "ອິກໂບ"
   },
   "ii": {
-    "name": "Sichuan Yi"
+    "name": "ເສສວນ ອີ"
   },
   "ik": {
-    "name": "Inupiaq"
+    "name": "ອິນນູປຽກ"
   },
   "io": {
-    "name": "Ido"
+    "name": "ອີໂດ"
   },
   "is": {
-    "name": "Icelandic"
+    "name": "ໄອສແລນດິກ"
   },
   "it": {
-    "name": "Italian"
+    "name": "ອິຕາລຽນ"
   },
   "iu": {
-    "name": "Inuktitut"
+    "name": "ອິນນຸກຕິຕັດ"
   },
   "ja": {
-    "name": "Japanese"
+    "name": "ຍີ່ປຸ່ນ"
   },
   "jv": {
-    "name": "Javanese"
+    "name": "ຈາແວນີສ"
   },
   "ka": {
-    "name": "Georgian"
+    "name": "ຈໍຈຽນ"
   },
   "kg": {
-    "name": "Kongo"
+    "name": "ຄອງໂກ"
   },
   "ki": {
-    "name": "Kikuyu"
+    "name": "ຄິຄູຢຸ"
   },
   "kj": {
-    "name": "Kuanyama"
+    "name": "ກວນຍາມາ"
   },
   "kk": {
-    "name": "Kazakh"
+    "name": "ຄາຊັກ"
   },
   "kl": {
-    "name": "Kalaallisut"
+    "name": "ກຣີນແລນລິດ"
   },
   "km": {
-    "name": "Khmer"
+    "name": "ຂະເໝນ"
   },
   "kn": {
-    "name": "Kannada"
+    "name": "ຄັນນາດາ"
   },
   "ko": {
-    "name": "Korean"
+    "name": "ເກົາຫລີ"
   },
   "kr": {
-    "name": "Kanuri"
+    "name": "ຄານຸລິ"
   },
   "ks": {
-    "name": "Kashmiri"
+    "name": "ຄາສເມຍຣິ"
   },
   "ku": {
-    "name": "Kurdish"
+    "name": "ເຄີດິສ"
   },
   "kv": {
-    "name": "Komi"
+    "name": "ໂຄມິ"
   },
   "kw": {
-    "name": "Cornish"
+    "name": "ຄໍນິຊ"
   },
   "ky": {
-    "name": "Kirghiz"
+    "name": "ເກຍກີສ"
   },
   "la": {
-    "name": "Latin"
+    "name": "ລາຕິນ"
   },
   "lb": {
-    "name": "Luxembourgish"
+    "name": "ລັກເຊມບວກກິຊ"
   },
   "lg": {
-    "name": "Ganda"
+    "name": "ແກນດາ"
   },
   "li": {
-    "name": "Limburgan"
+    "name": "ລິມເບີກີຊ"
   },
   "ln": {
-    "name": "Lingala"
+    "name": "ລິງກາລາ"
   },
   "lo": {
-    "name": "Lao"
+    "name": "ລາວ"
   },
   "lt": {
-    "name": "Lithuanian"
+    "name": "ລິທົວນຽນ"
   },
   "lu": {
-    "name": "Luba-Katanga"
+    "name": "ລູບາ-ຄາຕັງກາ"
   },
   "lv": {
-    "name": "Latvian"
+    "name": "ລັດວຽນ"
   },
   "mg": {
-    "name": "Malagasy"
+    "name": "ມາລາກາສຊີ"
   },
   "mh": {
-    "name": "Marshallese"
+    "name": "ມາຊານເລັດ"
   },
   "mi": {
-    "name": "Maori"
+    "name": "ມາວຣິ"
   },
   "mk": {
-    "name": "Macedonian"
+    "name": "ແມຊິໂດນຽນ"
   },
   "ml": {
-    "name": "Malayalam"
+    "name": "ມາເລອາລຳ"
   },
   "mn": {
-    "name": "Mongolian"
+    "name": "ມອງໂກເລຍ"
   },
   "mr": {
-    "name": "Marathi"
+    "name": "ມາຣາທີ"
   },
   "ms": {
-    "name": "Malay (macrolanguage)"
+    "name": "ມາເລ"
   },
   "mt": {
-    "name": "Maltese"
+    "name": "ມອລທີສ"
   },
   "my": {
-    "name": "Burmese"
+    "name": "ມຽນມາ"
   },
   "na": {
-    "name": "Nauru"
+    "name": "ນາຢູລູ"
   },
   "nb": {
-    "name": "Norwegian Bokmål"
+    "name": "ນໍເວຈຽນ ບັອກມອລ"
   },
   "nd": {
-    "name": "North Ndebele"
+    "name": "ເອັນເດເບເລເໜືອ"
   },
   "ne": {
-    "name": "Nepali (macrolanguage)"
+    "name": "ເນປາລີ"
   },
   "ng": {
-    "name": "Ndonga"
+    "name": "ເອັນດອງກາ"
   },
   "nl": {
-    "name": "Dutch"
+    "name": "ດັຊ"
   },
   "nn": {
-    "name": "Norwegian Nynorsk"
+    "name": "ນໍເວຈຽນ ນີນອກ"
   },
   "no": {
-    "name": "Norwegian"
+    "name": "ນໍເວຈຽນ"
   },
   "nr": {
-    "name": "South Ndebele"
+    "name": "ນີບີລີໃຕ້"
   },
   "nv": {
-    "name": "Navajo"
+    "name": "ນາວາໂຈ"
   },
   "ny": {
-    "name": "Chichewa"
+    "name": "ນານຈາ"
   },
   "oc": {
-    "name": "Occitan (post 1500)"
+    "name": "ອັອກຊີຕານ"
   },
   "oj": {
-    "name": "Ojibwa"
+    "name": "ໂອຈິບວາ"
   },
   "om": {
-    "name": "Oromo"
+    "name": "ໂອໂຣໂມ"
   },
   "or": {
-    "name": "Oriya (macrolanguage)"
+    "name": "ໂອເດຍ"
   },
   "os": {
-    "name": "Ossetian"
+    "name": "ອອດເຊຕິກ"
   },
   "pa": {
-    "name": "Panjabi"
+    "name": "ປັນຈາບີ"
   },
   "pi": {
-    "name": "Pali"
+    "name": "ປາລີ"
   },
   "pl": {
-    "name": "Polish"
+    "name": "ໂປລິຊ"
   },
   "ps": {
-    "name": "Pushto"
+    "name": "ປາສໂຕ"
   },
   "pt": {
-    "name": "Portuguese"
+    "name": "ປອກຕຸຍກິສ"
   },
   "qu": {
-    "name": "Quechua"
+    "name": "ຄີຊົວ"
   },
   "rm": {
-    "name": "Romansh"
+    "name": "ໂຣແມນຊ໌"
   },
   "rn": {
-    "name": "Rundi"
+    "name": "ຣຸນດິ"
   },
   "ro": {
-    "name": "Romanian"
+    "name": "ໂຣແມນຽນ"
   },
   "ru": {
-    "name": "Russian"
+    "name": "ລັດເຊຍ"
   },
   "rw": {
-    "name": "Kinyarwanda"
+    "name": "ຄິນຢາວານດາ"
   },
   "sa": {
-    "name": "Sanskrit"
+    "name": "ສັນສະກຣິດ"
   },
   "sc": {
-    "name": "Sardinian"
+    "name": "ສາດີນຽນ"
   },
   "sd": {
-    "name": "Sindhi"
+    "name": "ສິນທິ"
   },
   "se": {
-    "name": "Northern Sami"
+    "name": "ຊາມິເໜືອ"
   },
   "sg": {
-    "name": "Sango"
+    "name": "ແຊງໂກ"
   },
   "sh": {
-    "name": "Serbo-Croatian"
+    "name": "ເຊີບຽນ (ລາຕິນ)"
   },
   "si": {
-    "name": "Sinhala"
+    "name": "ສິນຫາລາ"
   },
   "sk": {
-    "name": "Slovak"
+    "name": "ສະໂລແວັກ"
   },
   "sl": {
-    "name": "Slovenian"
+    "name": "ສະໂລເວນຽນ"
   },
   "sm": {
-    "name": "Samoan"
+    "name": "ຊາມົວ"
   },
   "sn": {
-    "name": "Shona"
+    "name": "ໂຊນາ"
   },
   "so": {
-    "name": "Somali"
+    "name": "ໂຊມາລີ"
   },
   "sq": {
-    "name": "Albanian"
+    "name": "ອານບານຽນ"
   },
   "sr": {
-    "name": "Serbian"
+    "name": "ເຊີບຽນ"
   },
   "ss": {
-    "name": "Swati"
+    "name": "ສະວາຕິ"
   },
   "st": {
-    "name": "Southern Sotho"
+    "name": "ໂຊໂທໃຕ້"
   },
   "su": {
-    "name": "Sundanese"
+    "name": "ຊຸນແດນນີສ"
   },
   "sv": {
-    "name": "Swedish"
+    "name": "ສະວີດິຊ"
   },
   "sw": {
-    "name": "Swahili (macrolanguage)"
+    "name": "ຊວາຮີລິ"
   },
   "ta": {
-    "name": "Tamil"
+    "name": "ທາມິລ"
   },
   "te": {
-    "name": "Telugu"
+    "name": "ເຕລູກູ"
   },
   "tg": {
-    "name": "Tajik"
+    "name": "ທາຈິກ"
   },
   "th": {
-    "name": "Thai"
+    "name": "ໄທ"
   },
   "ti": {
-    "name": "Tigrinya"
+    "name": "ຕິກຣິນຢາ"
   },
   "tk": {
-    "name": "Turkmen"
+    "name": "ເທີກເມັນ"
   },
   "tl": {
-    "name": "Tagalog"
+    "name": "ຟີລິປີໂນ"
   },
   "tn": {
-    "name": "Tswana"
+    "name": "ເຕສະວານາ"
   },
   "to": {
-    "name": "Tonga (Tonga Islands)"
+    "name": "ທອງການ"
   },
   "tr": {
-    "name": "Turkish"
+    "name": "ເທີຄິຊ"
   },
   "ts": {
-    "name": "Tsonga"
+    "name": "ເຕຊອງກາ"
   },
   "tt": {
-    "name": "Tatar"
+    "name": "ທາທາ"
   },
   "tw": {
-    "name": "Twi"
+    "name": "ອາການ"
   },
   "ty": {
-    "name": "Tahitian"
+    "name": "ຕາຮີຕຽນ"
   },
   "ug": {
-    "name": "Uighur"
+    "name": "ອຸຍເຄີ"
   },
   "uk": {
-    "name": "Ukrainian"
+    "name": "ຢູເຄຣນຽນ"
   },
   "ur": {
-    "name": "Urdu"
+    "name": "ອູຣດູ"
   },
   "uz": {
-    "name": "Uzbek"
+    "name": "ອຸສເບກ"
   },
   "ve": {
-    "name": "Venda"
+    "name": "ເວນດາ"
   },
   "vi": {
-    "name": "Vietnamese"
+    "name": "ຫວຽດນາມ"
   },
   "vo": {
-    "name": "Volapük"
+    "name": "ໂວລາພັກ"
   },
   "wa": {
-    "name": "Walloon"
+    "name": "ວໍລູມ"
   },
   "wo": {
-    "name": "Wolof"
+    "name": "ວໍລອບ"
   },
   "xh": {
-    "name": "Xhosa"
+    "name": "ໂຮຊາ"
   },
   "yi": {
-    "name": "Yiddish"
+    "name": "ຢິວ"
   },
   "yo": {
-    "name": "Yoruba"
+    "name": "ໂຢຣູບາ"
   },
   "za": {
-    "name": "Zhuang"
+    "name": "ຊວາງ"
   },
   "zh": {
-    "name": "Chinese"
+    "name": "ຈີນ"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "ຈີນແບບຮຽບງ່າຍ"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "ຈີນແບບດັ້ງເດີມ"
   },
   "zu": {
-    "name": "Zulu"
+    "name": "ຊູລູ"
   }
 }

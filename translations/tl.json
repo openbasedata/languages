@@ -51,7 +51,7 @@
     "name": "Bambara"
   },
   "bn": {
-    "name": "Bengali"
+    "name": "Bangla"
   },
   "bo": {
     "name": "Tibetan"
@@ -105,10 +105,10 @@
     "name": "Ewe"
   },
   "el": {
-    "name": "Modern Greek (1453-)"
+    "name": "Greek"
   },
   "en": {
-    "name": "English"
+    "name": "Ingles"
   },
   "eo": {
     "name": "Esperanto"
@@ -189,7 +189,7 @@
     "name": "Herero"
   },
   "ia": {
-    "name": "Interlingua (International Auxiliary Language Association)"
+    "name": "Interlingua"
   },
   "id": {
     "name": "Indonesian"
@@ -267,7 +267,7 @@
     "name": "Cornish"
   },
   "ky": {
-    "name": "Kirghiz"
+    "name": "Kyrgyz"
   },
   "la": {
     "name": "Latin"
@@ -279,7 +279,7 @@
     "name": "Ganda"
   },
   "li": {
-    "name": "Limburgan"
+    "name": "Limburgish"
   },
   "ln": {
     "name": "Lingala"
@@ -303,7 +303,7 @@
     "name": "Marshallese"
   },
   "mi": {
-    "name": "Maori"
+    "name": "Māori"
   },
   "mk": {
     "name": "Macedonian"
@@ -318,7 +318,7 @@
     "name": "Marathi"
   },
   "ms": {
-    "name": "Malay (macrolanguage)"
+    "name": "Malay"
   },
   "mt": {
     "name": "Maltese"
@@ -333,10 +333,10 @@
     "name": "Norwegian Bokmål"
   },
   "nd": {
-    "name": "North Ndebele"
+    "name": "Hilagang Ndebele"
   },
   "ne": {
-    "name": "Nepali (macrolanguage)"
+    "name": "Nepali"
   },
   "ng": {
     "name": "Ndonga"
@@ -357,10 +357,10 @@
     "name": "Navajo"
   },
   "ny": {
-    "name": "Chichewa"
+    "name": "Nyanja"
   },
   "oc": {
-    "name": "Occitan (post 1500)"
+    "name": "Occitan"
   },
   "oj": {
     "name": "Ojibwa"
@@ -369,13 +369,13 @@
     "name": "Oromo"
   },
   "or": {
-    "name": "Oriya (macrolanguage)"
+    "name": "Odia"
   },
   "os": {
-    "name": "Ossetian"
+    "name": "Ossetic"
   },
   "pa": {
-    "name": "Panjabi"
+    "name": "Punjabi"
   },
   "pi": {
     "name": "Pali"
@@ -384,7 +384,7 @@
     "name": "Polish"
   },
   "ps": {
-    "name": "Pushto"
+    "name": "Pashto"
   },
   "pt": {
     "name": "Portuguese"
@@ -417,13 +417,13 @@
     "name": "Sindhi"
   },
   "se": {
-    "name": "Northern Sami"
+    "name": "Hilagang Sami"
   },
   "sg": {
     "name": "Sango"
   },
   "sh": {
-    "name": "Serbo-Croatian"
+    "name": "Serbian (Latin)"
   },
   "si": {
     "name": "Sinhala"
@@ -453,7 +453,7 @@
     "name": "Swati"
   },
   "st": {
-    "name": "Southern Sotho"
+    "name": "Katimugang Sotho"
   },
   "su": {
     "name": "Sundanese"
@@ -462,7 +462,7 @@
     "name": "Swedish"
   },
   "sw": {
-    "name": "Swahili (macrolanguage)"
+    "name": "Swahili"
   },
   "ta": {
     "name": "Tamil"
@@ -483,13 +483,13 @@
     "name": "Turkmen"
   },
   "tl": {
-    "name": "Tagalog"
+    "name": "Filipino"
   },
   "tn": {
     "name": "Tswana"
   },
   "to": {
-    "name": "Tonga (Tonga Islands)"
+    "name": "Tongan"
   },
   "tr": {
     "name": "Turkish"
@@ -501,13 +501,13 @@
     "name": "Tatar"
   },
   "tw": {
-    "name": "Twi"
+    "name": "Akan"
   },
   "ty": {
     "name": "Tahitian"
   },
   "ug": {
-    "name": "Uighur"
+    "name": "Uyghur"
   },
   "uk": {
     "name": "Ukrainian"
@@ -549,10 +549,10 @@
     "name": "Chinese"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "Pinasimpleng Chinese"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "Tradisyonal na Chinese"
   },
   "zu": {
     "name": "Zulu"

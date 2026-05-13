@@ -1,560 +1,560 @@
 {
   "aa": {
-    "name": "Afar"
+    "name": "афарийн"
   },
   "ab": {
-    "name": "Abkhazian"
+    "name": "абхазхойн"
   },
   "ae": {
     "name": "Avestan"
   },
   "af": {
-    "name": "Afrikaans"
+    "name": "африкаанс"
   },
   "ak": {
-    "name": "Akan"
+    "name": "акан"
   },
   "am": {
-    "name": "Amharic"
+    "name": "амхаройн"
   },
   "an": {
-    "name": "Aragonese"
+    "name": "арагонойн"
   },
   "ar": {
-    "name": "Arabic"
+    "name": "Ӏаьрбийн"
   },
   "as": {
-    "name": "Assamese"
+    "name": "ассамийн"
   },
   "av": {
-    "name": "Avaric"
+    "name": "суьйлийн"
   },
   "ay": {
-    "name": "Aymara"
+    "name": "аймара"
   },
   "az": {
-    "name": "Azerbaijani"
+    "name": "азербайджанийн"
   },
   "ba": {
-    "name": "Bashkir"
+    "name": "башкирийн"
   },
   "be": {
-    "name": "Belarusian"
+    "name": "белорусийн"
   },
   "bg": {
-    "name": "Bulgarian"
+    "name": "болгарийн"
   },
   "bi": {
-    "name": "Bislama"
+    "name": "бислама"
   },
   "bm": {
-    "name": "Bambara"
+    "name": "бамбара"
   },
   "bn": {
-    "name": "Bengali"
+    "name": "бенгалийн"
   },
   "bo": {
-    "name": "Tibetan"
+    "name": "тибетхойн"
   },
   "br": {
-    "name": "Breton"
+    "name": "бретонийн"
   },
   "bs": {
-    "name": "Bosnian"
+    "name": "боснийн"
   },
   "ca": {
-    "name": "Catalan"
+    "name": "каталонийн"
   },
   "ce": {
-    "name": "Chechen"
+    "name": "нохчийн"
   },
   "ch": {
-    "name": "Chamorro"
+    "name": "чаморро"
   },
   "co": {
-    "name": "Corsican"
+    "name": "корсиканийн"
   },
   "cr": {
     "name": "Cree"
   },
   "cs": {
-    "name": "Czech"
+    "name": "чехийн"
   },
   "cu": {
-    "name": "Church Slavic"
+    "name": "килсславянийн"
   },
   "cv": {
-    "name": "Chuvash"
+    "name": "чувашийн"
   },
   "cy": {
-    "name": "Welsh"
+    "name": "валлийн"
   },
   "da": {
-    "name": "Danish"
+    "name": "датхойн"
   },
   "de": {
-    "name": "German"
+    "name": "немцойн"
   },
   "dv": {
-    "name": "Divehi"
+    "name": "мальдивийн"
   },
   "dz": {
-    "name": "Dzongkha"
+    "name": "дзонг-кэ"
   },
   "ee": {
-    "name": "Ewe"
+    "name": "эве"
   },
   "el": {
-    "name": "Modern Greek (1453-)"
+    "name": "грекийн"
   },
   "en": {
-    "name": "English"
+    "name": "ингалсан"
   },
   "eo": {
-    "name": "Esperanto"
+    "name": "эсперанто"
   },
   "es": {
-    "name": "Spanish"
+    "name": "испанхойн"
   },
   "et": {
-    "name": "Estonian"
+    "name": "эстонийн"
   },
   "eu": {
-    "name": "Basque"
+    "name": "баскийн"
   },
   "fa": {
-    "name": "Persian"
+    "name": "гӀажарийн"
   },
   "ff": {
-    "name": "Fulah"
+    "name": "фулах"
   },
   "fi": {
-    "name": "Finnish"
+    "name": "финнийн"
   },
   "fj": {
-    "name": "Fijian"
+    "name": "фиджи"
   },
   "fo": {
-    "name": "Faroese"
+    "name": "фарерийн"
   },
   "fr": {
-    "name": "French"
+    "name": "французийн"
   },
   "fy": {
-    "name": "Western Frisian"
+    "name": "малхбузен-фризийн"
   },
   "ga": {
-    "name": "Irish"
+    "name": "ирландхойн"
   },
   "gd": {
-    "name": "Scottish Gaelic"
+    "name": "гэлийн"
   },
   "gl": {
-    "name": "Galician"
+    "name": "галисийн"
   },
   "gn": {
-    "name": "Guarani"
+    "name": "гуарани"
   },
   "gu": {
-    "name": "Gujarati"
+    "name": "гуджарати"
   },
   "gv": {
-    "name": "Manx"
+    "name": "мэнийн"
   },
   "ha": {
-    "name": "Hausa"
+    "name": "хауса"
   },
   "he": {
-    "name": "Hebrew"
+    "name": "жугтийн"
   },
   "hi": {
-    "name": "Hindi"
+    "name": "хӀинди"
   },
   "ho": {
     "name": "Hiri Motu"
   },
   "hr": {
-    "name": "Croatian"
+    "name": "хорватийн"
   },
   "ht": {
-    "name": "Haitian"
+    "name": "гаитийн"
   },
   "hu": {
-    "name": "Hungarian"
+    "name": "венгрийн"
   },
   "hy": {
-    "name": "Armenian"
+    "name": "эрмалойн"
   },
   "hz": {
-    "name": "Herero"
+    "name": "гереро"
   },
   "ia": {
-    "name": "Interlingua (International Auxiliary Language Association)"
+    "name": "интерлингва"
   },
   "id": {
-    "name": "Indonesian"
+    "name": "индонезихойн"
   },
   "ie": {
     "name": "Interlingue"
   },
   "ig": {
-    "name": "Igbo"
+    "name": "игбо"
   },
   "ii": {
-    "name": "Sichuan Yi"
+    "name": "сычуань"
   },
   "ik": {
     "name": "Inupiaq"
   },
   "io": {
-    "name": "Ido"
+    "name": "идо"
   },
   "is": {
-    "name": "Icelandic"
+    "name": "исландхойн"
   },
   "it": {
-    "name": "Italian"
+    "name": "итальянийн"
   },
   "iu": {
-    "name": "Inuktitut"
+    "name": "инуктитут"
   },
   "ja": {
-    "name": "Japanese"
+    "name": "японийн"
   },
   "jv": {
-    "name": "Javanese"
+    "name": "яванийн"
   },
   "ka": {
-    "name": "Georgian"
+    "name": "гуьржийн"
   },
   "kg": {
     "name": "Kongo"
   },
   "ki": {
-    "name": "Kikuyu"
+    "name": "кикуйю"
   },
   "kj": {
-    "name": "Kuanyama"
+    "name": "кунама"
   },
   "kk": {
-    "name": "Kazakh"
+    "name": "кхазакхийн"
   },
   "kl": {
-    "name": "Kalaallisut"
+    "name": "гренландхойн"
   },
   "km": {
-    "name": "Khmer"
+    "name": "кхмерийн"
   },
   "kn": {
-    "name": "Kannada"
+    "name": "каннада"
   },
   "ko": {
-    "name": "Korean"
+    "name": "корейн"
   },
   "kr": {
-    "name": "Kanuri"
+    "name": "канури"
   },
   "ks": {
-    "name": "Kashmiri"
+    "name": "кашмири"
   },
   "ku": {
-    "name": "Kurdish"
+    "name": "курдийн"
   },
   "kv": {
-    "name": "Komi"
+    "name": "комийн"
   },
   "kw": {
-    "name": "Cornish"
+    "name": "корнуоллийн"
   },
   "ky": {
-    "name": "Kirghiz"
+    "name": "гӀиргӀизойн"
   },
   "la": {
-    "name": "Latin"
+    "name": "латинан"
   },
   "lb": {
-    "name": "Luxembourgish"
+    "name": "люксембургхойн"
   },
   "lg": {
-    "name": "Ganda"
+    "name": "ганда"
   },
   "li": {
-    "name": "Limburgan"
+    "name": "лимбургийн"
   },
   "ln": {
-    "name": "Lingala"
+    "name": "лингала"
   },
   "lo": {
-    "name": "Lao"
+    "name": "лаоссийн"
   },
   "lt": {
-    "name": "Lithuanian"
+    "name": "литвахойн"
   },
   "lu": {
-    "name": "Luba-Katanga"
+    "name": "луба-катанга"
   },
   "lv": {
-    "name": "Latvian"
+    "name": "латышийн"
   },
   "mg": {
-    "name": "Malagasy"
+    "name": "малагасийн"
   },
   "mh": {
-    "name": "Marshallese"
+    "name": "маршаллийн"
   },
   "mi": {
-    "name": "Maori"
+    "name": "маори"
   },
   "mk": {
-    "name": "Macedonian"
+    "name": "македонхойн"
   },
   "ml": {
-    "name": "Malayalam"
+    "name": "малаялам"
   },
   "mn": {
-    "name": "Mongolian"
+    "name": "монголийн"
   },
   "mr": {
-    "name": "Marathi"
+    "name": "маратхи"
   },
   "ms": {
-    "name": "Malay (macrolanguage)"
+    "name": "малайн"
   },
   "mt": {
-    "name": "Maltese"
+    "name": "мальтойн"
   },
   "my": {
-    "name": "Burmese"
+    "name": "бирманийн"
   },
   "na": {
-    "name": "Nauru"
+    "name": "науру"
   },
   "nb": {
-    "name": "Norwegian Bokmål"
+    "name": "норвегийн букмол"
   },
   "nd": {
-    "name": "North Ndebele"
+    "name": "къилбаседа ндебели"
   },
   "ne": {
-    "name": "Nepali (macrolanguage)"
+    "name": "непалхойн"
   },
   "ng": {
-    "name": "Ndonga"
+    "name": "ндонга"
   },
   "nl": {
-    "name": "Dutch"
+    "name": "голландхойн"
   },
   "nn": {
-    "name": "Norwegian Nynorsk"
+    "name": "норвегийн нюнорск"
   },
   "no": {
     "name": "Norwegian"
   },
   "nr": {
-    "name": "South Ndebele"
+    "name": "къилба ндебеле"
   },
   "nv": {
-    "name": "Navajo"
+    "name": "навахо"
   },
   "ny": {
-    "name": "Chichewa"
+    "name": "ньянджа"
   },
   "oc": {
-    "name": "Occitan (post 1500)"
+    "name": "окситанойн"
   },
   "oj": {
     "name": "Ojibwa"
   },
   "om": {
-    "name": "Oromo"
+    "name": "оромо"
   },
   "or": {
-    "name": "Oriya (macrolanguage)"
+    "name": "ори"
   },
   "os": {
-    "name": "Ossetian"
+    "name": "хӀирийн"
   },
   "pa": {
-    "name": "Panjabi"
+    "name": "панджаби"
   },
   "pi": {
     "name": "Pali"
   },
   "pl": {
-    "name": "Polish"
+    "name": "полякийн"
   },
   "ps": {
-    "name": "Pushto"
+    "name": "пушту"
   },
   "pt": {
-    "name": "Portuguese"
+    "name": "португалихойн"
   },
   "qu": {
-    "name": "Quechua"
+    "name": "кечуа"
   },
   "rm": {
-    "name": "Romansh"
+    "name": "романшийн"
   },
   "rn": {
-    "name": "Rundi"
+    "name": "рунди"
   },
   "ro": {
-    "name": "Romanian"
+    "name": "румынийн"
   },
   "ru": {
-    "name": "Russian"
+    "name": "оьрсийн"
   },
   "rw": {
-    "name": "Kinyarwanda"
+    "name": "киньяруанда"
   },
   "sa": {
-    "name": "Sanskrit"
+    "name": "санскрит"
   },
   "sc": {
-    "name": "Sardinian"
+    "name": "сардинийн"
   },
   "sd": {
-    "name": "Sindhi"
+    "name": "синдхи"
   },
   "se": {
-    "name": "Northern Sami"
+    "name": "къилбаседа саамийн"
   },
   "sg": {
-    "name": "Sango"
+    "name": "санго"
   },
   "sh": {
-    "name": "Serbo-Croatian"
+    "name": "сербийн (латинан)"
   },
   "si": {
-    "name": "Sinhala"
+    "name": "сингалхойн"
   },
   "sk": {
-    "name": "Slovak"
+    "name": "словакийн"
   },
   "sl": {
-    "name": "Slovenian"
+    "name": "словенийн"
   },
   "sm": {
-    "name": "Samoan"
+    "name": "самоанойн"
   },
   "sn": {
-    "name": "Shona"
+    "name": "шона"
   },
   "so": {
-    "name": "Somali"
+    "name": "сомали"
   },
   "sq": {
-    "name": "Albanian"
+    "name": "албанойн"
   },
   "sr": {
-    "name": "Serbian"
+    "name": "сербийн"
   },
   "ss": {
-    "name": "Swati"
+    "name": "свази"
   },
   "st": {
-    "name": "Southern Sotho"
+    "name": "къилба сото"
   },
   "su": {
-    "name": "Sundanese"
+    "name": "сунданхойн"
   },
   "sv": {
-    "name": "Swedish"
+    "name": "шведийн"
   },
   "sw": {
-    "name": "Swahili (macrolanguage)"
+    "name": "суахили"
   },
   "ta": {
-    "name": "Tamil"
+    "name": "тамилхойн"
   },
   "te": {
-    "name": "Telugu"
+    "name": "телугу"
   },
   "tg": {
-    "name": "Tajik"
+    "name": "таджикийн"
   },
   "th": {
-    "name": "Thai"
+    "name": "тайн"
   },
   "ti": {
-    "name": "Tigrinya"
+    "name": "тигринья"
   },
   "tk": {
-    "name": "Turkmen"
+    "name": "туркменийн"
   },
   "tl": {
-    "name": "Tagalog"
+    "name": "филиппинийн"
   },
   "tn": {
-    "name": "Tswana"
+    "name": "тсвана"
   },
   "to": {
-    "name": "Tonga (Tonga Islands)"
+    "name": "тонганийн"
   },
   "tr": {
-    "name": "Turkish"
+    "name": "туркойн"
   },
   "ts": {
-    "name": "Tsonga"
+    "name": "тсонга"
   },
   "tt": {
-    "name": "Tatar"
+    "name": "гӀезалойн"
   },
   "tw": {
-    "name": "Twi"
+    "name": "акан"
   },
   "ty": {
-    "name": "Tahitian"
+    "name": "таитянойн"
   },
   "ug": {
-    "name": "Uighur"
+    "name": "уйгурийн"
   },
   "uk": {
-    "name": "Ukrainian"
+    "name": "украинийн"
   },
   "ur": {
-    "name": "Urdu"
+    "name": "урду"
   },
   "uz": {
-    "name": "Uzbek"
+    "name": "узбекийн"
   },
   "ve": {
-    "name": "Venda"
+    "name": "венда"
   },
   "vi": {
-    "name": "Vietnamese"
+    "name": "вьетнамхойн"
   },
   "vo": {
-    "name": "Volapük"
+    "name": "волапюк"
   },
   "wa": {
-    "name": "Walloon"
+    "name": "валлонойн"
   },
   "wo": {
-    "name": "Wolof"
+    "name": "волоф"
   },
   "xh": {
-    "name": "Xhosa"
+    "name": "коса"
   },
   "yi": {
-    "name": "Yiddish"
+    "name": "идиш"
   },
   "yo": {
-    "name": "Yoruba"
+    "name": "йоруба"
   },
   "za": {
     "name": "Zhuang"
   },
   "zh": {
-    "name": "Chinese"
+    "name": "цийн"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "атта цийн"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "ламастан цийн"
   },
   "zu": {
-    "name": "Zulu"
+    "name": "зулу"
   }
 }

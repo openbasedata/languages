@@ -12,16 +12,16 @@
     "name": "Afrikaans"
   },
   "ak": {
-    "name": "Akan"
+    "name": "Lu-akaani"
   },
   "am": {
-    "name": "Amharic"
+    "name": "Lu-amhariki"
   },
   "an": {
     "name": "Aragonese"
   },
   "ar": {
-    "name": "Arabic"
+    "name": "Luwarabu"
   },
   "as": {
     "name": "Assamese"
@@ -39,10 +39,10 @@
     "name": "Bashkir"
   },
   "be": {
-    "name": "Belarusian"
+    "name": "Lubelarusi"
   },
   "bg": {
-    "name": "Bulgarian"
+    "name": "Lubulugariya"
   },
   "bi": {
     "name": "Bislama"
@@ -51,7 +51,7 @@
     "name": "Bambara"
   },
   "bn": {
-    "name": "Bengali"
+    "name": "Lubengali"
   },
   "bo": {
     "name": "Tibetan"
@@ -78,7 +78,7 @@
     "name": "Cree"
   },
   "cs": {
-    "name": "Czech"
+    "name": "Luceeke"
   },
   "cu": {
     "name": "Church Slavic"
@@ -93,7 +93,7 @@
     "name": "Danish"
   },
   "de": {
-    "name": "German"
+    "name": "Ludaaki"
   },
   "dv": {
     "name": "Divehi"
@@ -105,16 +105,16 @@
     "name": "Ewe"
   },
   "el": {
-    "name": "Modern Greek (1453-)"
+    "name": "Lugereeki/Luyonaani"
   },
   "en": {
-    "name": "English"
+    "name": "Lungereza"
   },
   "eo": {
     "name": "Esperanto"
   },
   "es": {
-    "name": "Spanish"
+    "name": "Lusipanya"
   },
   "et": {
     "name": "Estonian"
@@ -123,7 +123,7 @@
     "name": "Basque"
   },
   "fa": {
-    "name": "Persian"
+    "name": "Luperusi"
   },
   "ff": {
     "name": "Fulah"
@@ -138,7 +138,7 @@
     "name": "Faroese"
   },
   "fr": {
-    "name": "French"
+    "name": "Lufalansa"
   },
   "fy": {
     "name": "Western Frisian"
@@ -162,13 +162,13 @@
     "name": "Manx"
   },
   "ha": {
-    "name": "Hausa"
+    "name": "Luhawuza"
   },
   "he": {
     "name": "Hebrew"
   },
   "hi": {
-    "name": "Hindi"
+    "name": "Luhindu"
   },
   "ho": {
     "name": "Hiri Motu"
@@ -180,7 +180,7 @@
     "name": "Haitian"
   },
   "hu": {
-    "name": "Hungarian"
+    "name": "Luhangare"
   },
   "hy": {
     "name": "Armenian"
@@ -192,13 +192,13 @@
     "name": "Interlingua (International Auxiliary Language Association)"
   },
   "id": {
-    "name": "Indonesian"
+    "name": "Luyindonezya"
   },
   "ie": {
     "name": "Interlingue"
   },
   "ig": {
-    "name": "Igbo"
+    "name": "Luyibo"
   },
   "ii": {
     "name": "Sichuan Yi"
@@ -213,16 +213,16 @@
     "name": "Icelandic"
   },
   "it": {
-    "name": "Italian"
+    "name": "Luyitale"
   },
   "iu": {
     "name": "Inuktitut"
   },
   "ja": {
-    "name": "Japanese"
+    "name": "Lujapani"
   },
   "jv": {
-    "name": "Javanese"
+    "name": "Lunnajjava"
   },
   "ka": {
     "name": "Georgian"
@@ -243,13 +243,13 @@
     "name": "Kalaallisut"
   },
   "km": {
-    "name": "Khmer"
+    "name": "Lukme"
   },
   "kn": {
     "name": "Kannada"
   },
   "ko": {
-    "name": "Korean"
+    "name": "Lukoreya"
   },
   "kr": {
     "name": "Kanuri"
@@ -276,7 +276,7 @@
     "name": "Luxembourgish"
   },
   "lg": {
-    "name": "Ganda"
+    "name": "Luganda"
   },
   "li": {
     "name": "Limburgan"
@@ -318,13 +318,13 @@
     "name": "Marathi"
   },
   "ms": {
-    "name": "Malay (macrolanguage)"
+    "name": "Lumalayi"
   },
   "mt": {
     "name": "Maltese"
   },
   "my": {
-    "name": "Burmese"
+    "name": "Lubbama"
   },
   "na": {
     "name": "Nauru"
@@ -336,13 +336,13 @@
     "name": "North Ndebele"
   },
   "ne": {
-    "name": "Nepali (macrolanguage)"
+    "name": "Lunepali"
   },
   "ng": {
     "name": "Ndonga"
   },
   "nl": {
-    "name": "Dutch"
+    "name": "Luholandi"
   },
   "nn": {
     "name": "Norwegian Nynorsk"
@@ -375,19 +375,19 @@
     "name": "Ossetian"
   },
   "pa": {
-    "name": "Panjabi"
+    "name": "Lupunjabi"
   },
   "pi": {
     "name": "Pali"
   },
   "pl": {
-    "name": "Polish"
+    "name": "Lupolandi"
   },
   "ps": {
     "name": "Pushto"
   },
   "pt": {
-    "name": "Portuguese"
+    "name": "Lupotugiizi"
   },
   "qu": {
     "name": "Quechua"
@@ -399,13 +399,13 @@
     "name": "Rundi"
   },
   "ro": {
-    "name": "Romanian"
+    "name": "Lulomaniya"
   },
   "ru": {
-    "name": "Russian"
+    "name": "Lulasa"
   },
   "rw": {
-    "name": "Kinyarwanda"
+    "name": "Lunarwanda"
   },
   "sa": {
     "name": "Sanskrit"
@@ -441,7 +441,7 @@
     "name": "Shona"
   },
   "so": {
-    "name": "Somali"
+    "name": "Lusomaliya"
   },
   "sq": {
     "name": "Albanian"
@@ -459,13 +459,13 @@
     "name": "Sundanese"
   },
   "sv": {
-    "name": "Swedish"
+    "name": "Luswideni"
   },
   "sw": {
     "name": "Swahili (macrolanguage)"
   },
   "ta": {
-    "name": "Tamil"
+    "name": "Lutamiiru"
   },
   "te": {
     "name": "Telugu"
@@ -474,7 +474,7 @@
     "name": "Tajik"
   },
   "th": {
-    "name": "Thai"
+    "name": "Luttaayi"
   },
   "ti": {
     "name": "Tigrinya"
@@ -492,7 +492,7 @@
     "name": "Tonga (Tonga Islands)"
   },
   "tr": {
-    "name": "Turkish"
+    "name": "Lutake"
   },
   "ts": {
     "name": "Tsonga"
@@ -501,7 +501,7 @@
     "name": "Tatar"
   },
   "tw": {
-    "name": "Twi"
+    "name": "Lu-akaani"
   },
   "ty": {
     "name": "Tahitian"
@@ -510,10 +510,10 @@
     "name": "Uighur"
   },
   "uk": {
-    "name": "Ukrainian"
+    "name": "Luyukurayine"
   },
   "ur": {
-    "name": "Urdu"
+    "name": "Lu-urudu"
   },
   "uz": {
     "name": "Uzbek"
@@ -522,7 +522,7 @@
     "name": "Venda"
   },
   "vi": {
-    "name": "Vietnamese"
+    "name": "Luvyetinaamu"
   },
   "vo": {
     "name": "Volapük"
@@ -540,21 +540,21 @@
     "name": "Yiddish"
   },
   "yo": {
-    "name": "Yoruba"
+    "name": "Luyoruba"
   },
   "za": {
     "name": "Zhuang"
   },
   "zh": {
-    "name": "Chinese"
+    "name": "Lucayina"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "Chinese (Simplified)"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "Chinese (Traditional)"
   },
   "zu": {
-    "name": "Zulu"
+    "name": "Luzzulu"
   }
 }

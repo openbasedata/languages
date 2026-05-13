@@ -12,16 +12,16 @@
     "name": "Afrikaans"
   },
   "ak": {
-    "name": "Akan"
+    "name": "Kiakan"
   },
   "am": {
-    "name": "Amharic"
+    "name": "Kiamhari"
   },
   "an": {
     "name": "Aragonese"
   },
   "ar": {
-    "name": "Arabic"
+    "name": "Kĩarabu"
   },
   "as": {
     "name": "Assamese"
@@ -39,10 +39,10 @@
     "name": "Bashkir"
   },
   "be": {
-    "name": "Belarusian"
+    "name": "Kibelarusi"
   },
   "bg": {
-    "name": "Bulgarian"
+    "name": "Kibulgaria"
   },
   "bi": {
     "name": "Bislama"
@@ -51,7 +51,7 @@
     "name": "Bambara"
   },
   "bn": {
-    "name": "Bengali"
+    "name": "Kibangla"
   },
   "bo": {
     "name": "Tibetan"
@@ -78,7 +78,7 @@
     "name": "Cree"
   },
   "cs": {
-    "name": "Czech"
+    "name": "Kichecki"
   },
   "cu": {
     "name": "Church Slavic"
@@ -93,7 +93,7 @@
     "name": "Danish"
   },
   "de": {
-    "name": "German"
+    "name": "Kĩnjeremani"
   },
   "dv": {
     "name": "Divehi"
@@ -105,16 +105,16 @@
     "name": "Ewe"
   },
   "el": {
-    "name": "Modern Greek (1453-)"
+    "name": "Kigiriki"
   },
   "en": {
-    "name": "English"
+    "name": "Gĩthungũ"
   },
   "eo": {
     "name": "Esperanto"
   },
   "es": {
-    "name": "Spanish"
+    "name": "Kihispania"
   },
   "et": {
     "name": "Estonian"
@@ -123,7 +123,7 @@
     "name": "Basque"
   },
   "fa": {
-    "name": "Persian"
+    "name": "Kiajemi"
   },
   "ff": {
     "name": "Fulah"
@@ -138,7 +138,7 @@
     "name": "Faroese"
   },
   "fr": {
-    "name": "French"
+    "name": "Kĩbaranja"
   },
   "fy": {
     "name": "Western Frisian"
@@ -162,13 +162,13 @@
     "name": "Manx"
   },
   "ha": {
-    "name": "Hausa"
+    "name": "Kihausa"
   },
   "he": {
     "name": "Hebrew"
   },
   "hi": {
-    "name": "Hindi"
+    "name": "Kĩhĩndĩ"
   },
   "ho": {
     "name": "Hiri Motu"
@@ -180,7 +180,7 @@
     "name": "Haitian"
   },
   "hu": {
-    "name": "Hungarian"
+    "name": "Kihungari"
   },
   "hy": {
     "name": "Armenian"
@@ -192,13 +192,13 @@
     "name": "Interlingua (International Auxiliary Language Association)"
   },
   "id": {
-    "name": "Indonesian"
+    "name": "Kiindonesia"
   },
   "ie": {
     "name": "Interlingue"
   },
   "ig": {
-    "name": "Igbo"
+    "name": "Kiigbo"
   },
   "ii": {
     "name": "Sichuan Yi"
@@ -213,16 +213,16 @@
     "name": "Icelandic"
   },
   "it": {
-    "name": "Italian"
+    "name": "Kĩtaliano"
   },
   "iu": {
     "name": "Inuktitut"
   },
   "ja": {
-    "name": "Japanese"
+    "name": "Kĩnjabani"
   },
   "jv": {
-    "name": "Javanese"
+    "name": "Kijava"
   },
   "ka": {
     "name": "Georgian"
@@ -231,7 +231,7 @@
     "name": "Kongo"
   },
   "ki": {
-    "name": "Kikuyu"
+    "name": "Gikuyu"
   },
   "kj": {
     "name": "Kuanyama"
@@ -243,13 +243,13 @@
     "name": "Kalaallisut"
   },
   "km": {
-    "name": "Khmer"
+    "name": "Kikambodia"
   },
   "kn": {
     "name": "Kannada"
   },
   "ko": {
-    "name": "Korean"
+    "name": "Kikorea"
   },
   "kr": {
     "name": "Kanuri"
@@ -318,13 +318,13 @@
     "name": "Marathi"
   },
   "ms": {
-    "name": "Malay (macrolanguage)"
+    "name": "Kimalesia"
   },
   "mt": {
     "name": "Maltese"
   },
   "my": {
-    "name": "Burmese"
+    "name": "Kiburma"
   },
   "na": {
     "name": "Nauru"
@@ -336,13 +336,13 @@
     "name": "North Ndebele"
   },
   "ne": {
-    "name": "Nepali (macrolanguage)"
+    "name": "Kinepali"
   },
   "ng": {
     "name": "Ndonga"
   },
   "nl": {
-    "name": "Dutch"
+    "name": "Kiholanzi"
   },
   "nn": {
     "name": "Norwegian Nynorsk"
@@ -375,19 +375,19 @@
     "name": "Ossetian"
   },
   "pa": {
-    "name": "Panjabi"
+    "name": "Kipunjabi"
   },
   "pi": {
     "name": "Pali"
   },
   "pl": {
-    "name": "Polish"
+    "name": "Kipolandi"
   },
   "ps": {
     "name": "Pushto"
   },
   "pt": {
-    "name": "Portuguese"
+    "name": "Kireno"
   },
   "qu": {
     "name": "Quechua"
@@ -399,10 +399,10 @@
     "name": "Rundi"
   },
   "ro": {
-    "name": "Romanian"
+    "name": "Kiromania"
   },
   "ru": {
-    "name": "Russian"
+    "name": "Kĩracia"
   },
   "rw": {
     "name": "Kinyarwanda"
@@ -441,7 +441,7 @@
     "name": "Shona"
   },
   "so": {
-    "name": "Somali"
+    "name": "Kĩcumarĩ"
   },
   "sq": {
     "name": "Albanian"
@@ -459,13 +459,13 @@
     "name": "Sundanese"
   },
   "sv": {
-    "name": "Swedish"
+    "name": "Kiswidi"
   },
   "sw": {
     "name": "Swahili (macrolanguage)"
   },
   "ta": {
-    "name": "Tamil"
+    "name": "Kitamil"
   },
   "te": {
     "name": "Telugu"
@@ -474,7 +474,7 @@
     "name": "Tajik"
   },
   "th": {
-    "name": "Thai"
+    "name": "Kitailandi"
   },
   "ti": {
     "name": "Tigrinya"
@@ -492,7 +492,7 @@
     "name": "Tonga (Tonga Islands)"
   },
   "tr": {
-    "name": "Turkish"
+    "name": "Kituruki"
   },
   "ts": {
     "name": "Tsonga"
@@ -501,7 +501,7 @@
     "name": "Tatar"
   },
   "tw": {
-    "name": "Twi"
+    "name": "Kiakan"
   },
   "ty": {
     "name": "Tahitian"
@@ -510,10 +510,10 @@
     "name": "Uighur"
   },
   "uk": {
-    "name": "Ukrainian"
+    "name": "Kiukrania"
   },
   "ur": {
-    "name": "Urdu"
+    "name": "Kiurdu"
   },
   "uz": {
     "name": "Uzbek"
@@ -522,7 +522,7 @@
     "name": "Venda"
   },
   "vi": {
-    "name": "Vietnamese"
+    "name": "Kivietinamu"
   },
   "vo": {
     "name": "Volapük"
@@ -540,21 +540,21 @@
     "name": "Yiddish"
   },
   "yo": {
-    "name": "Yoruba"
+    "name": "Kiyoruba"
   },
   "za": {
     "name": "Zhuang"
   },
   "zh": {
-    "name": "Chinese"
+    "name": "Kĩcaina"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "Chinese (Simplified)"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "Chinese (Traditional)"
   },
   "zu": {
-    "name": "Zulu"
+    "name": "Kizulu"
   }
 }

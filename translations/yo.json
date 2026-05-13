@@ -3,558 +3,558 @@
     "name": "Afar"
   },
   "ab": {
-    "name": "Abkhazian"
+    "name": "Èdè Abasia"
   },
   "ae": {
     "name": "Avestan"
   },
   "af": {
-    "name": "Afrikaans"
+    "name": "Èdè Afrikani"
   },
   "ak": {
-    "name": "Akan"
+    "name": "Èdè Akani"
   },
   "am": {
-    "name": "Amharic"
+    "name": "Èdè Amariki"
   },
   "an": {
-    "name": "Aragonese"
+    "name": "Èdè Aragoni"
   },
   "ar": {
-    "name": "Arabic"
+    "name": "Èdè Lárúbáwá"
   },
   "as": {
-    "name": "Assamese"
+    "name": "Èdè Assam"
   },
   "av": {
-    "name": "Avaric"
+    "name": "Èdè Afariki"
   },
   "ay": {
-    "name": "Aymara"
+    "name": "Èdè Amara"
   },
   "az": {
-    "name": "Azerbaijani"
+    "name": "Èdè Asabaijani"
   },
   "ba": {
-    "name": "Bashkir"
+    "name": "Èdè Bashiri"
   },
   "be": {
-    "name": "Belarusian"
+    "name": "Èdè Belarusi"
   },
   "bg": {
-    "name": "Bulgarian"
+    "name": "Èdè Bugaria"
   },
   "bi": {
-    "name": "Bislama"
+    "name": "Èdè Bisilama"
   },
   "bm": {
-    "name": "Bambara"
+    "name": "Èdè Báḿbàrà"
   },
   "bn": {
-    "name": "Bengali"
+    "name": "Èdè Bengali"
   },
   "bo": {
-    "name": "Tibetan"
+    "name": "Tibetán"
   },
   "br": {
-    "name": "Breton"
+    "name": "Èdè Bretoni"
   },
   "bs": {
-    "name": "Bosnian"
+    "name": "Èdè Bosnia"
   },
   "ca": {
-    "name": "Catalan"
+    "name": "Èdè Katala"
   },
   "ce": {
-    "name": "Chechen"
+    "name": "Èdè Chechen"
   },
   "ch": {
-    "name": "Chamorro"
+    "name": "Èdè S̩amoro"
   },
   "co": {
-    "name": "Corsican"
+    "name": "Èdè Corsican"
   },
   "cr": {
     "name": "Cree"
   },
   "cs": {
-    "name": "Czech"
+    "name": "Èdè Seeki"
   },
   "cu": {
-    "name": "Church Slavic"
+    "name": "Èdè Síláfííkì Ilé Ìjọ́sìn"
   },
   "cv": {
-    "name": "Chuvash"
+    "name": "Èdè Ṣufasi"
   },
   "cy": {
-    "name": "Welsh"
+    "name": "Èdè Welshi"
   },
   "da": {
-    "name": "Danish"
+    "name": "Èdè Denmaki"
   },
   "de": {
-    "name": "German"
+    "name": "Èdè Jámánì"
   },
   "dv": {
-    "name": "Divehi"
+    "name": "Èdè Difehi"
   },
   "dz": {
-    "name": "Dzongkha"
+    "name": "Èdè Dzongkha"
   },
   "ee": {
-    "name": "Ewe"
+    "name": "Èdè Ewè"
   },
   "el": {
-    "name": "Modern Greek (1453-)"
+    "name": "Èdè Giriki"
   },
   "en": {
-    "name": "English"
+    "name": "Èdè Gẹ̀ẹ́sì"
   },
   "eo": {
-    "name": "Esperanto"
+    "name": "Èdè Esperanto"
   },
   "es": {
-    "name": "Spanish"
+    "name": "Èdè Sípáníìṣì"
   },
   "et": {
-    "name": "Estonian"
+    "name": "Èdè Estonia"
   },
   "eu": {
-    "name": "Basque"
+    "name": "Èdè Baski"
   },
   "fa": {
-    "name": "Persian"
+    "name": "Èdè Pasia"
   },
   "ff": {
-    "name": "Fulah"
+    "name": "Èdè Fúlàní"
   },
   "fi": {
-    "name": "Finnish"
+    "name": "Èdè Finisi"
   },
   "fj": {
-    "name": "Fijian"
+    "name": "Èdè Fiji"
   },
   "fo": {
-    "name": "Faroese"
+    "name": "Èdè Faroesi"
   },
   "fr": {
-    "name": "French"
+    "name": "Èdè Faransé"
   },
   "fy": {
-    "name": "Western Frisian"
+    "name": "Èdè Frisia"
   },
   "ga": {
-    "name": "Irish"
+    "name": "Èdè Ireland"
   },
   "gd": {
-    "name": "Scottish Gaelic"
+    "name": "Èdè Gaelik ti Ilu Scotland"
   },
   "gl": {
-    "name": "Galician"
+    "name": "Èdè Galicia"
   },
   "gn": {
-    "name": "Guarani"
+    "name": "Èdè Guarani"
   },
   "gu": {
-    "name": "Gujarati"
+    "name": "Èdè Gujarati"
   },
   "gv": {
-    "name": "Manx"
+    "name": "Máǹkì"
   },
   "ha": {
-    "name": "Hausa"
+    "name": "Èdè Hausa"
   },
   "he": {
-    "name": "Hebrew"
+    "name": "Èdè Heberu"
   },
   "hi": {
-    "name": "Hindi"
+    "name": "Èdè Híńdì"
   },
   "ho": {
     "name": "Hiri Motu"
   },
   "hr": {
-    "name": "Croatian"
+    "name": "Èdè Kroatia"
   },
   "ht": {
-    "name": "Haitian"
+    "name": "Haitian Creole"
   },
   "hu": {
-    "name": "Hungarian"
+    "name": "Èdè Hungaria"
   },
   "hy": {
-    "name": "Armenian"
+    "name": "Èdè Armenia"
   },
   "hz": {
-    "name": "Herero"
+    "name": "Èdè Herero"
   },
   "ia": {
-    "name": "Interlingua (International Auxiliary Language Association)"
+    "name": "Èdè pipo"
   },
   "id": {
-    "name": "Indonesian"
+    "name": "Èdè Indonéṣíà"
   },
   "ie": {
-    "name": "Interlingue"
+    "name": "Èdè àtọwọ́dá"
   },
   "ig": {
-    "name": "Igbo"
+    "name": "Èdè Yíbò"
   },
   "ii": {
-    "name": "Sichuan Yi"
+    "name": "Ṣíkuán Yì"
   },
   "ik": {
     "name": "Inupiaq"
   },
   "io": {
-    "name": "Ido"
+    "name": "Èdè Ido"
   },
   "is": {
-    "name": "Icelandic"
+    "name": "Èdè Icelandic"
   },
   "it": {
-    "name": "Italian"
+    "name": "Èdè Ítálì"
   },
   "iu": {
-    "name": "Inuktitut"
+    "name": "Èdè Inukitu"
   },
   "ja": {
-    "name": "Japanese"
+    "name": "Èdè Jàpáànù"
   },
   "jv": {
-    "name": "Javanese"
+    "name": "Èdè Javanasi"
   },
   "ka": {
-    "name": "Georgian"
+    "name": "Èdè Georgia"
   },
   "kg": {
     "name": "Kongo"
   },
   "ki": {
-    "name": "Kikuyu"
+    "name": "Kíkúyù"
   },
   "kj": {
-    "name": "Kuanyama"
+    "name": "Èdè Kuayama"
   },
   "kk": {
-    "name": "Kazakh"
+    "name": "Kaṣakì"
   },
   "kl": {
-    "name": "Kalaallisut"
+    "name": "Kalaalísùtì"
   },
   "km": {
-    "name": "Khmer"
+    "name": "Èdè kameri"
   },
   "kn": {
-    "name": "Kannada"
+    "name": "Èdè Kannada"
   },
   "ko": {
-    "name": "Korean"
+    "name": "Èdè Kòríà"
   },
   "kr": {
-    "name": "Kanuri"
+    "name": "Èdè Kanuri"
   },
   "ks": {
-    "name": "Kashmiri"
+    "name": "Kaṣímirì"
   },
   "ku": {
-    "name": "Kurdish"
+    "name": "Kọdiṣì"
   },
   "kv": {
-    "name": "Komi"
+    "name": "Èdè Komi"
   },
   "kw": {
-    "name": "Cornish"
+    "name": "Èdè Kọ́nììṣì"
   },
   "ky": {
-    "name": "Kirghiz"
+    "name": "Kírígíìsì"
   },
   "la": {
-    "name": "Latin"
+    "name": "Èdè Latini"
   },
   "lb": {
-    "name": "Luxembourgish"
+    "name": "Lùṣẹ́mbọ́ọ̀gì"
   },
   "lg": {
     "name": "Ganda"
   },
   "li": {
-    "name": "Limburgan"
+    "name": "Èdè Limbogishi"
   },
   "ln": {
-    "name": "Lingala"
+    "name": "Lìǹgálà"
   },
   "lo": {
-    "name": "Lao"
+    "name": "Láò"
   },
   "lt": {
-    "name": "Lithuanian"
+    "name": "Èdè Lithuania"
   },
   "lu": {
-    "name": "Luba-Katanga"
+    "name": "Lúbà-Katanga"
   },
   "lv": {
-    "name": "Latvian"
+    "name": "Èdè látífíànì"
   },
   "mg": {
-    "name": "Malagasy"
+    "name": "Malagasì"
   },
   "mh": {
-    "name": "Marshallese"
+    "name": "Èdè Mashali"
   },
   "mi": {
-    "name": "Maori"
+    "name": "Màórì"
   },
   "mk": {
-    "name": "Macedonian"
+    "name": "Èdè Masidonia"
   },
   "ml": {
-    "name": "Malayalam"
+    "name": "Málàyálámù"
   },
   "mn": {
-    "name": "Mongolian"
+    "name": "Mòngólíà"
   },
   "mr": {
-    "name": "Marathi"
+    "name": "Èdè marathi"
   },
   "ms": {
-    "name": "Malay (macrolanguage)"
+    "name": "Èdè Malaya"
   },
   "mt": {
-    "name": "Maltese"
+    "name": "Èdè Malta"
   },
   "my": {
-    "name": "Burmese"
+    "name": "Èdè Bumiisi"
   },
   "na": {
-    "name": "Nauru"
+    "name": "Èdè Nauru"
   },
   "nb": {
-    "name": "Norwegian Bokmål"
+    "name": "Nọ́ọ́wè Bokímàl"
   },
   "nd": {
-    "name": "North Ndebele"
+    "name": "Àríwá Ndebele"
   },
   "ne": {
-    "name": "Nepali (macrolanguage)"
+    "name": "Èdè Nepali"
   },
   "ng": {
-    "name": "Ndonga"
+    "name": "Èdè Ndonga"
   },
   "nl": {
-    "name": "Dutch"
+    "name": "Èdè Dọ́ọ̀ṣì"
   },
   "nn": {
-    "name": "Norwegian Nynorsk"
+    "name": "Nọ́ọ́wè Nínọ̀sìkì"
   },
   "no": {
-    "name": "Norwegian"
+    "name": "Èdè Norway"
   },
   "nr": {
-    "name": "South Ndebele"
+    "name": "Èdè Gusu Ndebele"
   },
   "nv": {
-    "name": "Navajo"
+    "name": "Èdè Nafajo"
   },
   "ny": {
-    "name": "Chichewa"
+    "name": "Ńyájà"
   },
   "oc": {
-    "name": "Occitan (post 1500)"
+    "name": "Èdè Ọ̀kísítáànì"
   },
   "oj": {
     "name": "Ojibwa"
   },
   "om": {
-    "name": "Oromo"
+    "name": "Òròmọ́"
   },
   "or": {
-    "name": "Oriya (macrolanguage)"
+    "name": "Èdè Òdíà"
   },
   "os": {
-    "name": "Ossetian"
+    "name": "Ọṣẹ́tíìkì"
   },
   "pa": {
-    "name": "Panjabi"
+    "name": "Èdè Punjabi"
   },
   "pi": {
     "name": "Pali"
   },
   "pl": {
-    "name": "Polish"
+    "name": "Èdè Póláǹdì"
   },
   "ps": {
-    "name": "Pushto"
+    "name": "Páshítò"
   },
   "pt": {
-    "name": "Portuguese"
+    "name": "Èdè Pọtogí"
   },
   "qu": {
-    "name": "Quechua"
+    "name": "Kúẹ́ńjùà"
   },
   "rm": {
-    "name": "Romansh"
+    "name": "Rómáǹṣì"
   },
   "rn": {
-    "name": "Rundi"
+    "name": "Rúńdì"
   },
   "ro": {
-    "name": "Romanian"
+    "name": "Èdè Romania"
   },
   "ru": {
-    "name": "Russian"
+    "name": "Èdè Rọ́ṣíà"
   },
   "rw": {
-    "name": "Kinyarwanda"
+    "name": "Èdè Ruwanda"
   },
   "sa": {
-    "name": "Sanskrit"
+    "name": "Èdè awon ara Indo"
   },
   "sc": {
-    "name": "Sardinian"
+    "name": "Èdè Sadini"
   },
   "sd": {
-    "name": "Sindhi"
+    "name": "Èdè Sindhi"
   },
   "se": {
-    "name": "Northern Sami"
+    "name": "Apáàríwá Sami"
   },
   "sg": {
     "name": "Sango"
   },
   "sh": {
-    "name": "Serbo-Croatian"
+    "name": "Èdè Serbia (Èdè Látìn)"
   },
   "si": {
-    "name": "Sinhala"
+    "name": "Èdè Sinhalese"
   },
   "sk": {
-    "name": "Slovak"
+    "name": "Èdè Slovaki"
   },
   "sl": {
-    "name": "Slovenian"
+    "name": "Èdè Slovenia"
   },
   "sm": {
-    "name": "Samoan"
+    "name": "Sámóánù"
   },
   "sn": {
-    "name": "Shona"
+    "name": "Ṣọnà"
   },
   "so": {
-    "name": "Somali"
+    "name": "Èdè ara Somalia"
   },
   "sq": {
-    "name": "Albanian"
+    "name": "Èdè Albania"
   },
   "sr": {
-    "name": "Serbian"
+    "name": "Èdè Serbia"
   },
   "ss": {
-    "name": "Swati"
+    "name": "Èdè Suwati"
   },
   "st": {
-    "name": "Southern Sotho"
+    "name": "Èdè Sesoto"
   },
   "su": {
-    "name": "Sundanese"
+    "name": "Èdè Sudanísì"
   },
   "sv": {
-    "name": "Swedish"
+    "name": "Èdè Suwidiisi"
   },
   "sw": {
-    "name": "Swahili (macrolanguage)"
+    "name": "Èdè Swahili"
   },
   "ta": {
-    "name": "Tamil"
+    "name": "Èdè Tamili"
   },
   "te": {
-    "name": "Telugu"
+    "name": "Èdè Telugu"
   },
   "tg": {
-    "name": "Tajik"
+    "name": "Èdè Tàjíìkì"
   },
   "th": {
-    "name": "Thai"
+    "name": "Èdè Tai"
   },
   "ti": {
-    "name": "Tigrinya"
+    "name": "Èdè Tigrinya"
   },
   "tk": {
-    "name": "Turkmen"
+    "name": "Èdè Turkmen"
   },
   "tl": {
-    "name": "Tagalog"
+    "name": "Èdè Filipino"
   },
   "tn": {
-    "name": "Tswana"
+    "name": "Èdè Suwana"
   },
   "to": {
-    "name": "Tonga (Tonga Islands)"
+    "name": "Tóńgàn"
   },
   "tr": {
-    "name": "Turkish"
+    "name": "Èdè Tọọkisi"
   },
   "ts": {
-    "name": "Tsonga"
+    "name": "Èdè Songa"
   },
   "tt": {
-    "name": "Tatar"
+    "name": "Tátárì"
   },
   "tw": {
-    "name": "Twi"
+    "name": "Èdè Akani"
   },
   "ty": {
-    "name": "Tahitian"
+    "name": "Èdè Tahiti"
   },
   "ug": {
-    "name": "Uighur"
+    "name": "Yúgọ̀"
   },
   "uk": {
-    "name": "Ukrainian"
+    "name": "Èdè Ukania"
   },
   "ur": {
-    "name": "Urdu"
+    "name": "Èdè Udu"
   },
   "uz": {
-    "name": "Uzbek"
+    "name": "Èdè Uzbek"
   },
   "ve": {
-    "name": "Venda"
+    "name": "Èdè Fenda"
   },
   "vi": {
-    "name": "Vietnamese"
+    "name": "Èdè Jetinamu"
   },
   "vo": {
-    "name": "Volapük"
+    "name": "Fọ́lápùùkù"
   },
   "wa": {
-    "name": "Walloon"
+    "name": "Èdè Waluni"
   },
   "wo": {
-    "name": "Wolof"
+    "name": "Wọ́lọ́ọ̀fù"
   },
   "xh": {
-    "name": "Xhosa"
+    "name": "Èdè Xhosa"
   },
   "yi": {
-    "name": "Yiddish"
+    "name": "Èdè Yiddishi"
   },
   "yo": {
-    "name": "Yoruba"
+    "name": "Èdè Yorùbá"
   },
   "za": {
-    "name": "Zhuang"
+    "name": "Ṣúwáànù"
   },
   "zh": {
-    "name": "Chinese"
+    "name": "Edè Ṣáínà"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "Ẹdè Ṣáínà Onírọ̀rùn"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "Èdè Ṣáínà Ìbílẹ̀"
   },
   "zu": {
-    "name": "Zulu"
+    "name": "Èdè Ṣulu"
   }
 }

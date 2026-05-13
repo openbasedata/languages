@@ -12,16 +12,16 @@
     "name": "Afrikaans"
   },
   "ak": {
-    "name": "Akan"
+    "name": "chiAkani"
   },
   "am": {
-    "name": "Amharic"
+    "name": "chiAmaric"
   },
   "an": {
     "name": "Aragonese"
   },
   "ar": {
-    "name": "Arabic"
+    "name": "chiArabu"
   },
   "as": {
     "name": "Assamese"
@@ -39,10 +39,10 @@
     "name": "Bashkir"
   },
   "be": {
-    "name": "Belarusian"
+    "name": "chiBelarusi"
   },
   "bg": {
-    "name": "Bulgarian"
+    "name": "chiBulgarian"
   },
   "bi": {
     "name": "Bislama"
@@ -51,7 +51,7 @@
     "name": "Bambara"
   },
   "bn": {
-    "name": "Bengali"
+    "name": "chiBengali"
   },
   "bo": {
     "name": "Tibetan"
@@ -78,7 +78,7 @@
     "name": "Cree"
   },
   "cs": {
-    "name": "Czech"
+    "name": "chiCzech"
   },
   "cu": {
     "name": "Church Slavic"
@@ -93,7 +93,7 @@
     "name": "Danish"
   },
   "de": {
-    "name": "German"
+    "name": "chiJerimani"
   },
   "dv": {
     "name": "Divehi"
@@ -105,16 +105,16 @@
     "name": "Ewe"
   },
   "el": {
-    "name": "Modern Greek (1453-)"
+    "name": "chiGreek"
   },
   "en": {
-    "name": "English"
+    "name": "Chirungu"
   },
   "eo": {
     "name": "Esperanto"
   },
   "es": {
-    "name": "Spanish"
+    "name": "chiSpanish"
   },
   "et": {
     "name": "Estonian"
@@ -123,7 +123,7 @@
     "name": "Basque"
   },
   "fa": {
-    "name": "Persian"
+    "name": "chiPeshiya"
   },
   "ff": {
     "name": "Fulah"
@@ -138,7 +138,7 @@
     "name": "Faroese"
   },
   "fr": {
-    "name": "French"
+    "name": "chiFurenchi"
   },
   "fy": {
     "name": "Western Frisian"
@@ -162,13 +162,13 @@
     "name": "Manx"
   },
   "ha": {
-    "name": "Hausa"
+    "name": "chiHausa"
   },
   "he": {
     "name": "Hebrew"
   },
   "hi": {
-    "name": "Hindi"
+    "name": "chiHindi"
   },
   "ho": {
     "name": "Hiri Motu"
@@ -180,7 +180,7 @@
     "name": "Haitian"
   },
   "hu": {
-    "name": "Hungarian"
+    "name": "chiHungari"
   },
   "hy": {
     "name": "Armenian"
@@ -192,13 +192,13 @@
     "name": "Interlingua (International Auxiliary Language Association)"
   },
   "id": {
-    "name": "Indonesian"
+    "name": "chiIndonesia"
   },
   "ie": {
     "name": "Interlingue"
   },
   "ig": {
-    "name": "Igbo"
+    "name": "chiIgbo"
   },
   "ii": {
     "name": "Sichuan Yi"
@@ -213,16 +213,16 @@
     "name": "Icelandic"
   },
   "it": {
-    "name": "Italian"
+    "name": "chiTariana"
   },
   "iu": {
     "name": "Inuktitut"
   },
   "ja": {
-    "name": "Japanese"
+    "name": "chiJapani"
   },
   "jv": {
-    "name": "Javanese"
+    "name": "chiJava"
   },
   "ka": {
     "name": "Georgian"
@@ -243,13 +243,13 @@
     "name": "Kalaallisut"
   },
   "km": {
-    "name": "Khmer"
+    "name": "chiKhema"
   },
   "kn": {
     "name": "Kannada"
   },
   "ko": {
-    "name": "Korean"
+    "name": "chiKoria"
   },
   "kr": {
     "name": "Kanuri"
@@ -318,13 +318,13 @@
     "name": "Marathi"
   },
   "ms": {
-    "name": "Malay (macrolanguage)"
+    "name": "chiMalay"
   },
   "mt": {
     "name": "Maltese"
   },
   "my": {
-    "name": "Burmese"
+    "name": "chiBurma"
   },
   "na": {
     "name": "Nauru"
@@ -336,13 +336,13 @@
     "name": "North Ndebele"
   },
   "ne": {
-    "name": "Nepali (macrolanguage)"
+    "name": "chiNepali"
   },
   "ng": {
     "name": "Ndonga"
   },
   "nl": {
-    "name": "Dutch"
+    "name": "chiDutch"
   },
   "nn": {
     "name": "Norwegian Nynorsk"
@@ -375,19 +375,19 @@
     "name": "Ossetian"
   },
   "pa": {
-    "name": "Panjabi"
+    "name": "chiPunjabi"
   },
   "pi": {
     "name": "Pali"
   },
   "pl": {
-    "name": "Polish"
+    "name": "chiPolish"
   },
   "ps": {
     "name": "Pushto"
   },
   "pt": {
-    "name": "Portuguese"
+    "name": "chiPutukezi"
   },
   "qu": {
     "name": "Quechua"
@@ -399,13 +399,13 @@
     "name": "Rundi"
   },
   "ro": {
-    "name": "Romanian"
+    "name": "chiRomanian"
   },
   "ru": {
-    "name": "Russian"
+    "name": "chiRashiya"
   },
   "rw": {
-    "name": "Kinyarwanda"
+    "name": "chiRwanda"
   },
   "sa": {
     "name": "Sanskrit"
@@ -438,10 +438,10 @@
     "name": "Samoan"
   },
   "sn": {
-    "name": "Shona"
+    "name": "chiShona"
   },
   "so": {
-    "name": "Somali"
+    "name": "chiSomali"
   },
   "sq": {
     "name": "Albanian"
@@ -459,13 +459,13 @@
     "name": "Sundanese"
   },
   "sv": {
-    "name": "Swedish"
+    "name": "chiSwedish"
   },
   "sw": {
     "name": "Swahili (macrolanguage)"
   },
   "ta": {
-    "name": "Tamil"
+    "name": "chiTamil"
   },
   "te": {
     "name": "Telugu"
@@ -474,7 +474,7 @@
     "name": "Tajik"
   },
   "th": {
-    "name": "Thai"
+    "name": "chiThai"
   },
   "ti": {
     "name": "Tigrinya"
@@ -492,7 +492,7 @@
     "name": "Tonga (Tonga Islands)"
   },
   "tr": {
-    "name": "Turkish"
+    "name": "chiTurkish"
   },
   "ts": {
     "name": "Tsonga"
@@ -501,7 +501,7 @@
     "name": "Tatar"
   },
   "tw": {
-    "name": "Twi"
+    "name": "chiAkani"
   },
   "ty": {
     "name": "Tahitian"
@@ -510,10 +510,10 @@
     "name": "Uighur"
   },
   "uk": {
-    "name": "Ukrainian"
+    "name": "chiUkrenia"
   },
   "ur": {
-    "name": "Urdu"
+    "name": "chiUrdu"
   },
   "uz": {
     "name": "Uzbek"
@@ -522,7 +522,7 @@
     "name": "Venda"
   },
   "vi": {
-    "name": "Vietnamese"
+    "name": "chiVietnam"
   },
   "vo": {
     "name": "Volapük"
@@ -540,21 +540,21 @@
     "name": "Yiddish"
   },
   "yo": {
-    "name": "Yoruba"
+    "name": "chiYoruba"
   },
   "za": {
     "name": "Zhuang"
   },
   "zh": {
-    "name": "Chinese"
+    "name": "chiChinese"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "Chinese (Simplified)"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "Chinese (Traditional)"
   },
   "zu": {
-    "name": "Zulu"
+    "name": "chiZulu"
   }
 }

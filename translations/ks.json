@@ -1,560 +1,560 @@
 {
   "aa": {
-    "name": "Afar"
+    "name": "اَفار"
   },
   "ab": {
-    "name": "Abkhazian"
+    "name": "اَبخازِیان"
   },
   "ae": {
-    "name": "Avestan"
+    "name": "اَویستَن"
   },
   "af": {
-    "name": "Afrikaans"
+    "name": "اَفریٖکانز"
   },
   "ak": {
-    "name": "Akan"
+    "name": "اَکان"
   },
   "am": {
-    "name": "Amharic"
+    "name": "اَمہاری"
   },
   "an": {
-    "name": "Aragonese"
+    "name": "اَراگونی"
   },
   "ar": {
-    "name": "Arabic"
+    "name": "عربی"
   },
   "as": {
-    "name": "Assamese"
+    "name": "اسٲمؠ"
   },
   "av": {
-    "name": "Avaric"
+    "name": "اَوارِک"
   },
   "ay": {
-    "name": "Aymara"
+    "name": "ایمارا"
   },
   "az": {
-    "name": "Azerbaijani"
+    "name": "اَزَربیجانی"
   },
   "ba": {
-    "name": "Bashkir"
+    "name": "بَشکیٖر"
   },
   "be": {
-    "name": "Belarusian"
+    "name": "بیلَروٗشیَن"
   },
   "bg": {
-    "name": "Bulgarian"
+    "name": "بینا"
   },
   "bi": {
-    "name": "Bislama"
+    "name": "بِسلاما"
   },
   "bm": {
-    "name": "Bambara"
+    "name": "بَمبارا"
   },
   "bn": {
-    "name": "Bengali"
+    "name": "بَنگٲلؠ"
   },
   "bo": {
-    "name": "Tibetan"
+    "name": "تِبتی"
   },
   "br": {
-    "name": "Breton"
+    "name": "بریٹَن"
   },
   "bs": {
-    "name": "Bosnian"
+    "name": "بوسنِیَن"
   },
   "ca": {
-    "name": "Catalan"
+    "name": "کَتلان"
   },
   "ce": {
-    "name": "Chechen"
+    "name": "چیچَن"
   },
   "ch": {
-    "name": "Chamorro"
+    "name": "کَمورو"
   },
   "co": {
-    "name": "Corsican"
+    "name": "کارسِکَن"
   },
   "cr": {
-    "name": "Cree"
+    "name": "کری"
   },
   "cs": {
-    "name": "Czech"
+    "name": "چیک"
   },
   "cu": {
-    "name": "Church Slavic"
+    "name": "چٔرچ سلاوِک"
   },
   "cv": {
-    "name": "Chuvash"
+    "name": "چُواش"
   },
   "cy": {
-    "name": "Welsh"
+    "name": "ویلش"
   },
   "da": {
-    "name": "Danish"
+    "name": "ڈینِش"
   },
   "de": {
-    "name": "German"
+    "name": "جٔرمَن"
   },
   "dv": {
-    "name": "Divehi"
+    "name": "دِویہی"
   },
   "dz": {
-    "name": "Dzongkha"
+    "name": "زونگکھا"
   },
   "ee": {
-    "name": "Ewe"
+    "name": "ایٖو"
   },
   "el": {
-    "name": "Modern Greek (1453-)"
+    "name": "یوٗنٲنی"
   },
   "en": {
-    "name": "English"
+    "name": "اَنگیٖزؠ"
   },
   "eo": {
-    "name": "Esperanto"
+    "name": "ایسپَرینٹو"
   },
   "es": {
-    "name": "Spanish"
+    "name": "ہسپانوی"
   },
   "et": {
-    "name": "Estonian"
+    "name": "ایسٹونیَن"
   },
   "eu": {
-    "name": "Basque"
+    "name": "باسک"
   },
   "fa": {
-    "name": "Persian"
+    "name": "فارسی"
   },
   "ff": {
-    "name": "Fulah"
+    "name": "فُلاہ"
   },
   "fi": {
-    "name": "Finnish"
+    "name": "فِنِش"
   },
   "fj": {
-    "name": "Fijian"
+    "name": "فِجیَن"
   },
   "fo": {
-    "name": "Faroese"
+    "name": "فَروس"
   },
   "fr": {
-    "name": "French"
+    "name": "فرانسیسی"
   },
   "fy": {
-    "name": "Western Frisian"
+    "name": "مغربی فرِشیَن"
   },
   "ga": {
-    "name": "Irish"
+    "name": "اَیرِش"
   },
   "gd": {
-    "name": "Scottish Gaelic"
+    "name": "سکوٹِش گیےلِک"
   },
   "gl": {
-    "name": "Galician"
+    "name": "گیلِشِیَن"
   },
   "gn": {
-    "name": "Guarani"
+    "name": "گُوارَنی"
   },
   "gu": {
-    "name": "Gujarati"
+    "name": "گُجرٲتی"
   },
   "gv": {
-    "name": "Manx"
+    "name": "مینکس"
   },
   "ha": {
-    "name": "Hausa"
+    "name": "ہاوسا"
   },
   "he": {
-    "name": "Hebrew"
+    "name": "عبرٲنؠ"
   },
   "hi": {
-    "name": "Hindi"
+    "name": "ہِندی"
   },
   "ho": {
-    "name": "Hiri Motu"
+    "name": "ہِری موتوٗ"
   },
   "hr": {
-    "name": "Croatian"
+    "name": "کروشِیَن"
   },
   "ht": {
-    "name": "Haitian"
+    "name": "ہیتِیاں"
   },
   "hu": {
-    "name": "Hungarian"
+    "name": "ہَنگیریَن"
   },
   "hy": {
-    "name": "Armenian"
+    "name": "اَرمینیَن"
   },
   "hz": {
-    "name": "Herero"
+    "name": "ہیریٖرو"
   },
   "ia": {
-    "name": "Interlingua (International Auxiliary Language Association)"
+    "name": "اِنٹَرلِنگوا"
   },
   "id": {
-    "name": "Indonesian"
+    "name": "اِنڈونیشیا"
   },
   "ie": {
-    "name": "Interlingue"
+    "name": "اِنٹَر لِننگویے"
   },
   "ig": {
-    "name": "Igbo"
+    "name": "اِگبو"
   },
   "ii": {
-    "name": "Sichuan Yi"
+    "name": "سِچوان یٖی"
   },
   "ik": {
-    "name": "Inupiaq"
+    "name": "اِنُپِیاک"
   },
   "io": {
-    "name": "Ido"
+    "name": "اِڈو"
   },
   "is": {
-    "name": "Icelandic"
+    "name": "آیِسلینڈِک"
   },
   "it": {
-    "name": "Italian"
+    "name": "اِطالوی"
   },
   "iu": {
-    "name": "Inuktitut"
+    "name": "اِنُکتِتوٗ"
   },
   "ja": {
-    "name": "Japanese"
+    "name": "جاپٲنؠ"
   },
   "jv": {
-    "name": "Javanese"
+    "name": "جَوَنیٖز"
   },
   "ka": {
-    "name": "Georgian"
+    "name": "جارجِیَن"
   },
   "kg": {
-    "name": "Kongo"
+    "name": "کونگو"
   },
   "ki": {
-    "name": "Kikuyu"
+    "name": "کِکُیوٗ"
   },
   "kj": {
-    "name": "Kuanyama"
+    "name": "کُوانیاما"
   },
   "kk": {
-    "name": "Kazakh"
+    "name": "کازَخ"
   },
   "kl": {
-    "name": "Kalaallisut"
+    "name": "کَلالِسُت"
   },
   "km": {
-    "name": "Khmer"
+    "name": "خَمیر"
   },
   "kn": {
-    "name": "Kannada"
+    "name": "کَنَڑ"
   },
   "ko": {
-    "name": "Korean"
+    "name": "کوریَن"
   },
   "kr": {
-    "name": "Kanuri"
+    "name": "کَنوٗری"
   },
   "ks": {
-    "name": "Kashmiri"
+    "name": "کٲشُر"
   },
   "ku": {
-    "name": "Kurdish"
+    "name": "کُردِش"
   },
   "kv": {
-    "name": "Komi"
+    "name": "کومی"
   },
   "kw": {
-    "name": "Cornish"
+    "name": "کورنِش"
   },
   "ky": {
-    "name": "Kirghiz"
+    "name": "کِرگِز"
   },
   "la": {
-    "name": "Latin"
+    "name": "لاتیٖنی"
   },
   "lb": {
-    "name": "Luxembourgish"
+    "name": "لُکھزیمبورگِش"
   },
   "lg": {
-    "name": "Ganda"
+    "name": "گاندا"
   },
   "li": {
-    "name": "Limburgan"
+    "name": "لِمبٔرگِش"
   },
   "ln": {
-    "name": "Lingala"
+    "name": "لِنگالا"
   },
   "lo": {
-    "name": "Lao"
+    "name": "لاو"
   },
   "lt": {
-    "name": "Lithuanian"
+    "name": "لِتھوانِیَن"
   },
   "lu": {
-    "name": "Luba-Katanga"
+    "name": "لوُبا کَتَنگا"
   },
   "lv": {
-    "name": "Latvian"
+    "name": "لَتوِیَن"
   },
   "mg": {
-    "name": "Malagasy"
+    "name": "مَلاگَسی"
   },
   "mh": {
-    "name": "Marshallese"
+    "name": "مارشَلیٖز"
   },
   "mi": {
-    "name": "Maori"
+    "name": "ماوری"
   },
   "mk": {
-    "name": "Macedonian"
+    "name": "میکَڈونیَن"
   },
   "ml": {
-    "name": "Malayalam"
+    "name": "مٔلیالَم"
   },
   "mn": {
-    "name": "Mongolian"
+    "name": "مَنگولی"
   },
   "mr": {
-    "name": "Marathi"
+    "name": "مَرٲٹھؠ"
   },
   "ms": {
-    "name": "Malay (macrolanguage)"
+    "name": "مَلَے"
   },
   "mt": {
-    "name": "Maltese"
+    "name": "مَلتیٖس"
   },
   "my": {
-    "name": "Burmese"
+    "name": "بٔمیٖز"
   },
   "na": {
-    "name": "Nauru"
+    "name": "ناورُ"
   },
   "nb": {
-    "name": "Norwegian Bokmål"
+    "name": "ناروییَن بوکمال"
   },
   "nd": {
-    "name": "North Ndebele"
+    "name": "شُمال ڈَبیل"
   },
   "ne": {
-    "name": "Nepali (macrolanguage)"
+    "name": "نیپٲلؠ"
   },
   "ng": {
-    "name": "Ndonga"
+    "name": "ڈونگا"
   },
   "nl": {
-    "name": "Dutch"
+    "name": "ڈَچ"
   },
   "nn": {
-    "name": "Norwegian Nynorsk"
+    "name": "ناروییَن نَے نورسک"
   },
   "no": {
-    "name": "Norwegian"
+    "name": "ناروییَن"
   },
   "nr": {
-    "name": "South Ndebele"
+    "name": "جنوب ڈیبیل"
   },
   "nv": {
-    "name": "Navajo"
+    "name": "نَواجو"
   },
   "ny": {
-    "name": "Chichewa"
+    "name": "نِیَنجا"
   },
   "oc": {
-    "name": "Occitan (post 1500)"
+    "name": "اوکسیٖٹَن"
   },
   "oj": {
-    "name": "Ojibwa"
+    "name": "اوجِبوا"
   },
   "om": {
-    "name": "Oromo"
+    "name": "اۆرومو"
   },
   "or": {
-    "name": "Oriya (macrolanguage)"
+    "name": "اۆرِیا"
   },
   "os": {
-    "name": "Ossetian"
+    "name": "اۆسیٹِک"
   },
   "pa": {
-    "name": "Panjabi"
+    "name": "پَنجٲبؠ"
   },
   "pi": {
-    "name": "Pali"
+    "name": "پالی"
   },
   "pl": {
-    "name": "Polish"
+    "name": "پالِش"
   },
   "ps": {
-    "name": "Pushto"
+    "name": "پَشتوٗ"
   },
   "pt": {
-    "name": "Portuguese"
+    "name": "پُرتَگیٖز"
   },
   "qu": {
-    "name": "Quechua"
+    "name": "کُویشُوا"
   },
   "rm": {
-    "name": "Romansh"
+    "name": "رومانش"
   },
   "rn": {
-    "name": "Rundi"
+    "name": "رُندی"
   },
   "ro": {
-    "name": "Romanian"
+    "name": "رومٲنی"
   },
   "ru": {
-    "name": "Russian"
+    "name": "روٗسی"
   },
   "rw": {
-    "name": "Kinyarwanda"
+    "name": "کِنیاوِندا"
   },
   "sa": {
-    "name": "Sanskrit"
+    "name": "سَنسکرٕت"
   },
   "sc": {
-    "name": "Sardinian"
+    "name": "سراڈیٖنی"
   },
   "sd": {
-    "name": "Sindhi"
+    "name": "سِندی"
   },
   "se": {
-    "name": "Northern Sami"
+    "name": "شُمٲلی سَمی"
   },
   "sg": {
-    "name": "Sango"
+    "name": "سَنگو"
   },
   "sh": {
-    "name": "Serbo-Croatian"
+    "name": "سٔربِیَن (لاطیٖنی)"
   },
   "si": {
-    "name": "Sinhala"
+    "name": "سِنہالا"
   },
   "sk": {
-    "name": "Slovak"
+    "name": "سلووَک"
   },
   "sl": {
-    "name": "Slovenian"
+    "name": "سلووینیَن"
   },
   "sm": {
-    "name": "Samoan"
+    "name": "سَمواَن"
   },
   "sn": {
-    "name": "Shona"
+    "name": "شونا"
   },
   "so": {
-    "name": "Somali"
+    "name": "سومٲلی"
   },
   "sq": {
-    "name": "Albanian"
+    "name": "البانِیَن"
   },
   "sr": {
-    "name": "Serbian"
+    "name": "سٔربِیَن"
   },
   "ss": {
-    "name": "Swati"
+    "name": "سواتی"
   },
   "st": {
-    "name": "Southern Sotho"
+    "name": "جنوبی ستھو"
   },
   "su": {
-    "name": "Sundanese"
+    "name": "سَنڈَنیٖز"
   },
   "sv": {
-    "name": "Swedish"
+    "name": "سویٖڈِش"
   },
   "sw": {
-    "name": "Swahili (macrolanguage)"
+    "name": "سواہِلی"
   },
   "ta": {
-    "name": "Tamil"
+    "name": "تَمِل"
   },
   "te": {
-    "name": "Telugu"
+    "name": "تیلگوٗ"
   },
   "tg": {
-    "name": "Tajik"
+    "name": "تاجِک"
   },
   "th": {
-    "name": "Thai"
+    "name": "تھاے"
   },
   "ti": {
-    "name": "Tigrinya"
+    "name": "ٹِگرِنیا"
   },
   "tk": {
-    "name": "Turkmen"
+    "name": "تُرکمین"
   },
   "tl": {
-    "name": "Tagalog"
+    "name": "فِلِپیٖنو"
   },
   "tn": {
-    "name": "Tswana"
+    "name": "سوانا"
   },
   "to": {
-    "name": "Tonga (Tonga Islands)"
+    "name": "ٹونگا"
   },
   "tr": {
-    "name": "Turkish"
+    "name": "تُرکِش"
   },
   "ts": {
-    "name": "Tsonga"
+    "name": "ژونگا"
   },
   "tt": {
-    "name": "Tatar"
+    "name": "تَتار"
   },
   "tw": {
-    "name": "Twi"
+    "name": "اَکان"
   },
   "ty": {
-    "name": "Tahitian"
+    "name": "تاہیشِیَن"
   },
   "ug": {
     "name": "Uighur"
   },
   "uk": {
-    "name": "Ukrainian"
+    "name": "یوٗکرینیٲیی"
   },
   "ur": {
-    "name": "Urdu"
+    "name": "اُردوٗ"
   },
   "uz": {
-    "name": "Uzbek"
+    "name": "اُزبیک"
   },
   "ve": {
-    "name": "Venda"
+    "name": "ویندا"
   },
   "vi": {
-    "name": "Vietnamese"
+    "name": "وِیَتنَمیٖز"
   },
   "vo": {
-    "name": "Volapük"
+    "name": "وولَپُک"
   },
   "wa": {
-    "name": "Walloon"
+    "name": "وَلوٗن"
   },
   "wo": {
-    "name": "Wolof"
+    "name": "وولوف"
   },
   "xh": {
-    "name": "Xhosa"
+    "name": "کھوسا"
   },
   "yi": {
-    "name": "Yiddish"
+    "name": "یِدِش"
   },
   "yo": {
-    "name": "Yoruba"
+    "name": "یورُبا"
   },
   "za": {
-    "name": "Zhuang"
+    "name": "زُہانگ"
   },
   "zh": {
-    "name": "Chinese"
+    "name": "چیٖنی ﴿ترجمع اِشارٕ: خاص طور، مینڈارن چیٖنی۔﴾"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "سَہل چیٖنی"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "رِوٲجی چیٖنی"
   },
   "zu": {
-    "name": "Zulu"
+    "name": "زُلوٗ"
   }
 }

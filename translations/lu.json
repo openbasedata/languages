@@ -12,16 +12,16 @@
     "name": "Afrikaans"
   },
   "ak": {
-    "name": "Akan"
+    "name": "Liakan"
   },
   "am": {
-    "name": "Amharic"
+    "name": "Liamhariki"
   },
   "an": {
     "name": "Aragonese"
   },
   "ar": {
-    "name": "Arabic"
+    "name": "Arabi"
   },
   "as": {
     "name": "Assamese"
@@ -39,10 +39,10 @@
     "name": "Bashkir"
   },
   "be": {
-    "name": "Belarusian"
+    "name": "Belarusi"
   },
   "bg": {
-    "name": "Bulgarian"
+    "name": "Bulegari"
   },
   "bi": {
     "name": "Bislama"
@@ -78,7 +78,7 @@
     "name": "Cree"
   },
   "cs": {
-    "name": "Czech"
+    "name": "Tsheki"
   },
   "cu": {
     "name": "Church Slavic"
@@ -93,7 +93,7 @@
     "name": "Danish"
   },
   "de": {
-    "name": "German"
+    "name": "Lizelumani"
   },
   "dv": {
     "name": "Divehi"
@@ -105,16 +105,16 @@
     "name": "Ewe"
   },
   "el": {
-    "name": "Modern Greek (1453-)"
+    "name": "Giliki"
   },
   "en": {
-    "name": "English"
+    "name": "Lingelesa"
   },
   "eo": {
     "name": "Esperanto"
   },
   "es": {
-    "name": "Spanish"
+    "name": "Lihispania"
   },
   "et": {
     "name": "Estonian"
@@ -123,7 +123,7 @@
     "name": "Basque"
   },
   "fa": {
-    "name": "Persian"
+    "name": "Mpepajemi"
   },
   "ff": {
     "name": "Fulah"
@@ -138,7 +138,7 @@
     "name": "Faroese"
   },
   "fr": {
-    "name": "French"
+    "name": "Mfwàlànsa"
   },
   "fy": {
     "name": "Western Frisian"
@@ -180,7 +180,7 @@
     "name": "Haitian"
   },
   "hu": {
-    "name": "Hungarian"
+    "name": "Hongili"
   },
   "hy": {
     "name": "Armenian"
@@ -192,7 +192,7 @@
     "name": "Interlingua (International Auxiliary Language Association)"
   },
   "id": {
-    "name": "Indonesian"
+    "name": "Lindonezia"
   },
   "ie": {
     "name": "Interlingue"
@@ -213,16 +213,16 @@
     "name": "Icelandic"
   },
   "it": {
-    "name": "Italian"
+    "name": "Litali"
   },
   "iu": {
     "name": "Inuktitut"
   },
   "ja": {
-    "name": "Japanese"
+    "name": "Liyapani"
   },
   "jv": {
-    "name": "Javanese"
+    "name": "Java"
   },
   "ka": {
     "name": "Georgian"
@@ -249,7 +249,7 @@
     "name": "Kannada"
   },
   "ko": {
-    "name": "Korean"
+    "name": "Likoreya"
   },
   "kr": {
     "name": "Kanuri"
@@ -291,7 +291,7 @@
     "name": "Lithuanian"
   },
   "lu": {
-    "name": "Luba-Katanga"
+    "name": "Tshiluba"
   },
   "lv": {
     "name": "Latvian"
@@ -318,7 +318,7 @@
     "name": "Marathi"
   },
   "ms": {
-    "name": "Malay (macrolanguage)"
+    "name": "Limalezia"
   },
   "mt": {
     "name": "Maltese"
@@ -336,13 +336,13 @@
     "name": "North Ndebele"
   },
   "ne": {
-    "name": "Nepali (macrolanguage)"
+    "name": "nepali"
   },
   "ng": {
     "name": "Ndonga"
   },
   "nl": {
-    "name": "Dutch"
+    "name": "olandi"
   },
   "nn": {
     "name": "Norwegian Nynorsk"
@@ -375,19 +375,19 @@
     "name": "Ossetian"
   },
   "pa": {
-    "name": "Panjabi"
+    "name": "Lipunjabi"
   },
   "pi": {
     "name": "Pali"
   },
   "pl": {
-    "name": "Polish"
+    "name": "Mpoloni"
   },
   "ps": {
     "name": "Pushto"
   },
   "pt": {
-    "name": "Portuguese"
+    "name": "Mputulugɛsi"
   },
   "qu": {
     "name": "Quechua"
@@ -399,13 +399,13 @@
     "name": "Rundi"
   },
   "ro": {
-    "name": "Romanian"
+    "name": "Liromani"
   },
   "ru": {
-    "name": "Russian"
+    "name": "Lirisi"
   },
   "rw": {
-    "name": "Kinyarwanda"
+    "name": "kinyarwanda"
   },
   "sa": {
     "name": "Sanskrit"
@@ -441,7 +441,7 @@
     "name": "Shona"
   },
   "so": {
-    "name": "Somali"
+    "name": "Lisomali"
   },
   "sq": {
     "name": "Albanian"
@@ -459,13 +459,13 @@
     "name": "Sundanese"
   },
   "sv": {
-    "name": "Swedish"
+    "name": "Lisuwidi"
   },
   "sw": {
     "name": "Swahili (macrolanguage)"
   },
   "ta": {
-    "name": "Tamil"
+    "name": "Mtamuili"
   },
   "te": {
     "name": "Telugu"
@@ -474,7 +474,7 @@
     "name": "Tajik"
   },
   "th": {
-    "name": "Thai"
+    "name": "Ntailandi"
   },
   "ti": {
     "name": "Tigrinya"
@@ -492,7 +492,7 @@
     "name": "Tonga (Tonga Islands)"
   },
   "tr": {
-    "name": "Turkish"
+    "name": "Ntuluki"
   },
   "ts": {
     "name": "Tsonga"
@@ -501,7 +501,7 @@
     "name": "Tatar"
   },
   "tw": {
-    "name": "Twi"
+    "name": "Liakan"
   },
   "ty": {
     "name": "Tahitian"
@@ -510,7 +510,7 @@
     "name": "Uighur"
   },
   "uk": {
-    "name": "Ukrainian"
+    "name": "Nkrani"
   },
   "ur": {
     "name": "Urdu"
@@ -522,7 +522,7 @@
     "name": "Venda"
   },
   "vi": {
-    "name": "Vietnamese"
+    "name": "Liviyetinamu"
   },
   "vo": {
     "name": "Volapük"
@@ -540,21 +540,21 @@
     "name": "Yiddish"
   },
   "yo": {
-    "name": "Yoruba"
+    "name": "Nyoruba"
   },
   "za": {
     "name": "Zhuang"
   },
   "zh": {
-    "name": "Chinese"
+    "name": "shinɛ"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "Chinese (Simplified)"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "Chinese (Traditional)"
   },
   "zu": {
-    "name": "Zulu"
+    "name": "Nzulu"
   }
 }

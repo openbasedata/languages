@@ -3,10 +3,10 @@
     "name": "Afar"
   },
   "ab": {
-    "name": "Abkhazian"
+    "name": "Abchasesch"
   },
   "ae": {
-    "name": "Avestan"
+    "name": "Avestesch"
   },
   "af": {
     "name": "Afrikaans"
@@ -15,142 +15,142 @@
     "name": "Akan"
   },
   "am": {
-    "name": "Amharic"
+    "name": "Amharesch"
   },
   "an": {
-    "name": "Aragonese"
+    "name": "Aragonesesch"
   },
   "ar": {
-    "name": "Arabic"
+    "name": "Arabesch"
   },
   "as": {
-    "name": "Assamese"
+    "name": "Assamesesch"
   },
   "av": {
-    "name": "Avaric"
+    "name": "Awaresch"
   },
   "ay": {
     "name": "Aymara"
   },
   "az": {
-    "name": "Azerbaijani"
+    "name": "Aserbaidschanesch"
   },
   "ba": {
-    "name": "Bashkir"
+    "name": "Baschkiresch"
   },
   "be": {
-    "name": "Belarusian"
+    "name": "Wäissrussesch"
   },
   "bg": {
-    "name": "Bulgarian"
+    "name": "Bulgaresch"
   },
   "bi": {
     "name": "Bislama"
   },
   "bm": {
-    "name": "Bambara"
+    "name": "Bambara-Sprooch"
   },
   "bn": {
-    "name": "Bengali"
+    "name": "Bengalesch"
   },
   "bo": {
-    "name": "Tibetan"
+    "name": "Tibetesch"
   },
   "br": {
-    "name": "Breton"
+    "name": "Bretonesch"
   },
   "bs": {
-    "name": "Bosnian"
+    "name": "Bosnesch"
   },
   "ca": {
-    "name": "Catalan"
+    "name": "Katalanesch"
   },
   "ce": {
-    "name": "Chechen"
+    "name": "Tschetschenesch"
   },
   "ch": {
-    "name": "Chamorro"
+    "name": "Chamorro-Sprooch"
   },
   "co": {
-    "name": "Corsican"
+    "name": "Korsesch"
   },
   "cr": {
     "name": "Cree"
   },
   "cs": {
-    "name": "Czech"
+    "name": "Tschechesch"
   },
   "cu": {
-    "name": "Church Slavic"
+    "name": "Kiercheslawesch"
   },
   "cv": {
-    "name": "Chuvash"
+    "name": "Tschuwaschesch"
   },
   "cy": {
-    "name": "Welsh"
+    "name": "Walisesch"
   },
   "da": {
-    "name": "Danish"
+    "name": "Dänesch"
   },
   "de": {
-    "name": "German"
+    "name": "Däitsch"
   },
   "dv": {
-    "name": "Divehi"
+    "name": "Maldivesch"
   },
   "dz": {
-    "name": "Dzongkha"
+    "name": "Bhutanesch"
   },
   "ee": {
-    "name": "Ewe"
+    "name": "Ewe-Sprooch"
   },
   "el": {
-    "name": "Modern Greek (1453-)"
+    "name": "Griichesch"
   },
   "en": {
-    "name": "English"
+    "name": "Englesch"
   },
   "eo": {
     "name": "Esperanto"
   },
   "es": {
-    "name": "Spanish"
+    "name": "Spuenesch"
   },
   "et": {
-    "name": "Estonian"
+    "name": "Estnesch"
   },
   "eu": {
-    "name": "Basque"
+    "name": "Baskesch"
   },
   "fa": {
-    "name": "Persian"
+    "name": "Persesch"
   },
   "ff": {
-    "name": "Fulah"
+    "name": "Ful"
   },
   "fi": {
-    "name": "Finnish"
+    "name": "Finnesch"
   },
   "fj": {
-    "name": "Fijian"
+    "name": "Fidschianesch"
   },
   "fo": {
-    "name": "Faroese"
+    "name": "Färöesch"
   },
   "fr": {
-    "name": "French"
+    "name": "Franséisch"
   },
   "fy": {
-    "name": "Western Frisian"
+    "name": "Westfriesesch"
   },
   "ga": {
-    "name": "Irish"
+    "name": "Iresch"
   },
   "gd": {
-    "name": "Scottish Gaelic"
+    "name": "Schottescht Gällesch"
   },
   "gl": {
-    "name": "Galician"
+    "name": "Galizesch"
   },
   "gn": {
     "name": "Guarani"
@@ -165,277 +165,277 @@
     "name": "Hausa"
   },
   "he": {
-    "name": "Hebrew"
+    "name": "Hebräesch"
   },
   "hi": {
     "name": "Hindi"
   },
   "ho": {
-    "name": "Hiri Motu"
+    "name": "Hiri-Motu"
   },
   "hr": {
-    "name": "Croatian"
+    "name": "Kroatesch"
   },
   "ht": {
-    "name": "Haitian"
+    "name": "Haitianesch"
   },
   "hu": {
-    "name": "Hungarian"
+    "name": "Ungaresch"
   },
   "hy": {
-    "name": "Armenian"
+    "name": "Armenesch"
   },
   "hz": {
-    "name": "Herero"
+    "name": "Herero-Sprooch"
   },
   "ia": {
-    "name": "Interlingua (International Auxiliary Language Association)"
+    "name": "Interlingua"
   },
   "id": {
-    "name": "Indonesian"
+    "name": "Indonesesch"
   },
   "ie": {
     "name": "Interlingue"
   },
   "ig": {
-    "name": "Igbo"
+    "name": "Igbo-Sprooch"
   },
   "ii": {
     "name": "Sichuan Yi"
   },
   "ik": {
-    "name": "Inupiaq"
+    "name": "Inupiak"
   },
   "io": {
-    "name": "Ido"
+    "name": "Ido-Sprooch"
   },
   "is": {
-    "name": "Icelandic"
+    "name": "Islännesch"
   },
   "it": {
-    "name": "Italian"
+    "name": "Italienesch"
   },
   "iu": {
-    "name": "Inuktitut"
+    "name": "Inukitut"
   },
   "ja": {
-    "name": "Japanese"
+    "name": "Japanesch"
   },
   "jv": {
-    "name": "Javanese"
+    "name": "Javanesch"
   },
   "ka": {
-    "name": "Georgian"
+    "name": "Georgesch"
   },
   "kg": {
-    "name": "Kongo"
+    "name": "Kongolesesch"
   },
   "ki": {
-    "name": "Kikuyu"
+    "name": "Kikuyu-Sprooch"
   },
   "kj": {
-    "name": "Kuanyama"
+    "name": "Kwanyama"
   },
   "kk": {
-    "name": "Kazakh"
+    "name": "Kasachesch"
   },
   "kl": {
-    "name": "Kalaallisut"
+    "name": "Grönlännesch"
   },
   "km": {
-    "name": "Khmer"
+    "name": "Kambodschanesch"
   },
   "kn": {
     "name": "Kannada"
   },
   "ko": {
-    "name": "Korean"
+    "name": "Koreanesch"
   },
   "kr": {
-    "name": "Kanuri"
+    "name": "Kanuri-Sprooch"
   },
   "ks": {
-    "name": "Kashmiri"
+    "name": "Kaschmiresch"
   },
   "ku": {
-    "name": "Kurdish"
+    "name": "Kurdesch"
   },
   "kv": {
-    "name": "Komi"
+    "name": "Komi-Sprooch"
   },
   "kw": {
-    "name": "Cornish"
+    "name": "Kornesch"
   },
   "ky": {
-    "name": "Kirghiz"
+    "name": "Kirgisesch"
   },
   "la": {
-    "name": "Latin"
+    "name": "Latäin"
   },
   "lb": {
-    "name": "Luxembourgish"
+    "name": "Lëtzebuergesch"
   },
   "lg": {
-    "name": "Ganda"
+    "name": "Ganda-Sprooch"
   },
   "li": {
-    "name": "Limburgan"
+    "name": "Limburgesch"
   },
   "ln": {
     "name": "Lingala"
   },
   "lo": {
-    "name": "Lao"
+    "name": "Laotesch"
   },
   "lt": {
-    "name": "Lithuanian"
+    "name": "Litauesch"
   },
   "lu": {
     "name": "Luba-Katanga"
   },
   "lv": {
-    "name": "Latvian"
+    "name": "Lettesch"
   },
   "mg": {
-    "name": "Malagasy"
+    "name": "Malagassi-Sprooch"
   },
   "mh": {
-    "name": "Marshallese"
+    "name": "Marschallesesch"
   },
   "mi": {
     "name": "Maori"
   },
   "mk": {
-    "name": "Macedonian"
+    "name": "Mazedonesch"
   },
   "ml": {
     "name": "Malayalam"
   },
   "mn": {
-    "name": "Mongolian"
+    "name": "Mongolesch"
   },
   "mr": {
     "name": "Marathi"
   },
   "ms": {
-    "name": "Malay (macrolanguage)"
+    "name": "Malaiesch"
   },
   "mt": {
-    "name": "Maltese"
+    "name": "Maltesesch"
   },
   "my": {
-    "name": "Burmese"
+    "name": "Birmanesch"
   },
   "na": {
-    "name": "Nauru"
+    "name": "Nauruesch"
   },
   "nb": {
-    "name": "Norwegian Bokmål"
+    "name": "Norwegesch Bokmål"
   },
   "nd": {
-    "name": "North Ndebele"
+    "name": "Nord-Ndebele-Sprooch"
   },
   "ne": {
-    "name": "Nepali (macrolanguage)"
+    "name": "Nepalesesch"
   },
   "ng": {
     "name": "Ndonga"
   },
   "nl": {
-    "name": "Dutch"
+    "name": "Hollännesch"
   },
   "nn": {
-    "name": "Norwegian Nynorsk"
+    "name": "Norwegesch Nynorsk"
   },
   "no": {
-    "name": "Norwegian"
+    "name": "Norwegesch"
   },
   "nr": {
-    "name": "South Ndebele"
+    "name": "Süd-Ndebele-Sprooch"
   },
   "nv": {
     "name": "Navajo"
   },
   "ny": {
-    "name": "Chichewa"
+    "name": "Nyanja-Sprooch"
   },
   "oc": {
-    "name": "Occitan (post 1500)"
+    "name": "Okzitanesch"
   },
   "oj": {
-    "name": "Ojibwa"
+    "name": "Ojibwa-Sprooch"
   },
   "om": {
     "name": "Oromo"
   },
   "or": {
-    "name": "Oriya (macrolanguage)"
+    "name": "Orija"
   },
   "os": {
-    "name": "Ossetian"
+    "name": "Ossetesch"
   },
   "pa": {
-    "name": "Panjabi"
+    "name": "Pandschabesch"
   },
   "pi": {
     "name": "Pali"
   },
   "pl": {
-    "name": "Polish"
+    "name": "Polnesch"
   },
   "ps": {
-    "name": "Pushto"
+    "name": "Paschtu"
   },
   "pt": {
-    "name": "Portuguese"
+    "name": "Portugisesch"
   },
   "qu": {
     "name": "Quechua"
   },
   "rm": {
-    "name": "Romansh"
+    "name": "Rätoromanesch"
   },
   "rn": {
-    "name": "Rundi"
+    "name": "Rundi-Sprooch"
   },
   "ro": {
-    "name": "Romanian"
+    "name": "Rumänesch"
   },
   "ru": {
-    "name": "Russian"
+    "name": "Russesch"
   },
   "rw": {
-    "name": "Kinyarwanda"
+    "name": "Ruandesch"
   },
   "sa": {
     "name": "Sanskrit"
   },
   "sc": {
-    "name": "Sardinian"
+    "name": "Sardesch"
   },
   "sd": {
     "name": "Sindhi"
   },
   "se": {
-    "name": "Northern Sami"
+    "name": "Nordsamesch"
   },
   "sg": {
     "name": "Sango"
   },
   "sh": {
-    "name": "Serbo-Croatian"
+    "name": "Serbesch (Laténgesch)"
   },
   "si": {
-    "name": "Sinhala"
+    "name": "Singhalesesch"
   },
   "sk": {
-    "name": "Slovak"
+    "name": "Slowakesch"
   },
   "sl": {
-    "name": "Slovenian"
+    "name": "Slowenesch"
   },
   "sm": {
-    "name": "Samoan"
+    "name": "Samoanesch"
   },
   "sn": {
     "name": "Shona"
@@ -444,91 +444,91 @@
     "name": "Somali"
   },
   "sq": {
-    "name": "Albanian"
+    "name": "Albanesch"
   },
   "sr": {
-    "name": "Serbian"
+    "name": "Serbesch"
   },
   "ss": {
-    "name": "Swati"
+    "name": "Swazi"
   },
   "st": {
-    "name": "Southern Sotho"
+    "name": "Süd-Sotho-Sprooch"
   },
   "su": {
-    "name": "Sundanese"
+    "name": "Sundanesesch"
   },
   "sv": {
-    "name": "Swedish"
+    "name": "Schwedesch"
   },
   "sw": {
-    "name": "Swahili (macrolanguage)"
+    "name": "Suaheli"
   },
   "ta": {
-    "name": "Tamil"
+    "name": "Tamilesch"
   },
   "te": {
     "name": "Telugu"
   },
   "tg": {
-    "name": "Tajik"
+    "name": "Tadschikesch"
   },
   "th": {
-    "name": "Thai"
+    "name": "Thailännesch"
   },
   "ti": {
-    "name": "Tigrinya"
+    "name": "Tigrinja"
   },
   "tk": {
-    "name": "Turkmen"
+    "name": "Turkmenesch"
   },
   "tl": {
-    "name": "Tagalog"
+    "name": "Filipino"
   },
   "tn": {
-    "name": "Tswana"
+    "name": "Tswana-Sprooch"
   },
   "to": {
-    "name": "Tonga (Tonga Islands)"
+    "name": "Tongaesch"
   },
   "tr": {
-    "name": "Turkish"
+    "name": "Tierkesch"
   },
   "ts": {
     "name": "Tsonga"
   },
   "tt": {
-    "name": "Tatar"
+    "name": "Tataresch"
   },
   "tw": {
-    "name": "Twi"
+    "name": "Akan"
   },
   "ty": {
-    "name": "Tahitian"
+    "name": "Tahitesch"
   },
   "ug": {
-    "name": "Uighur"
+    "name": "Uiguresch"
   },
   "uk": {
-    "name": "Ukrainian"
+    "name": "Ukrainesch"
   },
   "ur": {
     "name": "Urdu"
   },
   "uz": {
-    "name": "Uzbek"
+    "name": "Usbekesch"
   },
   "ve": {
-    "name": "Venda"
+    "name": "Venda-Sprooch"
   },
   "vi": {
-    "name": "Vietnamese"
+    "name": "Vietnamesesch"
   },
   "vo": {
     "name": "Volapük"
   },
   "wa": {
-    "name": "Walloon"
+    "name": "Wallounesch"
   },
   "wo": {
     "name": "Wolof"
@@ -537,7 +537,7 @@
     "name": "Xhosa"
   },
   "yi": {
-    "name": "Yiddish"
+    "name": "Jiddesch"
   },
   "yo": {
     "name": "Yoruba"
@@ -546,13 +546,13 @@
     "name": "Zhuang"
   },
   "zh": {
-    "name": "Chinese"
+    "name": "Chinesesch"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "Chinesesch (vereinfacht)"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "Chinesesch (traditionell)"
   },
   "zu": {
     "name": "Zulu"

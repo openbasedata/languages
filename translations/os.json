@@ -3,13 +3,13 @@
     "name": "Afar"
   },
   "ab": {
-    "name": "Abkhazian"
+    "name": "абхазаг"
   },
   "ae": {
-    "name": "Avestan"
+    "name": "авестӕ"
   },
   "af": {
-    "name": "Afrikaans"
+    "name": "африкаанс"
   },
   "ak": {
     "name": "Akan"
@@ -21,28 +21,28 @@
     "name": "Aragonese"
   },
   "ar": {
-    "name": "Arabic"
+    "name": "араббаг"
   },
   "as": {
     "name": "Assamese"
   },
   "av": {
-    "name": "Avaric"
+    "name": "авайраг"
   },
   "ay": {
     "name": "Aymara"
   },
   "az": {
-    "name": "Azerbaijani"
+    "name": "тӕтӕйраг"
   },
   "ba": {
-    "name": "Bashkir"
+    "name": "башкираг"
   },
   "be": {
     "name": "Belarusian"
   },
   "bg": {
-    "name": "Bulgarian"
+    "name": "болгайраг"
   },
   "bi": {
     "name": "Bislama"
@@ -60,13 +60,13 @@
     "name": "Breton"
   },
   "bs": {
-    "name": "Bosnian"
+    "name": "босниаг"
   },
   "ca": {
-    "name": "Catalan"
+    "name": "каталайнаг"
   },
   "ce": {
-    "name": "Chechen"
+    "name": "цӕцӕйнаг"
   },
   "ch": {
     "name": "Chamorro"
@@ -78,22 +78,22 @@
     "name": "Cree"
   },
   "cs": {
-    "name": "Czech"
+    "name": "чехаг"
   },
   "cu": {
     "name": "Church Slavic"
   },
   "cv": {
-    "name": "Chuvash"
+    "name": "чувашаг"
   },
   "cy": {
     "name": "Welsh"
   },
   "da": {
-    "name": "Danish"
+    "name": "даниаг"
   },
   "de": {
-    "name": "German"
+    "name": "немыцаг"
   },
   "dv": {
     "name": "Divehi"
@@ -105,46 +105,46 @@
     "name": "Ewe"
   },
   "el": {
-    "name": "Modern Greek (1453-)"
+    "name": "бердзейнаг"
   },
   "en": {
-    "name": "English"
+    "name": "англисаг"
   },
   "eo": {
-    "name": "Esperanto"
+    "name": "есперанто"
   },
   "es": {
-    "name": "Spanish"
+    "name": "испайнаг"
   },
   "et": {
-    "name": "Estonian"
+    "name": "естойнаг"
   },
   "eu": {
-    "name": "Basque"
+    "name": "баскаг"
   },
   "fa": {
-    "name": "Persian"
+    "name": "персайнаг"
   },
   "ff": {
     "name": "Fulah"
   },
   "fi": {
-    "name": "Finnish"
+    "name": "финнаг"
   },
   "fj": {
-    "name": "Fijian"
+    "name": "фиджи"
   },
   "fo": {
-    "name": "Faroese"
+    "name": "фарераг"
   },
   "fr": {
-    "name": "French"
+    "name": "францаг"
   },
   "fy": {
     "name": "Western Frisian"
   },
   "ga": {
-    "name": "Irish"
+    "name": "ирландиаг"
   },
   "gd": {
     "name": "Scottish Gaelic"
@@ -165,7 +165,7 @@
     "name": "Hausa"
   },
   "he": {
-    "name": "Hebrew"
+    "name": "уираг"
   },
   "hi": {
     "name": "Hindi"
@@ -174,16 +174,16 @@
     "name": "Hiri Motu"
   },
   "hr": {
-    "name": "Croatian"
+    "name": "хорватаг"
   },
   "ht": {
     "name": "Haitian"
   },
   "hu": {
-    "name": "Hungarian"
+    "name": "венгериаг"
   },
   "hy": {
-    "name": "Armenian"
+    "name": "сомихаг"
   },
   "hz": {
     "name": "Herero"
@@ -213,19 +213,19 @@
     "name": "Icelandic"
   },
   "it": {
-    "name": "Italian"
+    "name": "италиаг"
   },
   "iu": {
     "name": "Inuktitut"
   },
   "ja": {
-    "name": "Japanese"
+    "name": "япойнаг"
   },
   "jv": {
     "name": "Javanese"
   },
   "ka": {
-    "name": "Georgian"
+    "name": "гуырдзиаг"
   },
   "kg": {
     "name": "Kongo"
@@ -258,7 +258,7 @@
     "name": "Kashmiri"
   },
   "ku": {
-    "name": "Kurdish"
+    "name": "курдаг"
   },
   "kv": {
     "name": "Komi"
@@ -270,7 +270,7 @@
     "name": "Kirghiz"
   },
   "la": {
-    "name": "Latin"
+    "name": "латинаг"
   },
   "lb": {
     "name": "Luxembourgish"
@@ -306,7 +306,7 @@
     "name": "Maori"
   },
   "mk": {
-    "name": "Macedonian"
+    "name": "мӕчъидон"
   },
   "ml": {
     "name": "Malayalam"
@@ -372,7 +372,7 @@
     "name": "Oriya (macrolanguage)"
   },
   "os": {
-    "name": "Ossetian"
+    "name": "ирон"
   },
   "pa": {
     "name": "Panjabi"
@@ -387,7 +387,7 @@
     "name": "Pushto"
   },
   "pt": {
-    "name": "Portuguese"
+    "name": "португалиаг"
   },
   "qu": {
     "name": "Quechua"
@@ -402,7 +402,7 @@
     "name": "Romanian"
   },
   "ru": {
-    "name": "Russian"
+    "name": "уырыссаг"
   },
   "rw": {
     "name": "Kinyarwanda"
@@ -483,7 +483,7 @@
     "name": "Turkmen"
   },
   "tl": {
-    "name": "Tagalog"
+    "name": "филиппинаг"
   },
   "tn": {
     "name": "Tswana"
@@ -546,13 +546,13 @@
     "name": "Zhuang"
   },
   "zh": {
-    "name": "Chinese"
+    "name": "китайаг"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "ӕнцонгонд китайаг"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "традицион китайаг"
   },
   "zu": {
     "name": "Zulu"

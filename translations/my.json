@@ -1,560 +1,560 @@
 {
   "aa": {
-    "name": "Afar"
+    "name": "အာဖာ"
   },
   "ab": {
-    "name": "Abkhazian"
+    "name": "အဘ်ခါဇီရာ"
   },
   "ae": {
     "name": "Avestan"
   },
   "af": {
-    "name": "Afrikaans"
+    "name": "အာဖရိကန်"
   },
   "ak": {
-    "name": "Akan"
+    "name": "အာကန်"
   },
   "am": {
-    "name": "Amharic"
+    "name": "အမ်ဟာရစ်ခ်"
   },
   "an": {
-    "name": "Aragonese"
+    "name": "အာရာဂွန်"
   },
   "ar": {
-    "name": "Arabic"
+    "name": "အာရဗီ"
   },
   "as": {
-    "name": "Assamese"
+    "name": "အာသံ"
   },
   "av": {
-    "name": "Avaric"
+    "name": "အာဗာရစ်ခ်"
   },
   "ay": {
-    "name": "Aymara"
+    "name": "အိုင်မာရ"
   },
   "az": {
-    "name": "Azerbaijani"
+    "name": "အဇာဘိုင်ဂျန်"
   },
   "ba": {
-    "name": "Bashkir"
+    "name": "ဘက်ရှ်ကာ"
   },
   "be": {
-    "name": "Belarusian"
+    "name": "ဘီလာရုစ်"
   },
   "bg": {
-    "name": "Bulgarian"
+    "name": "ဘူလ်ဂေးရီးယား"
   },
   "bi": {
-    "name": "Bislama"
+    "name": "ဘစ်စ်လာမာ"
   },
   "bm": {
-    "name": "Bambara"
+    "name": "ဘန်ဘာရာ"
   },
   "bn": {
-    "name": "Bengali"
+    "name": "ဘင်္ဂါလီ"
   },
   "bo": {
-    "name": "Tibetan"
+    "name": "တိဘက်"
   },
   "br": {
-    "name": "Breton"
+    "name": "ဘရီတွန်"
   },
   "bs": {
-    "name": "Bosnian"
+    "name": "ဘော့စ်နီးယား"
   },
   "ca": {
-    "name": "Catalan"
+    "name": "ကတ်တလန်"
   },
   "ce": {
-    "name": "Chechen"
+    "name": "ချက်ချန်း"
   },
   "ch": {
-    "name": "Chamorro"
+    "name": "ချမိုရို"
   },
   "co": {
-    "name": "Corsican"
+    "name": "ခိုစီကန်"
   },
   "cr": {
-    "name": "Cree"
+    "name": "ခရီး"
   },
   "cs": {
-    "name": "Czech"
+    "name": "ချက်"
   },
   "cu": {
-    "name": "Church Slavic"
+    "name": "ချပ်ချ် စလာဗစ်"
   },
   "cv": {
-    "name": "Chuvash"
+    "name": "ချူဗက်ရှ်"
   },
   "cy": {
-    "name": "Welsh"
+    "name": "ဝေလ"
   },
   "da": {
-    "name": "Danish"
+    "name": "ဒိန်းမတ်"
   },
   "de": {
-    "name": "German"
+    "name": "ဂျာမန်"
   },
   "dv": {
-    "name": "Divehi"
+    "name": "ဒီဗာဟီ"
   },
   "dz": {
-    "name": "Dzongkha"
+    "name": "ဒဇွန်ကာ"
   },
   "ee": {
-    "name": "Ewe"
+    "name": "အီဝီ"
   },
   "el": {
-    "name": "Modern Greek (1453-)"
+    "name": "ဂရိ"
   },
   "en": {
-    "name": "English"
+    "name": "အင်္ဂလိပ်"
   },
   "eo": {
-    "name": "Esperanto"
+    "name": "အက်စ်ပရန်တို"
   },
   "es": {
-    "name": "Spanish"
+    "name": "စပိန်"
   },
   "et": {
-    "name": "Estonian"
+    "name": "အက်စ်တိုးနီးယား"
   },
   "eu": {
-    "name": "Basque"
+    "name": "ဘာစ်ခ်"
   },
   "fa": {
-    "name": "Persian"
+    "name": "ပါရှန်"
   },
   "ff": {
-    "name": "Fulah"
+    "name": "ဖူလာ"
   },
   "fi": {
-    "name": "Finnish"
+    "name": "ဖင်လန်"
   },
   "fj": {
-    "name": "Fijian"
+    "name": "ဖီဂျီ"
   },
   "fo": {
-    "name": "Faroese"
+    "name": "ဖာရို"
   },
   "fr": {
-    "name": "French"
+    "name": "ပြင်သစ်"
   },
   "fy": {
-    "name": "Western Frisian"
+    "name": "အနောက် ဖရီစီရန်"
   },
   "ga": {
-    "name": "Irish"
+    "name": "အိုင်းရစ်ရှ်"
   },
   "gd": {
-    "name": "Scottish Gaelic"
+    "name": "စကော့တစ်ရှ် ဂေးလစ်ခ်"
   },
   "gl": {
-    "name": "Galician"
+    "name": "ဂါလီစီယာ"
   },
   "gn": {
-    "name": "Guarani"
+    "name": "ဂူအာရာနီ"
   },
   "gu": {
-    "name": "Gujarati"
+    "name": "ဂူဂျာရသီ"
   },
   "gv": {
-    "name": "Manx"
+    "name": "မန်းဇ်"
   },
   "ha": {
-    "name": "Hausa"
+    "name": "ဟာဥစာ"
   },
   "he": {
-    "name": "Hebrew"
+    "name": "ဟီဘရူး"
   },
   "hi": {
-    "name": "Hindi"
+    "name": "ဟိန္ဒီ"
   },
   "ho": {
     "name": "Hiri Motu"
   },
   "hr": {
-    "name": "Croatian"
+    "name": "ခရိုအေးရှား"
   },
   "ht": {
-    "name": "Haitian"
+    "name": "ဟေတီ"
   },
   "hu": {
-    "name": "Hungarian"
+    "name": "ဟန်ဂေရီ"
   },
   "hy": {
-    "name": "Armenian"
+    "name": "အာမေးနီးယား"
   },
   "hz": {
-    "name": "Herero"
+    "name": "ဟီရဲရို"
   },
   "ia": {
-    "name": "Interlingua (International Auxiliary Language Association)"
+    "name": "အင်တာလင်ဂွါ"
   },
   "id": {
-    "name": "Indonesian"
+    "name": "အင်ဒိုနီးရှား"
   },
   "ie": {
-    "name": "Interlingue"
+    "name": "အင်တာလင်း"
   },
   "ig": {
-    "name": "Igbo"
+    "name": "အစ္ဂဘို"
   },
   "ii": {
-    "name": "Sichuan Yi"
+    "name": "စီချွမ် ရီ"
   },
   "ik": {
     "name": "Inupiaq"
   },
   "io": {
-    "name": "Ido"
+    "name": "အီဒို"
   },
   "is": {
-    "name": "Icelandic"
+    "name": "အိုက်စ်လန်"
   },
   "it": {
-    "name": "Italian"
+    "name": "အီတလီ"
   },
   "iu": {
-    "name": "Inuktitut"
+    "name": "အီနုခ်တီတု"
   },
   "ja": {
-    "name": "Japanese"
+    "name": "ဂျပန်"
   },
   "jv": {
-    "name": "Javanese"
+    "name": "ဂျာဗား"
   },
   "ka": {
-    "name": "Georgian"
+    "name": "ဂျော်ဂျီယာ"
   },
   "kg": {
-    "name": "Kongo"
+    "name": "ကွန်ဂို"
   },
   "ki": {
-    "name": "Kikuyu"
+    "name": "ကီကူယူ"
   },
   "kj": {
-    "name": "Kuanyama"
+    "name": "ကွန်းယာမာ"
   },
   "kk": {
-    "name": "Kazakh"
+    "name": "ကာဇာချ"
   },
   "kl": {
-    "name": "Kalaallisut"
+    "name": "ကလာအ်လီဆပ်"
   },
   "km": {
-    "name": "Khmer"
+    "name": "ခမာ"
   },
   "kn": {
-    "name": "Kannada"
+    "name": "ကန်နာဒါ"
   },
   "ko": {
-    "name": "Korean"
+    "name": "ကိုရီးယား"
   },
   "kr": {
-    "name": "Kanuri"
+    "name": "ကနူရီ"
   },
   "ks": {
-    "name": "Kashmiri"
+    "name": "ကက်ရှ်မီးယား"
   },
   "ku": {
-    "name": "Kurdish"
+    "name": "ကဒ်"
   },
   "kv": {
-    "name": "Komi"
+    "name": "ကိုမီ"
   },
   "kw": {
-    "name": "Cornish"
+    "name": "ခိုနီရှ်"
   },
   "ky": {
-    "name": "Kirghiz"
+    "name": "ကာဂျစ်"
   },
   "la": {
-    "name": "Latin"
+    "name": "လက်တင်"
   },
   "lb": {
-    "name": "Luxembourgish"
+    "name": "လူဇင်ဘတ်"
   },
   "lg": {
-    "name": "Ganda"
+    "name": "ဂန်ဒါ"
   },
   "li": {
-    "name": "Limburgan"
+    "name": "လင်ဘာဂစ်ရှ်"
   },
   "ln": {
-    "name": "Lingala"
+    "name": "လင်ဂါလာ"
   },
   "lo": {
-    "name": "Lao"
+    "name": "လာအို"
   },
   "lt": {
-    "name": "Lithuanian"
+    "name": "လစ်သူဝေးနီးယား"
   },
   "lu": {
-    "name": "Luba-Katanga"
+    "name": "လူဘာ-ကတန်ဂါ"
   },
   "lv": {
-    "name": "Latvian"
+    "name": "လတ်ဗီးယား"
   },
   "mg": {
-    "name": "Malagasy"
+    "name": "မာလဂက်စီ"
   },
   "mh": {
-    "name": "Marshallese"
+    "name": "မာရှယ်လိဇ်"
   },
   "mi": {
-    "name": "Maori"
+    "name": "မာအိုရီ"
   },
   "mk": {
-    "name": "Macedonian"
+    "name": "မက်ဆီဒိုးနီးယား"
   },
   "ml": {
-    "name": "Malayalam"
+    "name": "မလေယာလမ်"
   },
   "mn": {
-    "name": "Mongolian"
+    "name": "မွန်ဂိုလီးယား"
   },
   "mr": {
-    "name": "Marathi"
+    "name": "မာရသီ"
   },
   "ms": {
-    "name": "Malay (macrolanguage)"
+    "name": "မလေး"
   },
   "mt": {
-    "name": "Maltese"
+    "name": "မော်လ်တာ"
   },
   "my": {
-    "name": "Burmese"
+    "name": "မြန်မာ"
   },
   "na": {
-    "name": "Nauru"
+    "name": "နော်ရူး"
   },
   "nb": {
-    "name": "Norwegian Bokmål"
+    "name": "နော်ဝေ ဘွတ်ခ်မော်လ်"
   },
   "nd": {
-    "name": "North Ndebele"
+    "name": "မြောက် အွန်န်ဒီဘီလီ"
   },
   "ne": {
-    "name": "Nepali (macrolanguage)"
+    "name": "နီပေါ"
   },
   "ng": {
-    "name": "Ndonga"
+    "name": "အွန်ဒွန်ဂါ"
   },
   "nl": {
-    "name": "Dutch"
+    "name": "ဒတ်ခ်ျ"
   },
   "nn": {
-    "name": "Norwegian Nynorsk"
+    "name": "နော်ဝေ နီးနောစ်"
   },
   "no": {
-    "name": "Norwegian"
+    "name": "နော်ဝေ"
   },
   "nr": {
-    "name": "South Ndebele"
+    "name": "တောင် အွန်န်ဘီလီ"
   },
   "nv": {
-    "name": "Navajo"
+    "name": "နာဗာဟို"
   },
   "ny": {
-    "name": "Chichewa"
+    "name": "နရန်ဂျာ"
   },
   "oc": {
-    "name": "Occitan (post 1500)"
+    "name": "အိုစီတန်"
   },
   "oj": {
     "name": "Ojibwa"
   },
   "om": {
-    "name": "Oromo"
+    "name": "အိုရိုမို"
   },
   "or": {
-    "name": "Oriya (macrolanguage)"
+    "name": "အိုရီရာ"
   },
   "os": {
-    "name": "Ossetian"
+    "name": "အိုဆဲတစ်ခ်"
   },
   "pa": {
-    "name": "Panjabi"
+    "name": "ပန်ချာပီ"
   },
   "pi": {
-    "name": "Pali"
+    "name": "ပါဠိ"
   },
   "pl": {
-    "name": "Polish"
+    "name": "ပိုလန်"
   },
   "ps": {
-    "name": "Pushto"
+    "name": "ပက်ရှ်တွန်း"
   },
   "pt": {
-    "name": "Portuguese"
+    "name": "ပေါ်တူဂီ"
   },
   "qu": {
-    "name": "Quechua"
+    "name": "ခီချူဝါအိုဝါ"
   },
   "rm": {
-    "name": "Romansh"
+    "name": "ရောမ"
   },
   "rn": {
-    "name": "Rundi"
+    "name": "ရွန်ဒီ"
   },
   "ro": {
-    "name": "Romanian"
+    "name": "ရိုမေနီယား"
   },
   "ru": {
-    "name": "Russian"
+    "name": "ရုရှ"
   },
   "rw": {
-    "name": "Kinyarwanda"
+    "name": "ကင်ရာဝန်ဒါ"
   },
   "sa": {
-    "name": "Sanskrit"
+    "name": "သင်္သကရိုက်"
   },
   "sc": {
-    "name": "Sardinian"
+    "name": "ဆာဒီနီးယား"
   },
   "sd": {
-    "name": "Sindhi"
+    "name": "စင်ဒီ"
   },
   "se": {
-    "name": "Northern Sami"
+    "name": "မြောက် ဆာမိ"
   },
   "sg": {
-    "name": "Sango"
+    "name": "ဆန်ဂို"
   },
   "sh": {
-    "name": "Serbo-Croatian"
+    "name": "ဆားဘီးယား (လက်တင်)"
   },
   "si": {
-    "name": "Sinhala"
+    "name": "စင်ဟာလာ"
   },
   "sk": {
-    "name": "Slovak"
+    "name": "ဆလိုဗက်"
   },
   "sl": {
-    "name": "Slovenian"
+    "name": "ဆလိုဗေးနီးယား"
   },
   "sm": {
-    "name": "Samoan"
+    "name": "ဆမိုအာ"
   },
   "sn": {
-    "name": "Shona"
+    "name": "ရှိုနာ"
   },
   "so": {
-    "name": "Somali"
+    "name": "ဆိုမာလီ"
   },
   "sq": {
-    "name": "Albanian"
+    "name": "အယ်လ်ဘေးနီးယား"
   },
   "sr": {
-    "name": "Serbian"
+    "name": "ဆားဘီးယား"
   },
   "ss": {
-    "name": "Swati"
+    "name": "ဆွာဇီလန်"
   },
   "st": {
-    "name": "Southern Sotho"
+    "name": "တောင်ပိုင်း ဆိုသို"
   },
   "su": {
-    "name": "Sundanese"
+    "name": "ဆူဒန်"
   },
   "sv": {
-    "name": "Swedish"
+    "name": "ဆွီဒင်"
   },
   "sw": {
-    "name": "Swahili (macrolanguage)"
+    "name": "ဆွာဟီလီ"
   },
   "ta": {
-    "name": "Tamil"
+    "name": "တမီးလ်"
   },
   "te": {
-    "name": "Telugu"
+    "name": "တီလီဂူ"
   },
   "tg": {
-    "name": "Tajik"
+    "name": "တာဂျစ်"
   },
   "th": {
-    "name": "Thai"
+    "name": "ထိုင်း"
   },
   "ti": {
-    "name": "Tigrinya"
+    "name": "တီဂ်ရင်ယာ"
   },
   "tk": {
-    "name": "Turkmen"
+    "name": "တာ့ခ်မင်နစ္စတန်"
   },
   "tl": {
-    "name": "Tagalog"
+    "name": "ဖိလစ်ပိုင်"
   },
   "tn": {
-    "name": "Tswana"
+    "name": "တီဆဝါနာ"
   },
   "to": {
-    "name": "Tonga (Tonga Islands)"
+    "name": "တွန်ဂါ"
   },
   "tr": {
-    "name": "Turkish"
+    "name": "တူရကီ"
   },
   "ts": {
-    "name": "Tsonga"
+    "name": "ဆွန်ဂါ"
   },
   "tt": {
-    "name": "Tatar"
+    "name": "တာတာ"
   },
   "tw": {
-    "name": "Twi"
+    "name": "အာကန်"
   },
   "ty": {
-    "name": "Tahitian"
+    "name": "တဟီတီ"
   },
   "ug": {
-    "name": "Uighur"
+    "name": "ဝီဂါ"
   },
   "uk": {
-    "name": "Ukrainian"
+    "name": "ယူကရိန်း"
   },
   "ur": {
-    "name": "Urdu"
+    "name": "အူရ်ဒူ"
   },
   "uz": {
-    "name": "Uzbek"
+    "name": "ဥဇဘတ်"
   },
   "ve": {
-    "name": "Venda"
+    "name": "ဗင်န်ဒါ"
   },
   "vi": {
-    "name": "Vietnamese"
+    "name": "ဗီယက်နမ်"
   },
   "vo": {
-    "name": "Volapük"
+    "name": "ဗိုလာပိုက်"
   },
   "wa": {
-    "name": "Walloon"
+    "name": "ဝါလူးန်"
   },
   "wo": {
-    "name": "Wolof"
+    "name": "ဝူလိုဖ်"
   },
   "xh": {
-    "name": "Xhosa"
+    "name": "ဇိုစာ"
   },
   "yi": {
-    "name": "Yiddish"
+    "name": "ရဟူဒီ"
   },
   "yo": {
-    "name": "Yoruba"
+    "name": "ယိုရူဘာ"
   },
   "za": {
-    "name": "Zhuang"
+    "name": "ဂျွမ်"
   },
   "zh": {
-    "name": "Chinese"
+    "name": "တရုတ်"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "တရုတ် (ရိုးရှင်း)"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "တရုတ် (ရိုးရာ)"
   },
   "zu": {
-    "name": "Zulu"
+    "name": "ဇူးလူး"
   }
 }

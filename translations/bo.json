@@ -54,7 +54,7 @@
     "name": "Bengali"
   },
   "bo": {
-    "name": "Tibetan"
+    "name": "བོད་སྐད་"
   },
   "br": {
     "name": "Breton"
@@ -99,7 +99,7 @@
     "name": "Divehi"
   },
   "dz": {
-    "name": "Dzongkha"
+    "name": "རྫོང་ཁ"
   },
   "ee": {
     "name": "Ewe"
@@ -108,7 +108,7 @@
     "name": "Modern Greek (1453-)"
   },
   "en": {
-    "name": "English"
+    "name": "དབྱིན་ཇིའི་སྐད།"
   },
   "eo": {
     "name": "Esperanto"
@@ -168,7 +168,7 @@
     "name": "Hebrew"
   },
   "hi": {
-    "name": "Hindi"
+    "name": "ཧིན་དི"
   },
   "ho": {
     "name": "Hiri Motu"
@@ -219,7 +219,7 @@
     "name": "Inuktitut"
   },
   "ja": {
-    "name": "Japanese"
+    "name": "ཉི་ཧོང་སྐད་"
   },
   "jv": {
     "name": "Javanese"
@@ -336,7 +336,7 @@
     "name": "North Ndebele"
   },
   "ne": {
-    "name": "Nepali (macrolanguage)"
+    "name": "ནེ་པ་ལི"
   },
   "ng": {
     "name": "Ndonga"
@@ -402,7 +402,7 @@
     "name": "Romanian"
   },
   "ru": {
-    "name": "Russian"
+    "name": "ཨུ་རུ་སུ་སྐད་"
   },
   "rw": {
     "name": "Kinyarwanda"
@@ -546,13 +546,13 @@
     "name": "Zhuang"
   },
   "zh": {
-    "name": "Chinese"
+    "name": "རྒྱ་སྐད་"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "རྒྱ་སྐད་ (རྒྱ་ཡིག་གསར་པ།)"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "རྒྱ་སྐད་ (རྒྱ་ཡིག་རྙིང་པ།)"
   },
   "zu": {
     "name": "Zulu"

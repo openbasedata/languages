@@ -21,7 +21,7 @@
     "name": "Aragonese"
   },
   "ar": {
-    "name": "Arabic"
+    "name": "ꀊꇁꀨꉙ"
   },
   "as": {
     "name": "Assamese"
@@ -93,7 +93,7 @@
     "name": "Danish"
   },
   "de": {
-    "name": "German"
+    "name": "ꄓꇩꉙ"
   },
   "dv": {
     "name": "Divehi"
@@ -108,13 +108,13 @@
     "name": "Modern Greek (1453-)"
   },
   "en": {
-    "name": "English"
+    "name": "ꑱꇩꉙ"
   },
   "eo": {
     "name": "Esperanto"
   },
   "es": {
-    "name": "Spanish"
+    "name": "ꑭꀠꑸꉙ"
   },
   "et": {
     "name": "Estonian"
@@ -138,7 +138,7 @@
     "name": "Faroese"
   },
   "fr": {
-    "name": "French"
+    "name": "ꃔꇩꉙ"
   },
   "fy": {
     "name": "Western Frisian"
@@ -168,7 +168,7 @@
     "name": "Hebrew"
   },
   "hi": {
-    "name": "Hindi"
+    "name": "ꑴꄃꉙ"
   },
   "ho": {
     "name": "Hiri Motu"
@@ -201,7 +201,7 @@
     "name": "Igbo"
   },
   "ii": {
-    "name": "Sichuan Yi"
+    "name": "ꆈꌠꉙ"
   },
   "ik": {
     "name": "Inupiaq"
@@ -213,13 +213,13 @@
     "name": "Icelandic"
   },
   "it": {
-    "name": "Italian"
+    "name": "ꑴꄊꆺꉙ"
   },
   "iu": {
     "name": "Inuktitut"
   },
   "ja": {
-    "name": "Japanese"
+    "name": "ꏝꀪꉙ"
   },
   "jv": {
     "name": "Javanese"
@@ -342,7 +342,7 @@
     "name": "Ndonga"
   },
   "nl": {
-    "name": "Dutch"
+    "name": "ꉿꇂꉙ"
   },
   "nn": {
     "name": "Norwegian Nynorsk"
@@ -387,7 +387,7 @@
     "name": "Pushto"
   },
   "pt": {
-    "name": "Portuguese"
+    "name": "ꁍꄨꑸꉙ"
   },
   "qu": {
     "name": "Quechua"
@@ -399,10 +399,10 @@
     "name": "Rundi"
   },
   "ro": {
-    "name": "Romanian"
+    "name": "ꇆꂷꆀꑸꉙ"
   },
   "ru": {
-    "name": "Russian"
+    "name": "ꊉꇩꉙ"
   },
   "rw": {
     "name": "Kinyarwanda"
@@ -462,7 +462,7 @@
     "name": "Swedish"
   },
   "sw": {
-    "name": "Swahili (macrolanguage)"
+    "name": "ꌖꑟꆺꉙ"
   },
   "ta": {
     "name": "Tamil"
@@ -546,13 +546,13 @@
     "name": "Zhuang"
   },
   "zh": {
-    "name": "Chinese"
+    "name": "ꍏꇩꉙ"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "ꍏꇩꉙ（ꈝꐮꁱꂷ）"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "ꍏꇩꉙ（ꀎꋏꁱꂷ）"
   },
   "zu": {
     "name": "Zulu"

@@ -159,7 +159,7 @@
     "name": "Gujarati"
   },
   "gv": {
-    "name": "Manx"
+    "name": "Gaelg"
   },
   "ha": {
     "name": "Hausa"
@@ -549,10 +549,10 @@
     "name": "Chinese"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "Chinese (Simplified)"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "Chinese (Traditional)"
   },
   "zu": {
     "name": "Zulu"

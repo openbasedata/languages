@@ -9,19 +9,19 @@
     "name": "Avestan"
   },
   "af": {
-    "name": "Afrikaans"
+    "name": "Afrikoota"
   },
   "ak": {
     "name": "Akan"
   },
   "am": {
-    "name": "Amharic"
+    "name": "Afaan Amaaraa"
   },
   "an": {
     "name": "Aragonese"
   },
   "ar": {
-    "name": "Arabic"
+    "name": "Arabiffaa"
   },
   "as": {
     "name": "Assamese"
@@ -33,16 +33,16 @@
     "name": "Aymara"
   },
   "az": {
-    "name": "Azerbaijani"
+    "name": "Afaan Azerbaijani"
   },
   "ba": {
     "name": "Bashkir"
   },
   "be": {
-    "name": "Belarusian"
+    "name": "Afaan Belarusia"
   },
   "bg": {
-    "name": "Bulgarian"
+    "name": "Afaan Bulgariya"
   },
   "bi": {
     "name": "Bislama"
@@ -51,19 +51,19 @@
     "name": "Bambara"
   },
   "bn": {
-    "name": "Bengali"
+    "name": "Afaan Baangladeshi"
   },
   "bo": {
     "name": "Tibetan"
   },
   "br": {
-    "name": "Breton"
+    "name": "Bireetoon"
   },
   "bs": {
-    "name": "Bosnian"
+    "name": "Afaan Bosniyaa"
   },
   "ca": {
-    "name": "Catalan"
+    "name": "Afaan Katalaa"
   },
   "ce": {
     "name": "Chechen"
@@ -78,7 +78,7 @@
     "name": "Cree"
   },
   "cs": {
-    "name": "Czech"
+    "name": "Afaan Czech"
   },
   "cu": {
     "name": "Church Slavic"
@@ -87,13 +87,13 @@
     "name": "Chuvash"
   },
   "cy": {
-    "name": "Welsh"
+    "name": "Welishiffaa"
   },
   "da": {
-    "name": "Danish"
+    "name": "Afaan Deenmaark"
   },
   "de": {
-    "name": "German"
+    "name": "Afaan Jarmanii"
   },
   "dv": {
     "name": "Divehi"
@@ -105,94 +105,94 @@
     "name": "Ewe"
   },
   "el": {
-    "name": "Modern Greek (1453-)"
+    "name": "Afaan Giriiki"
   },
   "en": {
-    "name": "English"
+    "name": "Afaan Ingilizii"
   },
   "eo": {
-    "name": "Esperanto"
+    "name": "Afaan Esperantoo"
   },
   "es": {
-    "name": "Spanish"
+    "name": "Afaan Ispeen"
   },
   "et": {
-    "name": "Estonian"
+    "name": "Afaan Istooniya"
   },
   "eu": {
-    "name": "Basque"
+    "name": "Afaan Baskuu"
   },
   "fa": {
-    "name": "Persian"
+    "name": "Afaan Persia"
   },
   "ff": {
-    "name": "Fulah"
+    "name": "Fula"
   },
   "fi": {
-    "name": "Finnish"
+    "name": "Afaan Fiilaandi"
   },
   "fj": {
     "name": "Fijian"
   },
   "fo": {
-    "name": "Faroese"
+    "name": "Afaan Faroese"
   },
   "fr": {
-    "name": "French"
+    "name": "Afaan Faransaayii"
   },
   "fy": {
-    "name": "Western Frisian"
+    "name": "Afaan Firisiyaani"
   },
   "ga": {
-    "name": "Irish"
+    "name": "Afaan Ayirishii"
   },
   "gd": {
-    "name": "Scottish Gaelic"
+    "name": "Scots Gaelic"
   },
   "gl": {
-    "name": "Galician"
+    "name": "Afaan Galishii"
   },
   "gn": {
-    "name": "Guarani"
+    "name": "Afaan Guarani"
   },
   "gu": {
-    "name": "Gujarati"
+    "name": "Afaan Gujarati"
   },
   "gv": {
     "name": "Manx"
   },
   "ha": {
-    "name": "Hausa"
+    "name": "Hawusaa"
   },
   "he": {
-    "name": "Hebrew"
+    "name": "Afaan Hebrew"
   },
   "hi": {
-    "name": "Hindi"
+    "name": "Afaan Hindii"
   },
   "ho": {
     "name": "Hiri Motu"
   },
   "hr": {
-    "name": "Croatian"
+    "name": "Afaan Croatian"
   },
   "ht": {
     "name": "Haitian"
   },
   "hu": {
-    "name": "Hungarian"
+    "name": "Afaan Hangaari"
   },
   "hy": {
-    "name": "Armenian"
+    "name": "Armeeniyaa"
   },
   "hz": {
     "name": "Herero"
   },
   "ia": {
-    "name": "Interlingua (International Auxiliary Language Association)"
+    "name": "Interlingua"
   },
   "id": {
-    "name": "Indonesian"
+    "name": "Afaan Indoneziya"
   },
   "ie": {
     "name": "Interlingue"
@@ -210,22 +210,22 @@
     "name": "Ido"
   },
   "is": {
-    "name": "Icelandic"
+    "name": "Ayiislandiffaa"
   },
   "it": {
-    "name": "Italian"
+    "name": "Afaan Xaaliyaani"
   },
   "iu": {
     "name": "Inuktitut"
   },
   "ja": {
-    "name": "Japanese"
+    "name": "Afaan Japanii"
   },
   "jv": {
-    "name": "Javanese"
+    "name": "Afaan Java"
   },
   "ka": {
-    "name": "Georgian"
+    "name": "Afaan Georgian"
   },
   "kg": {
     "name": "Kongo"
@@ -246,10 +246,10 @@
     "name": "Khmer"
   },
   "kn": {
-    "name": "Kannada"
+    "name": "Afaan Kannada"
   },
   "ko": {
-    "name": "Korean"
+    "name": "Afaan Korea"
   },
   "kr": {
     "name": "Kanuri"
@@ -270,7 +270,7 @@
     "name": "Kirghiz"
   },
   "la": {
-    "name": "Latin"
+    "name": "Afaan Laatini"
   },
   "lb": {
     "name": "Luxembourgish"
@@ -288,13 +288,13 @@
     "name": "Lao"
   },
   "lt": {
-    "name": "Lithuanian"
+    "name": "Afaan Liituniyaa"
   },
   "lu": {
     "name": "Luba-Katanga"
   },
   "lv": {
-    "name": "Latvian"
+    "name": "Afaan Lativiyaa"
   },
   "mg": {
     "name": "Malagasy"
@@ -306,25 +306,25 @@
     "name": "Maori"
   },
   "mk": {
-    "name": "Macedonian"
+    "name": "Afaan Macedooniyaa"
   },
   "ml": {
-    "name": "Malayalam"
+    "name": "Malayaalamiffaa"
   },
   "mn": {
     "name": "Mongolian"
   },
   "mr": {
-    "name": "Marathi"
+    "name": "Afaan Maratii"
   },
   "ms": {
-    "name": "Malay (macrolanguage)"
+    "name": "Malaayiffaa"
   },
   "mt": {
-    "name": "Maltese"
+    "name": "Afaan Maltesii"
   },
   "my": {
-    "name": "Burmese"
+    "name": "Burmeesee"
   },
   "na": {
     "name": "Nauru"
@@ -336,19 +336,19 @@
     "name": "North Ndebele"
   },
   "ne": {
-    "name": "Nepali (macrolanguage)"
+    "name": "Afaan Nepalii"
   },
   "ng": {
     "name": "Ndonga"
   },
   "nl": {
-    "name": "Dutch"
+    "name": "Afaan Dachii"
   },
   "nn": {
-    "name": "Norwegian Nynorsk"
+    "name": "Afaan Norwegian"
   },
   "no": {
-    "name": "Norwegian"
+    "name": "Afaan Norweyii"
   },
   "nr": {
     "name": "South Ndebele"
@@ -360,13 +360,13 @@
     "name": "Chichewa"
   },
   "oc": {
-    "name": "Occitan (post 1500)"
+    "name": "Afaan Occit"
   },
   "oj": {
     "name": "Ojibwa"
   },
   "om": {
-    "name": "Oromo"
+    "name": "Oromoo"
   },
   "or": {
     "name": "Oriya (macrolanguage)"
@@ -375,19 +375,19 @@
     "name": "Ossetian"
   },
   "pa": {
-    "name": "Panjabi"
+    "name": "Afaan Punjabii"
   },
   "pi": {
     "name": "Pali"
   },
   "pl": {
-    "name": "Polish"
+    "name": "Afaan Polandii"
   },
   "ps": {
     "name": "Pushto"
   },
   "pt": {
-    "name": "Portuguese"
+    "name": "Afaan Porchugaal"
   },
   "qu": {
     "name": "Quechua"
@@ -399,10 +399,10 @@
     "name": "Rundi"
   },
   "ro": {
-    "name": "Romanian"
+    "name": "Afaan Romaniyaa"
   },
   "ru": {
-    "name": "Russian"
+    "name": "Afaan Rushiyaa"
   },
   "rw": {
     "name": "Kinyarwanda"
@@ -423,16 +423,16 @@
     "name": "Sango"
   },
   "sh": {
-    "name": "Serbo-Croatian"
+    "name": "Afaan Serbiya (Laatinii)"
   },
   "si": {
-    "name": "Sinhala"
+    "name": "Afaan Sinhalese"
   },
   "sk": {
-    "name": "Slovak"
+    "name": "Afaan Slovak"
   },
   "sl": {
-    "name": "Slovenian"
+    "name": "Afaan Islovaniyaa"
   },
   "sm": {
     "name": "Samoan"
@@ -444,10 +444,10 @@
     "name": "Somali"
   },
   "sq": {
-    "name": "Albanian"
+    "name": "Afaan Albaniyaa"
   },
   "sr": {
-    "name": "Serbian"
+    "name": "Afaan Serbiya"
   },
   "ss": {
     "name": "Swati"
@@ -456,34 +456,34 @@
     "name": "Southern Sotho"
   },
   "su": {
-    "name": "Sundanese"
+    "name": "Afaan Sudaanii"
   },
   "sv": {
-    "name": "Swedish"
+    "name": "Afaan Suwidiin"
   },
   "sw": {
-    "name": "Swahili (macrolanguage)"
+    "name": "Suwahilii"
   },
   "ta": {
-    "name": "Tamil"
+    "name": "Afaan Tamilii"
   },
   "te": {
-    "name": "Telugu"
+    "name": "Afaan Telugu"
   },
   "tg": {
     "name": "Tajik"
   },
   "th": {
-    "name": "Thai"
+    "name": "Afaan Tayii"
   },
   "ti": {
-    "name": "Tigrinya"
+    "name": "Afaan Tigiree"
   },
   "tk": {
-    "name": "Turkmen"
+    "name": "Lammii Turkii"
   },
   "tl": {
-    "name": "Tagalog"
+    "name": "Afaan Filippinii"
   },
   "tn": {
     "name": "Tswana"
@@ -492,7 +492,7 @@
     "name": "Tonga (Tonga Islands)"
   },
   "tr": {
-    "name": "Turkish"
+    "name": "Afaan Turkii"
   },
   "ts": {
     "name": "Tsonga"
@@ -510,19 +510,19 @@
     "name": "Uighur"
   },
   "uk": {
-    "name": "Ukrainian"
+    "name": "Afaan Ukreenii"
   },
   "ur": {
-    "name": "Urdu"
+    "name": "Afaan Urdu"
   },
   "uz": {
-    "name": "Uzbek"
+    "name": "Afaan Uzbek"
   },
   "ve": {
     "name": "Venda"
   },
   "vi": {
-    "name": "Vietnamese"
+    "name": "Afaan Veetinam"
   },
   "vo": {
     "name": "Volapük"
@@ -534,7 +534,7 @@
     "name": "Wolof"
   },
   "xh": {
-    "name": "Xhosa"
+    "name": "Afaan Xhosa"
   },
   "yi": {
     "name": "Yiddish"
@@ -549,12 +549,12 @@
     "name": "Chinese"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "Chinese Salphifame"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "Chinese Durii"
   },
   "zu": {
-    "name": "Zulu"
+    "name": "Afaan Zuulu"
   }
 }

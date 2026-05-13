@@ -108,7 +108,7 @@
     "name": "Modern Greek (1453-)"
   },
   "en": {
-    "name": "English"
+    "name": "Yinghyij"
   },
   "eo": {
     "name": "Esperanto"
@@ -543,16 +543,16 @@
     "name": "Yoruba"
   },
   "za": {
-    "name": "Zhuang"
+    "name": "Vahcuengh"
   },
   "zh": {
     "name": "Chinese"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "Chinese (Simplified)"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "Chinese (Traditional)"
   },
   "zu": {
     "name": "Zulu"

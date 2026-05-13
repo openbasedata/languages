@@ -108,7 +108,7 @@
     "name": "Modern Greek (1453-)"
   },
   "en": {
-    "name": "English"
+    "name": "Sekgoa"
   },
   "eo": {
     "name": "Esperanto"
@@ -486,7 +486,7 @@
     "name": "Tagalog"
   },
   "tn": {
-    "name": "Tswana"
+    "name": "Setswana"
   },
   "to": {
     "name": "Tonga (Tonga Islands)"
@@ -549,10 +549,10 @@
     "name": "Chinese"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "Chinese (Simplified)"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "Chinese (Traditional)"
   },
   "zu": {
     "name": "Zulu"

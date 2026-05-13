@@ -15,16 +15,16 @@
     "name": "Akan"
   },
   "am": {
-    "name": "Amharic"
+    "name": "Amariki"
   },
   "an": {
     "name": "Aragonese"
   },
   "ar": {
-    "name": "Arabic"
+    "name": "Arabeke"
   },
   "as": {
-    "name": "Assamese"
+    "name": "Asamese"
   },
   "av": {
     "name": "Avaric"
@@ -33,16 +33,16 @@
     "name": "Aymara"
   },
   "az": {
-    "name": "Azerbaijani"
+    "name": "Asabegyanni"
   },
   "ba": {
     "name": "Bashkir"
   },
   "be": {
-    "name": "Belarusian"
+    "name": "Belarus kasa"
   },
   "bg": {
-    "name": "Bulgarian"
+    "name": "Bɔlgeria kasa"
   },
   "bi": {
     "name": "Bislama"
@@ -51,19 +51,19 @@
     "name": "Bambara"
   },
   "bn": {
-    "name": "Bengali"
+    "name": "Bengali kasa"
   },
   "bo": {
     "name": "Tibetan"
   },
   "br": {
-    "name": "Breton"
+    "name": "Britenni"
   },
   "bs": {
-    "name": "Bosnian"
+    "name": "Bosniani"
   },
   "ca": {
-    "name": "Catalan"
+    "name": "Katalan"
   },
   "ce": {
     "name": "Chechen"
@@ -78,22 +78,22 @@
     "name": "Cree"
   },
   "cs": {
-    "name": "Czech"
+    "name": "Kyɛk kasa"
   },
   "cu": {
     "name": "Church Slavic"
   },
   "cv": {
-    "name": "Chuvash"
+    "name": "Kyuvahyi"
   },
   "cy": {
-    "name": "Welsh"
+    "name": "Wɛɛhye Kasa"
   },
   "da": {
-    "name": "Danish"
+    "name": "Dane kasa"
   },
   "de": {
-    "name": "German"
+    "name": "Gyaaman"
   },
   "dv": {
     "name": "Divehi"
@@ -102,61 +102,61 @@
     "name": "Dzongkha"
   },
   "ee": {
-    "name": "Ewe"
+    "name": "Ayigbe"
   },
   "el": {
-    "name": "Modern Greek (1453-)"
+    "name": "Greek kasa"
   },
   "en": {
-    "name": "English"
+    "name": "Borɔfo"
   },
   "eo": {
     "name": "Esperanto"
   },
   "es": {
-    "name": "Spanish"
+    "name": "Spain kasa"
   },
   "et": {
-    "name": "Estonian"
+    "name": "Estonia kasa"
   },
   "eu": {
-    "name": "Basque"
+    "name": "Baske"
   },
   "fa": {
-    "name": "Persian"
+    "name": "Pɛɛhyia kasa"
   },
   "ff": {
-    "name": "Fulah"
+    "name": "Fula kasa"
   },
   "fi": {
-    "name": "Finnish"
+    "name": "Finlande kasa"
   },
   "fj": {
     "name": "Fijian"
   },
   "fo": {
-    "name": "Faroese"
+    "name": "Farosi"
   },
   "fr": {
-    "name": "French"
+    "name": "Frɛnkye"
   },
   "fy": {
-    "name": "Western Frisian"
+    "name": "Atɔeɛ Fam Frihyia Kasa"
   },
   "ga": {
-    "name": "Irish"
+    "name": "Aerelande kasa"
   },
   "gd": {
-    "name": "Scottish Gaelic"
+    "name": "Skotlandfoɔ Galek Kasa"
   },
   "gl": {
-    "name": "Galician"
+    "name": "Galisia kasa"
   },
   "gn": {
     "name": "Guarani"
   },
   "gu": {
-    "name": "Gujarati"
+    "name": "Gugyarata"
   },
   "gv": {
     "name": "Manx"
@@ -165,7 +165,7 @@
     "name": "Hausa"
   },
   "he": {
-    "name": "Hebrew"
+    "name": "Hibri kasa"
   },
   "hi": {
     "name": "Hindi"
@@ -174,31 +174,31 @@
     "name": "Hiri Motu"
   },
   "hr": {
-    "name": "Croatian"
+    "name": "Kurowehyia kasa"
   },
   "ht": {
     "name": "Haitian"
   },
   "hu": {
-    "name": "Hungarian"
+    "name": "Hangri kasa"
   },
   "hy": {
-    "name": "Armenian"
+    "name": "Aameniani"
   },
   "hz": {
     "name": "Herero"
   },
   "ia": {
-    "name": "Interlingua (International Auxiliary Language Association)"
+    "name": "Kasa ntam"
   },
   "id": {
-    "name": "Indonesian"
+    "name": "Indonihyia kasa"
   },
   "ie": {
-    "name": "Interlingue"
+    "name": "Kasa afrafra"
   },
   "ig": {
-    "name": "Igbo"
+    "name": "Igbo kasa"
   },
   "ii": {
     "name": "Sichuan Yi"
@@ -210,22 +210,22 @@
     "name": "Ido"
   },
   "is": {
-    "name": "Icelandic"
+    "name": "Aeslande kasa"
   },
   "it": {
-    "name": "Italian"
+    "name": "Italy kasa"
   },
   "iu": {
     "name": "Inuktitut"
   },
   "ja": {
-    "name": "Japanese"
+    "name": "Gyapan kasa"
   },
   "jv": {
-    "name": "Javanese"
+    "name": "Gyabanis kasa"
   },
   "ka": {
-    "name": "Georgian"
+    "name": "Gyɔɔgyia kasa"
   },
   "kg": {
     "name": "Kongo"
@@ -237,28 +237,28 @@
     "name": "Kuanyama"
   },
   "kk": {
-    "name": "Kazakh"
+    "name": "kasaki kasa"
   },
   "kl": {
     "name": "Kalaallisut"
   },
   "km": {
-    "name": "Khmer"
+    "name": "Kambodia kasa"
   },
   "kn": {
-    "name": "Kannada"
+    "name": "Kanada"
   },
   "ko": {
-    "name": "Korean"
+    "name": "Korea kasa"
   },
   "kr": {
     "name": "Kanuri"
   },
   "ks": {
-    "name": "Kashmiri"
+    "name": "Kahyimiɛ"
   },
   "ku": {
-    "name": "Kurdish"
+    "name": "Kɛɛde kasa"
   },
   "kv": {
     "name": "Komi"
@@ -267,13 +267,13 @@
     "name": "Cornish"
   },
   "ky": {
-    "name": "Kirghiz"
+    "name": "Kɛgyese kasa"
   },
   "la": {
     "name": "Latin"
   },
   "lb": {
-    "name": "Luxembourgish"
+    "name": "Lɔsimbɔge kasa"
   },
   "lg": {
     "name": "Ganda"
@@ -285,16 +285,16 @@
     "name": "Lingala"
   },
   "lo": {
-    "name": "Lao"
+    "name": "Lawo kasa"
   },
   "lt": {
-    "name": "Lithuanian"
+    "name": "Lituania kasa"
   },
   "lu": {
     "name": "Luba-Katanga"
   },
   "lv": {
-    "name": "Latvian"
+    "name": "Latvia kasa"
   },
   "mg": {
     "name": "Malagasy"
@@ -303,28 +303,28 @@
     "name": "Marshallese"
   },
   "mi": {
-    "name": "Maori"
+    "name": "Mawori"
   },
   "mk": {
-    "name": "Macedonian"
+    "name": "Mɛsidonia kasa"
   },
   "ml": {
-    "name": "Malayalam"
+    "name": "Malayalam kasa"
   },
   "mn": {
-    "name": "Mongolian"
+    "name": "Mongoliafoɔ kasa"
   },
   "mr": {
-    "name": "Marathi"
+    "name": "Marati"
   },
   "ms": {
-    "name": "Malay (macrolanguage)"
+    "name": "Malay kasa"
   },
   "mt": {
-    "name": "Maltese"
+    "name": "Malta kasa"
   },
   "my": {
-    "name": "Burmese"
+    "name": "Bɛɛmis kasa"
   },
   "na": {
     "name": "Nauru"
@@ -336,19 +336,19 @@
     "name": "North Ndebele"
   },
   "ne": {
-    "name": "Nepali (macrolanguage)"
+    "name": "Nɛpal kasa"
   },
   "ng": {
     "name": "Ndonga"
   },
   "nl": {
-    "name": "Dutch"
+    "name": "Dɛɛkye"
   },
   "nn": {
-    "name": "Norwegian Nynorsk"
+    "name": "Nɔwefoɔ Ninɔso"
   },
   "no": {
-    "name": "Norwegian"
+    "name": "Nɔwefoɔ kasa"
   },
   "nr": {
     "name": "South Ndebele"
@@ -360,7 +360,7 @@
     "name": "Chichewa"
   },
   "oc": {
-    "name": "Occitan (post 1500)"
+    "name": "Osita kasa"
   },
   "oj": {
     "name": "Ojibwa"
@@ -369,52 +369,52 @@
     "name": "Oromo"
   },
   "or": {
-    "name": "Oriya (macrolanguage)"
+    "name": "Odia"
   },
   "os": {
     "name": "Ossetian"
   },
   "pa": {
-    "name": "Panjabi"
+    "name": "Pungyabi kasa"
   },
   "pi": {
     "name": "Pali"
   },
   "pl": {
-    "name": "Polish"
+    "name": "Pɔland kasa"
   },
   "ps": {
-    "name": "Pushto"
+    "name": "Pahyito"
   },
   "pt": {
-    "name": "Portuguese"
+    "name": "Pɔɔtugal kasa"
   },
   "qu": {
-    "name": "Quechua"
+    "name": "Kwɛkya"
   },
   "rm": {
-    "name": "Romansh"
+    "name": "Romanhye kasa"
   },
   "rn": {
     "name": "Rundi"
   },
   "ro": {
-    "name": "Romanian"
+    "name": "Romenia kasa"
   },
   "ru": {
-    "name": "Russian"
+    "name": "Rahyia kasa"
   },
   "rw": {
-    "name": "Kinyarwanda"
+    "name": "Rewanda kasa"
   },
   "sa": {
-    "name": "Sanskrit"
+    "name": "Sanskrit kasa"
   },
   "sc": {
-    "name": "Sardinian"
+    "name": "Saadinia kasa"
   },
   "sd": {
-    "name": "Sindhi"
+    "name": "Sindi"
   },
   "se": {
     "name": "Northern Sami"
@@ -423,16 +423,16 @@
     "name": "Sango"
   },
   "sh": {
-    "name": "Serbo-Croatian"
+    "name": "Sɛbia Kasa (Laatin)"
   },
   "si": {
     "name": "Sinhala"
   },
   "sk": {
-    "name": "Slovak"
+    "name": "Slovak Kasa"
   },
   "sl": {
-    "name": "Slovenian"
+    "name": "Slovɛniafoɔ Kasa"
   },
   "sm": {
     "name": "Samoan"
@@ -441,13 +441,13 @@
     "name": "Shona"
   },
   "so": {
-    "name": "Somali"
+    "name": "Somalia kasa"
   },
   "sq": {
-    "name": "Albanian"
+    "name": "Aabeniani"
   },
   "sr": {
-    "name": "Serbian"
+    "name": "Sɛbia Kasa"
   },
   "ss": {
     "name": "Swati"
@@ -456,73 +456,73 @@
     "name": "Southern Sotho"
   },
   "su": {
-    "name": "Sundanese"
+    "name": "Sunda Kasa"
   },
   "sv": {
-    "name": "Swedish"
+    "name": "Sweden kasa"
   },
   "sw": {
-    "name": "Swahili (macrolanguage)"
+    "name": "Swahili"
   },
   "ta": {
-    "name": "Tamil"
+    "name": "Tamil kasa"
   },
   "te": {
     "name": "Telugu"
   },
   "tg": {
-    "name": "Tajik"
+    "name": "Tɛgyeke kasa"
   },
   "th": {
-    "name": "Thai"
+    "name": "Taeland kasa"
   },
   "ti": {
-    "name": "Tigrinya"
+    "name": "Tigrinya kasa"
   },
   "tk": {
-    "name": "Turkmen"
+    "name": "Tɛkmɛnistan Kasa"
   },
   "tl": {
-    "name": "Tagalog"
+    "name": "Filipin kasa"
   },
   "tn": {
     "name": "Tswana"
   },
   "to": {
-    "name": "Tonga (Tonga Islands)"
+    "name": "Tonga kasa"
   },
   "tr": {
-    "name": "Turkish"
+    "name": "Tɛɛki kasa"
   },
   "ts": {
     "name": "Tsonga"
   },
   "tt": {
-    "name": "Tatar"
+    "name": "Tata kasa"
   },
   "tw": {
-    "name": "Twi"
+    "name": "Akan"
   },
   "ty": {
     "name": "Tahitian"
   },
   "ug": {
-    "name": "Uighur"
+    "name": "Yugaa Kasa"
   },
   "uk": {
-    "name": "Ukrainian"
+    "name": "Ukren kasa"
   },
   "ur": {
-    "name": "Urdu"
+    "name": "Urdu kasa"
   },
   "uz": {
-    "name": "Uzbek"
+    "name": "Usbɛkistan Kasa"
   },
   "ve": {
     "name": "Venda"
   },
   "vi": {
-    "name": "Vietnamese"
+    "name": "Viɛtnam kasa"
   },
   "vo": {
     "name": "Volapük"
@@ -531,10 +531,10 @@
     "name": "Walloon"
   },
   "wo": {
-    "name": "Wolof"
+    "name": "Wolɔfo Kasa"
   },
   "xh": {
-    "name": "Xhosa"
+    "name": "Hosa Kasa"
   },
   "yi": {
     "name": "Yiddish"
@@ -543,16 +543,16 @@
     "name": "Yoruba"
   },
   "za": {
-    "name": "Zhuang"
+    "name": "Zuang"
   },
   "zh": {
-    "name": "Chinese"
+    "name": "Kyaena kasa"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "Kyaena kasa a emu yɛ mmrɛ"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "Tete Kyaena kasa"
   },
   "zu": {
     "name": "Zulu"

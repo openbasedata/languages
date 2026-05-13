@@ -3,7 +3,7 @@
     "name": "Afar"
   },
   "ab": {
-    "name": "Abkhazian"
+    "name": "Abkaziani"
   },
   "ae": {
     "name": "Avestan"
@@ -15,19 +15,19 @@
     "name": "Akan"
   },
   "am": {
-    "name": "Amharic"
+    "name": "Asụsụ Amariikị"
   },
   "an": {
-    "name": "Aragonese"
+    "name": "Aragonisị"
   },
   "ar": {
-    "name": "Arabic"
+    "name": "Asụsụ Arabiikị"
   },
   "as": {
-    "name": "Assamese"
+    "name": "Asụsụ Asamisị"
   },
   "av": {
-    "name": "Avaric"
+    "name": "Avarịk"
   },
   "ay": {
     "name": "Aymara"
@@ -51,7 +51,7 @@
     "name": "Bambara"
   },
   "bn": {
-    "name": "Bengali"
+    "name": "Bangla"
   },
   "bo": {
     "name": "Tibetan"
@@ -81,7 +81,7 @@
     "name": "Czech"
   },
   "cu": {
-    "name": "Church Slavic"
+    "name": "Church slavic"
   },
   "cv": {
     "name": "Chuvash"
@@ -99,16 +99,16 @@
     "name": "Divehi"
   },
   "dz": {
-    "name": "Dzongkha"
+    "name": "Dọzngọka"
   },
   "ee": {
     "name": "Ewe"
   },
   "el": {
-    "name": "Modern Greek (1453-)"
+    "name": "Grik"
   },
   "en": {
-    "name": "English"
+    "name": "Bekee"
   },
   "eo": {
     "name": "Esperanto"
@@ -123,16 +123,16 @@
     "name": "Basque"
   },
   "fa": {
-    "name": "Persian"
+    "name": "Asụsụ Persia"
   },
   "ff": {
-    "name": "Fulah"
+    "name": "Fula"
   },
   "fi": {
     "name": "Finnish"
   },
   "fj": {
-    "name": "Fijian"
+    "name": "Fijanị"
   },
   "fo": {
     "name": "Faroese"
@@ -141,13 +141,13 @@
     "name": "French"
   },
   "fy": {
-    "name": "Western Frisian"
+    "name": "Ọdịda anyanwụ Frisian"
   },
   "ga": {
     "name": "Irish"
   },
   "gd": {
-    "name": "Scottish Gaelic"
+    "name": "Asụsụ Scottish Gaelic"
   },
   "gl": {
     "name": "Galician"
@@ -159,7 +159,7 @@
     "name": "Gujarati"
   },
   "gv": {
-    "name": "Manx"
+    "name": "Mansị"
   },
   "ha": {
     "name": "Hausa"
@@ -177,19 +177,19 @@
     "name": "Croatian"
   },
   "ht": {
-    "name": "Haitian"
+    "name": "Haịtịan ndị Cerọle"
   },
   "hu": {
     "name": "Hungarian"
   },
   "hy": {
-    "name": "Armenian"
+    "name": "Asụsụ Armenianị"
   },
   "hz": {
     "name": "Herero"
   },
   "ia": {
-    "name": "Interlingua (International Auxiliary Language Association)"
+    "name": "Interlingua"
   },
   "id": {
     "name": "Indonesian"
@@ -267,7 +267,7 @@
     "name": "Cornish"
   },
   "ky": {
-    "name": "Kirghiz"
+    "name": "Kyrgyz"
   },
   "la": {
     "name": "Latin"
@@ -279,7 +279,7 @@
     "name": "Ganda"
   },
   "li": {
-    "name": "Limburgan"
+    "name": "Limburgish"
   },
   "ln": {
     "name": "Lingala"
@@ -303,7 +303,7 @@
     "name": "Marshallese"
   },
   "mi": {
-    "name": "Maori"
+    "name": "Māori"
   },
   "mk": {
     "name": "Macedonian"
@@ -312,16 +312,16 @@
     "name": "Malayalam"
   },
   "mn": {
-    "name": "Mongolian"
+    "name": "Mọngolịan"
   },
   "mr": {
-    "name": "Marathi"
+    "name": "Asụsụ Marathi"
   },
   "ms": {
-    "name": "Malay (macrolanguage)"
+    "name": "Malay"
   },
   "mt": {
-    "name": "Maltese"
+    "name": "Asụsụ Malta"
   },
   "my": {
     "name": "Burmese"
@@ -336,7 +336,7 @@
     "name": "North Ndebele"
   },
   "ne": {
-    "name": "Nepali (macrolanguage)"
+    "name": "Nepali"
   },
   "ng": {
     "name": "Ndonga"
@@ -357,10 +357,10 @@
     "name": "Navajo"
   },
   "ny": {
-    "name": "Chichewa"
+    "name": "Nyanja"
   },
   "oc": {
-    "name": "Occitan (post 1500)"
+    "name": "Asụsụ Osịtan"
   },
   "oj": {
     "name": "Ojibwa"
@@ -369,52 +369,52 @@
     "name": "Oromo"
   },
   "or": {
-    "name": "Oriya (macrolanguage)"
+    "name": "Ọdịa"
   },
   "os": {
-    "name": "Ossetian"
+    "name": "Ossetic"
   },
   "pa": {
-    "name": "Panjabi"
+    "name": "Punjabi"
   },
   "pi": {
     "name": "Pali"
   },
   "pl": {
-    "name": "Polish"
+    "name": "Asụsụ Polish"
   },
   "ps": {
-    "name": "Pushto"
+    "name": "Pashọ"
   },
   "pt": {
-    "name": "Portuguese"
+    "name": "Pọrtụgụese"
   },
   "qu": {
-    "name": "Quechua"
+    "name": "Asụsụ Quechua"
   },
   "rm": {
-    "name": "Romansh"
+    "name": "Asụsụ Romansh"
   },
   "rn": {
     "name": "Rundi"
   },
   "ro": {
-    "name": "Romanian"
+    "name": "Asụsụ Romanian"
   },
   "ru": {
-    "name": "Russian"
+    "name": "Asụsụ Russia"
   },
   "rw": {
     "name": "Kinyarwanda"
   },
   "sa": {
-    "name": "Sanskrit"
+    "name": "Asụsụ Sanskrit"
   },
   "sc": {
-    "name": "Sardinian"
+    "name": "Asụsụ Sardini"
   },
   "sd": {
-    "name": "Sindhi"
+    "name": "Asụsụ Sindhi"
   },
   "se": {
     "name": "Northern Sami"
@@ -423,16 +423,16 @@
     "name": "Sango"
   },
   "sh": {
-    "name": "Serbo-Croatian"
+    "name": "Asụsụ Serbia (Latin)"
   },
   "si": {
     "name": "Sinhala"
   },
   "sk": {
-    "name": "Slovak"
+    "name": "Asụsụ Slovak"
   },
   "sl": {
-    "name": "Slovenian"
+    "name": "Asụsụ Slovenia"
   },
   "sm": {
     "name": "Samoan"
@@ -444,10 +444,10 @@
     "name": "Somali"
   },
   "sq": {
-    "name": "Albanian"
+    "name": "Asụsụ Albania"
   },
   "sr": {
-    "name": "Serbian"
+    "name": "Asụsụ Serbia"
   },
   "ss": {
     "name": "Swati"
@@ -456,13 +456,13 @@
     "name": "Southern Sotho"
   },
   "su": {
-    "name": "Sundanese"
+    "name": "Asụsụ Sundan"
   },
   "sv": {
-    "name": "Swedish"
+    "name": "Sụwidiishi"
   },
   "sw": {
-    "name": "Swahili (macrolanguage)"
+    "name": "Asụsụ Swahili"
   },
   "ta": {
     "name": "Tamil"
@@ -483,13 +483,13 @@
     "name": "Turkmen"
   },
   "tl": {
-    "name": "Tagalog"
+    "name": "Filipino"
   },
   "tn": {
     "name": "Tswana"
   },
   "to": {
-    "name": "Tonga (Tonga Islands)"
+    "name": "Tongan"
   },
   "tr": {
     "name": "Turkish"
@@ -498,19 +498,19 @@
     "name": "Tsonga"
   },
   "tt": {
-    "name": "Tatar"
+    "name": "Asụsụ Tatar"
   },
   "tw": {
-    "name": "Twi"
+    "name": "Akan"
   },
   "ty": {
     "name": "Tahitian"
   },
   "ug": {
-    "name": "Uighur"
+    "name": "Uyghur"
   },
   "uk": {
-    "name": "Ukrainian"
+    "name": "Asụsụ Ukrain"
   },
   "ur": {
     "name": "Urdu"
@@ -546,13 +546,13 @@
     "name": "Zhuang"
   },
   "zh": {
-    "name": "Chinese"
+    "name": "Chaịniiz"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "Asụsụ Chaịniiz dị mfe"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "Asụsụ ọdịnala Chaịniiz"
   },
   "zu": {
     "name": "Zulu"

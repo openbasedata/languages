@@ -240,7 +240,7 @@
     "name": "Kazakh"
   },
   "kl": {
-    "name": "Kalaallisut"
+    "name": "kalaallisut"
   },
   "km": {
     "name": "Khmer"
@@ -549,10 +549,10 @@
     "name": "Chinese"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "Chinese (Simplified)"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "Chinese (Traditional)"
   },
   "zu": {
     "name": "Zulu"

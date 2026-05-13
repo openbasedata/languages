@@ -21,7 +21,7 @@
     "name": "Aragonese"
   },
   "ar": {
-    "name": "Arabic"
+    "name": "arabic"
   },
   "as": {
     "name": "Assamese"
@@ -78,7 +78,7 @@
     "name": "Cree"
   },
   "cs": {
-    "name": "Czech"
+    "name": "tchec"
   },
   "cu": {
     "name": "Church Slavic"
@@ -90,10 +90,10 @@
     "name": "Welsh"
   },
   "da": {
-    "name": "Danish"
+    "name": "danesi"
   },
   "de": {
-    "name": "German"
+    "name": "german"
   },
   "dv": {
     "name": "Divehi"
@@ -105,31 +105,31 @@
     "name": "Ewe"
   },
   "el": {
-    "name": "Modern Greek (1453-)"
+    "name": "grec"
   },
   "en": {
-    "name": "English"
+    "name": "anglesi"
   },
   "eo": {
     "name": "Esperanto"
   },
   "es": {
-    "name": "Spanish"
+    "name": "hispan"
   },
   "et": {
-    "name": "Estonian"
+    "name": "estonian"
   },
   "eu": {
     "name": "Basque"
   },
   "fa": {
-    "name": "Persian"
+    "name": "persian"
   },
   "ff": {
     "name": "Fulah"
   },
   "fi": {
-    "name": "Finnish"
+    "name": "finn"
   },
   "fj": {
     "name": "Fijian"
@@ -138,19 +138,19 @@
     "name": "Faroese"
   },
   "fr": {
-    "name": "French"
+    "name": "francesi"
   },
   "fy": {
     "name": "Western Frisian"
   },
   "ga": {
-    "name": "Irish"
+    "name": "irlandesi"
   },
   "gd": {
     "name": "Scottish Gaelic"
   },
   "gl": {
-    "name": "Galician"
+    "name": "galician"
   },
   "gn": {
     "name": "Guarani"
@@ -162,13 +162,13 @@
     "name": "Manx"
   },
   "ha": {
-    "name": "Hausa"
+    "name": "hausa"
   },
   "he": {
-    "name": "Hebrew"
+    "name": "hebreic"
   },
   "hi": {
-    "name": "Hindi"
+    "name": "hindi"
   },
   "ho": {
     "name": "Hiri Motu"
@@ -180,7 +180,7 @@
     "name": "Haitian"
   },
   "hu": {
-    "name": "Hungarian"
+    "name": "hungarian"
   },
   "hy": {
     "name": "Armenian"
@@ -189,10 +189,10 @@
     "name": "Herero"
   },
   "ia": {
-    "name": "Interlingua (International Auxiliary Language Association)"
+    "name": "Interlingua"
   },
   "id": {
-    "name": "Indonesian"
+    "name": "indonesian"
   },
   "ie": {
     "name": "Interlingue"
@@ -210,22 +210,22 @@
     "name": "Ido"
   },
   "is": {
-    "name": "Icelandic"
+    "name": "islandesi"
   },
   "it": {
-    "name": "Italian"
+    "name": "italian"
   },
   "iu": {
     "name": "Inuktitut"
   },
   "ja": {
-    "name": "Japanese"
+    "name": "japanesi"
   },
   "jv": {
-    "name": "Javanese"
+    "name": "javan"
   },
   "ka": {
-    "name": "Georgian"
+    "name": "georgian"
   },
   "kg": {
     "name": "Kongo"
@@ -249,7 +249,7 @@
     "name": "Kannada"
   },
   "ko": {
-    "name": "Korean"
+    "name": "korean"
   },
   "kr": {
     "name": "Kanuri"
@@ -294,7 +294,7 @@
     "name": "Luba-Katanga"
   },
   "lv": {
-    "name": "Latvian"
+    "name": "lettonian"
   },
   "mg": {
     "name": "Malagasy"
@@ -321,7 +321,7 @@
     "name": "Malay (macrolanguage)"
   },
   "mt": {
-    "name": "Maltese"
+    "name": "maltesi"
   },
   "my": {
     "name": "Burmese"
@@ -342,7 +342,7 @@
     "name": "Ndonga"
   },
   "nl": {
-    "name": "Dutch"
+    "name": "hollandesi"
   },
   "nn": {
     "name": "Norwegian Nynorsk"
@@ -381,13 +381,13 @@
     "name": "Pali"
   },
   "pl": {
-    "name": "Polish"
+    "name": "polonesi"
   },
   "ps": {
     "name": "Pushto"
   },
   "pt": {
-    "name": "Portuguese"
+    "name": "portugalesi"
   },
   "qu": {
     "name": "Quechua"
@@ -402,7 +402,7 @@
     "name": "Romanian"
   },
   "ru": {
-    "name": "Russian"
+    "name": "russ"
   },
   "rw": {
     "name": "Kinyarwanda"
@@ -429,10 +429,10 @@
     "name": "Sinhala"
   },
   "sk": {
-    "name": "Slovak"
+    "name": "slovac"
   },
   "sl": {
-    "name": "Slovenian"
+    "name": "slovenian"
   },
   "sm": {
     "name": "Samoan"
@@ -459,10 +459,10 @@
     "name": "Sundanese"
   },
   "sv": {
-    "name": "Swedish"
+    "name": "sved"
   },
   "sw": {
-    "name": "Swahili (macrolanguage)"
+    "name": "swahili"
   },
   "ta": {
     "name": "Tamil"
@@ -474,7 +474,7 @@
     "name": "Tajik"
   },
   "th": {
-    "name": "Thai"
+    "name": "thai"
   },
   "ti": {
     "name": "Tigrinya"
@@ -483,7 +483,7 @@
     "name": "Turkmen"
   },
   "tl": {
-    "name": "Tagalog"
+    "name": "filipinesi"
   },
   "tn": {
     "name": "Tswana"
@@ -492,7 +492,7 @@
     "name": "Tonga (Tonga Islands)"
   },
   "tr": {
-    "name": "Turkish"
+    "name": "turc"
   },
   "ts": {
     "name": "Tsonga"
@@ -546,13 +546,13 @@
     "name": "Zhuang"
   },
   "zh": {
-    "name": "Chinese"
+    "name": "chinesi"
   },
   "zh-Hans": {
-    "name": "Simplified Chinese"
+    "name": "chinesi simplificat"
   },
   "zh-Hant": {
-    "name": "Traditional Chinese"
+    "name": "chinesi traditional"
   },
   "zu": {
     "name": "Zulu"
