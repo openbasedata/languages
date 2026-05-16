@@ -1,5 +1,8 @@
 # Languages Open Base Data
 
+[![npm version](https://img.shields.io/npm/v/@openbasedata/languages.svg)](https://www.npmjs.com/package/@openbasedata/languages)
+[![npm downloads](https://img.shields.io/npm/dm/@openbasedata/languages.svg)](https://www.npmjs.com/package/@openbasedata/languages)
+
 ## How To Use
 
 ```bash
@@ -43,3 +46,13 @@ Each translation file has this structure:
   }
 }
 ```
+
+## Changelog
+
+Generate the changelog from git history with:
+
+```bash
+npm run changelog
+```
+
+The generated output is written to `/CHANGELOG.md`.
