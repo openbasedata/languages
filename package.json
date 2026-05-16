@@ -43,6 +43,6 @@
   },
   "devDependencies": {
     "@guoyunhe/oxfmt-config": "^1.1.0",
-    "oxfmt": "^0.48.0"
+    "oxfmt": "^0.50.0"
   }
 }
