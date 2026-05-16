@@ -6,11 +6,9 @@
 npm install @openbasedata/languages
 ```
 
-`data.json` contains language metadata in English and native representation.
+`data.json` contains language metadata in English and native representation, etc.
 
 Other localized translations are split into `/translations/<locale>.json` (one language per file) to keep the main dataset smaller.
-
-`population` is an estimated speaker count generated for data completeness. Values are approximate and may overlap for macro-languages or script variants; `0` means no reliable estimate.
 
 ## Data Structure
 
